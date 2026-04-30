@@ -1,0 +1,425 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:15:42",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:15:42",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:15:45",
+            "id": "fcdd9eaadbe35151643dfbd553b4ae5a",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0269a5308e0d46369836c42da67c0faf",
+                                "content": "Influenza A"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2c23040f3c2490d8469e748ff0dea54",
+                                "content": "Influenza B"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32bca807877546479b918e5bd44ffde5",
+                                "content": "Influenza C"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e61362df8f4d413e82687926d66c295f",
+                                "content": "Influenza D"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0269a5308e0d46369836c42da67c0faf",
+                                    "content": "Influenza A"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2c23040f3c2490d8469e748ff0dea54",
+                                    "content": "Influenza B"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32bca807877546479b918e5bd44ffde5",
+                                    "content": "Influenza C"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e61362df8f4d413e82687926d66c295f",
+                                    "content": "Influenza D"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the pathophysiology of influenza and the various strains of the disease. The nurse would correctly identify H3N2 as which type of influenza?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nInfluenza is divided into four different serotypes: A, B, C, and D. Influenza A is further delineated into different strains based on two viral surface proteins: hemagglutinin (H) and neuraminidase (N). An example of influenza A is H1N1, otherwise known as the swine flu. Therefore, option 1 is the correct answer, as influenza A viruses are further named based on the H and N proteins.",
+                        "id": "18f5922576bb4648b73a95fb20ab01a5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6a1ba19b4e544a1be389862c2bf42b5",
+                                "content": "“Influenza has a rapid symptom onset, while common cold symptoms appear gradually.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6042479e41124f4a8b7ddd2d52131e71",
+                                "content": "“It is very common to have a fever with the common cold, while a fever with influenza is rare.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed11b989ab33425aa444494e7268205f",
+                                "content": "“Severe muscle pains and aches are associated with the common cold and are rare with influenza.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ddcc03d8bbd04c6aab03a78ac01c7cf0",
+                                "content": "“There is an annual vaccination for viral rhinitis, which decreases the severity of the common cold.”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6a1ba19b4e544a1be389862c2bf42b5",
+                                    "content": "“Influenza has a rapid symptom onset, while common cold symptoms appear gradually.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6042479e41124f4a8b7ddd2d52131e71",
+                                    "content": "“It is very common to have a fever with the common cold, while a fever with influenza is rare.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed11b989ab33425aa444494e7268205f",
+                                    "content": "“Severe muscle pains and aches are associated with the common cold and are rare with influenza.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ddcc03d8bbd04c6aab03a78ac01c7cf0",
+                                    "content": "“There is an annual vaccination for viral rhinitis, which decreases the severity of the common cold.”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client in the primary health care provider’s (PHCP’s) office for an annual well visit asks the nurse about the differences between influenza and the common cold (viral rhinitis). The nurse would make which response to the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nInfluenza and the common cold, otherwise known as viral rhinitis, have various differences and similarities that assist in the diagnosis of each condition. Influenza is commonly associated with a high fever, whereas fevers with the common cold are rare. Therefore, option 2 is incorrect. Severe muscle pains, or myalgia, are common with the flu and rare with the common cold. Therefore, option 3 is incorrect. There is an annual vaccination available for influenza, not the common cold. Therefore, option 4 is incorrect. Influenza symptom onset is rapid, whereas symptom onset for the common cold is more gradual or insidious. Therefore, option 1 is the correct statement.",
+                        "id": "569a4e29be59472194442948195b56ea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb13ba21a276408b85ad98f85371e8f3",
+                                "content": "Sinusitis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c854f5ac1bb469db9b346f17ab3f394",
+                                "content": "Influenza"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "374c3b77c3e947e783395285952de430",
+                                "content": "Tonsillitis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11c38a38266449e2ac2d9b0c91ad930e",
+                                "content": "Viral rhinitis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb13ba21a276408b85ad98f85371e8f3",
+                                    "content": "Sinusitis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c854f5ac1bb469db9b346f17ab3f394",
+                                    "content": "Influenza"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "374c3b77c3e947e783395285952de430",
+                                    "content": "Tonsillitis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11c38a38266449e2ac2d9b0c91ad930e",
+                                    "content": "Viral rhinitis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client presenting with a temperature of 103° F (39.4° C), severe muscle aches, and headache who states that the symptoms “came out of nowhere.” The client states that other family members in the home are having similar symptoms. The client’s lung sounds are clear to auscultation, the sinuses are nontender to palpation, there is no nasal drainage, the tympanic membranes are pearly gray bilaterally, the tonsils are without redness or exudates, and the anterior and posterior cervical lymph nodes are negative for lymphadenopathy. Which condition would the nurse suspect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nInfluenza is a viral illness characterized by the sudden onset of high fever ranging from 103° F to 104° F (39.4° C to 40° C) with severe myalgia. Lung sounds are often clear to auscultation, and the client may or may not have a headache, sore throat, or nasal congestion. Option 1 is not as likely since the client’s sinuses are nontender to palpation and there is no nasal drainage present. Option 3 is unlikely due to the physical exam finding that the tonsils are free of redness and exudates. Option 4 is not as likely as high fevers are rare with viral rhinitis. Therefore, option 2 is correct.",
+                        "id": "8267d3dace304c7a9c3f89342bdc4ef5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00158e59b28242cabaedf1880be1cf63",
+                                "content": "“I’ll make sure I’m drinking plenty of fluids.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "37f5bdfca8dc440685d84dbcb08136e8",
+                                "content": "“I need to avoid close contact with my family members and wash my hands frequently.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "743063d8bd6249aeb98ffa75c9688151",
+                                "content": "“I can take either ibuprofen or acetaminophen to help with my aches and pains, as well as my fever.”"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53e46bc91d954fa9ba639019078eb6ba",
+                                "content": "“I don’t understand why the primary health care provider (PHCP) did not give me a prescription for an antiviral medication. I feel really sick and I need it!”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00158e59b28242cabaedf1880be1cf63",
+                                    "content": "“I’ll make sure I’m drinking plenty of fluids.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "37f5bdfca8dc440685d84dbcb08136e8",
+                                    "content": "“I need to avoid close contact with my family members and wash my hands frequently.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "743063d8bd6249aeb98ffa75c9688151",
+                                    "content": "“I can take either ibuprofen or acetaminophen to help with my aches and pains, as well as my fever.”"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53e46bc91d954fa9ba639019078eb6ba",
+                                    "content": "“I don’t understand why the primary health care provider (PHCP) did not give me a prescription for an antiviral medication. I feel really sick and I need it!”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing teaching to a client diagnosed with influenza A about measures to decrease symptom severity and manage the condition at home. According to the client, the symptoms started approximately 3 days ago, including fever and severe body aches. Which of the following client statements would indicate a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDepending on the client’s comorbidities and presenting signs and symptoms, influenza may be largely managed in the outpatient setting. Treatment measures are largely supportive; they include increased fluid intake, ibuprofen or acetaminophen to decrease myalgia and fever, and decreasing the risk of transmission to others, which means avoiding close contact with others and engaging in frequent handwashing. Therefore, options 1, 2, and 3 are correct statements that do not require a need for further teaching. Antiviral medications may be prescribed for clients with influenza; however, these medications are most effective if given within 24 to 48 hours of symptom onset, which is not the case for this client. Therefore, option 4 is the correct answer as it is the client statement that requires a need for further teaching.",
+                        "id": "9bcfe7de9bfd45f7ad801008f2185742",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a85da4881f14ec39221e1b53d3f2ec1",
+                                "content": "“Influenza A infects only humans.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be88ad84b99c4019bbec9962cba312f0",
+                                "content": "“Influenza is primarily spread through droplet contact.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee90e49914744a65acdd1b3405fa0006",
+                                "content": "“There are four types of influenza, known as influenza A, B, C, or D, but influenza C or D do not cause significant illness in humans.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef208befbdbb44f2ab96a9f7e95b5aa2",
+                                "content": "“Influenza A types are named based on two characteristic surface proteins, known as hemagglutinin and neuraminidase.”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a85da4881f14ec39221e1b53d3f2ec1",
+                                    "content": "“Influenza A infects only humans.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be88ad84b99c4019bbec9962cba312f0",
+                                    "content": "“Influenza is primarily spread through droplet contact.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee90e49914744a65acdd1b3405fa0006",
+                                    "content": "“There are four types of influenza, known as influenza A, B, C, or D, but influenza C or D do not cause significant illness in humans.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef208befbdbb44f2ab96a9f7e95b5aa2",
+                                    "content": "“Influenza A types are named based on two characteristic surface proteins, known as hemagglutinin and neuraminidase.”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing instructor is reviewing the pathophysiology of influenza. The nursing instructor determines there is a need for further teaching if the nursing student makes which statement regarding influenza?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nInfluenza is a highly contagious respiratory viral infection that is spread through infected droplets via inhalation of aerosolized particles or from direct contact with contaminated surfaces. Therefore, option 2 is a correct statement. Influenza is divided into four serotypes, or influenza A, B, C, or D, with each type having different characteristics. Of the four types, influenza C and D do not cause significant illness in humans; therefore, option 3 is an accurate statement. Influenza A is further classified by two characteristic surface proteins, known as the hemagglutinin protein and neuraminidase protein and are named based on their H and N type (for example, H1N1). Therefore, option 4 is a correct statement. Influenza A can infect both animals and humans and is the cause of both the swine and avian flu. Therefore, option 1 is an inaccurate statement and requires further teaching from the nursing instructor.",
+                        "id": "ee479a4dcee94727b28e3d2834aebed8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "e3008e597d8c85865d1c96d26b7f2ccc",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 5,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 5,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:15:46",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Influenza",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 5
+    },
+    "message": ""
+}

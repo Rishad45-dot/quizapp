@@ -1,0 +1,681 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 13:05:12",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 13:05:12",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 13:05:14",
+            "id": "1e7c4ca6f642f2d6f3c47b6e42a5dbfb",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28ef1b72ffbfbcd689b397d869d61eeb",
+                                "content": "&quot;We will encourage extra fluid intake while our child is sick.&quot; "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5713696b90872365c4d35d22713591a",
+                                "content": "-&quot;We will increase the frequency of blood glucose checks.&quot; "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0e4a68970b717ed2107dfdc5b634009c",
+                                "content": "&quot;We will monitor our child's urine for ketones with each void.&quot; "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "681da45013617bb13b68e3788c14171d",
+                                "content": "&quot;We will not administer insulin if our child is unable to eat.&quot; "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28ef1b72ffbfbcd689b397d869d61eeb",
+                                    "content": "&quot;We will encourage extra fluid intake while our child is sick.&quot; "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5713696b90872365c4d35d22713591a",
+                                    "content": "-&quot;We will increase the frequency of blood glucose checks.&quot; "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0e4a68970b717ed2107dfdc5b634009c",
+                                    "content": "&quot;We will monitor our child's urine for ketones with each void.&quot; "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "681da45013617bb13b68e3788c14171d",
+                                    "content": "&quot;We will not administer insulin if our child is unable to eat.&quot; "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is reinforcing education to the caregivers of a 9-year-old client diagnosed with scarlet fever.&nbsp; The client has a history of type 1 diabetes mellitus.&nbsp; Which statement by the caregivers indicates that further teaching is needed?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>＂An acute illness （eg, scarlet fever） in clients with type 1 diabetes may trigger the release of stress hormones, which leads to higher blood glucose and ketone levels （sometimes leading to ketoacidosis）.&nbsp; Clients with type 1 diabetes do not produce any insulin （unlike those with type 2 diabetes）, so clients should not skip administration of external insulin even if not eating.&nbsp; Insulin therapy should be continued as prescribed during an acute illness （Option 4）.&nbsp; Additional sick-day management includes:</p><p><br></p><p>Increasing frequency of blood glucose level checks （every 1-4 hours）</p><p>Increasing or decreasing the dose of insulin as needed based on blood glucose levels</p><p>Maintaining adequate hydration</p><p>Testing for urinary ketones frequently</p><p>（Options 1 and 3）&nbsp; Stress hormones released during illness cause increased insulin resistance and lead the body to break down fat for energy.&nbsp; Ketones are produced when fat is broken down, which can lead to diabetic ketoacidosis （DKA）.&nbsp; The client＇s urine should be monitored frequently for ketones while the client is sick.&nbsp; Fluids are encouraged to clear ketones from the system and prevent dehydration.</p><p><br></p><p>（Option 2）&nbsp; Blood glucose should be assessed frequently while the client is ill due to the potentially unpredictable and rapidly changing levels caused by illness and/or fasting.＂</p>",
+                        "id": "00e97f9f0c22480f9c64d3717c6ea03e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "142147b557e4d71a1eb0e058830e5bc8",
+                                "content": "&quot;Our child will not be able to participate in any sporting events.&quot; "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dac15df827010b495fba28866a7444a",
+                                "content": "&quot;Our whole family will have to make sacrifices to deal with this disease.&quot; "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11709eec1fbc794064e504719f744c4c",
+                                "content": "We are working to manage this disease so that it cannot control our child's life."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "135dd2ccb677b8013c95d979b85ec2d8",
+                                "content": "&quot;We have set aside a place in the pantry for our child's special foods.&quot; "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "142147b557e4d71a1eb0e058830e5bc8",
+                                    "content": "&quot;Our child will not be able to participate in any sporting events.&quot; "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dac15df827010b495fba28866a7444a",
+                                    "content": "&quot;Our whole family will have to make sacrifices to deal with this disease.&quot; "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11709eec1fbc794064e504719f744c4c",
+                                    "content": "We are working to manage this disease so that it cannot control our child's life."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "135dd2ccb677b8013c95d979b85ec2d8",
+                                    "content": "&quot;We have set aside a place in the pantry for our child's special foods.&quot; "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse has been providing care for the past month to a 7-year-old client recently diagnosed with type 1 diabetes mellitus.&nbsp; Initially, the family seemed devastated about the diagnosis and the client's parent stated, \"Our lives will never be the same.\"&nbsp; Which statement made by the parent indicates that nursing interventions and education have been effective?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>＂Parents experience a variety of emotions when a child is diagnosed with a chronic illness （eg, diabetes mellitus）.&nbsp; Reactions include shock, denial, helplessness, anger, fear, anxiety, and often guilt about perceived contribution or failure to prevent the development of the disease.&nbsp; Parents＇ emotional response, adaptation, and coping strategies impact the child＇s perception of self and ability to manage the disease.</p><p><br></p><p>In providing diabetes education, the nurse should emphasize that with planning and preparation, diabetes can be managed and controlled and the child can resume regular day-to-day activities and have an independent life （Option 3）.</p><p><br></p><p>（Option 1）&nbsp; Clients with diabetes can participate in a wide variety of sports and should continue pursuing age-appropriate physical activities.</p><p><br></p><p>（Option 2）&nbsp; The diagnosis and management of diabetes in a child can affect the whole family； however, the word ＂＂sacrifice＂＂ suggests that the parent is feeling victimized by the disease.</p><p><br></p><p>（Option 4）&nbsp; Nutritional management of diabetes does not require special foods.&nbsp; Nutrition education should emphasize healthy food choices, consistent amounts of carbohydrates, and a balance of food choices, with insulin and exercise for blood glucose control.＂</p>",
+                        "id": "69793a712d814b8d8a10301e52164ca7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b74b42f1e1dddfcb937260eee35b97c4",
+                                "content": " Demonstrating adequate coping skills"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "110ace0e433395ae132333868f65d8fd",
+                                "content": " Knowing how to keep blood sugars stable"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8bc5433c55aae784e770c252361efeb5",
+                                "content": "Understanding how to perform meal planning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f54770816d4345fb1303a7d84f144fe",
+                                "content": "Understanding the need for periodic follow-up visits"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b74b42f1e1dddfcb937260eee35b97c4",
+                                    "content": " Demonstrating adequate coping skills"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "110ace0e433395ae132333868f65d8fd",
+                                    "content": " Knowing how to keep blood sugars stable"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8bc5433c55aae784e770c252361efeb5",
+                                    "content": "Understanding how to perform meal planning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f54770816d4345fb1303a7d84f144fe",
+                                    "content": "Understanding the need for periodic follow-up visits"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is planning a client care conference with the parents of a 3-year-old with newly diagnosed type 1 diabetes mellitus.  What is the priority outcome for the caregivers?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Management of type 1 diabetes mellitus requires understanding of blood sugar regulation.  If the child becomes hypoglycemic or hyperglycemic, complications could develop.  The priority for caregivers should be to focus on the child's safety.  Managing the child's blood sugars should be the initial goal.</p><p><br></p><p>(Option 1)  Dealing with a new diagnosis will require time.  Although acquiring coping skills is important, this is more of a long-term goal.</p><p><br></p><p>(Option 3)  Consistent menus, appropriate eating times, and adequate intake based on age are all important parts of meal planning.  However, checking the child's blood sugars and keeping these stable with the correct insulin dose is the priority.</p><p><br></p><p>(Option 4)  Frequent follow-up visits are important to prevent long-term complications of diabetes.  However, preventing hypoglycemia and hyperglycemia at home is the priority.</p><p><br></p><p>Educational objective:</p><p>Initial teaching of the parents of a child with newly diagnosed type 1 diabetes should focus on basic safety and survival skills, including proper insulin administration and adequate monitoring of blood sugars.  Information should be introduced slowly, repeated often, and given based on the child's developmental age.</p>",
+                        "id": "8b5a7b3f3fa14bdd82972c86853f942a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "434e5ba4948ee3ef4e6a56a4475ce930",
+                                "content": " Administer scheduled dose of NPH insulin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea21b14b51233f5436b1116800c4299f",
+                                "content": "Give emergency glucagon IM injection"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da16a8f5561e4764530b269904aa68bf",
+                                "content": "Give peanut butter and crackers"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2462135bd8a96c0c361dc5bad16d840",
+                                "content": "Provide 4 oz of regular soft drink"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "434e5ba4948ee3ef4e6a56a4475ce930",
+                                    "content": " Administer scheduled dose of NPH insulin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea21b14b51233f5436b1116800c4299f",
+                                    "content": "Give emergency glucagon IM injection"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da16a8f5561e4764530b269904aa68bf",
+                                    "content": "Give peanut butter and crackers"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2462135bd8a96c0c361dc5bad16d840",
+                                    "content": "Provide 4 oz of regular soft drink"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The school nurse evaluates a 9-year-old client who is sweating, trembling, and slurring while speaking.  The client has type 1 diabetes managed with insulin glargine and NPH.  What is the most appropriate action by the nurse?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1729586629158.png\"></p><p><br></p><p>Symptoms of hypoglycemia</p><p>Sweating &amp; pallor</p><p>Irritability</p><p>Tremors &amp; weakness</p><p>Tachycardia</p><p>Drowsiness</p><p>Hunger</p><p>Clients experiencing hypoglycemia may develop shakiness, palpitations, sweating, and altered mental status (eg, difficulty speaking, confusion).  If manifestations of hypoglycemia are present, the nurse should check the client's blood glucose level (BGL) immediately.  A BGL &lt;70 mg/dL (3.9 mmol/L) requires treatment; however, if glucose testing is not readily available, the client should be treated based on symptoms.</p><p><br></p><p>Hypoglycemia treatment in a conscious client is administration of 15 g of a quick-acting carbohydrate (Option 4).  After treatment, the nurse should retest BGL every 15 minutes, repeating treatment if BGLs remain low.  Quick-acting carbohydrate options include:</p><p><br></p><p>4 oz (120 mL) of regular soft drink or fruit juice</p><p>8 oz (240 mL) low-fat milk</p><p>1 tablespoon (15 mL) of honey or syrup</p><p>6 hard candies</p><p>Commercial dextrose products</p><p>(Option 1)  The nurse should hold the client's scheduled insulin until the client's BGL is normal and the symptoms resolve.</p><p><br></p><p>(Option 2)  An emergency glucagon injection is indicated if the client is somnolent, unconscious, or seizing.</p><p><br></p><p>(Option 3)  After the client's BGL improves, the client should eat a meal.  However, if the next meal is more than an hour away, the nurse should give the client a serving of carbohydrate plus protein or fat (eg, peanut butter, cheese) to maintain glucose levels.</p><p><br></p><p>Educational objective:</p><p>Clients with diabetes should be monitored for signs of hypoglycemia (eg, shakiness, sweating, alterations in mental status).  Conscious clients experiencing hypoglycemia should receive a snack of 15 g quick-acting carbohydrates.</p>",
+                        "id": "8df6d951f926487ca92ee54c686819be",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7915cd9e74b233e6124e541d474506fc",
+                                "content": " &quot;Our child will not be able to participate in sporting events.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6f41e5a4ab4cabee354639bf43a854f",
+                                "content": " &quot;Our whole family will have to make sacrifices to deal with this disease.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "311076c3e057cea1663133eb6c69290f",
+                                "content": "&quot;We have set aside a place in the pantry for our child's special foods.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7092e6ea449fc216c986b97c3d58cbaa",
+                                "content": "&quot;We will not let this disease take control of our child's life.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7915cd9e74b233e6124e541d474506fc",
+                                    "content": " &quot;Our child will not be able to participate in sporting events.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6f41e5a4ab4cabee354639bf43a854f",
+                                    "content": " &quot;Our whole family will have to make sacrifices to deal with this disease.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "311076c3e057cea1663133eb6c69290f",
+                                    "content": "&quot;We have set aside a place in the pantry for our child's special foods.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7092e6ea449fc216c986b97c3d58cbaa",
+                                    "content": "&quot;We will not let this disease take control of our child's life.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "For the past month, the nurse has been providing care to a 7-year-old client recently diagnosed with type 1 diabetes mellitus.  Initially, the family seemed devastated over the diagnosis.  The client's parent stated, \"Our lives will never be the same.\"  What statement now made by the parent best indicates that nursing interventions have been effective?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nIt is normal for parents to feel devastated when their child is diagnosed with a chronic illness (eg, diabetes).  Reactions include shock, denial, helplessness, anger, fear, and anxiety.  They may have feelings of guilt that they contributed to or failed to prevent the development of the disease.  The parents' emotional response, adaptation, and coping strategies will greatly impact the child's perception of self and the ability to self-manage the disease.\n\nIn providing diabetes education, the nurse needs to emphasize and reinforce that with planning and preparation, diabetes can be managed and controlled, regular day-to-day activities can be resumed, and the child can have a normal life.\n\nWhen clients feel in control rather than victimized and dependent, it increases the likelihood that they will be actively engaged in diabetes self-management activities.\n\n(Option 1)  This is not a true statement.  Clients with diabetes can participate in a wide variety of sports.\n\n(Option 2)  The diagnosis and management of diabetes in a child will affect the whole family.  The use of the word \"sacrifice\" suggests that the parent is feeling victimized by the disease.\n\n(Option 3)  Nutritional management of diabetes does not require special foods.  Nutrition education should emphasize healthy food choices and balancing food choices with medications and exercise for blood sugar control.\n\nEducational objective:\nThe diagnosis of a chronic illness (eg, diabetes) in a child will have an impact on the entire family.  When the parents see themselves and their child as capable of being independent and in control of the condition, there is an increased likelihood that the disease will be better managed and controlled.",
+                        "id": "ee5fa5acce0f4556892718a66a2ce18c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b852af5b26f3497906f725e639aeb7a",
+                                "content": "5-year-old whose capillary blood glucose is 71 mg/dL (3.9 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15562352282827eb3c66083df4b62f9f",
+                                "content": "7-year-old who is busy drawing pictures and refusing to eat lunch"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b341326cf717960276b639d65dc269fc",
+                                "content": "9-year-old who is sweating after recess and irritably states, \"I'm so hungry!\" "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8b11a23350a6cf2bffc359e7fc2b7df",
+                                "content": "11-year-old whose prescribed dose of insulin glargine is 30 minutes overdue"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b852af5b26f3497906f725e639aeb7a",
+                                    "content": "5-year-old whose capillary blood glucose is 71 mg/dL (3.9 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15562352282827eb3c66083df4b62f9f",
+                                    "content": "7-year-old who is busy drawing pictures and refusing to eat lunch"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b341326cf717960276b639d65dc269fc",
+                                    "content": "9-year-old who is sweating after recess and irritably states, \"I'm so hungry!\" "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8b11a23350a6cf2bffc359e7fc2b7df",
+                                    "content": "11-year-old whose prescribed dose of insulin glargine is 30 minutes overdue"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The school nurse is caring for 4 clients with type 1 diabetes mellitus.&nbsp; Which of these clients should the nurse assess first?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>Explanation:</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1729587212087.png\"></p><p> Hypoglycemia (blood glucose &lt;70 mg/dL [3.9&nbsp;mmol/L]) presents an immediate danger to the client as life-threatening neurologic impairment (eg, lethargy, seizures, coma) can occur when the brain becomes glucose depleted.&nbsp; If a client with diabetes has symptoms of hypoglycemia (eg, sweating, irritability, tremor, tachycardia, hunger), the nurse should immediately assess the client, check capillary blood glucose, and provide a simple carbohydrate snack that can be digested rapidly (eg, juice, soft drink, candy) (Option 3).</p><p>(Option 1)&nbsp; A client with blood glucose of 71 mg/dL (3.9 mmol/L) should be monitored for hypoglycemia; blood glucose should be reassessed within 30 minutes.&nbsp; However, a client displaying symptoms of hypoglycemia should be assessed first.</p><p>(Option 2)&nbsp; Skipping a meal could cause a client with diabetes to become hypoglycemic.&nbsp; The nurse should assess the client and redirect the client to eat; however, this client is not the highest priority.</p><p>(Option 4)&nbsp; Insulin glargine (Lantus) is a long-acting (basal) insulin with a duration of 24 hours.&nbsp; It has no peak and is not used to correct acute hyperglycemic events.&nbsp; This medication should be given as close to the scheduled time as possible, but this client does not take priority over a client with symptomatic hypoglycemia.</p><p>Educational objective:</p><p>A client with symptoms of hypoglycemia (eg, sweating, irritability, tremor, tachycardia, hunger) should be assessed immediately.&nbsp; Without treatment, hypoglycemia may progress to life-threatening neurologic impairment (eg, lethargy, seizures, coma) as the brain becomes glucose depleted.</p><p>Management of Care</p><p>NCSBN Client Need</p>",
+                        "id": "fac6da45e85c4c688cd43508b2a5e307",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "467544fc9119d1781fa1fed492f0fb22",
+                                "content": "Choose insulin injection site with parental oversight of rotation schedule."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3ee08b235712a91cdca97a27cd3fc29",
+                                "content": " Push plunger of insulin syringe after a parent inserts and stabilizes the needle."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d020d9eaab2c4efd1c100211df83cdb",
+                                "content": " Select and clean the site for finger. stick blood glucose testing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "362b328deb86d3ea667433421938f87c",
+                                "content": "Use a chart to determine insulin dose based on glucometer reading.  "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "941a688aa4918b72b08773bff0e88c3d",
+                                "content": "Verbalize two or three signs and symptoms of hypoglycemia."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "467544fc9119d1781fa1fed492f0fb22",
+                                    "content": "Choose insulin injection site with parental oversight of rotation schedule."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3ee08b235712a91cdca97a27cd3fc29",
+                                    "content": " Push plunger of insulin syringe after a parent inserts and stabilizes the needle."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d020d9eaab2c4efd1c100211df83cdb",
+                                    "content": " Select and clean the site for finger. stick blood glucose testing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "362b328deb86d3ea667433421938f87c",
+                                    "content": "Use a chart to determine insulin dose based on glucometer reading.  "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "941a688aa4918b72b08773bff0e88c3d",
+                                    "content": "Verbalize two or three signs and symptoms of hypoglycemia."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "<p>A 6-year-old client was diagnosed with type 1 diabetes mellitus 2 years ago.&nbsp; The nurse would like to encourage the client to participate in disease management.&nbsp; Which of the following diabetes care tasks are appropriate for the child to perform?&nbsp; Select all that apply.</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>＂The nurse should offer school-aged children （age 6-12） as much opportunity as possible to participate in care to promote psychosocial development （industry versus inferiority） and provide a sense of control.&nbsp; Parents should transfer management of care to the child in small steps based on the child＇s skill level and cognitive ability.&nbsp; School-aged children are in the concrete operational stage of development and are most successful performing simple, concrete tasks with a limited number of steps.</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1729587301309.png\"></p><p>Appropriate diabetes management tasks for school-aged children include:</p><p><br></p><p>Choosing and cleaning a finger for blood glucose testing before a parent or caregiver performs the puncture （Option 3）</p><p>Selecting the site for insulin injection, with a parent or caregiver verifying appropriate site rotation （Option 1）</p><p>Pushing the syringe plunger to administer insulin after a parent or caregiver inserts the needle （Option 2）</p><p>Identifying signs and symptoms of hypoglycemia and hyperglycemia （Option 5）</p><p>（Option 4）&nbsp; Adjusting insulin doses based on glucose readings is too complicated for school-aged children, and mistakes can be life-threatening.&nbsp; Children develop the cognitive ability to analyze test results and adjust insulin doses at approximately age 14.＂</p>",
+                        "id": "6545c9be052d4425af9d42def8905f0e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e62788b8778d1c64cd784952fe7a8f03",
+                                "content": "Difficult to awaken"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10935fbdd79f3dbe82f618a88f41f85f",
+                                "content": "Dry skin ."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b82c6006611fc14c837acb566df17c1",
+                                "content": "Frequent, loose stools"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db4075fb694344795eafdda6da64acc1",
+                                "content": "Hoarse cry"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21c35531d8e57931d713fac8774b341f",
+                                "content": "Tachycardia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e62788b8778d1c64cd784952fe7a8f03",
+                                    "content": "Difficult to awaken"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10935fbdd79f3dbe82f618a88f41f85f",
+                                    "content": "Dry skin ."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b82c6006611fc14c837acb566df17c1",
+                                    "content": "Frequent, loose stools"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db4075fb694344795eafdda6da64acc1",
+                                    "content": "Hoarse cry"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21c35531d8e57931d713fac8774b341f",
+                                    "content": "Tachycardia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "<p>A nurse is caring for a 1-month-old client who is being evaluated for congenital hypothyroidism.&nbsp; The nurse should recognize which of the following as clinical manifestations of hypothyroidism in infants?&nbsp;&nbsp;Select all that apply.</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1729587588612.png\">＂Congenital hypothyroidism occurs when abnormal development of the thyroid gland causes complete or decreased secretion of thyroid hormone （TH）.&nbsp; Untreated hypothyroidism can cause severe intellectual disability in infants if undetected.&nbsp; Screening occurs after birth for all infants in the United States and Canada to prevent disability and encourage early treatment （ie, levothyroxine）.</p><p><br></p><p>TH plays an important role in growth, development, and regulation of many bodily functions （eg, heat production, muscle tone, skin function, cardiac function, metabolism）.&nbsp; Clinical manifestations in affected infants reflect the pathophysiology of decreased TH and may include:</p><p><br></p><p>Difficulty awakening, lethargy, or hyporeflexia due to alterations in central nervous system function （Option 1）</p><p>Dry skin due to alterations in skin function （Option 2）</p><p>Hoarse cry caused by swelling of the vocal cords due to fluid retention （Option 4）</p><p>Constipation due to slowed metabolism</p><p>Bradycardia due to the effect of TH on cardiac function</p><p>（Options 3 and 5）&nbsp; Hyperthyroidism （Graves disease） is an autoimmune condition related to increased production of TH.&nbsp; Neonatal Graves disease is uncommon and usually occurs secondary to maternal hyperthyroidism.&nbsp; Tachycardia and increased bowel motility （frequent or loose stools） are features of hyperthyroidism and are related to an increase in metabolic processes.＂</p>",
+                        "id": "d6c2a28c535e4bf28ac76eccc565d628",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "446840e8de0941d8b254b3268d719a5d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "8b26c3d0b6cc4c7d8dc885bbc601efe8",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 8,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 8,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 13:05:15",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Endocrine",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Uworld",
+        "questionNumber": 8
+    },
+    "message": ""
+}

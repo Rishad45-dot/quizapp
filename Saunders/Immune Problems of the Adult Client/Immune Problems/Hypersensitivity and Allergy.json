@@ -1,0 +1,861 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 21:18:02",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 21:18:02",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 21:18:07",
+            "id": "44b504eb8728ebf6770d1e7329ea8e60",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bcc68d4b8624112a7106b714bc7ab10",
+                                "content": "Iodine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50e98e392d7949c9b24f074ac997754b",
+                                "content": "Shellfish"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4984308b1f149c283a20c8c02b79e43",
+                                "content": "Penicillin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22e81294deef4c22b169dd0bd20a883f",
+                                "content": "Sulfa medications"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bcc68d4b8624112a7106b714bc7ab10",
+                                    "content": "Iodine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50e98e392d7949c9b24f074ac997754b",
+                                    "content": "Shellfish"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4984308b1f149c283a20c8c02b79e43",
+                                    "content": "Penicillin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22e81294deef4c22b169dd0bd20a883f",
+                                    "content": "Sulfa medications"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has a prescription to give a first dose of hydrochlorothiazide to an assigned client. The nurse would question the prescription if the client has a history of allergy to which item?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nThiazide diuretics, such as hydrochlorothiazide, are sulfa-based medications, and a client with a sulfa allergy is at risk for an allergic reaction. A sulfa allergy must be communicated to the pharmacist, primary health care providers (PHCPs), and nurse. The other options are not contraindications for administering the medication.\n\nTest-Taking Strategy:\nFocus on the subject, a contraindication for administering hydrochlorothiazide. Remember that options that are comparable or alike are not likely to be correct. With this in mind, eliminate iodine and shellfish. To select from the remaining options, recall that the chemical composition of thiazide diuretics contains a sulfa ring. This will easily direct you to the correct option.\n \n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Immune: Hypersensitivity Reactions and Allergy\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options, Subject",
+                        "id": "12a2cb8e0317476f9992c5951c4b41cf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65ba3b97d37e46058c95ee4956d463a5",
+                                "content": "Place the client on 100% oxygen and prepare for intubation."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15cbefbf2a45407d86e09fc4cdcf9d58",
+                                "content": "Assess for anaphylaxis and prepare for emergency treatment."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0a83a3d8f274b3d980f9de6fd7ec2ed",
+                                "content": "Teach the client about the relationship between asthma and allergies."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf8a82d7bf6e45638dde4516dc9c40e8",
+                                "content": "Obtain an arterial blood gas and immunoglobulin E (IgE) blood level."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65ba3b97d37e46058c95ee4956d463a5",
+                                    "content": "Place the client on 100% oxygen and prepare for intubation."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15cbefbf2a45407d86e09fc4cdcf9d58",
+                                    "content": "Assess for anaphylaxis and prepare for emergency treatment."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0a83a3d8f274b3d980f9de6fd7ec2ed",
+                                    "content": "Teach the client about the relationship between asthma and allergies."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf8a82d7bf6e45638dde4516dc9c40e8",
+                                    "content": "Obtain an arterial blood gas and immunoglobulin E (IgE) blood level."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a history of asthma comes to the emergency department complaining of itchy skin and shortness of breath after starting a new antibiotic. What is the first action the nurse would take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypersensitivity or allergy is excessive inflammation occurring in response to the presence of an antigen to which the person usually has been previously exposed. If a client is experiencing an allergic or hypersensitivity response, the nurse's initial action is to assess for anaphylaxis. Promptly notifying the health care provider and preparing emergency equipment, including medication such as epinephrine and possible corticosteroids, is essential in preventing progression of anaphylaxis. Laboratory work is not a priority in this situation. The nurse would expect the IgE level to be elevated; the client may be hypoxic. The nurse would give the client supplemental oxygen; however, 100% is not given unless prescribed, and based on the information in the question, intubation is not the first thing the nurse would prepare this client for. Teaching the client is important; however, this is not the right time. When the client is stabilized, the nurse needs to teach or reinforce that allergies, including some medications, are common triggers for asthma attacks and that people with asthma are predisposed to more allergies than people without asthma.",
+                        "id": "52e82d95acbc4d69a747bc721b784f1f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "698ca9666b5347e5acc6e90991e627b1",
+                                "content": "Hairdressers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "854c1bd99deb4c8c8d8f0d97f2acbda3",
+                                "content": "The homeless"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1b7fc6493b4a4d56b81000ac7a781ca9",
+                                "content": "Children in day care centers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1eb32e003744448a88e41457c426f4a9",
+                                "content": "Individuals living in a group home"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "698ca9666b5347e5acc6e90991e627b1",
+                                    "content": "Hairdressers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "854c1bd99deb4c8c8d8f0d97f2acbda3",
+                                    "content": "The homeless"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1b7fc6493b4a4d56b81000ac7a781ca9",
+                                    "content": "Children in day care centers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1eb32e003744448a88e41457c426f4a9",
+                                    "content": "Individuals living in a group home"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The community health nurse is conducting a research study and is identifying clients in the community at risk for latex allergy. Which client population is most at risk for developing this type of allergy?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIndividuals most at risk for developing a latex allergy include health care workers; individuals who work in the rubber industry; or those who have had multiple surgeries, have spina bifida, wear gloves frequently (such as food handlers, hairdressers, and auto mechanics), or are allergic to kiwis, bananas, pineapples, tropical fruits, grapes, avocados, potatoes, hazelnuts, or water chestnuts.",
+                        "id": "67109104ebb340c8a72bb9c3bd8b4522",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c17f10b03767408b8e30e22c609f3af6",
+                                "content": "Sunlight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c507fd9e6d3467284801af13aa32477",
+                                "content": "Going to parties"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7c2327e677634f92a9f501b552140bd3",
+                                "content": "The use of some types of condoms"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f88b3da2d421420ebe408f276b409e82",
+                                "content": "Outdoor activities as much as possible"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c17f10b03767408b8e30e22c609f3af6",
+                                    "content": "Sunlight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c507fd9e6d3467284801af13aa32477",
+                                    "content": "Going to parties"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7c2327e677634f92a9f501b552140bd3",
+                                    "content": "The use of some types of condoms"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f88b3da2d421420ebe408f276b409e82",
+                                    "content": "Outdoor activities as much as possible"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse is providing home care instructions to a client who has been diagnosed with a latex allergy. The nurse most appropriately instructs the client to avoid which activity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLatex allergy is a type I hypersensitivity reaction in which a specific allergen is a processed natural latex rubber protein. Mucosal exposure to latex can occur on contact with latex condoms. The nurse most appropriately would provide instructions to the client about the need to avoid the use of condoms unless they are latex-free. No reason exists for the client to avoid outdoor activities or sunlight or to avoid parties; however, the client needs to be informed that certain forms of balloons are made of latex.",
+                        "id": "a5c932e8b1ea47c2881ebcf90f700d2a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f27d5b7a72874f418340c1237a291dbf",
+                                "content": "Advise the client to soak the site in hydrogen peroxide."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "696589b952894d728cef814deb54128d",
+                                "content": "Ask the client if they ever sustained a bee sting in the past."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "441de6d894d348ec9086f879fd47cb94",
+                                "content": "Tell the client to call an ambulance for transport to the emergency department."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c05b63956cdf4a2c868129fcc4235c83",
+                                "content": "Tell the client not to worry about the sting unless difficulty with breathing occurs."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f27d5b7a72874f418340c1237a291dbf",
+                                    "content": "Advise the client to soak the site in hydrogen peroxide."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "696589b952894d728cef814deb54128d",
+                                    "content": "Ask the client if they ever sustained a bee sting in the past."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "441de6d894d348ec9086f879fd47cb94",
+                                    "content": "Tell the client to call an ambulance for transport to the emergency department."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c05b63956cdf4a2c868129fcc4235c83",
+                                    "content": "Tell the client not to worry about the sting unless difficulty with breathing occurs."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client calls the nurse in the emergency department and reports being just stung by a bumblebee while gardening. The client is afraid of a severe reaction because the client's neighbor experienced such a reaction just 1 week ago. Which action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn some types of allergies, a reaction occurs only on second and subsequent contacts with the allergen. The appropriate action, therefore, would be to ask the client if they ever experienced a bee sting in the past. Option 1 is inappropriate advice. Option 3 is unnecessary. The client would not be told \"not to worry.\"",
+                        "id": "bbc346261fff40208a59ad3b09953de4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "33b901bdb09e486eaf8bce0a627564d4",
+                                "content": "Elastic bandages"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db2f0b0ef8014227b833396d6edec8dc",
+                                "content": "Adhesive bandages"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f2fa82b29e3d4dbc9608973a82e7c4b0",
+                                "content": "Brown ACE bandages"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bad78e31f9b343dfb1f766b4bc435e59",
+                                "content": "Cotton pads and silk tape"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "33b901bdb09e486eaf8bce0a627564d4",
+                                    "content": "Elastic bandages"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db2f0b0ef8014227b833396d6edec8dc",
+                                    "content": "Adhesive bandages"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f2fa82b29e3d4dbc9608973a82e7c4b0",
+                                    "content": "Brown ACE bandages"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bad78e31f9b343dfb1f766b4bc435e59",
+                                    "content": "Cotton pads and silk tape"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A home care nurse is prescribing dressing supplies for a client who has an allergy to latex. Which item would the nurse ask the medical supply personnel to deliver?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLatex allergy is a type I hypersensitivity reaction in which a specific allergen is a processed natural latex rubber protein. Cotton pads and plastic or silk tape are latex-free products. The items identified in the other options contain latex.",
+                        "id": "e90c72f906d147778f6d6eef3e7f1405",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "942a8df11fa44e368a99bb632fadb3a4",
+                                "content": "Cover the crutch pads with cloth."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f43e908089c14c8b9a247d28a572662f",
+                                "content": "Contact the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "313d894cc200478dbb7bc83e4ce05e6a",
+                                "content": "Call the local medical supply store and ask that a cane be delivered."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eea7e7d5c3824b1f93034a16c5044a68",
+                                "content": "Tell the client that the crutches must be removed from the house immediately."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "942a8df11fa44e368a99bb632fadb3a4",
+                                    "content": "Cover the crutch pads with cloth."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f43e908089c14c8b9a247d28a572662f",
+                                    "content": "Contact the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "313d894cc200478dbb7bc83e4ce05e6a",
+                                    "content": "Call the local medical supply store and ask that a cane be delivered."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eea7e7d5c3824b1f93034a16c5044a68",
+                                    "content": "Tell the client that the crutches must be removed from the house immediately."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A home care nurse is assigned to visit a client who has returned home from the emergency department following treatment for a sprained ankle. The nurse notes that the client was sent home with crutches that have rubber axillary pads and that the client needs instruction regarding crutch walking. On admission assessment, the nurse discovers that the client has an allergy to latex. Before providing instructions regarding crutch walking, what action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLatex allergy is a type I hypersensitivity reaction in which a specific allergen is a processed natural latex rubber protein. The rubber pads used on crutches may contain latex. If the client requires crutches, the nurse can cover the pads with a cloth to prevent cutaneous contact. No reason exists to contact the PHCP at this time. The nurse cannot prescribe a cane for a client. In addition, this type of assistive device may be inappropriate, considering this client's injury. Telling the client that the crutches must be removed from the house is inappropriate and may alarm the client.",
+                        "id": "f07f77d21f9841a8bb4e44e3f2645018",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "267e492c69104b129e76238c58455141",
+                                "content": "Record site, date, and time of the test."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2a42ca34bb7e4218a5f9061e95ea782d",
+                                "content": "Give the client a list of potential allergens if identified."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05114ec5ba3244a2848ce6490847b088",
+                                "content": "Estimate the size of the wheal and document the finding."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d6f2f3b8feff42e6ab4680056f508618",
+                                "content": "Tell the client to return to have the site inspected only if there is a reaction."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f9009b23bf24474a9abcd60b95c032a",
+                                "content": "Have the client wait in the waiting room for at least 1 to 2 hours after injection."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "267e492c69104b129e76238c58455141",
+                                    "content": "Record site, date, and time of the test."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2a42ca34bb7e4218a5f9061e95ea782d",
+                                    "content": "Give the client a list of potential allergens if identified."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05114ec5ba3244a2848ce6490847b088",
+                                    "content": "Estimate the size of the wheal and document the finding."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d6f2f3b8feff42e6ab4680056f508618",
+                                    "content": "Tell the client to return to have the site inspected only if there is a reaction."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f9009b23bf24474a9abcd60b95c032a",
+                                    "content": "Have the client wait in the waiting room for at least 1 to 2 hours after injection."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is conducting allergy skin testing on a client. Which postprocedure interventions are most appropriate? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSkin testing involves administration of an allergen to the surface of the skin or into the dermis. Site, date, and time of the test must be recorded, and the client must return at a specific date and time for a follow-up site evaluation, even if no reaction is suspected. A list of potential allergens is identified and reviewed and given to the client. For the follow-up evaluation, the size of the site has to be measured and not estimated. After injection, clients need to be monitored for only about 30 minutes to assess for any adverse effects.",
+                        "id": "2064be811a4e43159124da1b8f2f444b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5808fcfbf49d40e88272070cb7e4dedd",
+                                "content": "Assess vital signs."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b723fc4c22184f87811d905e9e38d05c",
+                                "content": "Administer oxygen."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49cc647235bf488681e8a90f332f13aa",
+                                "content": "Ensure a patent airway."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75a7f680dced43beac61b81679842664",
+                                "content": "Contact the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0efbabad4a9141ce93ca2741e69dbd6b",
+                                "content": "Continue the medication but monitor closely and note the reaction in the chart."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5808fcfbf49d40e88272070cb7e4dedd",
+                                    "content": "Assess vital signs."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b723fc4c22184f87811d905e9e38d05c",
+                                    "content": "Administer oxygen."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49cc647235bf488681e8a90f332f13aa",
+                                    "content": "Ensure a patent airway."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75a7f680dced43beac61b81679842664",
+                                    "content": "Contact the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0efbabad4a9141ce93ca2741e69dbd6b",
+                                    "content": "Continue the medication but monitor closely and note the reaction in the chart."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "What actions would the nurse take when caring for a client having an anaphylactic medication reaction? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf anaphylaxis occurs, the nurse immediately assesses the client's respiratory status. The medication is also immediately stopped. If the client's airway needs to be established or stabilized, the Rapid Response Team is called. In addition, the PHCP is contacted. The intravenous (IV) line is not removed because IV access is needed to administer emergency medications such as diphenhydramine or epinephrine. The client is positioned appropriately. The legs and feet are elevated. The head of the bed is elevated to improve ventilation; elevate the head of the bed 10 degrees if hypotension is present and 45 degrees or higher if the blood pressure is normal. The nurse stays with the client and monitors the client's status, including the vital signs. The nurse documents the event, actions taken, and the client's response.",
+                        "id": "a806d570f24c480b86e6622698b774bc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3456314073f54411a06105a9148e2319",
+                                "content": "Use nonlatex gloves."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c9b1de8de224431af1f128784c76f97",
+                                "content": "Use medications from glass ampules."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "999befb49a254c09b7c0a540370d9c68",
+                                "content": "Place the client in a private room only."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de560ceb6bdc45a98c3b09581cad70e4",
+                                "content": "Keep a latex-safe supply cart available in the client's area."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6ad979d262d4ede96e7e3f44b8aa80a",
+                                "content": "Avoid the use of medication vials that have rubber stoppers."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "039ec5eba64f4884a477095c6155ac1b",
+                                "content": "Use only a blood pressure cuff from an electronic device to measure the blood pressure."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3456314073f54411a06105a9148e2319",
+                                    "content": "Use nonlatex gloves."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c9b1de8de224431af1f128784c76f97",
+                                    "content": "Use medications from glass ampules."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "999befb49a254c09b7c0a540370d9c68",
+                                    "content": "Place the client in a private room only."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de560ceb6bdc45a98c3b09581cad70e4",
+                                    "content": "Keep a latex-safe supply cart available in the client's area."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6ad979d262d4ede96e7e3f44b8aa80a",
+                                    "content": "Avoid the use of medication vials that have rubber stoppers."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "039ec5eba64f4884a477095c6155ac1b",
+                                    "content": "Use only a blood pressure cuff from an electronic device to measure the blood pressure."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "Which interventions apply in the care of a client at high risk for an allergic response to a latex allergy? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMost health care facilities use latex-free products and supplies but there may be some supplies that are not available as latex-free. If a client is allergic to latex and is at high risk for an allergic response, the nurse would use nonlatex gloves and latex-safe supplies, and would keep a latex-safe supply cart available in the client's area. Any supplies or materials that contain latex would be avoided. These include blood pressure cuffs and medication vials with rubber stoppers that require puncture with a needle. It is unnecessary to place the client in a private room.",
+                        "id": "f58c4569c72f4981b7e69729c6544d55",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "117834e82540fc1895f03229407241c7",
+            "useTime": 3000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 21:18:07",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Hypersensitivity and Allergy",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

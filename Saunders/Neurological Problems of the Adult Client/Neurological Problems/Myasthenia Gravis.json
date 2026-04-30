@@ -1,0 +1,743 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 21:03:54",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 21:03:54",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 21:03:57",
+            "id": "b6a03fab209b99773c0eb75e9348638b",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d802a56115349bf95c5c9d393305365",
+                                "content": "Taking medications as scheduled"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d38e72645c354b83be6eeb0f3f5af3ae",
+                                "content": "Eating large, well-balanced meals"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c85247ca234e41c2a440304d125687be",
+                                "content": "Doing muscle-strengthening exercises"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e1d3c46a3bb4740afa284e23b015316",
+                                "content": "Doing all chores early in the day while less fatigued"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d802a56115349bf95c5c9d393305365",
+                                    "content": "Taking medications as scheduled"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d38e72645c354b83be6eeb0f3f5af3ae",
+                                    "content": "Eating large, well-balanced meals"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c85247ca234e41c2a440304d125687be",
+                                    "content": "Doing muscle-strengthening exercises"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e1d3c46a3bb4740afa284e23b015316",
+                                    "content": "Doing all chores early in the day while less fatigued"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is teaching a client with myasthenia gravis about the prevention of myasthenic and cholinergic crises. Which client activity suggests that teaching is most effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nClients with myasthenia gravis are taught to space out activities over the day to conserve energy and restore muscle strength. Taking medications correctly to maintain blood levels that are not too low or too high is important. Muscle-strengthening exercises are not helpful and can fatigue the client. Overeating is a cause of exacerbation of symptoms, as is exposure to heat, crowds, erratic sleep habits, and emotional stress.",
+                        "id": "10c85d526dd744f4a94e6d29e3569e57",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ffc7a14a47364a5bab9cc638230b2284",
+                                "content": "Getting too little exercise"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "169206e8229c4212bd0545126238e9c2",
+                                "content": "Taking excess medication"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a4917ad4d4c4e5aa05ad20d6cf78f2b",
+                                "content": "Omitting doses of medication"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2178c638b774793ae7962bf70b5b9b3",
+                                "content": "Increasing intake of fatty foods"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ffc7a14a47364a5bab9cc638230b2284",
+                                    "content": "Getting too little exercise"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "169206e8229c4212bd0545126238e9c2",
+                                    "content": "Taking excess medication"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a4917ad4d4c4e5aa05ad20d6cf78f2b",
+                                    "content": "Omitting doses of medication"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2178c638b774793ae7962bf70b5b9b3",
+                                    "content": "Increasing intake of fatty foods"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a history of myasthenia gravis presents at a clinic with bilateral ptosis and is drooling, and myasthenic crisis is suspected. The nurse assesses the client for which precipitating factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMyasthenic crisis often is caused by undermedication and responds to the administration of cholinergic medications. Cholinergic crisis (the opposite problem) is caused by excess medication and responds to withholding of medications. Too little exercise and excessive fatty food intake are incorrect. Overexertion and overeating possibly could trigger myasthenic crisis.",
+                        "id": "13ee6b6351ce482daf68ee3f0bc9f07a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98ccfbb8eda745868e9984b736fab1d0",
+                                "content": "Monitor the chest tube drainage."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd8718bef59e47ddb28720244052a52d",
+                                "content": "Restrict visitors for 24 hours postoperatively."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44b30bddda8e4dfaa71c7fdd8de2175e",
+                                "content": "Maintain intravenous infusion of lactated Ringer's solution."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75d23110dd1442ecbe93b17090dc939b",
+                                "content": "Avoid administering pain medication to prevent respiratory depression."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98ccfbb8eda745868e9984b736fab1d0",
+                                    "content": "Monitor the chest tube drainage."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd8718bef59e47ddb28720244052a52d",
+                                    "content": "Restrict visitors for 24 hours postoperatively."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44b30bddda8e4dfaa71c7fdd8de2175e",
+                                    "content": "Maintain intravenous infusion of lactated Ringer's solution."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75d23110dd1442ecbe93b17090dc939b",
+                                    "content": "Avoid administering pain medication to prevent respiratory depression."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A thymectomy accomplished via a median sternotomy approach is performed in a client with a diagnosis of myasthenia gravis. The nurse creates a postoperative plan of care for the client that would include which intervention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "49d86bb4d5071eb7de614d6c79f7abfb",
+                        "difficulty": "考试范围-Creating创新",
+                        "textAnalysis": "Rationale:\nThe thymus has played a role in the development of myasthenia gravis. A thymectomy is the surgical removal of the thymus gland and may be used for management of clients with myasthenia gravis to improve weakness. The procedure is performed through a median sternotomy or a transcervical approach. Postoperatively the client will have a chest tube in the mediastinum. Lactated intravenous solutions usually are avoided because they can increase weakness. Pain medication is administered as needed, but the client is monitored closely for respiratory depression. There is no reason to restrict visitors.",
+                        "id": "2b5ae30ab28d409bad6bac53c3315315",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d67bf42f885f488298a4970c6c98135c",
+                                "content": "Here's the MedicAlert bracelet I obtained."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8434317a026b48c3a0daa82ac4039d33",
+                                "content": "I need to take my medications an hour before mealtime."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5136ca9de814f10bc9474b20b16a25e",
+                                "content": "Going to the beach will be a nice, relaxing form of activity."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "88176784dec449d9ac38602209d63216",
+                                "content": "I've made arrangements to get a portable resuscitation bag and home suction equipment."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d67bf42f885f488298a4970c6c98135c",
+                                    "content": "Here's the MedicAlert bracelet I obtained."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8434317a026b48c3a0daa82ac4039d33",
+                                    "content": "I need to take my medications an hour before mealtime."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5136ca9de814f10bc9474b20b16a25e",
+                                    "content": "Going to the beach will be a nice, relaxing form of activity."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "88176784dec449d9ac38602209d63216",
+                                    "content": "I've made arrangements to get a portable resuscitation bag and home suction equipment."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has instructed a client with myasthenia gravis about strategies for self-management at home. The nurse determines a need for further teaching if the client makes which statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nMost ongoing treatment for myasthenia gravis is done in outpatient settings, and the client must be aware of the lifestyle changes needed to maintain independence. The client needs to carry medical identification about the presence of the condition. Taking medications an hour before mealtime gives greater muscle strength for chewing and is indicated. The client needs to have portable suction equipment and a portable resuscitation bag available in case of respiratory distress. The client would avoid situations and other factors, including stress, infection, heat, surgery, and alcohol, that could worsen the symptoms.",
+                        "id": "37695075b4314854a63c7712fa17fab0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b95935c946024accb50fa0448eae7358",
+                                "content": "Atropine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7cac663328b945d1ad12e80a531bee92",
+                                "content": "Morphine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "509574d1443e457e9a619f90779f06d8",
+                                "content": "Protamine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a18bdb52e954d5d96faa91a911fbc94",
+                                "content": "Pyridostigmine bromide"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b95935c946024accb50fa0448eae7358",
+                                    "content": "Atropine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7cac663328b945d1ad12e80a531bee92",
+                                    "content": "Morphine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "509574d1443e457e9a619f90779f06d8",
+                                    "content": "Protamine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a18bdb52e954d5d96faa91a911fbc94",
+                                    "content": "Pyridostigmine bromide"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with myasthenia gravis arrives at the hospital emergency department in suspected crisis. The primary health care provider plans to administer edrophonium to differentiate between myasthenic and cholinergic crises. The nurse ensures that which medication is available in the event that the client is in cholinergic crisis?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nClients with cholinergic crisis have experienced an overdosage of medication. Edrophonium will exacerbate symptoms in cholinergic crisis to the point at which the client may need intubation and mechanical ventilation. Intravenous atropine sulfate is used to reverse the effects of these anticholinesterase medications. Morphine sulfate and pyridostigmine bromide would worsen the symptoms of cholinergic crisis. Protamine sulfate is the antidote for heparin.",
+                        "id": "9e98bdf84f62414795b2412db891045b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42aaa5c84331dbddaeb5b7e19b9f2614",
+                                "content": "I will rest each afternoon after my walk."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23c3b29fc270471b8728dbc6db9a05b0",
+                                "content": "I should cough and deep-breathe many times during the day."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa7c4a71171b12d8dd64945a2d5ca70c",
+                                "content": "I can change the time of my medication on the mornings when I feel strong."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "411b325b7c712221dd916c95ab2d388e",
+                                "content": "If I get abdominal cramps and diarrhea, I should call my health care provider."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42aaa5c84331dbddaeb5b7e19b9f2614",
+                                    "content": "I will rest each afternoon after my walk."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23c3b29fc270471b8728dbc6db9a05b0",
+                                    "content": "I should cough and deep-breathe many times during the day."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa7c4a71171b12d8dd64945a2d5ca70c",
+                                    "content": "I can change the time of my medication on the mornings when I feel strong."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "411b325b7c712221dd916c95ab2d388e",
+                                    "content": "If I get abdominal cramps and diarrhea, I should call my health care provider."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse has provided instructions to a client with a diagnosis of myasthenia gravis about home care measures. Which client statement indicates the need for further teaching?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "<p>Rationale:</p><p>The client with myasthenia gravis and the client's family need to be taught information about the disease and its treatment. They need to be aware of the side and adverse effects of anticholinesterase medications and corticosteroids and would be taught that timing of anticholinesterase medication is critical. It is important to instruct the client to administer the medication on time to maintain a chemical balance at the neuromuscular junction. If it is not given on time, the client may become too weak to even swallow. Resting after a walk, coughing and deep breathing many times during the day, and calling the primary health care provider when experiencing abdominal cramps and diarrhea indicate a correct understanding of home care instructions to maintain health with this neurological degenerative disease.</p>",
+                        "id": "b5ec99c02f27437e92cebab0aac7c059",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9444443e2c44884a981239560e53576",
+                                "content": "Oxygen and metered-dose inhaler"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4bb1d6c5d2744a5c80e2dc16c984f562",
+                                "content": "Ambu bag and suction equipment"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67ae194d3be24eb5884b00f48c22b156",
+                                "content": "Pulse oximeter and cardiac monitor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5dca9d5cfef48cf974b15f1e721ad6d",
+                                "content": "Incentive spirometer and cough pillow"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9444443e2c44884a981239560e53576",
+                                    "content": "Oxygen and metered-dose inhaler"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4bb1d6c5d2744a5c80e2dc16c984f562",
+                                    "content": "Ambu bag and suction equipment"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67ae194d3be24eb5884b00f48c22b156",
+                                    "content": "Pulse oximeter and cardiac monitor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5dca9d5cfef48cf974b15f1e721ad6d",
+                                    "content": "Incentive spirometer and cough pillow"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with myasthenia gravis is having difficulty with airway clearance and difficulty with maintaining an effective breathing pattern. The nurse would keep which most important items available at the client's bedside?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client with myasthenia gravis may experience episodes of respiratory distress if excessively fatigued or with development of myasthenic or cholinergic crisis. For this reason, an Ambu bag, intubation tray, and suction equipment need to be available at the bedside.",
+                        "id": "b7b21f804ac947c196bb733ac62c75cd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a3abe66f2b944ded936f61d8bbe9d04e",
+                                "content": "No change in the condition"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "894fdbd2ed874eb6ba5f5a039f9fdc11",
+                                "content": "Complaints of muscle spasms"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bd3a7ca6b304fec92cccc62e60666b1",
+                                "content": "An improvement of the weakness"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8105b280e7c84132803c95d607741f7c",
+                                "content": "A temporary worsening of the condition"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a3abe66f2b944ded936f61d8bbe9d04e",
+                                    "content": "No change in the condition"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "894fdbd2ed874eb6ba5f5a039f9fdc11",
+                                    "content": "Complaints of muscle spasms"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bd3a7ca6b304fec92cccc62e60666b1",
+                                    "content": "An improvement of the weakness"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8105b280e7c84132803c95d607741f7c",
+                                    "content": "A temporary worsening of the condition"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with myasthenia gravis has become increasingly weaker. The primary health care provider prepares to identify whether the client is reacting to an overdose of the medication (cholinergic crisis) or an increasing severity of the disease (myasthenic crisis). An injection of edrophonium is administered. Which finding would indicate that the client is in cholinergic crisis?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAn edrophonium injection makes the client in cholinergic crisis temporarily worse. An improvement in the weakness indicates myasthenia crisis. Muscle spasms are not associated with this test.\n",
+                        "id": "d542069408cb4702bfb57bbc14c65519",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ab97633c23c42bf9f797bcd10862ce7",
+                                "content": "Chew food thoroughly."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a96b02f954744c06bced85bb1ca0d85d",
+                                "content": "Cut food into very small pieces."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9b3ea6fe04b4cd4a67d1bd9a68ca790",
+                                "content": "Lift the head while swallowing liquids."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d808a2d91804969a70b4030fce59ad4",
+                                "content": "Sit straight up in the chair while eating."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5dc6402728584f83addcbdbaeda6f848",
+                                "content": "Swallow when the chin is tipped slightly downward to the chest."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ab97633c23c42bf9f797bcd10862ce7",
+                                    "content": "Chew food thoroughly."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a96b02f954744c06bced85bb1ca0d85d",
+                                    "content": "Cut food into very small pieces."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9b3ea6fe04b4cd4a67d1bd9a68ca790",
+                                    "content": "Lift the head while swallowing liquids."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d808a2d91804969a70b4030fce59ad4",
+                                    "content": "Sit straight up in the chair while eating."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5dc6402728584f83addcbdbaeda6f848",
+                                    "content": "Swallow when the chin is tipped slightly downward to the chest."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The home health nurse is visiting a client with myasthenia gravis and is discussing methods to minimize the risk of aspiration during meals related to decreased muscle strength. Which suggestions would the nurse give to the client? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client avoids swallowing any type of food or drink with the head lifted upward, which could actually cause aspiration by opening the glottis. The client needs to be advised to sit upright while eating, not to talk with food in the mouth (talking requires opening the glottis), to cut food into very small pieces, to chew thoroughly, and to tip the chin downward to swallow.",
+                        "id": "7ec5f8c1cd814ec2aee855ab4415245b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "3070fb492d494982da17b9b702e4a48e",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 9,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 9,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 21:03:57",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Myasthenia Gravis",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 9
+    },
+    "message": ""
+}

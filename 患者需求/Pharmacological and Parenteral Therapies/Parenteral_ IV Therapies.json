@@ -1,0 +1,1565 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 14:11:06",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 14:11:06",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 14:11:09",
+            "id": "67de64ac18e091490c85817615776058",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2e37d3cfd15468ab12ddac834ccafcb",
+                                "content": "Inject approximately same amount of air as units of insulin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8dd390e599574f5ca85184a6b6cd656d",
+                                "content": "Inject more air than units of insulin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17e86a86463c4adfa1aea06d2b239f93",
+                                "content": "Inject the same amount of normal saline as units of insulin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64b053cf48124642a9c03273608302a5",
+                                "content": "Inject less air than units of insulin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2e37d3cfd15468ab12ddac834ccafcb",
+                                    "content": "Inject approximately same amount of air as units of insulin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8dd390e599574f5ca85184a6b6cd656d",
+                                    "content": "Inject more air than units of insulin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17e86a86463c4adfa1aea06d2b239f93",
+                                    "content": "Inject the same amount of normal saline as units of insulin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64b053cf48124642a9c03273608302a5",
+                                    "content": "Inject less air than units of insulin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What should the nurse do drawing up insulin from the insulin syringe?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The nurse should inject approximately the same amount of air into the insulin vial as of the units of insulin to be injected. It helps to prevent the formation of air bubbles and helps in easy withdrawal of the insulin from the vial.\nOption 2:Injecting more air may cause the formation of air bubbles.\nOption 3:Insulin should not be mixed with normal saline, as the dose would be altered.\nOption 4:Injecting less amount of air in the vial will make the withdrawing of the insulin syringe difficult.",
+                        "id": "07a389902f144eb7b268076b9d99814b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d03f90748fa843ee9a85963df337ac22",
+                                "content": "Normal saline"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a7b849967e04c82baef108a09dcfb65",
+                                "content": "Dextrose in water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e522d151d3d44fa688b68ca30619c183",
+                                "content": "Antibiotic solution"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a13f2af1a9642f3971a35db237cea07",
+                                "content": "Ringer’s lactate solution"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d03f90748fa843ee9a85963df337ac22",
+                                    "content": "Normal saline"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a7b849967e04c82baef108a09dcfb65",
+                                    "content": "Dextrose in water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e522d151d3d44fa688b68ca30619c183",
+                                    "content": "Antibiotic solution"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a13f2af1a9642f3971a35db237cea07",
+                                    "content": "Ringer’s lactate solution"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which solution does the nurse use to prepare the IV line for a blood transfusion?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:Normal saline solution is the only solution that is compatible with blood products and does not cause hemolysis of blood cells.\nOption 2:Coadministration of dextrose in water with blood products may cause hemolysis of blood cells.\nOption 3:Coadministration of antibiotic drug therapy with whole blood transfusions is contraindicated because the drug may cause hemolytic destruction of the blood cells.\nOption 4:Coadministration of Ringer’s lactate solution with whole blood transfusion therapy is contraindicated because it may cause hemolytic destruction of the blood cells.",
+                        "id": "09681097bdb44043854d91fbf21f08cd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "26f81a96a2ab4265a60548f1a13c9f13",
+                                "content": "Administration of hetastarch"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f518634e960d424f8ae6b7cf95dc2f39",
+                                "content": "Administration of Plasma-Lyte R"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4e1a45e705749a6a84327ffd34cb84f",
+                                "content": "Administration of Ringer’s lactate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0561d884ca29430e9fedf5c88ee890c0",
+                                "content": "Administration of 5% dextrose in 0.9% NaCl"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "26f81a96a2ab4265a60548f1a13c9f13",
+                                    "content": "Administration of hetastarch"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f518634e960d424f8ae6b7cf95dc2f39",
+                                    "content": "Administration of Plasma-Lyte R"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4e1a45e705749a6a84327ffd34cb84f",
+                                    "content": "Administration of Ringer’s lactate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0561d884ca29430e9fedf5c88ee890c0",
+                                    "content": "Administration of 5% dextrose in 0.9% NaCl"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which action would be most appropriate for a client who arrives at the emergency room with bilateral pitting edema of the lower extremities, bounding pulses, and hypotension?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:Pitting edema, bounding pulse, and hypotension are the signs of fluid overload. Hetastarch is a plasma protein that acts to pull fluid from the interstitial to intravascular space. It is used in treating fluid overload, which causes severe edema, bounding pulses, and hypotension.\nOption 2:Plasma-Lyte R is a crystalloid used in cases of dehydration.\nOption 3:Ringer’s lactate is a crystalloid used in case of electrolyte imbalance.\nOption 4:5% dextrose in 0.9% NaCl is a crystalloid used in cases of dehydration and electrolyte imbalance.",
+                        "id": "1177f05fc76d46ddb78dc14c90f37940",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62f307cf8cee48fa84c4f5e4b0e56e46",
+                                "content": "25% albumin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85c6456325314bcd95fff39a9f5628a4",
+                                "content": "Dextran 70"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fad049c4138d4e9581dd6cc2d3f20638",
+                                "content": "Hetastarch"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6959064737f541ffa2475cd45125fd3b",
+                                "content": "0.45% sodium chloride solution"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62f307cf8cee48fa84c4f5e4b0e56e46",
+                                    "content": "25% albumin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85c6456325314bcd95fff39a9f5628a4",
+                                    "content": "Dextran 70"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fad049c4138d4e9581dd6cc2d3f20638",
+                                    "content": "Hetastarch"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6959064737f541ffa2475cd45125fd3b",
+                                    "content": "0.45% sodium chloride solution"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to the hospital with heat stroke. Which intravenous (IV) fluids would be the best for the client?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:IV fluids such as 25% albumin are colloids that are used to expand the plasma volume.\nOption 2:Dextran 70 is a colloid that is used to expand plasma volume.\nOption 3:Hetastarch is a colloid that is used to expand plasma volume.\nOption 4:The client with heat stroke would have dehydration, which should be corrected by administering crystalloids. A solution of 0.45% sodium chloride solution is an example of crystalloid that can be administered to help maintain fluid and electrolyte balance.",
+                        "id": "15c660857f2242178da81ebbd9a26e42",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f8fb23b7e04a4f778580022dccc9cbd1",
+                                "content": "Set the IV pump rate to KVO."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4155f152e7f4c13a5a572fab84c0f5e",
+                                "content": "Monitor the client’s IV site."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7c4874b3eb854371addd685c80c93afb",
+                                "content": "Make sure that the medication being used is caustic."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1f4615d63e64f108d89ad7425a19cab",
+                                "content": "Ensure that the pressure of the surrounding tissue exceeds the pressure of the pump."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f8fb23b7e04a4f778580022dccc9cbd1",
+                                    "content": "Set the IV pump rate to KVO."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4155f152e7f4c13a5a572fab84c0f5e",
+                                    "content": "Monitor the client’s IV site."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7c4874b3eb854371addd685c80c93afb",
+                                    "content": "Make sure that the medication being used is caustic."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1f4615d63e64f108d89ad7425a19cab",
+                                    "content": "Ensure that the pressure of the surrounding tissue exceeds the pressure of the pump."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which action should the nurse perform while infusing fluids into a client’s vein using an infusion pump?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:KVO is not acceptable since there is a preferred flow rate to infuse fluids. If the fluid is infused at the wrong rate (either too rapid or too slow), it will result in injury to the client.\nOption 2:As a precautionary measure, it is important to monitor the client’s IV site to check for redness, swelling, or leaking fluid.\nOption 3:Caustic medication results in infiltration and can cause tissue damage.\nOption 4:The pressure of the surrounding tissue should not exceed pressure of the pump because it will result in continuous infusion of fluids into the client’s extremity.\n\nTest Taking Tips: Recall safety precautions while using an infusion pump.",
+                        "id": "1720a8ed580341588d5b22ae01278696",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3ecd5fae43743bc9f9138a7ce8ffab4",
+                                "content": "Diazepam"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7daa18871197468994a4176c4cfc05cf",
+                                "content": "Furosemide"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8df37e8bfa4b47e8afea59a583b0e964",
+                                "content": "Dexamethasone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "783a3a3a8fcb4637b1c7b8bb744b3d88",
+                                "content": "Chlorpheniramine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3ecd5fae43743bc9f9138a7ce8ffab4",
+                                    "content": "Diazepam"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7daa18871197468994a4176c4cfc05cf",
+                                    "content": "Furosemide"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8df37e8bfa4b47e8afea59a583b0e964",
+                                    "content": "Dexamethasone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "783a3a3a8fcb4637b1c7b8bb744b3d88",
+                                    "content": "Chlorpheniramine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which medication does the nurse expect to be ordered for a client who is admitted with shortness of breath and the chest x-ray reveals bilateral pulmonary edema?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:IV diazepam is an antidepressant that is used as a sedative.\nOption 2:The client with fluid volume overload receives a diuretic to decrease circulating fluid volume, thus relieving pulmonary edema and shortness of breath.\nOption 3:IV dexamethasone is a corticosteroid used for treating a variety of problems associated with an inflammatory response such as asthma.\nOption 4:IV chlorpheniramine is an antihistamine drug used in treating allergic reactions.",
+                        "id": "1747324bf48a460baae379598b7f34be",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6e6fbd944af468ab3d2800f70cc8eae",
+                                "content": "Administering the medication rapidly"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4869933bbc7d43318ecf210a44d2c528",
+                                "content": "Administering the medication during a uterine contraction"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cd886bb7f2b49588dd564ff874a27d2",
+                                "content": "Administering the medication after a uterine contraction"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "384673ca8f714f1dbe50ae70dc14cc08",
+                                "content": "Administering the medication along with other IV solutions"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6e6fbd944af468ab3d2800f70cc8eae",
+                                    "content": "Administering the medication rapidly"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4869933bbc7d43318ecf210a44d2c528",
+                                    "content": "Administering the medication during a uterine contraction"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cd886bb7f2b49588dd564ff874a27d2",
+                                    "content": "Administering the medication after a uterine contraction"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "384673ca8f714f1dbe50ae70dc14cc08",
+                                    "content": "Administering the medication along with other IV solutions"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is administering IV medication for pain relief to a client in labor. Which nursing action reduces fetal exposure to the medication?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The IV pain medication should be administered slowly and in small doses to allow uniform absorption and drug concentration in the bloodstream.\nOption 2:When administered during a uterine contraction, the medication will reduce fetal exposure. This is because the uterine blood vessels constrict during contraction and, therefore, the medication remains in the mother’s bloodstream without entering the fetal circulation.\nOption 3:If the medication is administered after a uterine contraction, there is chance for passage into the fetal blood circulation since the uterine blood vessels reopen after a contraction.\nOption 4:The pain medication is administered via the IV tubing port after the other IV solutions are stopped. The pain medication should not be administered simultaneously with other IV solutions.",
+                        "id": "1e99bc8e23734594b7e12031b4486a58",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed7c6b84c2074273bff42b5dbbec8c71",
+                                "content": "IV administration of fentanyl"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5566d8d770b4dab989664261c9bf664",
+                                "content": "IV administration of cefazolin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f09a269489a4463ac8cef6eededc267",
+                                "content": "IV administration of lorazepam"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e78147063ef42bab9e0e143b2f44fb4",
+                                "content": "Intramuscular administration of chlorpromazine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed7c6b84c2074273bff42b5dbbec8c71",
+                                    "content": "IV administration of fentanyl"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5566d8d770b4dab989664261c9bf664",
+                                    "content": "IV administration of cefazolin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f09a269489a4463ac8cef6eededc267",
+                                    "content": "IV administration of lorazepam"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e78147063ef42bab9e0e143b2f44fb4",
+                                    "content": "Intramuscular administration of chlorpromazine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which preoperative action for a client undergoing biliary surgery is intended to prevent intraoperative contamination and postoperative wound infection?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:Fentanyl is an opioid analgesic, which causes pain relief and sedation in a client undergoing surgery.\nOption 2:Cefazolin is a cephalosporin antibiotic, which prevents infections. Therefore, preoperative administration of cefazolin in clients undergoing biliary surgery prevents the risk of postoperative wound infection and intraoperative contamination.\nOption 3:Lorazepam is an anxiolytic, which helps to reduce anxiety related to surgery.\nOption 4:Chlorpromazine is a phenothiazine, which when administered as preoperative medication, helps to reduce oral and pulmonary secretions and prevent laryngospasms and bradycardia.",
+                        "id": "21e9b59abdee4b9a9898d205c33fa8e7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f11596e8e9c411392c5f41de67590db",
+                                "content": "Deltoid muscle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8cdb150409404ff98aa4ff34637f1bb2",
+                                "content": "Dorsogluteal muscle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eeb2887199b940c3b964cdc365c50364",
+                                "content": "Ventrogluteal muscle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "654cb489bb3742e1b29948c23e3f25ff",
+                                "content": "Vastus lateralis muscle"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f11596e8e9c411392c5f41de67590db",
+                                    "content": "Deltoid muscle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8cdb150409404ff98aa4ff34637f1bb2",
+                                    "content": "Dorsogluteal muscle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eeb2887199b940c3b964cdc365c50364",
+                                    "content": "Ventrogluteal muscle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "654cb489bb3742e1b29948c23e3f25ff",
+                                    "content": "Vastus lateralis muscle"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The primary health-care provider prescribed a pneumonia immunization to an elderly client. What is the most preferred site of administration?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The deltoid muscle is the normally preferred site for IM injections for immunizations such as pneumonia and influenza.\nOption 2:The dorsogluteal site is not a preferred site for clients of any age, due to the presence of the sciatic nerve and superior gluteal artery.\nOption 3:The ventrogluteal muscle is the preferred site for IM injection of larger volumes such as 3 to 4 mL.\nOption 4:The vastus lateralis muscle may be used when administering larger volumes such as 3 to 4 mL.",
+                        "id": "26281a62a7be4ef1bdc9a847868a3af7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1013bb752df2401ab6983050b2e006e9",
+                                "content": "Adjusting the roller clamp"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d2523b70fe440459eb76f882534557d",
+                                "content": "Raising the height of the bag"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2880370a56664082808446fbd440ef87",
+                                "content": "Assessing the client’s IV site and catheter for patency"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3aeebcf914a443dd854f183bf56493f6",
+                                "content": "Repositioning the client’s extremity in the extended position"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1013bb752df2401ab6983050b2e006e9",
+                                    "content": "Adjusting the roller clamp"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d2523b70fe440459eb76f882534557d",
+                                    "content": "Raising the height of the bag"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2880370a56664082808446fbd440ef87",
+                                    "content": "Assessing the client’s IV site and catheter for patency"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3aeebcf914a443dd854f183bf56493f6",
+                                    "content": "Repositioning the client’s extremity in the extended position"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with diarrhea is being infused a 5% dextrose with 0.9% saline solution. The primary health-care provider advised to decrease the flow rate after 1 hour. Which action should decrease the flow rate?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The roller clamp should be adjusted to control the flow rate.\nOption 2:The height of the bag should be raised to increase the drip rate.\nOption 3:The IV site is assessed to assure patency and to monitor for infiltration or redness. Assessing the site does not increase or decrease the flow rate.\nOption 4:Repositioning the client’s extremity in the extended position may help to increase the gravity drip rate depending on the position of the tip of the catheter.",
+                        "id": "6c51c9d5f74e40d9b19f353ac74bc25d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cd60db71888840f59552e21c8e530929",
+                                "content": "Increased effect of anesthesia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7fc753767660401eafc9289124cd4ad9",
+                                "content": "Decreased sensation of pain"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "181660b44d4649ac8a9e1ae6e56a1d6a",
+                                "content": "Decreased rate of respiration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff0be18ef8554d4eb7790683c72b0c74",
+                                "content": "Increased sensation of numbness of the perineum"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cd60db71888840f59552e21c8e530929",
+                                    "content": "Increased effect of anesthesia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7fc753767660401eafc9289124cd4ad9",
+                                    "content": "Decreased sensation of pain"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "181660b44d4649ac8a9e1ae6e56a1d6a",
+                                    "content": "Decreased rate of respiration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff0be18ef8554d4eb7790683c72b0c74",
+                                    "content": "Increased sensation of numbness of the perineum"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which finding indicates a need for treatment with IV naloxone in a client in labor who has been administered IV butorphanol?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationales\n\nOption 1:Butorphanol is an opioid agonist-antagonist analgesic. An increased effect of anesthesia is the intended action of butorphanol because it supplements the anesthetic medication.\nOption 2:Decreased pain is an indication of effective action of butorphanol.\nOption 3:Respiratory depression is an adverse effect of butorphanol administration and needs to be immediately reversed. The antidote is IV administration of naloxone, because naloxone is an opioid antagonist and will reverse the respiratory depression caused by butorphanol.\nOption 4:Numbness of the perineum caused by pressure exerted by the fetal head on the mother’s perineum is called pressure anesthesia; it is not related to butorphanol administration.",
+                        "id": "73b1d270693845c19b9d5c2e9671dbf6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c66c72948814163a0ef285ae4c94eed",
+                                "content": "Administration of 5% albumin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6880d0d5e877439291c2cb4d006a9336",
+                                "content": "Administration of 5% dextrose in water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4478b98574bf4b05a8619d3b95f08c2c",
+                                "content": "Administration of 0.9% normal saline"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3b95aaabd3c4908a5ce3a0cc7e00e3a",
+                                "content": "Administration of 5% dextrose in 0.45% sodium chloride solution"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c66c72948814163a0ef285ae4c94eed",
+                                    "content": "Administration of 5% albumin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6880d0d5e877439291c2cb4d006a9336",
+                                    "content": "Administration of 5% dextrose in water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4478b98574bf4b05a8619d3b95f08c2c",
+                                    "content": "Administration of 0.9% normal saline"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3b95aaabd3c4908a5ce3a0cc7e00e3a",
+                                    "content": "Administration of 5% dextrose in 0.45% sodium chloride solution"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which action can be initiated immediately while waiting on blood products to become available for a client brought to the emergency room with internal bleeding?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationales\n\nOption 1:Albumin, a plasma expander, is a colloid that increases the oncotic pressure, which in turn pulls extravascular fluid into the blood stream. This increases blood volume, which maintains the necessary tissue perfusion during hypovolemia.\nOption 2:5% dextrose is a crystalloid that is prescribed in conditions of dehydration or electrolyte imbalance.\nOption 3:0.9 % saline is prescribed in conditions of dehydration or electrolyte imbalance to maintain fluid balance.\nOption 4:5% dextrose in 0.45% sodium chloride is prescribed in conditions of dehydration or electrolyte imbalance to maintain fluid balance along with blood glucose levels to decrease fat mobilization.\n\nTest Taking Tips: Recall the IV fluid administered in conditions such as severe blood loss.",
+                        "id": "9f41cac05f7943af9b38049a1c712252",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bad910d1f0484e668b5aae6d8287c4cc",
+                                "content": "Cefazolin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "393eae23218a4a99b4281b5c6100d5e0",
+                                "content": "Dextrose 10%"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22beba32acd645cc96f856e3b48bad11",
+                                "content": "Clindamycin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea5e5bbad91a4b059463df3d35947411",
+                                "content": "Erythromycin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bad910d1f0484e668b5aae6d8287c4cc",
+                                    "content": "Cefazolin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "393eae23218a4a99b4281b5c6100d5e0",
+                                    "content": "Dextrose 10%"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22beba32acd645cc96f856e3b48bad11",
+                                    "content": "Clindamycin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea5e5bbad91a4b059463df3d35947411",
+                                    "content": "Erythromycin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a pregnant client who is allergic to penicillin, but does not have a high risk for anaphylaxis. Which antibiotic is administered IV to the client at the time of delivery to prevent the risk for group B Streptococcus (GBS) infections?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:IV cefazolin is given to the client who is allergic to penicillin, but is not at a high risk for anaphylaxis. This medication provides intrapartum prophylaxis for GBS infections.\nOption 2:IV dextrose 10% solution is given to neonates who are hypoglycemic or have mothers with diabetes mellitus.\nOption 3:Clindamycin is given when the GBS isolates are not resistant to clindamycin.\nOption 4:Erythromycin can be given as an alternative to penicillin when GBS isolates are not resistant to erythromycin.",
+                        "id": "a1aa2ea7a8fd4c648649e16ea8e6c9f1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f62a20dd02bd4e098f6d8d4b095e66a9",
+                                "content": "Naloxone 0.4 mg IV push"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4a72a5293354093b176685bac83ad42",
+                                "content": "Ketorolac 15 mg IV every 6 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47d56e24aa75447e8fbd132a6b18a152",
+                                "content": "Phenergan 6.25 mg IV every 6 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca478ac93ed444158bdb9afe9b49ee6a",
+                                "content": "Diphenhydramine 25 mg orally every 6 hours"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f62a20dd02bd4e098f6d8d4b095e66a9",
+                                    "content": "Naloxone 0.4 mg IV push"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4a72a5293354093b176685bac83ad42",
+                                    "content": "Ketorolac 15 mg IV every 6 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47d56e24aa75447e8fbd132a6b18a152",
+                                    "content": "Phenergan 6.25 mg IV every 6 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca478ac93ed444158bdb9afe9b49ee6a",
+                                    "content": "Diphenhydramine 25 mg orally every 6 hours"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which medications does the nurse expect to be prescribed by the primary health-care provider for a client who is receiving patient-controlled analgesia (PCA) and has a drop in respiratory rate to 7 breaths/minute?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:Naloxone 0.4 mg IV push is prescribed to reverse respiratory depression. It is commonly associated with narcotic administration commonly used in PCA.\nOption 2:Ketorolac is an NSAID indicated for short-term pain control. Ketorolac does not treat respiratory depression.\nOption 3:Phenergan is an antiemetic drug used to manage severe nausea and vomiting. Phenergan does not treat respiratory depression.\nOption 4:Diphenhydramine is an antihistamine used to treat allergic responses. Diphenhydramine does not treat respiratory depression.",
+                        "id": "a4318c62e98c4241a67297437feefc5d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f10873f099d4c17972a47527468f0c0",
+                                "content": "Inhalation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0162c35727554f3bb55057022b15f788",
+                                "content": "Intravenous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b008c2f7ec8430e85276a91cdacc5a3",
+                                "content": "Intramuscular"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "097213ef86864f93b62e8028004889e3",
+                                "content": "Subcutaneous"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f10873f099d4c17972a47527468f0c0",
+                                    "content": "Inhalation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0162c35727554f3bb55057022b15f788",
+                                    "content": "Intravenous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b008c2f7ec8430e85276a91cdacc5a3",
+                                    "content": "Intramuscular"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "097213ef86864f93b62e8028004889e3",
+                                    "content": "Subcutaneous"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which route of drug administration has the fastest rate of absorption of medication into blood?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:Drugs given through the inhalation route are absorbed by capillaries, where only small amount of blood is present. Inhaled drugs enter into nasal cavity, buccal cavity, then into blood so the rate of absorption is less fast than intravenous.\nOption 2:The intravenous route offers has the fastest rate of absorption as the drug is directly administered to the blood, and utilized in seconds.\nOption 3:Drugs administered through the intramuscular route penetrate the tissues and is then absorbed by the blood vessels. Therefore, it is not as fast as intravenous route.\nOption 4:Drugs administered through the subcutaneous route penetrate the tissues and is then absorbed by the blood vessels.",
+                        "id": "ad3bcb1e9bed4ef8bed140e9890e3179",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e913db2727804c2387f9c543e2d70e4e",
+                                "content": "Intravenous"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "428e8743ed174d4a9198531c9f36da32",
+                                "content": "Subcutaneous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2bfb22a871f5458987cfee44e0610247",
+                                "content": "Buccal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "41df29a14de44f83a0f4b9441670f6ca",
+                                "content": "Sublingual"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e913db2727804c2387f9c543e2d70e4e",
+                                    "content": "Intravenous"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "428e8743ed174d4a9198531c9f36da32",
+                                    "content": "Subcutaneous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2bfb22a871f5458987cfee44e0610247",
+                                    "content": "Buccal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "41df29a14de44f83a0f4b9441670f6ca",
+                                    "content": "Sublingual"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which route of administration is most preferable for self-administering insulin?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:The client may injure himself or herself while administering medication through intravenous route.\nOption 2:Subcutaneous is the most preferable route to administer medication as it ensures that insulin does not enter the gastrointestinal system.\nOption 3:Buccal administration will result in medication entering into gastrointestinal tract and the effect of medication is lost.\nOption 4:Sublingual administration will result in medication entering into gastrointestinal tract and the effect of medication is lost.",
+                        "id": "b2071be1ae134d02829e7814e549961b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "faada6800633489d82f5e72f31bf830a",
+                                "content": "Priming the IV tubing and assuring all air is removed from the line"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8bf9de323ab4e9fbb57edfc4e5d24d8",
+                                "content": "Flushing the IV tubing with heparin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd418163b3ef4447a79c4bd098f565f4",
+                                "content": "Inspecting the outer wrapper containing the ordered solution for leaks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f7fa4843942a43cfbbe60f72f2f9046c",
+                                "content": "Checking discoloration or particulate matter in the fluid"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "faada6800633489d82f5e72f31bf830a",
+                                    "content": "Priming the IV tubing and assuring all air is removed from the line"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8bf9de323ab4e9fbb57edfc4e5d24d8",
+                                    "content": "Flushing the IV tubing with heparin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd418163b3ef4447a79c4bd098f565f4",
+                                    "content": "Inspecting the outer wrapper containing the ordered solution for leaks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f7fa4843942a43cfbbe60f72f2f9046c",
+                                    "content": "Checking discoloration or particulate matter in the fluid"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What action is taken by the nurse prior to connecting the IV tubing to the client's IV catheter when preparing to administer continuous IV solution to a client with dehydration?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The IV tubing is primed to purge any air just prior to connecting the tube to the client.\nOption 2:Flushing the tubing with heparin is followed after the completion of the process. This will maintain the patency of the tube until the next medication is infused.\nOption 3:The outer wrapper should be inspected for tears or puncture marks before infusing the IV solution.\nOption 4:The IV fluid should be examined for discoloration or the presence of any particulate matter before infusing the solution.",
+                        "id": "cc4feeb111dc4b52a5fad7b72099e544",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c7f93b808204f30ae1e5a4b337a72c0",
+                                "content": "25% albumin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "25f7e4e62d8a4f489c9b080d45394f88",
+                                "content": "Ringer’s lactate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b072f3ae792b4767964ed77655750994",
+                                "content": "5% dextrose solution"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0cdbf12af4949c38772cb9f5b8d36e7",
+                                "content": "0.9% sodium chloride solution"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c7f93b808204f30ae1e5a4b337a72c0",
+                                    "content": "25% albumin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "25f7e4e62d8a4f489c9b080d45394f88",
+                                    "content": "Ringer’s lactate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b072f3ae792b4767964ed77655750994",
+                                    "content": "5% dextrose solution"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0cdbf12af4949c38772cb9f5b8d36e7",
+                                    "content": "0.9% sodium chloride solution"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who has impaired kidney function and severe protein deficiency. On assessment the nurse observes that the client has abnormal weight gain and swelling in ankles. Which intravenous fluid will be beneficial for the client?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationales\n\nOption 1:Impaired kidney function may lead to the loss of proteins in urine. Deficiency of proteins can lead to a low oncotic pressure, resulting in edema. This edema can be treated by administering colloids to the client. Therefore, the client should be administered 25% albumin.\nOption 2:Ringer’s lactate is a crystalloid that helps maintain the fluid and electrolyte balance but does not affect oncotic pressure.\nOption 3:5% dextrose solution is a crystalloid, which helps maintain fluid electrolyte balance but does not affect oncotic pressure.\nOption 4:0.9% sodium chloride solution is a crystalloid, which helps to maintain fluid electrolyte balance but does not affect oncotic pressure.",
+                        "id": "ce71d3b9cc9d4c10822a9fb140911e1f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f78b1cbea82a46a8b8836298c3e3a23d",
+                                "content": "IV"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d4d0a89080e43b38ed188e39028b7f1",
+                                "content": "Intradermal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "41820d7b550d4bf1995923a0ac6c83a9",
+                                "content": "Subcutaneous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3dccb57696d452683c29ca820a26a7a",
+                                "content": "Intramuscular"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f78b1cbea82a46a8b8836298c3e3a23d",
+                                    "content": "IV"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d4d0a89080e43b38ed188e39028b7f1",
+                                    "content": "Intradermal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "41820d7b550d4bf1995923a0ac6c83a9",
+                                    "content": "Subcutaneous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3dccb57696d452683c29ca820a26a7a",
+                                    "content": "Intramuscular"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What is the best route to administer a painkiller for a client with first and second-degree burns?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:Areas with burns have poor vascular supply and exhibit delayed absorption. For the drug to act more rapidly, it should be injected directly into the bloodstream. The IV route for administering an analgesic provides immediate relief to a client with burns.\nOption 2:Injecting the analgesic directly into the burned skin is not a feasible route of administration because the skin would have poor vascular supply after the burns.\nOption 3:Areas with burns are deficient in blood supply. It is, therefore, not suitable for injecting analgesics.\nOption 4:Intramuscular medications are injected deep into muscles that have a rich blood supply. However, a client with burn injuries has poor vascular supply. Therefore, this is not a suitable route of administration.",
+                        "id": "f1849649b15a4bb790d290a20a319e42",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19d408b4b28247b69a326287377f83d9",
+                                "content": "“I will read the site within 24 to 48 hours after injection.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "25f232c966b246709edfdbad0a69201e",
+                                "content": "“I will look for minimal bruising at the site of insertion.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8754b23f8191445284eac48754a6d09f",
+                                "content": "“I will reassess the client 5 and 15 minutes after administration.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b564c8820a534e80b79a7349228198e4",
+                                "content": "“I will look for a wheal that forms and gradually disappears.”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19d408b4b28247b69a326287377f83d9",
+                                    "content": "“I will read the site within 24 to 48 hours after injection.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "25f232c966b246709edfdbad0a69201e",
+                                    "content": "“I will look for minimal bruising at the site of insertion.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8754b23f8191445284eac48754a6d09f",
+                                    "content": "“I will reassess the client 5 and 15 minutes after administration.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b564c8820a534e80b79a7349228198e4",
+                                    "content": "“I will look for a wheal that forms and gradually disappears.”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement made by the student nurse implies a need for further teaching about evaluating a client after an intradermal medication administration?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationales\n\nOption 1:The nurse should read the site within 48 to 72 hours after administering the injection, depending upon the test.\nOption 2:Minimal bruising may develop at the site of injection and needs to be observed.\nOption 3:Assessing the client 5 and 15 minutes after administration of the medication is vital to observe any allergic reactions that may occur.\nOption 4:A wheal (6 to 8 mm in diameter, approximately) generally forms and gradually disappears.",
+                        "id": "fe14a5973f6f4f7e802f9b0de1ecaf4a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "ae0977ce2c36cfc5c71415d0bb7e5703",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 20,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 20,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 14:11:09",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Parenteral/ IV Therapies",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "患者需求",
+        "questionNumber": 20
+    },
+    "message": ""
+}

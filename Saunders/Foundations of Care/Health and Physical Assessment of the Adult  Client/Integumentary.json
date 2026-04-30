@@ -1,0 +1,363 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 18:22:06",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 18:22:06",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 18:22:10",
+            "id": "6601a95d4f7c5a35ea55c35f10b11c6f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a4b60cd7b8941dfb63730d5bbe315fa",
+                                "content": "Stop the IV infusion."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f417698db7c74b89b9e256a42a937488",
+                                "content": "Apply ice to the catheter site."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dbf2c041c3b240c7b8dfa4a721c50165",
+                                "content": "Readjust the rate of IV administration."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd7c777f877b4e04ac2e1721f23ae257",
+                                "content": "Contact the primary health care provider."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a4b60cd7b8941dfb63730d5bbe315fa",
+                                    "content": "Stop the IV infusion."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f417698db7c74b89b9e256a42a937488",
+                                    "content": "Apply ice to the catheter site."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dbf2c041c3b240c7b8dfa4a721c50165",
+                                    "content": "Readjust the rate of IV administration."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd7c777f877b4e04ac2e1721f23ae257",
+                                    "content": "Contact the primary health care provider."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is making initial rounds on the nursing unit to check the condition of assigned clients. One client complains of discomfort at the intravenous (IV) site, and the nurse notes that the site is cool, pale, and swollen and that the solution is infusing slowly. What action would the nurse take first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe IV must be stopped immediately because it has infiltrated. The remaining options allow the IV solution to continue to flow and further exacerbate the infiltration rather than intervene to stop it.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Health Assessment/Physical Exam: Integumentary\nHealth Problem: Adult Health: Integumentary: Inflammation/Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Data in the Question, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, first. Then note the data in the question—discomfort at the IV site and an IV site that is cool, pale, and swollen. These signs and symptoms indicate infiltration of the IV catheter, so the first action is to stop the flow of IV solution. The nurse would then remove the IV catheter. Eliminate options 2, 3, and 4 because these actions are not aimed at stopping the problem.\n \n   ",
+                        "id": "02dbcbb874114fbc8d6b56afb8d19656",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65c2775ddc994242be834c31a1020be3",
+                                "content": "Assess for drainage from the wound."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cfad9a9264344b10a145db7fc5772408",
+                                "content": "Assess for redness around the wound edges."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f84a21b4d60d44a99a72d5004e8892fc",
+                                "content": "Palpate for swelling around the wound edges."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77da00853a15490cb3f1cb5be85a1fc7",
+                                "content": "Palpate for increased skin temperature around the wound edges."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65c2775ddc994242be834c31a1020be3",
+                                    "content": "Assess for drainage from the wound."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cfad9a9264344b10a145db7fc5772408",
+                                    "content": "Assess for redness around the wound edges."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f84a21b4d60d44a99a72d5004e8892fc",
+                                    "content": "Palpate for swelling around the wound edges."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77da00853a15490cb3f1cb5be85a1fc7",
+                                    "content": "Palpate for increased skin temperature around the wound edges."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a wound in a dark-skinned client for signs of erythema. How would the nurse best determine the presence of erythema?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nErythema is a form of macula characterized by diffuse redness of the skin. In a dark-skinned client, erythema is best determined by palpating for increased skin temperature. Redness around the wound edges may be difficult to note in the dark-skinned client. Swelling and drainage from the wound are not specific indicators of erythema.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Integumentary\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best. Focus on the words dark-skinned and erythema. Recalling that erythema refers to redness and inflammation and noting that the question describes a dark-skinned client will direct you to the correct option.\n \n   ",
+                        "id": "1442386d38224b9086397bd346b373e7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84565cd05a0d4b14a9c2d005a45d7dcc",
+                                "content": "Sclerae"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38fa759155a449f0bdfd882e608d1bcb",
+                                "content": "Oral mucosa"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2ed29a7d31e46b1b6759a5f75d089e0",
+                                "content": "Sole of the foot"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b77de9ca6074f7180c69399701b45f1",
+                                "content": "Palm of the hand"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84565cd05a0d4b14a9c2d005a45d7dcc",
+                                    "content": "Sclerae"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38fa759155a449f0bdfd882e608d1bcb",
+                                    "content": "Oral mucosa"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2ed29a7d31e46b1b6759a5f75d089e0",
+                                    "content": "Sole of the foot"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b77de9ca6074f7180c69399701b45f1",
+                                    "content": "Palm of the hand"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is examining a dark-skinned client for the presence of petechiae. The nurse will best observe these lesions in which body area?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIn a dark-skinned client, petechiae are best observed in the conjunctivae and oral mucosa. Jaundice would be best noted in the sclerae of the eye. Cyanosis would be best noted in the palms of the hands and soles of the feet.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Integumentary\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best. Eliminate options 3 and 4 first because they are comparable or alike and are similar types of body areas. Regarding the remaining choices, focusing on the word petechiae will direct you to the correct option.\n \n   ",
+                        "id": "3d6f9845e2d8450f983db1c38e932cb4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c265b69c47f74721948a1b86b41b7fea",
+                                "content": "Sclerae"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "012e8c5b4e5143aa9d71cf2337defbc6",
+                                "content": "Tongue"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "955a0d413a144008a2eb17b6cdd7ceb5",
+                                "content": "Nail beds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bda8132300144e5acb9fd3da5df7963",
+                                "content": "Elbows and heels"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "635453ff3b534d938fb5b4c232fb56c1",
+                                "content": "Mucous membranes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c265b69c47f74721948a1b86b41b7fea",
+                                    "content": "Sclerae"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "012e8c5b4e5143aa9d71cf2337defbc6",
+                                    "content": "Tongue"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "955a0d413a144008a2eb17b6cdd7ceb5",
+                                    "content": "Nail beds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bda8132300144e5acb9fd3da5df7963",
+                                    "content": "Elbows and heels"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "635453ff3b534d938fb5b4c232fb56c1",
+                                    "content": "Mucous membranes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is assessing for changes in skin color in a dark-skinned client. The nurse finds which areas helpful in assessing for pallor or cyanosis? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSkin color may be more difficult to assess in the client with dark skin. The best areas to use to detect pallor and cyanosis include the tongue, nail beds, and mucous membranes. The sclerae are most useful in evaluating jaundice. Elbows and heels are not appropriate areas to assess for skin color changes.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Integumentary\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Gas Exchange, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, assessing for pallor or cyanosis in a dark-skinned client. Visualize each of the options in terms of the vascularity of that area in making your selection. This strategy will assist in answering correctly.\n \n   ",
+                        "id": "1f22f08f9d244e10a9892e132333f466",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "ce0aedcd158e2954d775b38332ff4e02",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 4,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 4,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 18:22:10",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Integumentary",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 4
+    },
+    "message": ""
+}

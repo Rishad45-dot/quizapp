@@ -1,0 +1,757 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 19:06:53",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 19:06:53",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 19:06:58",
+            "id": "6b10bfab43c6ee4e8fc222e304f76e9f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "419f93974c65433aa718ab267d007e2b",
+                                "content": "I will handle the area gently."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "73d66bf5336e43e798eb09a99a0fac8e",
+                                "content": "I will wear loose-fitting clothing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a84515ce0af840648fe0e4010f5fdb5f",
+                                "content": "I will avoid the use of deodorants."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "14de0db7a55045cea4427a3446bc5c85",
+                                "content": "I will limit sun exposure to 1 hour daily."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "419f93974c65433aa718ab267d007e2b",
+                                    "content": "I will handle the area gently."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "73d66bf5336e43e798eb09a99a0fac8e",
+                                    "content": "I will wear loose-fitting clothing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a84515ce0af840648fe0e4010f5fdb5f",
+                                    "content": "I will avoid the use of deodorants."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "14de0db7a55045cea4427a3446bc5c85",
+                                    "content": "I will limit sun exposure to 1 hour daily."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse teaches skin care to a client receiving external radiation therapy. Which client statement indicates the need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client needs to be instructed to avoid exposure to the sun. Because of the risk of altered skin integrity, options 1, 2, and 3 are accurate measures in the care of a client receiving external radiation therapy.",
+                        "id": "3711163e789640cfbefc0c49fa5d2006",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b459db15e15d43438bdf10057a34b110",
+                                "content": "\"Flush the toilet at least 3 times after use.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5ff6a8354db483ab8530d3b04aef9d6",
+                                "content": "\"Increase intake of fruits with a core, such as apples and pears.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce18c5c82c234b87bde25d4677d41d3b",
+                                "content": "\"Avoid contact with pregnant women, infants, and children for 3 months.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e0e990bbb524de3b4601eada84c6f61",
+                                "content": "\"Use disposable eating utensils, plates, and cups for the next 6 months.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b459db15e15d43438bdf10057a34b110",
+                                    "content": "\"Flush the toilet at least 3 times after use.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5ff6a8354db483ab8530d3b04aef9d6",
+                                    "content": "\"Increase intake of fruits with a core, such as apples and pears.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce18c5c82c234b87bde25d4677d41d3b",
+                                    "content": "\"Avoid contact with pregnant women, infants, and children for 3 months.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e0e990bbb524de3b4601eada84c6f61",
+                                    "content": "\"Use disposable eating utensils, plates, and cups for the next 6 months.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has received an unsealed radioactive isotope for treatment of thyroid cancer. Which instruction is essential for the nurse to provide the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBodily fluids contain the radioactive material, so others needs to be shielded from possible exposure. Clients would at best have a dedicated toilet for use during the first 2 weeks and need to also flush 3 times after use. Some radioactivity will be in the saliva for about the first week, so during this time fruits with cores that will become contaminated need to be avoided. Disposable eating utensils would also be used during this period of time. Contact with pregnant women, infants, and children is avoided for the first week and then a distance of 3 feet (1 meter) or more needs to be maintained, and exposure would be limited to 1 hour per day.\nTest-Taking Strategy:\nFocus on the subject, teaching for a client who has received an unsealed radioactive isotope. Note the strategic word, essential. Review each option to determine whether there is the potential for contamination with the client's bodily fluids. Then consider the options that have time frames, and determine whether they are realistic. This will direct you to option 1.",
+                        "id": "45bc1a00a7f64b37b3379c772af2d30a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dfabe16e5af4831abee920ab821d4f1",
+                                "content": "Broiled beef, canned corn, rice"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cda7022938c141169ca22876b139ad5f",
+                                "content": "Broccoli, baked fish, mashed potato"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e2299cc5651471b8c28815b1c3c0bc2",
+                                "content": "Bacon, scrambled eggs, french fries"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c1ab7759c673482fab8d21c5879f97de",
+                                "content": "Bologna, canned asparagus, white bread"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dfabe16e5af4831abee920ab821d4f1",
+                                    "content": "Broiled beef, canned corn, rice"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cda7022938c141169ca22876b139ad5f",
+                                    "content": "Broccoli, baked fish, mashed potato"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e2299cc5651471b8c28815b1c3c0bc2",
+                                    "content": "Bacon, scrambled eggs, french fries"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c1ab7759c673482fab8d21c5879f97de",
+                                    "content": "Bologna, canned asparagus, white bread"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has conducted a cancer prevention seminar for clients in an ambulatory setting. The nurse determines that teaching was effective if the clients select which food item on the menu?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nBroccoli is a cruciferous vegetable, which is helpful in reducing the risk of cancer. Other cruciferous vegetables are cauliflower, brussels sprouts, and cabbage. Red meat (bacon) and meats with nitrites (bologna and broiled beef) can increase the risk of developing cancer.",
+                        "id": "6c1f7cf71ef54d49bc4a2d9080822ccf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "303ec235312c4f63b181bcc0fad47c8f",
+                                "content": "Measure the client's abdominal girth."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "100f58f50ffc4d78a52e0440b9fecd31",
+                                "content": "Calculate the client's body mass index."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e1b269c36354f1bbdabb4c395b1573f",
+                                "content": "Measure the client's current weight and height."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbb7f63245fa4efb961208142ec9ef77",
+                                "content": "Ask the client to share current weight and height."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "303ec235312c4f63b181bcc0fad47c8f",
+                                    "content": "Measure the client's abdominal girth."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "100f58f50ffc4d78a52e0440b9fecd31",
+                                    "content": "Calculate the client's body mass index."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e1b269c36354f1bbdabb4c395b1573f",
+                                    "content": "Measure the client's current weight and height."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbb7f63245fa4efb961208142ec9ef77",
+                                    "content": "Ask the client to share current weight and height."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Chemotherapy dosage is frequently based on total body surface area (BSA), so it is important for the nurse to perform which assessment before administering chemotherapy?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTo ensure that the client receives optimal doses of chemotherapy, dosing is usually based on the total BSA, which requires a current accurate height and weight for BSA calculation (before each medication administration). Asking the client about current height and weight may lead to inaccuracies in determining a true BSA and dosage. Calculating body mass index and measuring abdominal girth will not provide the data needed.",
+                        "id": "7d57e5762f0342a9bdbe31a30284048b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f685d5aa24e4a14b128ad20583fa0a4",
+                                "content": "You can take aspirin as needed for headache."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70998ed36945425d86c839d34ef1fb58",
+                                "content": "You can drink beverages containing alcohol in moderate amounts each evening."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a08fc17a88b44ec5ba9352aa479c4202",
+                                "content": "You need to consult with the primary health care provider (PHCP) before receiving immunizations."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "182125b50b7540f0a24c6ebc0087e66a",
+                                "content": "It is fine to receive a flu vaccine at the local health fair without PHCP approval because the flu is so contagious."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f685d5aa24e4a14b128ad20583fa0a4",
+                                    "content": "You can take aspirin as needed for headache."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70998ed36945425d86c839d34ef1fb58",
+                                    "content": "You can drink beverages containing alcohol in moderate amounts each evening."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a08fc17a88b44ec5ba9352aa479c4202",
+                                    "content": "You need to consult with the primary health care provider (PHCP) before receiving immunizations."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "182125b50b7540f0a24c6ebc0087e66a",
+                                    "content": "It is fine to receive a flu vaccine at the local health fair without PHCP approval because the flu is so contagious."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A clinic nurse prepares a teaching plan for a client receiving an antineoplastic medication. When implementing the plan, the nurse would make which statement to the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBecause antineoplastic medications lower the resistance of the body, clients must be informed not to receive immunizations without the PHCP's approval. Clients also need to avoid contact with individuals who have recently received a live virus vaccine. Clients need to avoid aspirin and aspirin-containing products to minimize the risk of bleeding, and they need to avoid alcohol to minimize the risk of toxicity and side/adverse effects.",
+                        "id": "7f98e5b5eb154725b758227faa14f4ef",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3fb841d04b7f478f8fd5d25ab2e37f23",
+                                "content": "Cyanosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bd198a8445914faaa630d567d62664ab",
+                                "content": "Arm edema"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a30e1b8d85524d4796f0ec3e307015ad",
+                                "content": "Periorbital edema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bcd4be3fbe24b4b882d7b1eb339f50e",
+                                "content": "Mental status changes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3fb841d04b7f478f8fd5d25ab2e37f23",
+                                    "content": "Cyanosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bd198a8445914faaa630d567d62664ab",
+                                    "content": "Arm edema"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a30e1b8d85524d4796f0ec3e307015ad",
+                                    "content": "Periorbital edema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bcd4be3fbe24b4b882d7b1eb339f50e",
+                                    "content": "Mental status changes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client for signs and symptoms related to superior vena cava syndrome. Which is an early sign of this oncological emergency?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSuperior vena cava syndrome occurs when the superior vena cava is compressed or obstructed by tumor growth. Early signs and symptoms generally occur in the morning and include edema of the face, especially around the eyes, and client complaints of tightness of a shirt or blouse collar. As the compression worsens, the client experiences edema of the hands and arms. Cyanosis and mental status changes are late signs.",
+                        "id": "9db0b67cc85a4b15ac422f8a18be1847",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae6e69d520f54f419463c74b713c562d",
+                                "content": "Clotting time 12 seconds"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69366b4042004d89b9f0ec3f2249dce4",
+                                "content": "Platelet count 50,000 mm3 (50 × 109/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d44cc33bb9ba439681c18664fa58ff2b",
+                                "content": "Ammonia level 28 mcg/dL (16.8 mcmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b64dfe4d668740a7bca33f88ab379ed7",
+                                "content": "White blood cell (WBC) count 4500 mm3 (4.5 × 109/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae6e69d520f54f419463c74b713c562d",
+                                    "content": "Clotting time 12 seconds"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69366b4042004d89b9f0ec3f2249dce4",
+                                    "content": "Platelet count 50,000 mm3 (50 × 109/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d44cc33bb9ba439681c18664fa58ff2b",
+                                    "content": "Ammonia level 28 mcg/dL (16.8 mcmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b64dfe4d668740a7bca33f88ab379ed7",
+                                    "content": "White blood cell (WBC) count 4500 mm3 (4.5 × 109/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse would be prepared to institute bleeding precautions in the client receiving antineoplastic medication if which result was reported from the laboratory?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPlatelets are the building blocks of blood clots. The normal platelet count is 150,000 to 400,000 mm3 (150 to 400 × 109/L). Bleeding precautions need to be instituted when the platelet count drops to a low level, as defined by agency policy. Bleeding precautions include avoiding all trauma, such as rectal temperatures or injections. The normal clotting time is 8 to 15 seconds. The normal ammonia value is 10 to 80 mcg/dL (6 to 47 mcmol/L). The normal WBC count is 5000 to 10,000 mm3 (5 to 10 × 109/L). When the WBC count drops, neutropenic precautions need to be implemented.",
+                        "id": "c461aa017a554b7297452ba3b412a4e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "928da29bca354221818cae0aa3a6f3f8",
+                                "content": "Anemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1efccacb76b04f10a69fca3696ec0c34",
+                                "content": "Thrombocytopenia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9652603b16564047992ed7c5bfe873dd",
+                                "content": "Bone marrow suppression"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "076935c184924e7fb2835e51636255ac",
+                                "content": "Low hemoglobin and hematocrit (H&H) counts"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "928da29bca354221818cae0aa3a6f3f8",
+                                    "content": "Anemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1efccacb76b04f10a69fca3696ec0c34",
+                                    "content": "Thrombocytopenia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9652603b16564047992ed7c5bfe873dd",
+                                    "content": "Bone marrow suppression"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "076935c184924e7fb2835e51636255ac",
+                                    "content": "Low hemoglobin and hematocrit (H&H) counts"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a chemotherapy client with a low platelet aggregation level. Which likely caused this decreased platelet production?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSuppression of bone marrow function is a result of many chemotherapy medications, leading to inhibition of platelet production. Because of bone marrow suppression, chemotherapy clients are at risk of bruising and bleeding, and these risks are increased by medications that inhibit platelet function, such as most conventional nonsteroidal anti-inflammatory drugs (NSAIDs). Aspirin is especially dangerous because it causes irreversible inhibition of platelet aggregation. The other options are incorrect.",
+                        "id": "f5dcde3419e74f29b600ca0ca88fec88",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6428b80e5c1b40fb95a66baaaa7cd41a",
+                                "content": "Areas of alopecia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0803386650394362a5510e17cc3df18f",
+                                "content": "Sores that do not heal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0ad94e90b9b4c43829f5514a41e72cf",
+                                "content": "Nagging cough or hoarseness"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "604771a847f2414c840bbf3040a54a7a",
+                                "content": "Indigestion or difficulty swallowing"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b90b14f213d436f862a01d9839e3709",
+                                "content": "Change in bowel or bladder habits"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "548c96f0c5774d209b328e6d7e09c55f",
+                                "content": "Absence or decreased frequency of menses"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6428b80e5c1b40fb95a66baaaa7cd41a",
+                                    "content": "Areas of alopecia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0803386650394362a5510e17cc3df18f",
+                                    "content": "Sores that do not heal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0ad94e90b9b4c43829f5514a41e72cf",
+                                    "content": "Nagging cough or hoarseness"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "604771a847f2414c840bbf3040a54a7a",
+                                    "content": "Indigestion or difficulty swallowing"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b90b14f213d436f862a01d9839e3709",
+                                    "content": "Change in bowel or bladder habits"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "548c96f0c5774d209b328e6d7e09c55f",
+                                    "content": "Absence or decreased frequency of menses"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is teaching a group of adults about the warning signs of cancer. Which signs and symptoms would the nurse mention to the group? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCancer is a neoplastic disorder that can involve all body systems. In cancer, cells lose their normal growth-controlling mechanism. Some signs and symptoms include sores that do not heal, a nagging cough or hoarseness, indigestion or difficulty swallowing, and a change in bowel or bladder habits. Areas of alopecia occur following cancer chemotherapy. Absence of menses is not a specific sign; however, abnormal occurrence of menses may be.",
+                        "id": "4f36b0c4abbd42f0bbbbb8da09aa7fe8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "c0d31ab75852a77b66c9dddae143bf8b",
+            "useTime": 3000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 9,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 9,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 19:06:58",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Cancer",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 9
+    },
+    "message": ""
+}

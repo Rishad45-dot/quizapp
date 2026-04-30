@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>Medical Terminology Quiz Player</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            background-color: #f0f2f5;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 0 12px 20px 12px;
+        }
+        /* Sticky header */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: white;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            padding: 12px 16px;
+            margin: 0 -12px 20px -12px;
+        }
+        /* inner content for consistent max-width */
+        .header-inner {
+            max-width: 1300px;
+            margin: 0 auto;
+        }
+        .title-section {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+        .chapter-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #2c7a4d;
+        }
+        .subtitle {
+            font-size: 0.85rem;
+            color: #5a6874;
+            margin-top: 2px;
+        }
+        .score-area {
+            font-weight: 600;
+            background: #e8f0fe;
+            padding: 4px 12px;
+            border-radius: 24px;
+            font-size: 0.8rem;
+            white-space: nowrap;
+        }
+        .progress-section {
+            background: #ecf5ff;
+            border-radius: 30px;
+            padding: 4px 8px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .progress-bar-container {
+            flex: 1;
+            height: 8px;
+            background-color: #e0e7f0;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .progress-bar-fill {
+            height: 100%;
+            background-color: #2c7a4d;
+            width: 0%;
+            transition: width 0.2s;
+        }
+        .progress-text {
+            font-size: 0.8rem;
+            color: #2c7a4d;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+        .question-grid { display: flex; flex-direction: column; gap: 20px; }
+        .card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            overflow: hidden;
+        }
+        .question-header {
+            padding: 16px 20px 12px 20px;
+            border-bottom: 1px solid #e9eef3;
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .tag {
+            background: #ecf5ff;
+            color: #409eff;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+        .question-title {
+            font-size: 1rem;
+            font-weight: 500;
+            line-height: 1.4;
+            margin: 0;
+            flex: 1;
+        }
+        .options { padding: 16px 20px; display: flex; flex-direction: column; gap: 12px; }
+        .option {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            padding: 8px 12px;
+            border-radius: 10px;
+            transition: background 0.1s;
+        }
+        .option:hover { background-color: #f5f7fa; }
+        .option input { margin-top: 2px; flex-shrink: 0; transform: scale(1.1); }
+        .option label { flex: 1; cursor: pointer; color: #2c3e4e; }
+        .option .prefix { font-weight: 600; color: #409eff; width: 28px; flex-shrink: 0; }
+        .feedback {
+            background: #f9fafc;
+            border-top: 1px solid #e9eef3;
+            padding: 16px 20px;
+            font-size: 0.9rem;
+        }
+        .correct-answer { color: #2c7a4d; font-weight: 500; }
+        .your-answer { color: #d9534f; }
+        .analysis {
+            margin-top: 12px;
+            color: #5a6874;
+            background: #fff6e0;
+            padding: 12px 16px;
+            border-radius: 12px;
+            white-space: pre-wrap;
+            font-size: 0.85rem;
+        }
+        .btn-check {
+            background-color: #2c7a4d;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 30px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: 0.2s;
+            margin-top: 8px;
+        }
+        .btn-check:hover { background-color: #236b42; }
+        .status {
+            display: inline-block;
+            margin-left: 16px;
+            font-size: 0.75rem;
+            padding: 2px 10px;
+            border-radius: 30px;
+            background: #f0f2f5;
+        }
+        .status.answered { background: #e3f7ec; color: #2c7a4d; }
+        .error-box {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 20px;
+            border-radius: 12px;
+            margin: 20px 0;
+            white-space: pre-wrap;
+            font-family: monospace;
+            font-size: 0.85rem;
+        }
+        footer {
+            text-align: center;
+            margin-top: 32px;
+            font-size: 0.75rem;
+            color: #8c9aa8;
+            padding-bottom: 20px;
+        }
+        /* Mobile adjustments */
+        @media (max-width: 700px) {
+            .container { padding: 0 8px 16px 8px; }
+            .header { padding: 10px 12px; margin: 0 -8px 16px -8px; }
+            .title-section { flex-direction: column; align-items: flex-start; }
+            .score-area { align-self: flex-end; margin-top: -30px; }
+            .question-header { flex-direction: column; align-items: flex-start; }
+            .status { margin-left: 0; margin-top: 6px; }
+            .option { padding: 8px 10px; }
+            .btn-check { width: 100%; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="header-inner">
+            <div class="title-section">
+                <div>
+                    <div class="chapter-title" id="chapterTitle">加载中...</div>
+                    <div class="subtitle" id="subtitle"></div>
+                </div>
+                <div class="score-area" id="scoreDisplay">分数: --</div>
+            </div>
+            <div class="progress-section">
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="progressFill"></div>
+                </div>
+                <div class="progress-text" id="progressText">0%</div>
+            </div>
+        </div>
+    </div>
+    <div id="quizContainer" class="question-grid">
+        <div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">
+            ⏳ 正在加载，请稍候...
+        </div>
+    </div>
+    <footer>点击选项，然后按「核对答案」查看正确答案和解析。</footer>
+</div>
+
+<script>
+    // ---------- Helper functions ----------
+    function unescapeHtml(html) {
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        return div.textContent || div.innerText || '';
+    }
+
+    function parseJsonContent(jsonObj) {
+        try {
+            let studentArray = null;
+            if (jsonObj.data && jsonObj.data.record && jsonObj.data.record.extJson && jsonObj.data.record.extJson.studentQuestionArray) {
+                studentArray = jsonObj.data.record.extJson.studentQuestionArray;
+            } else if (jsonObj.record && jsonObj.record.extJson && jsonObj.record.extJson.studentQuestionArray) {
+                studentArray = jsonObj.record.extJson.studentQuestionArray;
+            } else if (jsonObj.extJson && jsonObj.extJson.studentQuestionArray) {
+                studentArray = jsonObj.extJson.studentQuestionArray;
+            } else if (jsonObj.studentQuestionArray) {
+                studentArray = jsonObj.studentQuestionArray;
+            }
+            return studentArray;
+        } catch(e) {
+            console.error(e);
+            return null;
+        }
+    }
+
+    let currentQuestions = [];
+    let userAnswers = [];
+    let answerStatus = [];
+
+    function updateProgressAndScore() {
+        let answered = 0;
+        let checked = 0;
+        for (let i = 0; i < currentQuestions.length; i++) {
+            const q = currentQuestions[i];
+            const ans = userAnswers[i];
+            if (q.type === '3') {
+                if (answerStatus[i]) checked++;
+                continue;
+            }
+            const hasAnswer = (q.type === '1' ? (ans && ans.length > 0) : (ans != null));
+            if (hasAnswer) answered++;
+            if (answerStatus[i]) checked++;
+        }
+        const percent = currentQuestions.length ? Math.round((answered / currentQuestions.length) * 100) : 0;
+        document.getElementById('progressFill').style.width = percent + '%';
+        document.getElementById('progressText').innerText = percent + '%';
+        document.getElementById('scoreDisplay').innerHTML = `📊 已答: ${answered} / ${currentQuestions.length} &nbsp; 已核对: ${checked}`;
+    }
+
+    function renderQuiz(questions) {
+        const container = document.getElementById('quizContainer');
+        if (!questions || questions.length === 0) {
+            container.innerHTML = '<div class="error-box">⚠️ 没有找到题目数据。JSON 格式可能不正确。</div>';
+            return;
+        }
+        let html = '';
+        questions.forEach((q, idx) => {
+            const qType = q.type;
+            const options = q.optionList || [];
+            const isMulti = (qType === '1');
+            const userSel = userAnswers[idx] || (isMulti ? [] : null);
+            const statusClass = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? 'answered' : '';
+            const statusText = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? '已回答' : '未答';
+            const isCorrectShown = answerStatus[idx] || false;
+            let correctIds = [];
+            if (isCorrectShown) {
+                correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
+            }
+            let selectedId = (!isMulti && userSel) ? userSel : null;
+            let selectedIds = (isMulti && Array.isArray(userSel)) ? userSel : [];
+
+            html += `<div class="card" data-qidx="${idx}">`;
+            html += `<div class="question-header">
+                        <span class="tag">${qType === '1' ? '多选题' : (qType === '3' ? '排序题' : '单选题')}</span>
+                        <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
+                        <span class="status ${statusClass}">${statusText}</span>
+                     </div>`;
+            html += `<div class="options" id="options-${idx}">`;
+            if (qType === '3') {
+                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;">
+                            <strong>📌 排序题：</strong> 下面列出原有顺序，可参考解析。<br/><ul>`;
+                options.forEach((opt, optIdx) => {
+                    html += `<li>${optIdx+1}. ${unescapeHtml(opt.content)}</li>`;
+                });
+                html += `</ul></div>`;
+                if (isCorrectShown) {
+                    let correctOrder = options.sort((a,b)=> parseInt(a.isRight) - parseInt(b.isRight)).map(o=>o.content).join(' → ');
+                    html += `<div class="analysis"><strong>正确顺序：</strong> ${correctOrder}<br/><strong>解析：</strong> ${unescapeHtml(q.textAnalysis || '无解析')}</div>`;
+                }
+            } else {
+                options.forEach((opt, optIdx) => {
+                    const letter = String.fromCharCode(65 + optIdx);
+                    const isChecked = (isMulti ? selectedIds.includes(opt.id) : selectedId === opt.id);
+                    const inputType = isMulti ? 'checkbox' : 'radio';
+                    const inputName = `q${idx}`;
+                    html += `<div class="option" data-opt-id="${opt.id}">
+                                <span class="prefix">${letter}.</span>
+                                <input type="${inputType}" name="${inputName}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
+                                <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label>
+                             </div>`;
+                });
+                html += `<div style="margin-top: 12px; text-align: right;">
+                            <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>
+                         </div>`;
+                if (isCorrectShown) {
+                    let correctAnswersText = options.filter(opt => opt.isRight === "1").map(opt => {
+                        let letterOpt = String.fromCharCode(65 + options.findIndex(o=>o.id===opt.id));
+                        return `${letterOpt}. ${unescapeHtml(opt.content)}`;
+                    }).join(' ;  ');
+                    let userAnswersText = '';
+                    if (isMulti) {
+                        let selectedOpts = options.filter(opt => selectedIds.includes(opt.id)).map(opt => {
+                            let letterOpt = String.fromCharCode(65 + options.findIndex(o=>o.id===opt.id));
+                            return `${letterOpt}. ${unescapeHtml(opt.content)}`;
+                        });
+                        userAnswersText = selectedOpts.length ? selectedOpts.join(' ; ') : '未选任何选项';
+                    } else {
+                        let selectedOpt = options.find(opt => opt.id === selectedId);
+                        userAnswersText = selectedOpt ? `${String.fromCharCode(65 + options.findIndex(o=>o.id===selectedId))}. ${unescapeHtml(selectedOpt.content)}` : '未选';
+                    }
+                    html += `<div class="feedback">
+                                <div class="correct-answer">✅ 正确答案： ${correctAnswersText}</div>
+                                <div class="your-answer">📝 你的答案： ${userAnswersText}</div>
+                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                            </div>`;
+                }
+            }
+            html += `</div></div>`;
+        });
+        container.innerHTML = html;
+
+        // attach event listeners
+        currentQuestions.forEach((q, idx) => {
+            if (q.type === '3') return;
+            const optionsDiv = document.getElementById(`options-${idx}`);
+            if (!optionsDiv) return;
+            const inputs = optionsDiv.querySelectorAll('input');
+            inputs.forEach(input => {
+                input.addEventListener('change', () => {
+                    const isMulti = (q.type === '1');
+                    if (isMulti) {
+                        let current = userAnswers[idx] || [];
+                        const val = input.value;
+                        if (input.checked) {
+                            if (!current.includes(val)) current.push(val);
+                        } else {
+                            current = current.filter(v => v !== val);
+                        }
+                        userAnswers[idx] = current;
+                    } else {
+                        if (input.checked) userAnswers[idx] = input.value;
+                    }
+                    const statusSpan = document.querySelector(`.card[data-qidx="${idx}"] .status`);
+                    if (statusSpan) {
+                        const hasAnswer = (isMulti ? (userAnswers[idx]?.length > 0) : (userAnswers[idx] != null));
+                        statusSpan.innerText = hasAnswer ? '已回答' : '未答';
+                        if (hasAnswer) statusSpan.classList.add('answered');
+                        else statusSpan.classList.remove('answered');
+                    }
+                    if (answerStatus[idx]) {
+                        const feedbackDiv = document.querySelector(`.card[data-qidx="${idx}"] .feedback`);
+                        if (feedbackDiv) feedbackDiv.remove();
+                        answerStatus[idx] = false;
+                    }
+                    updateProgressAndScore();
+                });
+            });
+            const checkBtn = document.querySelector(`.btn-check[data-idx="${idx}"]`);
+            if (checkBtn) {
+                checkBtn.addEventListener('click', () => {
+                    answerStatus[idx] = true;
+                    renderQuiz(currentQuestions);
+                });
+            }
+        });
+        updateProgressAndScore();
+    }
+
+    function loadAndRenderFromData(data, fileName) {
+        const questions = parseJsonContent(data);
+        if (!questions || questions.length === 0) {
+            document.getElementById('quizContainer').innerHTML = '<div class="error-box">❌ JSON 文件中没有找到题目数组。请检查文件格式。</div>';
+            document.getElementById('chapterTitle').innerText = '加载失败';
+            return;
+        }
+        currentQuestions = questions;
+        userAnswers = new Array(questions.length).fill(null);
+        answerStatus = new Array(questions.length).fill(false);
+        for (let i = 0; i < questions.length; i++) {
+            if (questions[i].type === '1') userAnswers[i] = [];
+        }
+        renderQuiz(questions);
+        let displayName = fileName.replace(/\.json$/i, '').split('/').pop();
+        document.getElementById('chapterTitle').innerText = displayName;
+        let sub = null;
+        if (data.parentCategory) sub = data.parentCategory;
+        else if (data.originalData && data.originalData.parentCategory) sub = data.originalData.parentCategory;
+        else if (data.data && data.data.chapterName) sub = data.data.chapterName;
+        document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
+    }
+
+    // Main: auto-load from URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const fileParam = urlParams.get('file');
+    if (!fileParam) {
+        document.getElementById('quizContainer').innerHTML = '<div class="error-box">❌ 未提供文件参数。请通过 ?file=相对路径 打开此页面。</div>';
+        document.getElementById('chapterTitle').innerText = '错误';
+    } else {
+        const decodedFile = decodeURIComponent(fileParam);
+        document.getElementById('chapterTitle').innerText = '加载中...';
+        fetch(decodedFile)
+            .then(response => {
+                if (!response.ok) throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                return response.json();
+            })
+            .then(data => loadAndRenderFromData(data, decodedFile))
+            .catch(err => {
+                console.error(err);
+                document.getElementById('quizContainer').innerHTML = `
+                    <div class="error-box">
+                        <strong>❌ 加载 JSON 文件失败</strong><br>
+                        文件路径: ${decodedFile}<br>
+                        错误信息: ${err.message}<br><br>
+                        请确保:<br>
+                        1. 文件存在于服务器根目录下的正确位置。<br>
+                        2. 路径使用正斜杠 (/) 且大小写正确。<br>
+                        3. 您通过本地服务器访问此页面。
+                    </div>
+                `;
+                document.getElementById('chapterTitle').innerText = '加载失败';
+            });
+    }
+</script>
+</body>
+</html>

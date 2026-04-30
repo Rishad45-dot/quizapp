@@ -1,0 +1,1907 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 12:57:18",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 12:57:18",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 12:57:21",
+            "id": "9a1f58f6f8acf7ce83836e57c04f1200",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05f5ae73182d92e530607d304849b32e",
+                                "videoIdContent": "",
+                                "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Check the results of the client's most recent renal function tests</span><br>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b7bff3182801efcb48defcdca759b0e",
+                                "videoIdContent": "",
+                                "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Obtain the client's blood pressure</span>"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e938f0ab55f52cafe7531b2009d9408e",
+                                "videoIdContent": "",
+                                "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Stop the continuous feeding for 1 - 2 hours</span>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0d6efd65efce61071e3266550baa60c",
+                                "videoIdContent": "",
+                                "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Verify placement of the nasogastric tube after administering the medication</span>"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05f5ae73182d92e530607d304849b32e",
+                                    "videoIdContent": "",
+                                    "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Check the results of the client's most recent renal function tests</span><br>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b7bff3182801efcb48defcdca759b0e",
+                                    "videoIdContent": "",
+                                    "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Obtain the client's blood pressure</span>"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e938f0ab55f52cafe7531b2009d9408e",
+                                    "videoIdContent": "",
+                                    "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Stop the continuous feeding for 1 - 2 hours</span>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0d6efd65efce61071e3266550baa60c",
+                                    "videoIdContent": "",
+                                    "content": "<span style=\"color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;SF Pro SC&quot;, &quot;SF Pro Display&quot;, &quot;SF Pro Icons&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-wrap: wrap;\">Verify placement of the nasogastric tube after administering the medication</span>"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p><span style=\"color: rgba(0, 0, 0, 0.85); font-size: 16px;\">The nurse is preparing to administer phenytoin oral suspension via nasogastric tube to a client with a seizure disorder. The client is receiving continuous enteral feedings. Which of the following actions should the nurse take?</span></p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "videoIdAnalysis": "",
+                        "textAnalysis": "<p>Phenytoin is an anticonvulsant medication commonly used to treat focal and tonic - clonic seizures. Phenytoin has a narrow therapeutic range, is absorbed slowly, and requires steady absorption to maintain therapeutic serum levels and control seizure activity. The nurse should pause tube feedings for 1 - 2 hours before and after phenytoin administration, as tube feedings can decrease phenytoin absorption and serum levels (Option 3).</p><p><br></p><p>(Option 1) Phenytoin is metabolized in the liver and requires liver function monitoring as it can cause liver damage. Unless clients have renal insufficiency, renal function tests are not routinely monitored.</p><p>(Option 2) Blood pressure is not usually affected in clients receiving oral phenytoin therapy for seizure disorders. However, IV phenytoin may cause hypotension and cardiac arrhythmias.</p><p>(Option 4) The nurse should verify nasogastric tube placement before medication administration to prevent aspiration/delivery into the lung.</p><p><br></p><p>Educational objective:</p><p>Phenytoin is an anticonvulsant medication commonly used to treat seizure disorders. Steady absorption is necessary to maintain therapeutic serum levels to control seizure activity. Phenytoin has a narrow therapeutic range and is absorbed slowly. The nurse should pause tube feedings for 1 - 2 hours before and after phenytoin administration, as tube feedings can decrease phenytoin absorption and serum levels.</p><p><br></p><p>Pharmacological and Parenteral Therapies</p><p>NCSBN Client Need</p>",
+                        "id": "032e80b13457f85fbf608c1d8eb426d5",
+                        "videoIdContent": "",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2ee5705d88bc6920822ad3ac5bc164f",
+                                "content": "Lidocaine 5% patch over intact skin for a client with chronic postherpetic neuralgia who reports intolerable, persistent, burning pain(22%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ac59b87f9b754726dd2d1ab678be8db",
+                                "content": "Hydromorphone IV for a client who has a fractured femur, is a known IV heroin abuser, and rates pain as 9 on a 0-10 scale(34%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34466cf3323e2e889f6896a7d11f7555",
+                                "content": "Tramadol for a client who is being prepared for discharge following a laparoscopic cholecystectomy and rates abdominal pain as 6 on a 0-10 scale(16%)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f109d6f60ea2ff7b95843f1abfb6b2a",
+                                "content": "Transdermal fentanyl patch for a client who is 1 day postoperative above-the-knee amputation and reports intermittent, throbbing stump pain(26%)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2ee5705d88bc6920822ad3ac5bc164f",
+                                    "content": "Lidocaine 5% patch over intact skin for a client with chronic postherpetic neuralgia who reports intolerable, persistent, burning pain(22%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ac59b87f9b754726dd2d1ab678be8db",
+                                    "content": "Hydromorphone IV for a client who has a fractured femur, is a known IV heroin abuser, and rates pain as 9 on a 0-10 scale(34%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34466cf3323e2e889f6896a7d11f7555",
+                                    "content": "Tramadol for a client who is being prepared for discharge following a laparoscopic cholecystectomy and rates abdominal pain as 6 on a 0-10 scale(16%)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f109d6f60ea2ff7b95843f1abfb6b2a",
+                                    "content": "Transdermal fentanyl patch for a client who is 1 day postoperative above-the-knee amputation and reports intermittent, throbbing stump pain(26%)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reviews the analgesia prescriptions for assigned clients.&nbsp; The nurse should question the health care provider about which prescription?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\r\n\r\nA transdermal fentanyl patch is prescribed for clients suffering from moderate to severe chronic pain.  The patch provides continuous analgesia for up to 72 hours.  However, the drug is absorbed slowly through the skin into the systemic circulation and can take up to 17 hours to reach its full analgesic effect.  Therefore, it is not recommended for treating acute postoperative, temporary, or intermittent pain as it does not provide immediate analgesia when applied.\r\n\r\n（Option 1）  A lidocaine 5％ transdermal patch provides a localized, topical anesthetic to intact skin.  It is commonly prescribed for clients with chronic postherpetic neuralgia, a painful, debilitating condition that can develop following a herpes zoster （shingles） infection.\r\n\r\n（Option 2）  The client with opioid abuse history would be experiencing the same type and degree of pain as other clients with a fractured femur.  However, a higher dose or a stronger opioid analgesic （eg, hydromorphone） is needed for pain relief due to the client＇s increased opioid tolerance.\r\n\r\n（Option 3）  Tramadol is a synthetic opioid analgesic prescribed to treat moderate to severe postoperative pain.  It is appropriate to prescribe at discharge as it has fewer complications related to respiratory depression compared with other opioids.\r\n\r\nEducational objective:\r\nA transdermal fentanyl patch is indicated to treat moderate to severe chronic pain.  It is not recommended for treating acute postoperative, temporary, or intermittent pain as it does not provide immediate analgesia when applied.",
+                        "id": "0d158e09f9db4ca5825fd2bc7f28369e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ea3a88e0e7d1816a104e4d45ce34a5f",
+                                "content": "Client reports burning during injection into the IV line(4%) "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa328ef31cf0b22571952ed21c10fafa",
+                                "content": "Client reports dizziness when getting up to use the bathroom(2%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3fc549241443251a611da1dceda73837",
+                                "content": "Client's blood pressure is 106/68 mm Hg(2%)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1848eb2f84680ee558263d3f6022aff4",
+                                "content": "Client's respiratory rate is 11/min(90%)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ea3a88e0e7d1816a104e4d45ce34a5f",
+                                    "content": "Client reports burning during injection into the IV line(4%) "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa328ef31cf0b22571952ed21c10fafa",
+                                    "content": "Client reports dizziness when getting up to use the bathroom(2%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3fc549241443251a611da1dceda73837",
+                                    "content": "Client's blood pressure is 106/68 mm Hg(2%)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1848eb2f84680ee558263d3f6022aff4",
+                                    "content": "Client's respiratory rate is 11/min(90%)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "During shift report it was noted that the off-going nurse had given the client a PRN dose of morphine 2 mg every 2 hours for incisional pain.&nbsp; What current client assessment would most likely affect the oncoming nurse&#39;s decision to discontinue the administration every 2 hours?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\r\n\r\nMorphine is an opioid analgesic that can be given intravenously for moderate to severe pain.  An adverse reaction to morphine administration is respiratory depression.  A respiratory rate ＜12/min would be a reason to hold morphine administration.  The nurse should perform a more in-depth assessment of the client＇s pain and causes.  The morphine dose may need to be decreased or the time between administrations may need to be increased.  The nurse should not administer additional doses until the respiratory rate increases.\r\n\r\n（Option 1）  Morphine can cause burning during IV administration.  This can be reduced by diluting the morphine with normal saline and administering it slowly over 4-5 minutes.\r\n\r\n（Option 2）  The nurse should instruct the client to call for help before getting up to go to use the bathroom to avoid falls caused by dizziness from the morphine.\r\n\r\n（Option 3）  Morphine can lower blood pressure, and clients receiving it should have blood pressure monitored.  This blood pressure reading is not severely low and is not a priority over the respiratory depression.\r\n\r\nEducational objective:\r\nMorphine administration can cause respiratory depression.  The nurse should hold a dose of morphine for a client whose respiratory rate is ＜12/min.",
+                        "id": "2989ac6843b04e6c8f8fc1346fe4e034",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b1cb19bc821b22101e58b852dbaa2d4",
+                                "content": "Improvement in short-term memory"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "036c90c0ce25c9836e8e5e65b79edee7",
+                                "content": "Improvement in spontaneous activity"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c49bf1fd516d3618eb632950b5bc8b86",
+                                "content": "Reduction in number of visual hallucinations"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6cbaa83aeb85c04bb0e5c2ed5563c1e",
+                                "content": "Reduction of dizziness with standing"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b1cb19bc821b22101e58b852dbaa2d4",
+                                    "content": "Improvement in short-term memory"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "036c90c0ce25c9836e8e5e65b79edee7",
+                                    "content": "Improvement in spontaneous activity"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c49bf1fd516d3618eb632950b5bc8b86",
+                                    "content": "Reduction in number of visual hallucinations"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6cbaa83aeb85c04bb0e5c2ed5563c1e",
+                                    "content": "Reduction of dizziness with standing"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client is receiving scheduled doses of carbidopa-levodopa.&nbsp; The nurse evaluates the medication as having the intended effect if which finding is noted?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Parkinson disease is caused by low levels of dopamine in the brain.&nbsp; Levodopa is converted to dopamine in the brain, but much of this drug is metabolized before reaching the brain.&nbsp; Carbidopa helps prevent the breakdown of levodopa before it can reach the brain and take effect.&nbsp; This combination medication is particularly effective in treating bradykinesia （generalized slowing of movement）.&nbsp; Tremor and rigidity may also improve to some extent.&nbsp; Carbidopa-levodopa （Sinemet） once started should never be stopped suddenly as this can lead to akinetic crisis （complete loss of movement）.&nbsp; However, prolonged use can also result in dyskinesias （spontaneous involuntary movements） and on/off periods when the medication will start or stop working unpredictably.&nbsp;</p><p><br></p><p>（Option 1）&nbsp; Carbidopa-levodopa does not improve memory.&nbsp; Medications for the treatment of Alzheimer disease, such as donepezil and rivastigmine, are used to improve cognition and memory.</p><p><br></p><p>（Options 3 and 4）&nbsp; Orthostatic hypotension and neuropsychiatric disturbances （eg, confusion, hallucinations, delusions, agitation, psychosis） are serious and important adverse effects of carbidopa-levodopa.&nbsp; Health care providers usually start the medications at low doses and gradually increase them to prevent these effects.</p><p><br></p><p>Educational objective:</p><p>The combination medication carbidopa-levodopa is most helpful for treating bradykinesia in Parkinson disease and can also improve tremor and rigidity to some extent.&nbsp; It is started in low doses to prevent orthostatic hypotension and neuropsychiatric adverse effects.&nbsp; Carbidopa-levodopa once started should never be stopped suddenly as doing so can lead to akinetic crisis （complete loss of movement）.</p>",
+                        "id": "38aa88edfb7b4bb290b45f6715de7ab6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db960114d92c456b0890de9aadef6afb",
+                                "content": "  &quot;I am going for repeat testing to confirm glaucoma.&quot;\n "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9033911f6e8ac98661a506b34d86c84",
+                                "content": "&quot;I am not able to exercise as much as I used to.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56688375c25715bf11448fdf1c8b4b7f",
+                                "content": "&quot;I started taking esomeprazole for heartburn.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d0ccf6493f6f763e175628377e550e1",
+                                "content": "&quot;My bowel movements are not regular.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db960114d92c456b0890de9aadef6afb",
+                                    "content": "  &quot;I am going for repeat testing to confirm glaucoma.&quot;\n "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9033911f6e8ac98661a506b34d86c84",
+                                    "content": "&quot;I am not able to exercise as much as I used to.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56688375c25715bf11448fdf1c8b4b7f",
+                                    "content": "&quot;I started taking esomeprazole for heartburn.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d0ccf6493f6f763e175628377e550e1",
+                                    "content": "&quot;My bowel movements are not regular.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home health nurse prepares to give benztropine to a 70-year-old client with Parkinson disease.  Which client statement is most concerning and would warrant health care provider notification?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nParkinson disease (PD) is a progressive neurological disorder characterized by bradykinesia (loss of autonomic movements), rigidity, and tremors.  Clients with PD have an imbalance between dopamine and acetylcholine in which dopamine is not produced in high enough quantities to inhibit acetylcholine.  Anticholinergic medications (eg, benztropine, trihexyphenidyl) are commonly used to treat tremor in these clients.  However, in clients with benign prostatic hyperplasia or glaucoma, caution must be taken as anticholinergic drugs can precipitate urinary retention and an acute glaucoma episode.  As a result, such medications are contraindicated in these clients.\n\n(Option 2)  Decreased ability to exercise is common in clients with PD due to tremors and bradykinesia, and they require physical and occupational therapy consultations.  However, acute glaucoma can be sight threatening and is the priority.\n\n(Option 3)  Esomeprazole is safe to take with benztropine and will not cause an adverse reaction.\n\n(Option 4)  Constipation is a common side effect of benztropine.  Due to the characteristic decreased mobility, PD can also cause constipation.  The client should be instructed to increase dietary fiber intake and drink plenty of water.  However, this is not the most concerning issue.\n\nEducational objective:\nAnticholinergic medications (eg, benztropine, trihexyphenidyl) are used to treat Parkinson disease tremor.  However, they can precipitate acute glaucoma and urinary retention and are therefore contraindicated in susceptible clients (eg, those with glaucoma or benign prostatic hyperplasia).",
+                        "id": "44f49822af3c47e1801c849a9e8ce57d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23925e32e7e041a40147027434eb2bfe",
+                                "content": "Alteplase for an ischemic stroke in a client with a blood pressure of 192/112 mm Hg\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff7d86d2d8b57d43a9fb8aa4054b9d44",
+                                "content": " Amoxicillin for a respiratory infection in a client who is 20 weeks pregnant\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50c44209e5b750cb2948a620fe44b507",
+                                "content": " Fentanyl for moderate to severe pain in a client post appendectomy with an allergy to codeine\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38eea199c6e109efdb77fba78d8d4ba8",
+                                "content": " Sodium chloride 3% infusion for a client with syndrome of inappropriate antidiuretic hormone"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23925e32e7e041a40147027434eb2bfe",
+                                    "content": "Alteplase for an ischemic stroke in a client with a blood pressure of 192/112 mm Hg\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff7d86d2d8b57d43a9fb8aa4054b9d44",
+                                    "content": " Amoxicillin for a respiratory infection in a client who is 20 weeks pregnant\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50c44209e5b750cb2948a620fe44b507",
+                                    "content": " Fentanyl for moderate to severe pain in a client post appendectomy with an allergy to codeine\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38eea199c6e109efdb77fba78d8d4ba8",
+                                    "content": " Sodium chloride 3% infusion for a client with syndrome of inappropriate antidiuretic hormone"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing new prescriptions for assigned clients.  Which prescription would require further clarification from the health care provider?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nThrombolytic agents (eg, alteplase, tenecteplase, reteplase) are often prescribed to resolve acute thrombotic events (eg, ischemic stroke, myocardial infarction, massive pulmonary embolism).  They are recombinant plasminogen activators that activate the blood fibrinolytic system and dissolve thrombi.\n\nThrombolytic agents are contraindicated in clients with active bleeding, recent trauma, aneurysm, arteriovenous malformation, history of hemorrhagic stroke, and uncontrolled hypertension (blood pressure >180/110 mm Hg).  Therefore, the health care provider should be consulted for clarification.  Administering alteplase in the presence of these conditions can cause hemorrhage, including life-threatening intracerebral hemorrhage (Option 1).\n\n(Option 2)  Most penicillin derivates (eg, ampicillin, amoxicillin) and cephalosporins (eg, cephalexin, ceftriaxone) are generally considered safe for use by women who are pregnant or lactating.\n\n(Option 3)  Fentanyl is appropriate in postoperative clients with moderate to severe pain, even those with a history of allergies to codeine.  Both drugs have opiate agonist effects but are chemically different.  Codeine is a derivative of natural opiates (eg, morphine), whereas fentanyl is completely synthetic.\n\n(Option 4)  Syndrome of inappropriate antidiuretic hormone (SIADH) secretion results in water retention and dilutional hyponatremia.  Clients with SIADH often require hypertonic saline for sodium repletion to increase serum sodium levels with a minimal infused volume of water.\n\nEducational objective:\nThrombolytic agents (eg, alteplase, tenecteplase, reteplase) place clients at risk for bleeding.  Therefore, they are contraindicated in clients with active bleeding, recent trauma, aneurysm, arteriovenous malformation, history of hemorrhagic stroke, and uncontrolled hypertension.",
+                        "id": "57e097ee3f6642b4ac2e71910ff18b59",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a66afceeb435c037024c5b29152adeb",
+                                "content": "  &quot;Has any family member ever had a bad reaction to general anesthesia?&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a67495383706d5a9fceb2e68725f2224",
+                                "content": " &quot;Have you ever experienced low back pain?&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bdfee9b0747ea38ad2183f74bc1d406",
+                                "content": " &quot;Have you ever had an anaphylactic reaction to a bee sting?&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ddbe78ddcba87ebe4a218af8f723a56",
+                                "content": "&quot;Have you ever received opioid pain medications?&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a66afceeb435c037024c5b29152adeb",
+                                    "content": "  &quot;Has any family member ever had a bad reaction to general anesthesia?&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a67495383706d5a9fceb2e68725f2224",
+                                    "content": " &quot;Have you ever experienced low back pain?&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bdfee9b0747ea38ad2183f74bc1d406",
+                                    "content": " &quot;Have you ever had an anaphylactic reaction to a bee sting?&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ddbe78ddcba87ebe4a218af8f723a56",
+                                    "content": "&quot;Have you ever received opioid pain medications?&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the same-day surgery unit admits a client who will receive general anesthesia.  The client has never had surgery before.  Which question is most critical for the nurse to ask the client during the preoperative assessment and health history?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nMalignant hyperthermia (MH) is a rare but life-threatening inherited muscle abnormality that is triggered by specific, inhaled anesthetic agents and the depolarizing muscle relaxant succinylcholine (Anectine) used to induce general anesthesia.\n\nIn MH-susceptible clients, the triggering agent leads to excessive release of calcium from the muscles, leading to sustained muscle contraction and rigidity (usually of the jaw and upper body [early sign]), increased oxygen demand and metabolism, and dangerously high temperature (later sign).\n\nAs MH is an inherited condition, proper screening and a thorough preoperative nursing assessment and health history can help minimize the client's risk (Option 1).\n\n(Option 2)  Cervical spine problems should be assessed before the intubation.  Low back pain history is not a priority for general anesthesia.\n\n(Option 3)  It would be appropriate to ask about allergies (eg, drugs, latex).  However, asking about an anaphylactic reaction to a bee sting is not the most critical question.\n\n(Option 4)  History of prior opioid intake may be helpful, but the most important question is to ask about side effects and allergies.\n\nEducational objective:\nMalignant hyperthermia (MH) is a rare, life-threatening inherited muscular abnormality that is triggered by specific drugs used to induce general anesthesia.  Therefore, it is critical for the perioperative nurse to screen for MH susceptibility by asking if any of the client's blood relatives had ever experienced an adverse reaction to general anesthesia, including unexplained death.",
+                        "id": "5c4969b12c1a4f529dcfc59a027d9b69",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5abe42106d04f8c24ffd1d63d9d0f724",
+                                "content": " Encourage client to drink cold beverages\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5aeff720c795e4c3733041944c8536d",
+                                "content": "Encourage client to eat a high-fiber diet\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5343f72ee1e028fe8304a3a47a5ba227",
+                                "content": " Encourage client to perform facial massage\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ddac79262b6b945566581efcdbbd719f",
+                                "content": " Encourage client to report any fever or sore throat"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5abe42106d04f8c24ffd1d63d9d0f724",
+                                    "content": " Encourage client to drink cold beverages\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5aeff720c795e4c3733041944c8536d",
+                                    "content": "Encourage client to eat a high-fiber diet\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5343f72ee1e028fe8304a3a47a5ba227",
+                                    "content": " Encourage client to perform facial massage\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ddac79262b6b945566581efcdbbd719f",
+                                    "content": " Encourage client to report any fever or sore throat"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client diagnosed with trigeminal neuralgia is given a prescription of carbamazepine by the health care provider.  Which intervention does the nurse add to this client's care plan?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1743579241595.png\"></p><p>Explanation:Trigeminal neuralgia is sudden, sharp pain along the distribution of the trigeminal nerve.  The symptoms are usually unilateral and primarily in the maxillary and mandibular branches.  Clients may experience chronic pain with periods of less severe pain, or \"cluster attacks\" of pain between long periods without pain.  Triggers can include washing the face, chewing food, brushing teeth, yawning, or talking.  Pain is severe, intense, burning, or electric shock-like.  The primary intervention for trigeminal neuralgia is consistent pain control with medications and lifestyle changes.  The drug of choice is carbamazepine.  It is a seizure medication but is highly effective for neuropathic pain.  Carbamazepine is associated with agranulocytosis (leukopenia) and infection risk.  Clients should be advised to report any fever or sore throat.</p><p><br></p><p>Behavioral interventions include the following:</p><p><br></p><p>Oral care – use a small, soft-bristled toothbrush or a warm mouth wash</p><p>Use lukewarm water; avoid beverages or food that are too hot or cold (Option 1)</p><p>Room should be kept at an even and moderate temperature</p><p>Avoid rubbing or facial massage.  Use cotton pads to wash the face if necessary.</p><p>Have a soft diet with high calorie content; avoid foods that are difficult to chew.  Chew on the unaffected side of the mouth.</p><p>(Option 2)  A high-fiber diet is not required for a client with trigeminal neuralgia, and the additional chewing with higher-fiber foods may serve as a pain trigger.</p><p><br></p><p>(Option 3)  Clients with trigeminal neuralgia are encouraged not to massage the face as this can trigger pain.</p><p><br></p><p>Educational objective:</p><p>The primary intervention for trigeminal neuralgia includes pain control and limiting pain triggers.  The drug of choice is carbamazepine.  Triggers can include washing the face, chewing food, brushing teeth, yawning, or talking.  Carbamazepine is associated with agranulocytosis (leukopenia) and infection risk.  Clients should be advised to report any fever or sore throat.</p>",
+                        "id": "5ecb523987bf42dea8e9cc30e317a9ff",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e4ecff5d767e4fe4a6777ce8d7d6aa3",
+                                "content": "Continue phenytoin as prescribed(13%)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ffb4767d22f81c87d3deb0c85feece59",
+                                "content": "Decrease phenytoin daily dose(75%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "181123b97902eeb6dc3f45b4987aacdc",
+                                "content": "Increase phenytoin daily dose(3%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed0ce43331552b95c69f5967d5294328",
+                                "content": "Repeat serum phenytoin level in 2 hours(6%)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e4ecff5d767e4fe4a6777ce8d7d6aa3",
+                                    "content": "Continue phenytoin as prescribed(13%)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ffb4767d22f81c87d3deb0c85feece59",
+                                    "content": "Decrease phenytoin daily dose(75%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "181123b97902eeb6dc3f45b4987aacdc",
+                                    "content": "Increase phenytoin daily dose(3%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed0ce43331552b95c69f5967d5294328",
+                                    "content": "Repeat serum phenytoin level in 2 hours(6%)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client was prescribed phenytoin (100 mg PO 3 times a day) a month ago.&nbsp; Today, the client has a serum phenytoin level of 32 mcg/mL (127 mcmol/L).&nbsp; The nurse notifies the health care provider and expects which prescription?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\r\n\r\nPhenytoin （Dilantin） is an anticonvulsant drug used to treat generalized tonic-clonic seizures.  The therapeutic serum phenytoin range is 10-20 mcg/mL （40-79 mcmol/L）.  In the presence of an elevated phenytoin level （32 mcg/mL [127 mcmol/L]）, the nurse anticipates that the health care provider will prescribe a decreased daily dose （Option 2）.  The nurse should continue to monitor for signs of toxicity, typically presenting as neurological manifestations （eg, ataxia, nystagmus, slurred speech, decreased mentation）.\r\n\r\n（Options 1 and 3）  The serum phenytoin level is above the therapeutic level, so administering the prescribed dose or increasing the dose can further increase the risk for drug-induced toxicity.\r\n\r\n（Option 4）  Repeating the serum phenytoin level in 2 hours will not result in a significant change because the average half-life of the drug is 22 hours.\r\n\r\nEducational objective:\r\nPhenytoin （Dilantin） is used to treat generalized tonic-clonic seizures.  Common symptoms of phenytoin toxicity involve the central nervous system （eg, nystagmus, ataxia, slurred speech, decreased mentation） and can occur when serum phenytoin levels exceed the therapeutic range （10-20 mcg/mL [40-79 mcmol/L]）.",
+                        "id": "603983a515c445a292922b127274a8f8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4cfaa3eed60b551a97fd316701e6681",
+                                "content": "&quot;I am feeling unsteady when I walk.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f734f4bcfc099ab279df4bb4beb6830b",
+                                "content": " &quot;I am getting up to urinate about 4 times during the night.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b533d316746d5ef67b2d14986cafae58",
+                                "content": "&quot;I have a metallic taste in my mouth when I eat.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5bea7f2f19e65170d59e6b770c5fa85",
+                                "content": "  &quot;My gums are getting so puffy and red.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4cfaa3eed60b551a97fd316701e6681",
+                                    "content": "&quot;I am feeling unsteady when I walk.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f734f4bcfc099ab279df4bb4beb6830b",
+                                    "content": " &quot;I am getting up to urinate about 4 times during the night.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b533d316746d5ef67b2d14986cafae58",
+                                    "content": "&quot;I have a metallic taste in my mouth when I eat.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5bea7f2f19e65170d59e6b770c5fa85",
+                                    "content": "  &quot;My gums are getting so puffy and red.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The home health nurse reviews the serum laboratory test results for a client with seizures.  The phenytoin level is 27 mcg/mL.  The client makes which statement that may indicate the presence of dose-related drug toxicity and prompt the nurse to notify the health care provider?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Phenytoin (Dilantin) is an anticonvulsant drug used to treat generalized tonic-clonic seizures.  The therapeutic serum phenytoin reference range is between 10-20 mcg/mL.  Levels are measured when therapy is initiated, periodically throughout treatment to guide dosing until a steady state is attained (3-12 months), and if seizure activity increases.</p><p><br></p><p>Early signs of toxicity include horizontal nystagmus and gait unsteadiness.  These may be followed by slurred speech, lethargy, confusion, and even coma.  Bradyarrhythmias and hypotension are usually seen with intravenous phenytoin.</p><p><br></p><p>(Option 2)  Nocturia is an expected side effect of diuretics but not phenytoin.  Nocturia is also seen with diabetes mellitus and benign prostatic hyperplasia.</p><p><br></p><p>(Option 3)  Metallic taste in the mouth is often seen with metronidazole but not with phenytoin.</p><p><br></p><p>(Option 4)  Gingival hyperplasia is a common expected side effect of phenytoin and does not indicate drug toxicity.  It occurs more often in clients &lt;23 years of age who are prescribed &gt;500 mg/day.  Good oral hygiene can limit symptoms.</p><p><br></p><p>Educational objective:</p><p>Phenytoin, an anticonvulsant drug, is used to treat generalized tonic-clonic seizures.  Common symptoms of phenytoin drug-induced toxicity involve the central nervous system and include ataxia, nystagmus, slurred speech, and decreased alertness.</p>",
+                        "id": "6703a7ea5cf543c1b36f0a278b879a7c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9ee90bba4a60ed10c93a49e36293016",
+                                "content": "Diet high in iron\n "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2507a576d50e7ab90e29db9bddbda9d5",
+                                "content": "Good oral care and dental follow-up\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd115e2c53a51d434ac0a060aebba5c2",
+                                "content": " Shaving with an electric razor\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c83fdc3e37831a97b1b0f3a1f7df6a3",
+                                "content": "Use of sunglasses for eye protection"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9ee90bba4a60ed10c93a49e36293016",
+                                    "content": "Diet high in iron\n "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2507a576d50e7ab90e29db9bddbda9d5",
+                                    "content": "Good oral care and dental follow-up\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd115e2c53a51d434ac0a060aebba5c2",
+                                    "content": " Shaving with an electric razor\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c83fdc3e37831a97b1b0f3a1f7df6a3",
+                                    "content": "Use of sunglasses for eye protection"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with seizure disorder is prescribed a moderately high dose of phenytoin.  Which teaching topic should the nurse discuss with this client?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "The nurse should discuss the need to perform good oral hygiene with a soft-bristle toothbrush and to visit the dentist regularly as phenytoin can cause gingival hyperplasia (overgrowth of the gum tissues or reddened gums that bleed easily), especially in high doses.  Folic acid supplementation can also reduce this side effect.\n\nThe other major side effects of phenytoin use are an increase in body hair, rash, folic acid depletion, and decreased bone density (osteoporosis).\n\n(Option 1)  Long-term use of phenytoin can cause folic acid deficiency and decreased bone density.  Therefore, a diet high in folic acid and calcium should be recommended.\n\n(Option 3)  Clients who use anticoagulants (eg, warfarin, rivaroxaban, apixaban) should avoid cuts and preferably use an electric razor for shaving.\n\n(Option 4)  Exposure of the eyes to ultraviolet light and use of corticosteroids are risk factors for cataract development.\n\nEducational objective:\nThe nurse should encourage the client taking phenytoin to perform good oral hygiene and visit the dentist regularly to prevent gingival hyperplasia.  The other major side effects of phenytoin use are an increase in body hair, rash, folic acid depletion, and decreased bone density (osteoporosis).\n\nC",
+                        "id": "76d5f0fa8f0a4f8a8b2a19112fb802ab",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4ddf73e3fdb7919f78392a100726bda",
+                                "content": "Blood urea nitrogen of 12 mg/dL (4.28 mmol/L)(5%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f45b87dcfd38f5dd5c2b654e433247a2",
+                                "content": "BMI of 34 kg/m2 recorded during today's examination(1%)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b833f7a30b3f54cf966162570bd9ee4",
+                                "content": "Past medical history of uncontrolled hypertension(61%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d815f3a75585b473c4eb4cf4eec3573",
+                                "content": "Takes alprazolam as prescribed for anxiety(30%)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4ddf73e3fdb7919f78392a100726bda",
+                                    "content": "Blood urea nitrogen of 12 mg/dL (4.28 mmol/L)(5%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f45b87dcfd38f5dd5c2b654e433247a2",
+                                    "content": "BMI of 34 kg/m2 recorded during today's examination(1%)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b833f7a30b3f54cf966162570bd9ee4",
+                                    "content": "Past medical history of uncontrolled hypertension(61%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d815f3a75585b473c4eb4cf4eec3573",
+                                    "content": "Takes alprazolam as prescribed for anxiety(30%)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse prepares to administer a newly prescribed dose of sumatriptan to a client with a migraine headache.&nbsp; Which item in the client&#39;s history would cause the nurse to question the prescription?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation\r\n\r\nSumatriptan is a selective serotonin agonist prescribed to treat migraine headaches, which are thought to be caused by dilated cranial blood vessels.  Triptan drugs, like sumatriptan, work by constricting cranial blood vessels, and clients should be instructed to take a dose at the first sign of a migraine to help prevent and relieve symptoms.\r\n\r\nSumatriptan is contraindicated in clients with coronary artery disease and uncontrolled hypertension because its vasoconstrictive properties increase the risk of angina, hypertensive urgency, decreased cardiac perfusion, and acute myocardial infarction.  The nurse should question the client about a past medical history of uncontrolled hypertension and report this to the health care provider （Option 3）.\r\n\r\n（Option 1）  A blood urea nitrogen level of 12 mg/dL （4.28 mmol/L） is a normal value （normal range 6–20 mg/dL [2.1–7.1 mmol/L]）.\r\n\r\n（Option 2）  Sumatriptan is not contraindicated for underweight or overweight clients.\r\n\r\n（Option 4）  Sumatriptan is not contraindicated with alprazolam therapy.  However, because of its serotonergic effects, clients already taking selective serotonin reuptake inhibitors （eg, sertraline, paroxetine） or selective norepinephrine reuptake inhibitors （eg, venlafaxine, duloxetine） should be monitored for signs of serotonin syndrome.\r\n\r\nEducational objective:\r\nSumatriptan relieves migraines by constricting dilated cranial blood vessels.  Sumatriptan is contraindicated in clients with coronary artery disease and uncontrolled hypertension because the vasoconstrictive effects can cause hypertensive urgency, angina, decreased cardiac perfusion, and acute myocardial infarction.",
+                        "id": "7766330cc5ad4ffca8663a1630727e03",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e64ea8a1b5bcf9dcc9b82a95696da85",
+                                "content": "  &quot;It destroys tumor cells and helps shrink the tumor.&quot;\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbe861c23d6051cfcde2ad9cb0d2e4be",
+                                "content": "\n &quot;It prevents seizure development.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2741c898b713f542ee8b333cc62bc04e",
+                                "content": "&quot;It prevents blood clots in legs.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "37b8c4c37956ac4201c52d8d36b439b0",
+                                "content": "&quot;It reduces swelling around the tumor.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e64ea8a1b5bcf9dcc9b82a95696da85",
+                                    "content": "  &quot;It destroys tumor cells and helps shrink the tumor.&quot;\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbe861c23d6051cfcde2ad9cb0d2e4be",
+                                    "content": "\n &quot;It prevents seizure development.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2741c898b713f542ee8b333cc62bc04e",
+                                    "content": "&quot;It prevents blood clots in legs.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "37b8c4c37956ac4201c52d8d36b439b0",
+                                    "content": "&quot;It reduces swelling around the tumor.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a brain tumor is admitted for surgery.  The health care provider prescribes levetiracetam.  The client asks why.   What is the nurse's response?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nLevetiracetam (Keppra) is a medication often used to treat seizures in various settings.  It has minimal drug-drug interactions compared to phenytoin and is often the preferred antiepileptic medication.\n\n(Option 1)  Chemotherapy and radiation therapy would kill tumor cells and reduce tumor size.\n\n(Option 3)  Hospitalized clients and clients with malignancy are at higher risk for venous thromboembolism.  These clients would benefit from anticoagulation (eg, heparin, enoxaparin, rivaroxaban, apixaban).\n\n(Option 4)  Dexamethasone, a corticosteroid, is used to treat cerebral edema associated with a brain injury/tumor by decreasing inflammation.\n\nEducational objective:\nLevetiracetam (Keppra) is a medication often used to treat seizures in various settings.  Corticosteroids are used to reduce inflammation and cerebral edema in clients with brain injury and tumors.",
+                        "id": "8ce2ef12bf2842948f4432fc9a76c07c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0d7cf3df235b4939d39793f5f2c8c14",
+                                "content": " Ask if the client is currently taking any prescription antidepressant medications\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6dc5bbfa5489ea7048b15a1a562b2d5",
+                                "content": "\nAsk if the client has been diagnosed with depression by a mental health care provider (HCP)\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "066e98eac5fc35bcc4471d0bb1efdf5b",
+                                "content": "Ask if the client takes a multivitamin with iron\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bfed53fe1750bae03193d1192c3cdfbc",
+                                "content": "Ask if the client uses tanning beds"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0d7cf3df235b4939d39793f5f2c8c14",
+                                    "content": " Ask if the client is currently taking any prescription antidepressant medications\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6dc5bbfa5489ea7048b15a1a562b2d5",
+                                    "content": "\nAsk if the client has been diagnosed with depression by a mental health care provider (HCP)\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "066e98eac5fc35bcc4471d0bb1efdf5b",
+                                    "content": "Ask if the client takes a multivitamin with iron\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bfed53fe1750bae03193d1192c3cdfbc",
+                                    "content": "Ask if the client uses tanning beds"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The office nurse, while reviewing a client's health information, notices that the client has recently started taking St. John's wort for symptoms of depression.  What additional information is most important for the nurse to obtain?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:St. John's wort is an herbal product commonly used by many clients to treat depression.  However, it may interact with medications used to treat depression or other mood disorders, including tricyclic antidepressants, selective serotonin and/or norepinephrine receptor inhibitors (SSRIs/SNRIs), and monoamine oxidase inhibitors (MAOIs).  Taking St. John's wort with these medications tends to increase side effects and could potentially lead to a dangerous condition called serotonin syndrome.\n\nSerotonin is a chemical produced by the body that is needed for the nerve cells and brain to function.  Excessive serotonin causes symptoms that can range from mild (shivering and diarrhea) to severe (muscle rigidity, fever, and seizures).  Severe serotonin syndrome can be fatal if it is not treated.\n\n(Option 2)  The nurse can ask the client if a diagnosis of depression has been made by an HCP, but inquiring about possible medications that can interact with St. John's wort is more important at this time.\n\n(Option 3)  St. John's wort may interfere with the absorption of iron and other minerals.  This is a teaching point, but it is not the highest priority question to ask the client.\n\n(Option 4)  St. John's wort can cause photosensitivity which could be exacerbated by use of tanning beds.  However, this is not the highest priority question to ask the client.\n\nEducational objective:\nSt. John's wort interferes with many prescription medications.  It is a priority for the nurse to assess for concomitant use of St. John's wort with prescription SSRIs, MAOIs, or tricyclic antidepressants as such combinations can cause serotonin syndrome.",
+                        "id": "901dda80959e4176957cf7250762f20b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "296f14fcb55c4795e22f4f390267f49a",
+                                "content": " &quot;I can't believe this is happening right after my stomach surgery.&quot;\n "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af003782b47a15bed9addd26b7488268",
+                                "content": " &quot;I had a concussion after a car accident a year ago.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94c7f4d3a3c6fc14d35a7753fd71e9e2",
+                                "content": " &quot;I started noticing my right arm becoming weak approximately an hour ago.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "78f6070f6fd0258eff7671cf8208ec9b",
+                                "content": "&quot;I stopped taking my warfarin 4 weeks ago.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "296f14fcb55c4795e22f4f390267f49a",
+                                    "content": " &quot;I can't believe this is happening right after my stomach surgery.&quot;\n "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af003782b47a15bed9addd26b7488268",
+                                    "content": " &quot;I had a concussion after a car accident a year ago.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94c7f4d3a3c6fc14d35a7753fd71e9e2",
+                                    "content": " &quot;I started noticing my right arm becoming weak approximately an hour ago.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "78f6070f6fd0258eff7671cf8208ec9b",
+                                    "content": "&quot;I stopped taking my warfarin 4 weeks ago.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client having an ischemic stroke arrives at the emergency department.  The health care provider prescribes tissue plasminogen activator (tPA).  Which client statement would be most important to clarify before administering tPA?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nTissue plasminogen activator (tPA) dissolves clots and restores perfusion in clients with ischemic stroke.  It must be administered within a 3- to 4½-hour window from onset of symptoms for full effectiveness.  The nurse assesses for contraindications to tPA due to the risk of hemorrhage.\n\nThe client should not have a history of intracranial hemorrhage or be actively bleeding.  Surgery within the last 2 weeks is a contraindication as tPA dissolves all clots in the body and may disrupt the surgical site.  This client indicates a recent stomach surgery, which would need further clarification to determine eligibility to receive tPA (Option 1).\n\n(Option 2)  A client's history of stroke or head trauma in the last 3 months could exclude tPA use.\n\n(Option 3)  The nurse should determine when the client first developed stroke symptoms.  tPA can be administered if symptoms started within the last 3 to 4½ hours or based on facility guidelines.\n\n(Option 4)  Current anticoagulant use may exclude a client from receiving tPA.  The duration of action for warfarin is 2-5 days; this client can safely receive tPA as warfarin was discontinued 4 weeks ago.  However, if pending coagulation studies drawn prior to tPA administration are elevated, the infusion may be discontinued.\n\nEducational objective:\nTissue plasminogen activator (tPA) dissolves clots in an ischemic stroke and must be administered within a 3- to 4½-hour window from onset of symptoms.  The nurse assesses for contraindications to tPA due to the risk of hemorrhage.",
+                        "id": "9541c9cd40d546cc93e0d56fc6de725d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a1f1e96380ed1ac155062c72ee7e595",
+                                "content": " Evening primrose\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "086225010ca8988d563c4811cb442222",
+                                "content": " Ginseng\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "712bd0c8aec89ca0a574513aae020ce7",
+                                "content": "Melatonin\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5002b09a81cd4f447504d50ca0fcd831",
+                                "content": "St. John's wort"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a1f1e96380ed1ac155062c72ee7e595",
+                                    "content": " Evening primrose\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "086225010ca8988d563c4811cb442222",
+                                    "content": " Ginseng\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "712bd0c8aec89ca0a574513aae020ce7",
+                                    "content": "Melatonin\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5002b09a81cd4f447504d50ca0fcd831",
+                                    "content": "St. John's wort"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is preparing for a medical relief trip to West Africa and is concerned about a disruption in circadian rhythm from traveling across several time zones.  Which herbal supplement might help synchronize the body to environmental time?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nMelatonin supplements are thought to help the body adjust quickly to new surroundings and time zones (jet lag).  Most practitioners agree that the lowest possible dose should be used and should be taken only for a short time.  There are no long-term studies on the safety of melatonin.  Higher doses may cause side effects such as vivid dreams and nightmares.\n\nResearch suggests that taking melatonin once a person has reached the travel destination is sufficient and that starting it prior to or during air travel may actually slow the recovery of jet lag, energy, and alertness.\n\n(Option 1)  Evening primrose may be used for eczema or skin irritations.\n\n(Option 2)  Ginseng is used to promote mental alertness and enhance the immune system.\n\n(Option 4)  St. John's wort is used for treatment of depression.  It has many interactions with other prescription medications.\n\nEducational objective:\nShort-term use of low-dose melatonin may be considered to treat jet lag and fatigue from traveling across time zones.",
+                        "id": "a6448da2b30c40fa8b46f1aa217be97d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2be813e1bdad3919479d2eec0d2304b3",
+                                "content": "Benztropine(10%)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9f13e15a59100045e801695d58b23919",
+                                "content": "Flumazenil(36%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "672f2b2cceae4642fd3f0ac338b9b23d",
+                                "content": "Naloxone(46%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e5ebd28ae17aa63770ba53465909a844",
+                                "content": "Phentolamine(7%)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2be813e1bdad3919479d2eec0d2304b3",
+                                    "content": "Benztropine(10%)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9f13e15a59100045e801695d58b23919",
+                                    "content": "Flumazenil(36%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "672f2b2cceae4642fd3f0ac338b9b23d",
+                                    "content": "Naloxone(46%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e5ebd28ae17aa63770ba53465909a844",
+                                    "content": "Phentolamine(7%)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client is admitted to the ambulatory care unit for an endoscopic procedure.&nbsp; The gastroenterologist administers midazolam 1 mg intravenously for sedation and titrates the dosage upward to 3.5 mg.&nbsp; The client becomes hypotensive (86/60 mm Hg), develops severe respiratory depression (SpO2 86%), and has periods of apnea.&nbsp; The nurse anticipates the administration of which antidote drug?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Midazolam （Versed） is a benzodiazepine commonly used to induce conscious sedation in clients undergoing endoscopic procedures.&nbsp; The initial dose is 1 mg and is titrated up slowly （eg, 2 minutes before each 1-mg increment） until speech becomes slurred.&nbsp; Usually no more than 3.5 mg is necessary to induce conscious sedation.&nbsp; It is commonly administered with an opioid analgesic （eg, morphine, Fentanyl） because of their synergistic effects.&nbsp; Side effects can include airway occlusion, apnea, hypotension （especially in the presence of an opioid）, and oxygen desaturation with resultant respiratory arrest.&nbsp; Flumazenil （Romazicon） is the antidote drug used to reverse the sedative effects of benzodiazepines.</p><p><br></p><p>（Option 1）&nbsp; Benztropine （Cogentin） is used in the treatment of extrapyramidal side effects associated with antipsychotic medications or metoclopramide.</p><p><br></p><p>（Option 3）&nbsp; Naloxone （Narcan） is the antidote drug to reverse the effects of opioids.</p><p><br></p><p>（Option 4）&nbsp; Phentolamine （Regitine） is the antidote drug used to treat a norepinephrine （Levophed） extravasation.</p><p><br></p><p>Educational objective:</p><p>Flumazenil is a drug used to reverse the sedative effects of benzodiazepines such as midazolam.</p>",
+                        "id": "ae0c52685cd04090ac133d444bd86fde",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d164b0913e84b0f964147a27796f577",
+                                "content": "&quot;It may be able to slow the progression of ALS.&quot;(78%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e892bb78cb3861f1c8a6fb4770bab9e",
+                                "content": "&quot;It reduces the amount of glutamate in your brain.&quot;(14%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4bafdddecb2e0931154de01ea98d85b",
+                                "content": "&quot;The case manager may be able to find a program to assist with cost.&quot;(4%)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d703f4c68fc4da39431e50ca3fc08b9",
+                                "content": "&quot;You have the right to refuse the medication.&quot;(2%)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d164b0913e84b0f964147a27796f577",
+                                    "content": "&quot;It may be able to slow the progression of ALS.&quot;(78%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e892bb78cb3861f1c8a6fb4770bab9e",
+                                    "content": "&quot;It reduces the amount of glutamate in your brain.&quot;(14%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4bafdddecb2e0931154de01ea98d85b",
+                                    "content": "&quot;The case manager may be able to find a program to assist with cost.&quot;(4%)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d703f4c68fc4da39431e50ca3fc08b9",
+                                    "content": "&quot;You have the right to refuse the medication.&quot;(2%)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is taking riluzole for amyotrophic lateral sclerosis (ALS).&nbsp; The client asks, &quot;There&#39;s no cure for ALS, so why should I keep taking this expensive drug?&quot;&nbsp; What is the nurse&#39;s best response?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\r\n\r\nAmyotrophic lateral sclerosis （ALS）, also known as Lou Gehrig disease, is a debilitating, progressive neurodegenerative disease with no cure.  Clients develop fatigue and muscle weakness that progresses to paralysis, dysphagia, difficulty speaking, and respiratory failure.  Most clients diagnosed with ALS survive only 3-5 years.\r\n\r\nRiluzole （Rilutek） is the only medication approved for ALS treatment.  Riluzole, a glutamate antagonist, is thought to slow neuron degeneration by decreasing the production and activity of the neurotransmitter glutamate in the brain and spinal cord.  In some clients, riluzole may slow disease progression and prolong survival by 3-6 months.  The nurse should provide teaching about the purpose of the medication so that the client can make an informed decision about taking it （Option 1）.\r\n\r\n（Option 2）  Explaining the pharmacology of riluzole is not the best response for helping the client understand the purpose of taking the medication.\r\n\r\n（Option 3）  It would be appropriate to consult the case manager if the client expresses concern about not having the appropriate resources to acquire a costly medication, but the nurse should first ensure that the client understands the medication＇s purpose.\r\n\r\n（Option 4）  The client has the right to refuse any medication, but the nurse should first ensure that the client is informed and understands the purpose of the medication.\r\n\r\nEducational objective:\r\nAlthough there is no cure for amyotrophic lateral sclerosis, the medication riluzole may slow disease progression and prolong survival.",
+                        "id": "aee2635882784685959b2ba5b21346f5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8f601a69e047c91a055f98b68d58e48",
+                                "content": "&quot;Drowsiness is a common side effect of this medication and will improve over time.&quot;\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1b70dbba6543640a5f04ac7254ce1225",
+                                "content": "&quot;I can begin driving again after I have been on this medication for a few weeks.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5aecb501e5539b52073a66be238c7c4f",
+                                "content": " &quot;I need to immediately report any new or increased anxiety when on this medication.&quot;\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "749b349c22fc1e6a3834d59b06df906d",
+                                "content": "&quot;I need to immediately report any new rash when on this medication.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8f601a69e047c91a055f98b68d58e48",
+                                    "content": "&quot;Drowsiness is a common side effect of this medication and will improve over time.&quot;\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1b70dbba6543640a5f04ac7254ce1225",
+                                    "content": "&quot;I can begin driving again after I have been on this medication for a few weeks.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5aecb501e5539b52073a66be238c7c4f",
+                                    "content": " &quot;I need to immediately report any new or increased anxiety when on this medication.&quot;\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "749b349c22fc1e6a3834d59b06df906d",
+                                    "content": "&quot;I need to immediately report any new rash when on this medication.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reinforcing education to a client newly prescribed levetiracetam for seizures.  Which statement made by the client indicates a need for further instruction?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nLevetiracetam (Keppra) is an anticonvulsant prescribed for seizure disorders.  As with other antiseizure medications, levetiracetam has a depressing effect on the central nervous system (CNS), which may cause drowsiness, somnolence, and fatigue as clients adjust to the medication.  Clients should be assured that this is common and typically improves within 4-6 weeks (Option 1).  However, the CNS-depressing effects of levetiracetam may be enhanced if taken with other CNS-depressing substances (eg, alcohol) or medications.\n\nNew or increased agitation, anxiety, and/or depression or mood changes should be reported immediately as levetiracetam is associated with suicidal ideation (Option 3).\n\nLike other anticonvulsants, levetiracetam can trigger Stevens-Johnson syndrome, a rare but life-threatening blistering reaction of the skin.  Rash, blistering, muscle/joint pain, or conjunctivitis should be reported and assessed immediately (Option 4).\n\n(Option 2)  Clients with seizure disorders should avoid driving or operating heavy machinery until they have permission from their health care provider and have met the requirements of their department of transportation.  Typically, the client must be free from seizures for an allotted time period.\n\nEducational objective:\nLevetiracetam is an anticonvulsant prescribed for seizure disorders.  It may have depressing effects on the central nervous system (eg, drowsiness) as the body adjusts to therapy.  Serious adverse effects include suicidal ideation and Stevens-Johnson syndrome.  Clients with seizure disorders must meet the guidelines of their department of transportation and receive permission from their health care provider prior to legally operating a motor vehicle.",
+                        "id": "b03d970c1a8946228e53feb9d637dff2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba4856fe70035694f6ce33a2d5bc2a18",
+                                "content": "  Check renal function laboratory results\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c9528f556fc291c574f7808f543ef66c",
+                                "content": "Flush tube with normal saline, not water\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70ad763f4997966b404ef54899bc6999",
+                                "content": "Stop the feeding for 1 to 2 hours\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91a65f68996ac1b969f0ec1762239d60",
+                                "content": "Take the blood pressure (BP)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba4856fe70035694f6ce33a2d5bc2a18",
+                                    "content": "  Check renal function laboratory results\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c9528f556fc291c574f7808f543ef66c",
+                                    "content": "Flush tube with normal saline, not water\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70ad763f4997966b404ef54899bc6999",
+                                    "content": "Stop the feeding for 1 to 2 hours\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91a65f68996ac1b969f0ec1762239d60",
+                                    "content": "Take the blood pressure (BP)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with seizure activity is receiving a continuous tube feeding via a small-bore enteral tube.  The nurse prepares to administer phenytoin oral suspension via the enteral route.  What is the nurse's priority action before administering this medication?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nPhenytoin (Dilantin) is an anticonvulsant drug commonly used to treat seizure disorders.  Steady absorption is necessary to maintain a therapeutic dosage range and drug level to control seizure activity.\n\nThe nurse's priority action is to stop the feeding for 1 to 2 hours before and after administering phenytoin as products containing calcium (eg, antacids, calcium supplements) and/or nutritional enteral tube feedings can decrease the absorption and the serum level of this drug.\n\n(Option 1)  Unless clients have renal insufficiency, renal function tests are not routinely monitored during prescribed phenytoin therapy.  Phenytoin is metabolized in the liver and can cause liver damage.  Monitoring of liver function test during therapy is recommended.\n\n(Option 2)  Flushing the tube with 30-50 mL of water before and after administering phenytoin is recommended to minimize drug loss and drug-drug incompatibility.  Flushing with normal saline before and after drug administration is recommended in clients receiving intravenous (IV) phenytoin.\n\n(Option 4)  BP is not usually affected in clients prescribed oral phenytoin therapy for seizure disorders.  However, IV phenytoin can cause hypotension and arrhythmias.\n\nEducational objective:\nPhenytoin is an anticonvulsant drug commonly used to treat seizure disorders.  Steady absorption is necessary to maintain a therapeutic dosage range and drug level to control seizure activity.  Administration of phenytoin concurrent with certain drugs (eg, antacids, calcium) and/or enteral feedings can affect the absorption of phenytoin.",
+                        "id": "bae94d8b34c44fd2b46724746293b5eb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "610d0c8e8ebd1cb9295b2194cfd023f5",
+                                "content": " Administer phenytoin as prescribed\n "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "652f58afdb7b198011f6cdec0bb79616",
+                                "content": "Decrease phenytoin daily dose\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7793df16682c0a94b49af124e846491",
+                                "content": "Increase phenytoin daily dose\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e89252799d8fe5514a8a8960c6989893",
+                                "content": " Repeat serum phenytoin level in 2 hours"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "610d0c8e8ebd1cb9295b2194cfd023f5",
+                                    "content": " Administer phenytoin as prescribed\n "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "652f58afdb7b198011f6cdec0bb79616",
+                                    "content": "Decrease phenytoin daily dose\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7793df16682c0a94b49af124e846491",
+                                    "content": "Increase phenytoin daily dose\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e89252799d8fe5514a8a8960c6989893",
+                                    "content": " Repeat serum phenytoin level in 2 hours"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client was prescribed phenytoin 100 mg orally 3 times a day a month ago.  The serum phenytoin level is 32 mcg/mL and the nurse notifies the health care provider (HCP).  Which action is anticipated from the HCP?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nPhenytoin (Dilantin), an anticonvulsant drug, is used to treat generalized tonic-clonic seizures.  The therapeutic serum phenytoin reference range is 10-20 mcg/mL.  In the presence of an elevated reference range (32 mcg/mL), if no seizure activity is observed, the nurse would anticipate the HCP to prescribe a decreased daily dose.  The nurse will continue to monitor for signs of toxicity (eg, ataxia, nystagmus, slurred speech, decreased mentation).\n\n(Options 1 and 3)  The serum phenytoin level is elevated, so administering the prescribed dose or increasing the dose can raise the level and further increase the risk for drug-induced toxicity.\n\n(Option 4)  Repeating the serum phenytoin level in 2 hours will not result in a significant change as the average half-life of the drug is 22 hours.\n\nEducational objective:\nPhenytoin (Dilantin) is used to treat generalized tonic-clonic seizures.  Common symptoms of phenytoin-induced toxicity involve the central nervous system (eg, nystagmus, ataxia, slurred speech, decreased mentation) and can occur when phenytoin plasma levels exceed the therapeutic reference range (10-20 mcg/mL).",
+                        "id": "d199c3adf34c42dbacc65b701aaf3f8e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6eac09431268ca05856157b8a0f73431",
+                                "content": "  Client who is receiving tube feedings and has a phenytoin level of 8 mcg/mL (32 "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e12fc22bac1a47ce0470d31bb7275a1",
+                                "content": " Client with a heart rate of 62/min who has a digoxin level of 1.3 ng/mL (1.7 nmol/L)\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6c27ab836738c769ecfd11af7e9853b",
+                                "content": " Client with a new prosthetic aortic valve who has an INR of 3.0\n"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e5fc3375b1090d619504c0936dc0c36a",
+                                "content": " Client with a poor appetite and a lithium level of 0.8 mEq/L (0.8 mmol/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6eac09431268ca05856157b8a0f73431",
+                                    "content": "  Client who is receiving tube feedings and has a phenytoin level of 8 mcg/mL (32 "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e12fc22bac1a47ce0470d31bb7275a1",
+                                    "content": " Client with a heart rate of 62/min who has a digoxin level of 1.3 ng/mL (1.7 nmol/L)\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6c27ab836738c769ecfd11af7e9853b",
+                                    "content": " Client with a new prosthetic aortic valve who has an INR of 3.0\n"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e5fc3375b1090d619504c0936dc0c36a",
+                                    "content": " Client with a poor appetite and a lithium level of 0.8 mEq/L (0.8 mmol/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse reviews the laboratory results of several clients.  Which finding should the nurse report to the health care provider immediately?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Narrow therapeutic index medications have a higher chance of producing adverse effects due to a very small difference between therapeutic and toxic levels.  These medications require close monitoring of serum drug levels for adequate, but not toxic, dosing.  Clients should also be monitored for signs of toxicity, which are specific to each medication.</p><p><br></p><p>Phenytoin (Dilantin) is an antiseizure medication with a therapeutic index of 10-20 mcg/mL (40-79 mcmol/L) (Option 1).  Tube feedings decrease phenytoin absorption, which reduces serum drug concentrations and may precipitate seizures.  The nurse should pause tube feedings for 1-2 hours before and after phenytoin administration to ensure adequate absorption.  Phenytoin toxicity produces nystagmus, dysarthria, ataxia, and encephalopathy.</p><p><br></p><p>(Option 2)  A heart rate of 62/min is expected in a client taking digoxin (therapeutic index 0.5-2.0 ng/mL [0.6-2.6 nmol/L]).  Digoxin toxicity produces gastrointestinal symptoms (nausea, vomiting, diarrhea), bradycardia, and visual disturbances (blurred vision, yellow-green halos).</p><p><br></p><p>(Option 3)  The therapeutic INR for a client with a mechanical heart valve is 2.5-3.5.</p><p><br></p><p>(Option 4)  Anorexia is a common side effect of lithium (therapeutic index 0.6-1.2 mEq/L [0.6-1.2 mmol/L]).  Lithium toxicity produces nausea, vomiting, ataxia, and tremors.</p><p><br></p><p>Educational objective:</p><p>Tube feedings decrease phenytoin (Dilantin) absorption, which reduces serum drug concentrations (therapeutic index 10-20 mcg/mL [40-79 mcmol/L]) and may precipitate seizures.  The nurse should pause tube feedings for 1-2 hours before and after phenytoin administration to ensure adequate absorption.</p>",
+                        "id": "fe3a7d521e82453789a182e185a3ac66",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68f44aaf054d4b71b84e8c87e9c1f3b4",
+                                "content": "&quot;Apply the patch when the ship starts moving and not before.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa73bfe2dd1ecb67cd010d2ff786c2cc",
+                                "content": " &quot;Dispose of the patch out of reach of children and pets.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91ea1d27b12b58fe9fea4e35fe6b087e",
+                                "content": "&quot;Make sure to remove the old patch before applying a new one.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7aca9d0f5c9dda6e8d4c09454d3f7270",
+                                "content": "&quot;Place the patch on a hairless, clean, dry area behind the ear.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5733f7c11c321d5736ed40d788bddd2",
+                                "content": "&quot;Wash your hands with soap and water after handling the patch.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68f44aaf054d4b71b84e8c87e9c1f3b4",
+                                    "content": "&quot;Apply the patch when the ship starts moving and not before.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa73bfe2dd1ecb67cd010d2ff786c2cc",
+                                    "content": " &quot;Dispose of the patch out of reach of children and pets.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91ea1d27b12b58fe9fea4e35fe6b087e",
+                                    "content": "&quot;Make sure to remove the old patch before applying a new one.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7aca9d0f5c9dda6e8d4c09454d3f7270",
+                                    "content": "&quot;Place the patch on a hairless, clean, dry area behind the ear.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5733f7c11c321d5736ed40d788bddd2",
+                                    "content": "&quot;Wash your hands with soap and water after handling the patch.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "he clinic nurse is instructing a client who is newly prescribed transdermal scopolamine to prevent motion sickness on an upcoming 10-day cruise.  Which of the following statements are appropriate to teach the client?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nScopolamine is an anticholinergic medication used to prevent nausea and vomiting from motion sickness and as an adjunct to anesthesia to control secretions.  Transdermal scopolamine is placed on a clean, dry, hairless area behind the ear for proper absorption (Option 4).  Clients should be instructed to:\n\nApply the patch at least 4 hours before starting travel to allow for absorption and medication onset (Option 1).  Patches usually have slower onset but longer duration of action.\nReplace the patch every 72 hours as prescribed to guarantee ongoing medication absorption.\nRemove and discard the old patch before placing a new one behind the opposite ear to prevent overdosing (Option 3).\nDispose of the patch out of reach of children and pets to avoid accidental toxicity (Option 2).\nWash hands with soap and water after handling the patch to avoid inadvertent drug absorption and contact with the eyes (Option 5).\nEducational objective:\nTransdermal scopolamine should be applied to the hairless area behind the ear at least 4 hours prior to travel to prevent motion sickness.  Clients should change the patch every 72 hours, discard it away from children and pets, and wash their hands after handling it.  The old patch must be removed before placing a new one behind the opposite ear.",
+                        "id": "36e7fc8d83524d94958e8cf9b8afcd16",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fa3e48efffa89718e950e310d0e6529",
+                                "content": "&quot;Change positions slowly, and sit on the side of the bed before standing.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7baf7118b6ecc59b2d80f9f270913d2d",
+                                "content": "&quot;This medication takes several weeks to reach maximum benefit.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16bc17626105e4f41f64be8ea9acee30",
+                                "content": "&quot;You may experience some facial and eye twitching, but this is not harmful.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b29f439d55388d814e06eafe93e56f4c",
+                                "content": "&quot;Your tremors should disappear completely while on this medication.&quot; "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f2b8c19bc23c057f886a958062e6300",
+                                "content": "&quot;Your urine and saliva may turn reddish-brown, but this is not harmful.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fa3e48efffa89718e950e310d0e6529",
+                                    "content": "&quot;Change positions slowly, and sit on the side of the bed before standing.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7baf7118b6ecc59b2d80f9f270913d2d",
+                                    "content": "&quot;This medication takes several weeks to reach maximum benefit.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16bc17626105e4f41f64be8ea9acee30",
+                                    "content": "&quot;You may experience some facial and eye twitching, but this is not harmful.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b29f439d55388d814e06eafe93e56f4c",
+                                    "content": "&quot;Your tremors should disappear completely while on this medication.&quot; "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f2b8c19bc23c057f886a958062e6300",
+                                    "content": "&quot;Your urine and saliva may turn reddish-brown, but this is not harmful.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "<p>A client with Parkinson disease is prescribed carbidopa-levodopa.&nbsp; Which of the following instructions should the nurse include with the client's discharge teaching?&nbsp; Select all that apply.</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Parkinson disease （PD） is characterized by decreased dopamine levels, uncontrolled acetylcholine, and formation of abnormal protein clusters （Lewy bodies） in the brain.&nbsp; PD causes both physical and neurological （eg, mood alterations, dementia） symptoms.</p><p><br></p><p>Carbidopa-levodopa is a combination antiparkinsonian medication used to reduce physical symptoms of PD by increasing dopamine levels in the brain.&nbsp; Levodopa is converted to dopamine in the brain but is largely metabolized before reaching the brain.&nbsp; Carbidopa does not have a therapeutic effect on PD but prevents breakdown of levodopa before reaching the brain, which makes levodopa more effective.</p><p><br></p><p>Client teaching for carbidopa-levodopa includes:</p><p><br></p><p>Implementing fall precautions （eg, changing positions slowly, removing rugs）, as orthostatic hypotension is a common side effect （Option 1）</p><p>Knowing that carbidopa-levodopa takes several weeks to reach its maximum effectiveness （Option 2）</p><p>Understanding that harmless discoloration （eg, red, brown, black） of secretions （eg, urine, perspiration, saliva） may occur while taking carbidopa-levodopa （Option 5）</p><p>Avoiding high-protein meals, which interfere with the absorption of carbidopa-levodopa</p><p>（Option 3）&nbsp; Dyskinesia （eg, facial or eyelid twitching, tongue protrusion, facial grimacing） may indicate overdose or toxicity of carbidopa-levodopa and should be reported immediately to the health care provider.</p><p><br></p><p>（Option 4）&nbsp; Carbidopa-levodopa often decreases, but does not eliminate, tremor and rigidity.</p><p><br></p><p>Educational objective:</p><p>Carbidopa-levodopa is a medication used to reduce symptoms of tremor and rigidity in clients with Parkinson disease.&nbsp; Teach clients that the medication takes several weeks to become effective； urine, perspiration, or saliva discoloration is a common side effect； and fall precautions should be implemented for client safety.</p>",
+                        "id": "c88bdb72a6d24f39aaf0eff36c2a6bb1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "446840e8de0941d8b254b3268d719a5d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "da1989be2ec04e85b3a425fcd2c85c33",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 24,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 24,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 12:57:22",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Neurologic",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Uworld",
+        "questionNumber": 24
+    },
+    "message": ""
+}

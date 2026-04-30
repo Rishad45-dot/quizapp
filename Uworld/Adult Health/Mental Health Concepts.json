@@ -1,0 +1,135 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 13:18:26",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 13:18:26",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 13:18:28",
+            "id": "e1d67b5aebe8768b01c3ad1eb13610b2",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e0b471894298e2d12283e0fb4e9b905",
+                                "content": " Client breaks eye contact when discussing caregiver"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "39a4525667d74eec7a01bedee5811a26",
+                                "content": "Client has lost 8 lb (3.63 kg) in the previous 4 weeks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbd2d005f23b1f04ae4a1f7054cf922b",
+                                "content": "Client is wearing clothing that is out of style"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1cfb0aff7389950ceb6897ab7e875823",
+                                "content": "Client's eyeglasses have been visibly broken for 1 month"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77c029f022ecf713ad1c64a67a7ef4ac",
+                                "content": "Client's prescription medication is expired"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e0b471894298e2d12283e0fb4e9b905",
+                                    "content": " Client breaks eye contact when discussing caregiver"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "39a4525667d74eec7a01bedee5811a26",
+                                    "content": "Client has lost 8 lb (3.63 kg) in the previous 4 weeks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbd2d005f23b1f04ae4a1f7054cf922b",
+                                    "content": "Client is wearing clothing that is out of style"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1cfb0aff7389950ceb6897ab7e875823",
+                                    "content": "Client's eyeglasses have been visibly broken for 1 month"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77c029f022ecf713ad1c64a67a7ef4ac",
+                                    "content": "Client's prescription medication is expired"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The home health nurse visits a 75-year-old client with mild Alzheimer dementia who recently moved in with a caregiver.  Which observations would cause the nurse to suspect neglect?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Elder abuse or neglect occurs when caregivers intentionally or unintentionally fail to meet the older adult client's physical, emotional, or social needs.  Approximately 1 in 10 older adult clients are victims of physical, psychological, or sexual abuse by a caregiver.  Commonly neglected necessities include water, food, medication, hygiene, and clothing.  The client's living conditions may be unsafe or have inadequate access to public utilities.  Objective findings consistent with abuse or neglect include:\n\nDehydration, malnutrition, and weight loss (Option 2)\n\nPoor hygiene, soiled bedding or clothing, and pressure ulcers\n\nMissing/broken assistive devices (eg, eyeglasses); medications withheld or expired (Options 4 and 5)\n\nClients who have experienced abuse or neglect may find the situation difficult to discuss and display apprehension, restlessness, withdrawal, poor eye contact, shame, and despair (Option 1).  The client may also deny or minimize the extent of the abuse out of fear or embarrassment.\n\n(Option 3)  Clothing that is out of style is not indicative of neglect.  However, soiled clothing or clothing unsuitable for the weather (eg, no jacket on a cold day) does indicate possible neglect.\n\nEducational objective:\nManifestations of abuse or neglect in an older adult may include development of pressure ulcers, poor hygiene, dehydration, malnutrition, weight loss, soiled bedding/clothing, missing/broken assistive devices, and missing or expired medications.",
+                        "id": "afce4899c78647d99b9664a541533724",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "446840e8de0941d8b254b3268d719a5d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "75a93da86572411d9ec4552e262e15b1",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 1,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 1,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 13:18:29",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Mental Health Concepts",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Uworld",
+        "questionNumber": 1
+    },
+    "message": ""
+}

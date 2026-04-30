@@ -1,0 +1,1261 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:50:18",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:50:18",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:50:21",
+            "id": "c6c0931e181625609dcf4463dd1eeac8",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dc8453f61cda434a996e0358c7bb0f48",
+                                "content": "Renal calculi"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9109a3bdea1f42e990e22db5423ecc72",
+                                "content": "Chronic heart failure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f169535cae14a10a302c34348e9a595",
+                                "content": "Carcinoid of the liver"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87007ff2d4ae44c2b3b9ac8592f45929",
+                                "content": "Coronary artery disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dc8453f61cda434a996e0358c7bb0f48",
+                                    "content": "Renal calculi"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9109a3bdea1f42e990e22db5423ecc72",
+                                    "content": "Chronic heart failure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f169535cae14a10a302c34348e9a595",
+                                    "content": "Carcinoid of the liver"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87007ff2d4ae44c2b3b9ac8592f45929",
+                                    "content": "Coronary artery disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The primary health care provider (PHCP) writes a prescription for atorvastatin for a client who was admitted to the hospital. The nurse contacts the PHCP to verify the prescription if which finding is noted in the assessment data?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAtorvastatin is a (HMG-CoA) reductase inhibitor that is used to treat hypercholesterolemia and hypertriglyceridemia. Contraindications to the medication include active liver disease, unexplained elevated liver function tests, pregnancy, and lactation. The conditions noted in the remaining options are not contraindications to this medication.\n\nTest-Taking Strategy:\nFocus on the subject, contraindications for atorvastatin. Specific knowledge of the contraindications to atorvastatin is needed to help you answer this question. Recalling that this medication inhibits HMG-CoA reductase and recalling the physiology of cholesterol synthesis will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cancer: Liver\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Collaboration, Safety\nStrategies: Subject",
+                        "id": "16c49f6c1181440da996ecc4c9ba6005",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8e23a2f22ef448e958e2b57cebe9630",
+                                "content": "\"This medication will lower my cholesterol level.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d1630d40f312450db577f1ddbe96fc5c",
+                                "content": "\"I will need to have blood tests drawn while I am taking this medication.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f869fdff5b514e00a9db2e3718f0cbc0",
+                                "content": "\"I won't need to adhere to a low-fat diet as long as I take this medication faithfully.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c53f249313c34e1fa1c5d98dbfb956fe",
+                                "content": "\"I need to talk to the primary health care provider before taking any over-the-counter medications.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8e23a2f22ef448e958e2b57cebe9630",
+                                    "content": "\"This medication will lower my cholesterol level.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d1630d40f312450db577f1ddbe96fc5c",
+                                    "content": "\"I will need to have blood tests drawn while I am taking this medication.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f869fdff5b514e00a9db2e3718f0cbc0",
+                                    "content": "\"I won't need to adhere to a low-fat diet as long as I take this medication faithfully.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c53f249313c34e1fa1c5d98dbfb956fe",
+                                    "content": "\"I need to talk to the primary health care provider before taking any over-the-counter medications.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Atorvastatin has been prescribed for a client, and the nurse provides instructions to the client about the medication. Which statement by the client indicates the need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAtorvastatin is a reductase inhibitor (HMG-CoA reductase inhibitor) that is used to treat hypercholesterolemia and hypertriglyceridemia. The client is instructed to follow a recommended diet as an important component of therapy. Liver function tests and cholesterol and triglyceride level determinations will be performed periodically while the client is taking the medication. The client needs to be instructed to consult with the primary health care provider before taking any over-the-counter medications.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. This phrasing indicates a negative event query and asks you to select an option that is an incorrect statement. Recalling the action of this medication and using general guidelines related to medication administration will direct you to the correct option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "2539cb5552cc433eb540b6332be44b67",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aed29687366943cfa0dd479ab3b12975",
+                                "content": "Tremors"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de55e81e61c745a78d4114033c805d05",
+                                "content": "Lethargy"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a092703a46e42d9a1b628051fa5d6ee",
+                                "content": "Headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a637a256633b4966bf7e25a8056f7ee4",
+                                "content": "Tiredness"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aed29687366943cfa0dd479ab3b12975",
+                                    "content": "Tremors"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de55e81e61c745a78d4114033c805d05",
+                                    "content": "Lethargy"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a092703a46e42d9a1b628051fa5d6ee",
+                                    "content": "Headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a637a256633b4966bf7e25a8056f7ee4",
+                                    "content": "Tiredness"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Atorvastatin has been prescribed for a client, and the client asks the nurse about the side and adverse effects of the medication. What would the nurse tell the client is a frequent side effect of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAtorvastatin is a reductase inhibitor (HMG-CoA reductase inhibitor) that is used to treat hypercholesterolemia and hypertriglyceridemia. A frequent side effect is headache. Occasional side effects include myalgia, rash or pruritus (signs of an allergic reaction), flatulence, and dyspepsia. The symptoms in the remaining options are not side or adverse effects of this medication.\n\nTest-Taking Strategy:\nEliminate options 2 and 4 first because they are comparable or alike. Regarding the remaining options, it is necessary to know that headache is a frequent side effect of atorvastatin.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Comparable or Alike Options",
+                        "id": "35d2faac61be44cb9b667e1e28500f46",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d1e38fd8ebfe4ab9af242c545dc8fb98",
+                                "content": "\"It increases plasma cholesterol.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a370ca188bd406ea8cd0cfa51200821",
+                                "content": "\"It increases plasma triglycerides.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef1acfac579944ada4c7f9dc0c98b3d1",
+                                "content": "\"It decreases low-density lipoproteins (LDLs).\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d0d9cc1dd20488cb567272ffcd9bd35",
+                                "content": "\"It decreases high-density lipoproteins (HDLs).\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d1e38fd8ebfe4ab9af242c545dc8fb98",
+                                    "content": "\"It increases plasma cholesterol.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a370ca188bd406ea8cd0cfa51200821",
+                                    "content": "\"It increases plasma triglycerides.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef1acfac579944ada4c7f9dc0c98b3d1",
+                                    "content": "\"It decreases low-density lipoproteins (LDLs).\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d0d9cc1dd20488cb567272ffcd9bd35",
+                                    "content": "\"It decreases high-density lipoproteins (HDLs).\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Atorvastatin has been prescribed for a client, and the client asks the nurse about the action of the medication. How would the nurse respond?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nAtorvastatin is a reductase inhibitor (HMG-CoA reductase inhibitor) that is used to treat hypercholesterolemia and hypertriglyceridemia. It decreases LDL cholesterol and plasma triglycerides and increases HDL cholesterol (the good cholesterol). The remaining options are not actions of this medication.\n\nTest-Taking Strategy:\nFocus on the subject, action of atorvastatin. Note the name of the medication to assist you in answering correctly. Recalling that many medications with names that end in -statin are used to treat high cholesterol levels will assist you in eliminating options 1 and 2. Regarding the remaining options, recalling that HDL is a protective lipoprotein will assist you in eliminating option 4.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: Subject",
+                        "id": "7199ee9654484f6886c527e8dc4c4c5b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f30ad97d9634d0d97fca14e1b06a2e6",
+                                "content": "\"Constipation and bloating might be a problem.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "01e98ed6f8944cff8d7c980f688ab845",
+                                "content": "\"I'll continue to watch my diet and reduce my fats.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d026a90efeb84c7cb249a09993621697",
+                                "content": "\"Walking a mile each day will help the whole process.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07f698fb98c240dbb448f8f48586dbac",
+                                "content": "\"I'll continue my nicotinic acid from the health food store.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f30ad97d9634d0d97fca14e1b06a2e6",
+                                    "content": "\"Constipation and bloating might be a problem.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "01e98ed6f8944cff8d7c980f688ab845",
+                                    "content": "\"I'll continue to watch my diet and reduce my fats.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d026a90efeb84c7cb249a09993621697",
+                                    "content": "\"Walking a mile each day will help the whole process.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07f698fb98c240dbb448f8f48586dbac",
+                                    "content": "\"I'll continue my nicotinic acid from the health food store.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home health care nurse is visiting a client with elevated triglyceride levels and a serum cholesterol level of 398 mg/dL. The client is taking cholestyramine (Questran). Which statement, by the client, indicates the need for further education?\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nNicotinic acid, even an over-the-counter form, needs to be avoided because it may lead to liver abnormalities. All lipid-lowering medications also can cause liver abnormalities, so a combination of nicotinic acid and cholestyramine resin needs to be avoided. Constipation and bloating are the two most common adverse effects. Walking and the reduction of fats in the diet are therapeutic measures to reduce cholesterol and triglyceride levels.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Remembering that over-the-counter medications need to be avoided when a client is taking a prescription medication will direct you to the correct option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Safety\nStrategies: Negative Event Query, Strategic Words\n ",
+                        "id": "77fc88ac0ffb4ab794fddffe20945807",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b02f411423b479f9ad4942f0a67a446",
+                                "content": "Angina"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "920fe6f24ccd4e9383207af44ed78f5b",
+                                "content": "Mitral valve stenosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "08b492462088400fb13b89da29dfad39",
+                                "content": "Cirrhosis of the liver"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f955a5bc328481e8dc9ab60cbdc6452",
+                                "content": "Coronary artery disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b02f411423b479f9ad4942f0a67a446",
+                                    "content": "Angina"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "920fe6f24ccd4e9383207af44ed78f5b",
+                                    "content": "Mitral valve stenosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "08b492462088400fb13b89da29dfad39",
+                                    "content": "Cirrhosis of the liver"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f955a5bc328481e8dc9ab60cbdc6452",
+                                    "content": "Coronary artery disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Fenofibrate is prescribed for a client with hyperlipidemia. The nurse reviews the client's medical history for the presence of what condition that contraindicates the use of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nFenofibrate is a fibric acid derivative that is used to treat hyperlipidemia. Contraindications to the use of fibrates include known medication allergy, severe liver or kidney disease, cirrhosis, and gallbladder disease.\n\nTest-Taking Strategy:\nFocus on the subject, contraindications for the use of fenofibrate. Note that angina, mitral valve stenosis, and coronary artery disease are comparable or alike in that they are all cardiac disorders. Remember that this medication is contraindicated in cirrhosis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options, Subject",
+                        "id": "7804c9274b5e48fe827adaa7c642d570",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "430632ab0cce43b9ab1d6368dc4feeec",
+                                "content": "\"The medication needs to be taken with meals to decrease flushing.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86e10851291f4d8c967e476afd02cd29",
+                                "content": "\"I don't need to stop drinking alcohol when taking nicotinic acid.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e409364993844c5ba2472152a45c4597",
+                                "content": "\"Clay-colored stools are a common side effect and are not a concern.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ea47aa2f6ec461d8c73d8c39af69bef",
+                                "content": "\"Ibuprofen taken 30 minutes before the nicotinic acid may decrease the flushing.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "430632ab0cce43b9ab1d6368dc4feeec",
+                                    "content": "\"The medication needs to be taken with meals to decrease flushing.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86e10851291f4d8c967e476afd02cd29",
+                                    "content": "\"I don't need to stop drinking alcohol when taking nicotinic acid.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e409364993844c5ba2472152a45c4597",
+                                    "content": "\"Clay-colored stools are a common side effect and are not a concern.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ea47aa2f6ec461d8c73d8c39af69bef",
+                                    "content": "\"Ibuprofen taken 30 minutes before the nicotinic acid may decrease the flushing.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides instructions to the client about nicotinic acid prescribed for hyperlipidemia. Which statement by the client indicates understanding of the instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nFlushing is an adverse effect of this medication. Aspirin or a nonsteroidal antiinflammatory drug, as prescribed, can be taken 30 minutes prior to taking the medication to decrease flushing. Alcohol consumption needs to be avoided because it will enhance this effect. The medication needs to be taken with meals to decrease gastrointestinal upset; however, taking the medication with meals has no effect on the flushing. Clay-colored stools are a sign of hepatic dysfunction and need to be reported to the primary health care provider (PHCP) immediately.\n\nTest-Taking Strategy:\nFocus on the subject, client understanding of the medication. Alcohol must be abstained from, so this option can be eliminated. Taking the medication with meals helps decrease the gastrointestinal symptoms rather than flushing. Clay-colored stools are a sign of hepatic dysfunction and need to be reported to the PHCP immediately.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Safety\nStrategies: Subject",
+                        "id": "7fbcae20ba45483091b139faf0643562",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e72f5886edcd477f90d227654969530f",
+                                "content": "Observe for joint pain."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d09f06b02e5e45dc908bd9a96ef589f6",
+                                "content": "Auscultate bowel sounds."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0af02ec488bc496fb4f56531e9929b9c",
+                                "content": "Assess deep tendon reflexes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b502b94b0d1e4d598cf24133af68bb0e",
+                                "content": "Monitor cardiac rate and rhythm."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e72f5886edcd477f90d227654969530f",
+                                    "content": "Observe for joint pain."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d09f06b02e5e45dc908bd9a96ef589f6",
+                                    "content": "Auscultate bowel sounds."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0af02ec488bc496fb4f56531e9929b9c",
+                                    "content": "Assess deep tendon reflexes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b502b94b0d1e4d598cf24133af68bb0e",
+                                    "content": "Monitor cardiac rate and rhythm."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is caring for a client with hyperlipidemia who is taking cholestyramine (Questran). Which nursing assessment is most significant for this client relative to the medication therapy?\n ",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCholestyramine is used to treat hyperlipidemia. The site of action of the medication is the bowel; therefore, option 2 is correct. The remaining options are unrelated assessments.\n\nTest-Taking Strategy:\nNote the strategic word, most, and focus on the subject, assessment of the client receiving cholestyramine. Knowledge of the medication is needed to answer this question. Remember that the medication's site of action is the bowel and that it can result in constipation. This will direct you to option 2. The other options do not relate to this medication.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Caregiving\nStrategies: Strategic Words, Subject",
+                        "id": "86e7fb122b8647a5b5f40cffecd77b9a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f77958cf99b24b4fa8326eab929853c2",
+                                "content": "\"It is not necessary to avoid the use of alcohol.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6dc1b5e1bdc49149d7aa5b235edb530",
+                                "content": "\"The medication needs to be taken with meals to decrease flushing.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07b35a32c4804eb5bc2101e0bd5cb2f7",
+                                "content": "\"Clay-colored stools are a common side effect and would not be of concern.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d79a41b41ee84060a124e9c546a97cee",
+                                "content": "\"Ibuprofen IB taken 30 minutes before the nicotinic acid would decrease the flushing.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f77958cf99b24b4fa8326eab929853c2",
+                                    "content": "\"It is not necessary to avoid the use of alcohol.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6dc1b5e1bdc49149d7aa5b235edb530",
+                                    "content": "\"The medication needs to be taken with meals to decrease flushing.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07b35a32c4804eb5bc2101e0bd5cb2f7",
+                                    "content": "\"Clay-colored stools are a common side effect and would not be of concern.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d79a41b41ee84060a124e9c546a97cee",
+                                    "content": "\"Ibuprofen IB taken 30 minutes before the nicotinic acid would decrease the flushing.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is prescribed nicotinic acid for the treatment of coronary artery disease and hyperlipidemia, and the nurse provides instructions to the client about the medication. Which statement by the client indicates an understanding of the instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nFlushing is an adverse effect of this medication. Aspirin or a nonsteroidal anti-inflammatory drug can be taken 30 minutes prior to taking the medication to decrease flushing. Alcohol consumption needs to be avoided because it will enhance this effect. The medication needs to be taken with meals to decrease gastrointestinal upset; however, taking the medication with meals has no effect on the flushing. Clay-colored stools are a sign of hepatic dysfunction and would be reported to the primary health care provider (PHCP) immediately.\n\nTest-Taking Strategy:\nFocus on the subject, client understanding of the medication. Alcohol must be abstained from, so this option can be eliminated. Taking the medication with meals helps to decrease the gastrointestinal symptoms rather than flushing. Clay-colored stools are a sign of hepatic dysfunction and would be reported to the PHCP immediately.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject",
+                        "id": "91a2fe79796a48ce8144bad3a028c83a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2216272b295345eaa88ada6fb9b35001",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5adea0145aea409489c9155cb77e24b3",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f06a3677e934190a890a089275b0b3a",
+                                "content": "Sore throat"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d6892a7156544e7b9a846e89feb517b2",
+                                "content": "Muscle pain"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2216272b295345eaa88ada6fb9b35001",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5adea0145aea409489c9155cb77e24b3",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f06a3677e934190a890a089275b0b3a",
+                                    "content": "Sore throat"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d6892a7156544e7b9a846e89feb517b2",
+                                    "content": "Muscle pain"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse should educate the client receiving pravastatin (Pravachol) to immediately report which finding?\n \n\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPravastatin is used to treat hyperlipidemia. Muscle pain could indicate rhabdomyolysis, a serious complication of this medication. It must be reported immediately. The remaining options are not associated concerns with the medication.\n\nTest-Taking Strategy:\nFocus on the subject, the adverse effect that the client needs to report. Knowledge of the medication is needed to answer this question. Remember that a serious adverse effect of statins is rhabdomyolysis, and an early sign of this effect is muscle pain. This must be reported immediately.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject",
+                        "id": "a426548d35a945ff989504765e3a6122",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47e8abc2b9eb492493ddd863d4caf5e5",
+                                "content": "\"It is used in heart failure.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "651b26c513af4ea8a164ace934100e00",
+                                "content": "\"It helps to control hypertension.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "117877108c524458b7205739ed471f11",
+                                "content": "\"It helps to reduce episodes of angina pectoris.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6cf37cda1f04ed9bfa208dbf4fc6f57",
+                                "content": "\"It is given to clients with hypercholesterolemia.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47e8abc2b9eb492493ddd863d4caf5e5",
+                                    "content": "\"It is used in heart failure.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "651b26c513af4ea8a164ace934100e00",
+                                    "content": "\"It helps to control hypertension.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "117877108c524458b7205739ed471f11",
+                                    "content": "\"It helps to reduce episodes of angina pectoris.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6cf37cda1f04ed9bfa208dbf4fc6f57",
+                                    "content": "\"It is given to clients with hypercholesterolemia.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A registered nurse (RN) is orienting a new RN on the use of atorvastatin. Which statement by the new RN indicates that the teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nAtorvastatin is a reductase inhibitor (HMG-CoA reductase inhibitor) that is used to treat hypercholesterolemia and hypertriglyceridemia. The statements made in the remaining options are incorrect.\n\nTest-Taking Strategy:\nNote the strategic word, effective, and focus on the subject, conditions treated with atorvastatin. Note the name of the medication to assist you in answering correctly. Recalling that many medications with names that end in -statin are used to treat high cholesterol levels will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Strategic Words, Subject",
+                        "id": "a9cba0fdf143472e828f14b0da5ac9f1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "984b6333144041769bfa580d8126b192",
+                                "content": "Bleeding time"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d37c7e438b08451f88f8a73d6d6aa21a",
+                                "content": "Blood glucose levels"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "76db496d6d7e455398b573e68eb8b1e0",
+                                "content": "Liver function studies"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9e63d7052694d70b7d646d88786701c",
+                                "content": "Complete blood cell count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "984b6333144041769bfa580d8126b192",
+                                    "content": "Bleeding time"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d37c7e438b08451f88f8a73d6d6aa21a",
+                                    "content": "Blood glucose levels"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "76db496d6d7e455398b573e68eb8b1e0",
+                                    "content": "Liver function studies"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9e63d7052694d70b7d646d88786701c",
+                                    "content": "Complete blood cell count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has conducted medication instructions with a client receiving lovastatin (Mevacor). Which periodic blood study will be necessary and included in the client's instructions? \n ",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLovastatin is a reductase inhibitor. It results in an increase in high-density lipoprotein cholesterol and a decrease in triglycerides and low-density lipoprotein cholesterol. This medication is converted by the liver to active metabolites and therefore is not used in clients with active hepatic disease or elevated transaminase levels. Because it is metabolized by the liver, clients are recommended to have periodic liver function studies. Periodic cholesterol levels also are needed to monitor the effectiveness of therapy. The medication does not affect bleeding time, blood glucose, or cells examined in a complete blood cell count.\n\nTest-Taking Strategy:\nFocus on the subject, the adverse effects of lovastatin. Recalling that this medication is used to lower the blood cholesterol level and that cholesterol is synthesized in the liver will direct you to the correct option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject",
+                        "id": "ab66c59ab2024074b6a1734a7194f776",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d599a240e9bd4dba8da9bd5b28bef72f",
+                                "content": "Earache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27ec3774a6834a239518c998d4474b69",
+                                "content": "Hearing loss"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3faa4aa0bd1546e3a1fb38ab6653f764",
+                                "content": "Photosensitivity"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9836ae80dc147d69ae2d2046f58ea2d",
+                                "content": "Lung congestion"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d599a240e9bd4dba8da9bd5b28bef72f",
+                                    "content": "Earache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27ec3774a6834a239518c998d4474b69",
+                                    "content": "Hearing loss"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3faa4aa0bd1546e3a1fb38ab6653f764",
+                                    "content": "Photosensitivity"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9836ae80dc147d69ae2d2046f58ea2d",
+                                    "content": "Lung congestion"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client seen in the health care clinic for follow-up care is taking atorvastatin (Lipitor). The nurse should assess the client for which adverse effect of the medication?\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAtorvastatin is a reductase inhibitor (HMG-CoA reductase inhibitor) that is used to treat hypercholesterolemia and hypertriglyceridemia. Adverse effects include photosensitivity and the potential for developing cataracts. The symptoms in the remaining options are not side and adverse effects of this medication.\n\nTest-Taking Strategy:\nFocus on the subject, side and adverse effects of atorvastatin. It is necessary to know these side and adverse effects to answer correctly. Remember that adverse effects of this medication include photosensitivity and the potential for developing cataracts.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject",
+                        "id": "b461659191d3434abaaf89329fcd2598",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6adddc067a0741fe8e4d9a3d48c3aeca",
+                                "content": "Elevated glucose"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24809432a5f0425bb715ceca6a22e903",
+                                "content": "Elevated triglycerides"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0386eaa80e6c4e6eafeac56416d49403",
+                                "content": "Elevated liver function tests"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba1bca927be74d53a0ad743c9eb65587",
+                                "content": "Elevated blood urea nitrogen (BUN)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6adddc067a0741fe8e4d9a3d48c3aeca",
+                                    "content": "Elevated glucose"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24809432a5f0425bb715ceca6a22e903",
+                                    "content": "Elevated triglycerides"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0386eaa80e6c4e6eafeac56416d49403",
+                                    "content": "Elevated liver function tests"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba1bca927be74d53a0ad743c9eb65587",
+                                    "content": "Elevated blood urea nitrogen (BUN)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Gemfibrozil (Lopid) is prescribed for a client. Which laboratory finding should alert the nurse about the need to withhold the medication and contact the health care provider?\n ",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nGemfibrozil is used to treat hypercholesterolemia. One adverse effect is hepatotoxicity. The medication does not affect glucose. An elevated triglyceride level is not an indication to hold the medication. An elevated BUN is unrelated to this medication and would not be an indication that the medication should be held.\n\nTest-Taking Strategy:\nFocus on the subject, an adverse effect of gemfibrozil. Knowledge of the medication is needed to answer this question. Remembering that this medication is used to treat hypercholesterolemia and that cholesterol is manufactured in the liver will assist in directing you to option 3.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject",
+                        "id": "c6b7a7ef175940a18a3e598969ea4277",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "510820a80f8941e29c0f14036175d705",
+                                "content": "Neutrophil count"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "14e07e98173244268ea1031c760e38a9",
+                                "content": "Liver function studies"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ad77707ef224ef79252312c58183698",
+                                "content": "White blood cell count"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "674217b7499e4fe186097c56716e3d22",
+                                "content": "Complete blood cell (CBC) count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "510820a80f8941e29c0f14036175d705",
+                                    "content": "Neutrophil count"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "14e07e98173244268ea1031c760e38a9",
+                                    "content": "Liver function studies"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ad77707ef224ef79252312c58183698",
+                                    "content": "White blood cell count"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "674217b7499e4fe186097c56716e3d22",
+                                    "content": "Complete blood cell (CBC) count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Atorvastatin (Lipitor) has been prescribed for a client. The nurse tells the client that which blood test will be done periodically while the client is taking this medication?\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAtorvastatin is a reductase inhibitor (HMG-CoA reductase inhibitor) that is used to treat hypercholesterolemia and hypertriglyceridemia. Because the medication is metabolized in the liver, baseline and periodic liver function tests, as well as cholesterol and triglyceride level determinations, would be done periodically. The tests identified in the remaining options are unrelated to the administration of HMG-CoA reductase inhibitors.\n\nTest-Taking Strategy:\nFocus on the subject, blood tests that would be monitored with atorvastatin. Recalling that this medication is metabolized in the liver will direct you to the correct option. Also, note that options 1, 3, and 4 are comparable or alike in that a neutrophil count and a WBC count are included in the CBC count.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Comparable or Alike Options, Subject",
+                        "id": "dfb99f12c10c43688660e4793238b423",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c516108c32b840b2b811a808791aaaf8",
+                                "content": "Weight loss"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91069d0ae212429a8b1ab5e5e987a3e8",
+                                "content": "Increased pulse rate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ab2c2dc4b0f4ccd974caa6243bc269a",
+                                "content": "Lowered blood pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70025434fed64d9e8c437afe6596a7f8",
+                                "content": "Decreased cholesterol level"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c516108c32b840b2b811a808791aaaf8",
+                                    "content": "Weight loss"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91069d0ae212429a8b1ab5e5e987a3e8",
+                                    "content": "Increased pulse rate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ab2c2dc4b0f4ccd974caa6243bc269a",
+                                    "content": "Lowered blood pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70025434fed64d9e8c437afe6596a7f8",
+                                    "content": "Decreased cholesterol level"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is receiving scheduled doses of lovastatin (Mevacor). The nurse determines that the medication is having the intended effect if which is noted?\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nLovastatin is an HMG-CoA reductase inhibitor used to lower blood cholesterol levels. It does not induce weight loss, does not stimulate heart rate, and is not an antihypertensive.\n\nTest-Taking Strategy:\nFocus on the subject, the intended effect of lovastatin. Remember that medication names ending with -statin lower blood cholesterol. This will easily direct you to the correct option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject",
+                        "id": "e70c9f84e2c04a5ca9c465d16972cbb8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "cc0267902796416e5b492fbe2fafaeae",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 16,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 16,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:50:21",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Antilipemic Medications",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 16
+    },
+    "message": ""
+}

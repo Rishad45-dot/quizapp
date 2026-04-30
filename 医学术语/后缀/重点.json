@@ -1,0 +1,2325 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 15:21:04",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 15:21:04",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 15:21:14",
+            "id": "865d48df5a8c800cc855cb4fb7f61ea1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f7261a24442f40ddb7f89e68cebc5b45",
+                                "content": "dermato-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "327df8e9f28542a69d1d920f385da836",
+                                "content": "-cardio-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9906fac39f44d188cf00d3f62e8f449",
+                                "content": "-logy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95f63e754cff45598852f24bef72675e",
+                                "content": "-pathy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f7261a24442f40ddb7f89e68cebc5b45",
+                                    "content": "dermato-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "327df8e9f28542a69d1d920f385da836",
+                                    "content": "-cardio-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9906fac39f44d188cf00d3f62e8f449",
+                                    "content": "-logy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95f63e754cff45598852f24bef72675e",
+                                    "content": "-pathy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Dermatology和\"Cardiology\"共同含有的词根是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "两个单词都以\"-logy\"结尾，表示“学科”。",
+                        "id": "12280724d9cc40c4b624b94f13bd9d8a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "134071b2709e496f8637ff1a4eb63c81",
+                                "content": "Biology"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30e9c3fd36d7453f9a02055e094d1a25",
+                                "content": "Physics"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3bfb132c4dd746ebab489d89d31e20b2",
+                                "content": "Chemistry"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43330e08471e4de791d209e78fe8907d",
+                                "content": "Mathematics"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "134071b2709e496f8637ff1a4eb63c81",
+                                    "content": "Biology"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30e9c3fd36d7453f9a02055e094d1a25",
+                                    "content": "Physics"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3bfb132c4dd746ebab489d89d31e20b2",
+                                    "content": "Chemistry"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43330e08471e4de791d209e78fe8907d",
+                                    "content": "Mathematics"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "下列哪个选项是以\"-logy\"结尾的学科名称？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "-logy是一个来自希腊语的后缀，表示“词、讲述、学问”，通常用于表示某一特定领域的科学或学科。选项A中的\"Biology\"是由\"bio-\"（生命）和\"-logy\"（学问）组成，意味着生命的学问，即生物学。而其他选项中的学科名称并不以\"-logy\"结尾。",
+                        "id": "2144543520c84ba69debda700aee8155",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1389cf06c2914d59b34331d0ee71868c",
+                                "content": "surg-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec04985bcecd4db181a179772f7853c6",
+                                "content": "-ery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "197b8c3b40ae46d58c59aa2fe9a064cf",
+                                "content": "-graph"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46958b529ebe42a28cae8340afa12411",
+                                "content": "-scope"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1389cf06c2914d59b34331d0ee71868c",
+                                    "content": "surg-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec04985bcecd4db181a179772f7853c6",
+                                    "content": "-ery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "197b8c3b40ae46d58c59aa2fe9a064cf",
+                                    "content": "-graph"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46958b529ebe42a28cae8340afa12411",
+                                    "content": "-scope"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Surgery\"这个词中的词根指的是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "surgery中的\"surg-\"来自拉丁语，意为“外科手术”。",
+                        "id": "34f5e9a5b54e482da30840cddeb5abab",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac4d866decdf4dd3a18ebf9b45ca6435",
+                                "content": "心脏"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a4615920646426787cabf698a1027e5",
+                                "content": "肾脏"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bdb65204366d409183e86544918c2623",
+                                "content": "肺部"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "700f3bc83696471f9db94721e6d1f1ab",
+                                "content": "肝脏"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac4d866decdf4dd3a18ebf9b45ca6435",
+                                    "content": "心脏"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a4615920646426787cabf698a1027e5",
+                                    "content": "肾脏"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bdb65204366d409183e86544918c2623",
+                                    "content": "肺部"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "700f3bc83696471f9db94721e6d1f1ab",
+                                    "content": "肝脏"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Nephrology这个单词中的词根指的是哪个器官？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "nephrology中的\"nephro-\"来自希腊语，意为肾脏。",
+                        "id": "35293b61a66848fd97ad52bc8108addb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7904404e6424a8a9bbb303f8b622f40",
+                                "content": "-iatry"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e943247dc2a411cba6369bba81fda01",
+                                "content": "-iasis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "342b15fe8eb54541a20e5897908b75c9",
+                                "content": "-ic"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "414abb5d33bc4eb088525595eba8381c",
+                                "content": "-ology"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7904404e6424a8a9bbb303f8b622f40",
+                                    "content": "-iatry"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e943247dc2a411cba6369bba81fda01",
+                                    "content": "-iasis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "342b15fe8eb54541a20e5897908b75c9",
+                                    "content": "-ic"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "414abb5d33bc4eb088525595eba8381c",
+                                    "content": "-ology"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Anemia, \"Cardiology\", \"Dermatology\"三个单词的共同点是它们都包含哪个词根？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "这三个单词都以\"-ology\"结尾，表示学科或领域。",
+                        "id": "39739eadd66b4f69a8e508e7f6c0649b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71899141fc4746fb83f46f7e99d4fe1a",
+                                "content": "物质"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81ab6fa7485944d99877f1e981ada168",
+                                "content": "灵魂，心智"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1f15d9563834aeebe223be709332e17",
+                                "content": "生物学"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e969662582246639bdb359571b60ff3",
+                                "content": "化学"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71899141fc4746fb83f46f7e99d4fe1a",
+                                    "content": "物质"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81ab6fa7485944d99877f1e981ada168",
+                                    "content": "灵魂，心智"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1f15d9563834aeebe223be709332e17",
+                                    "content": "生物学"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e969662582246639bdb359571b60ff3",
+                                    "content": "化学"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Psychology这个单词中的词根指的是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "psychology中的\"psycho-\"来自希腊语，表示灵魂或心智。",
+                        "id": "39ab099f81504646ba63045a2e2d5b70",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "036d2da4b12445dfbb1833d309476dba",
+                                "content": "bio-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "261fd53a92f5408ea3c5aa378e46abba",
+                                "content": "-logy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6607b560faa14db6b67058b3bbe1ce3c",
+                                "content": "-bi-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96306a65b02e4802a327d21ad55511ed",
+                                "content": "-gen"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "036d2da4b12445dfbb1833d309476dba",
+                                    "content": "bio-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "261fd53a92f5408ea3c5aa378e46abba",
+                                    "content": "-logy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6607b560faa14db6b67058b3bbe1ce3c",
+                                    "content": "-bi-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96306a65b02e4802a327d21ad55511ed",
+                                    "content": "-gen"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Biology这个单词的词根是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "biology中的\"bio-\"来自希腊语，意味着生命。",
+                        "id": "4ed0cb7517f44de08052b81346b5e4c9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6ffe3a2e1f94009b162d8b4efd5d965",
+                                "content": "-opsy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "621be4aaa9154d6cb7c3c3f76c64a4f3",
+                                "content": "-bi"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9cd0980c1f94b6abb210f4df9683298",
+                                "content": "-opsy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c78e9640fb644a3bdb81c74d5f5401e",
+                                "content": "-iatry"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6ffe3a2e1f94009b162d8b4efd5d965",
+                                    "content": "-opsy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "621be4aaa9154d6cb7c3c3f76c64a4f3",
+                                    "content": "-bi"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9cd0980c1f94b6abb210f4df9683298",
+                                    "content": "-opsy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c78e9640fb644a3bdb81c74d5f5401e",
+                                    "content": "-iatry"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "单词\"biopsy\"中的词根是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "\"biopsy\"中的\"-opsy\"表示“观察，检查”，常用于医学术语中。",
+                        "id": "5095965f9bc1422ca18ba1e6940c6691",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e78e746ffdd686e2fc59cf33af9d6b3f",
+                                "content": "-psycho-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7c7640b9746b683dc84e9f4644433a7f",
+                                "content": "-iatry"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "124a50aca345bb566370aac903260cbf",
+                                "content": "-iatrist"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c95e40aa367e0efc2517562691ffcb27",
+                                "content": "-analysis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e78e746ffdd686e2fc59cf33af9d6b3f",
+                                    "content": "-psycho-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7c7640b9746b683dc84e9f4644433a7f",
+                                    "content": "-iatry"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "124a50aca345bb566370aac903260cbf",
+                                    "content": "-iatrist"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c95e40aa367e0efc2517562691ffcb27",
+                                    "content": "-analysis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Psychiatrist这个职业名称中的词根是什么？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p><span style=\"font-size: 16px; color: rgba(0, 0, 0, 0.85);\">“psycho -” 这个词根来自希腊语 “psykhē”，意思是 “灵魂、精神、心理”。在 “Psychiatrist” 这个单词中，“psycho -” 体现了这个职业与精神、心理方面相关的核心内容，因为精神科医生主要是研究和治疗精神疾病和心理障碍的。</span></p>",
+                        "id": "559176d353c7483e8b7518b3f9a9fcc5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc3c5cae26084ef6a7ddcdd83e2ca454",
+                                "content": "心脏"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e35298b54c5c4b4baf8ed76009956704",
+                                "content": "肝脏"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef8bb0ec4181436aaf7b1744730f23a9",
+                                "content": "肺脏"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b30c14ef8e54569991c17c81b179a5e",
+                                "content": "肾脏"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc3c5cae26084ef6a7ddcdd83e2ca454",
+                                    "content": "心脏"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e35298b54c5c4b4baf8ed76009956704",
+                                    "content": "肝脏"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef8bb0ec4181436aaf7b1744730f23a9",
+                                    "content": "肺脏"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b30c14ef8e54569991c17c81b179a5e",
+                                    "content": "肾脏"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Hepatitis这个单词中的词根指的是哪个器官？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "hepat-来自希腊语，指肝脏，\"-itis\"表示炎症。",
+                        "id": "598d4b5527d74c0d990991b47f61ffc8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52a32f897fde4b73907f39b68b80c9f8",
+                                "content": "有毒的，毒性的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95b16586292246a78817fdd99312c536",
+                                "content": "遗传性的"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a93f541c01614faf99d025c5408b6ff7",
+                                "content": "基因突变的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c2fe6adbb784cf18ac2ead7378742b3",
+                                "content": "基因修复的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52a32f897fde4b73907f39b68b80c9f8",
+                                    "content": "有毒的，毒性的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95b16586292246a78817fdd99312c536",
+                                    "content": "遗传性的"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a93f541c01614faf99d025c5408b6ff7",
+                                    "content": "基因突变的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c2fe6adbb784cf18ac2ead7378742b3",
+                                    "content": "基因修复的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Genotoxic\"这个词的含义是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "\"genotoxic\"由\"geno-\"（基因）和\"-toxic\"（有毒的）组成，表示导致基因突变的。",
+                        "id": "602c63c9d9944eaabf5a6fb67e9ab0b2",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "326b2781b0b44b4dad8950364c3d1b02",
+                                "content": "基因"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa360b4343cb4cd18287f075215daea7",
+                                "content": "开始，起源"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9439a60e356b4602a59ea89d3b309ca5",
+                                "content": "发展，成长"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f32f1dde6e194322ae4c084ae93b9e52",
+                                "content": "结构，形态"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "326b2781b0b44b4dad8950364c3d1b02",
+                                    "content": "基因"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa360b4343cb4cd18287f075215daea7",
+                                    "content": "开始，起源"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9439a60e356b4602a59ea89d3b309ca5",
+                                    "content": "发展，成长"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f32f1dde6e194322ae4c084ae93b9e52",
+                                    "content": "结构，形态"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Genesis这个词的词根含义是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "genesis来自希腊语，表示事物的开始或起源。",
+                        "id": "6ff255957025473ca929c383517f4c25",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f52e4741d98648d9827172793fd90c5a",
+                                "content": "pneumo- 和 -itis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba01dfd4a7864bbfa9f2fddecbff67eb",
+                                "content": "pneumo- 和 -iatry"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff9d9223fd1a4054a517797a1e702252",
+                                "content": "pneumo- 和 -graphy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d898e1a4957d41bcb8fda743ad63957d",
+                                "content": "pneumo- 和 -ectomy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f52e4741d98648d9827172793fd90c5a",
+                                    "content": "pneumo- 和 -itis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba01dfd4a7864bbfa9f2fddecbff67eb",
+                                    "content": "pneumo- 和 -iatry"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff9d9223fd1a4054a517797a1e702252",
+                                    "content": "pneumo- 和 -graphy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d898e1a4957d41bcb8fda743ad63957d",
+                                    "content": "pneumo- 和 -ectomy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Pneumonitis这个词是由哪两个词根组成的？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "pneumonitis由\"pneumo-\"（肺部）和\"-itis\"（炎症）组成。",
+                        "id": "70e8af01ff8c4b22a600d5d2722b595d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d724a07665c40509222e67c197f51c0",
+                                "content": "反常反应"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3024e33395a44949a20ed37e9f0e6c3d",
+                                "content": "正常反应"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09bd9379f36947ca903f70d835e1151b",
+                                "content": "免疫反应"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1fdf85b9147241098f74f254e2e1d867",
+                                "content": "过敏反应"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d724a07665c40509222e67c197f51c0",
+                                    "content": "反常反应"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3024e33395a44949a20ed37e9f0e6c3d",
+                                    "content": "正常反应"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09bd9379f36947ca903f70d835e1151b",
+                                    "content": "免疫反应"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1fdf85b9147241098f74f254e2e1d867",
+                                    "content": "过敏反应"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Allergy这个词中的词根指的是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "allergy由词根\"allergo-\"变化而来，表示过敏反应。",
+                        "id": "7201ae715d584c8081d3cdd3ff9ee586",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f3924f3bd0447f68c58e23874d28ef7",
+                                "content": "收缩，狭窄"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9aaa831eb4f4c508cdf7ef28c93c566",
+                                "content": "扩大，扩张"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d6bb3fd4f7f143de964d13a91ac9c9a7",
+                                "content": "疼痛"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a1c054a3f0fd4198a0cc9601b958691b",
+                                "content": "治愈"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f3924f3bd0447f68c58e23874d28ef7",
+                                    "content": "收缩，狭窄"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9aaa831eb4f4c508cdf7ef28c93c566",
+                                    "content": "扩大，扩张"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d6bb3fd4f7f143de964d13a91ac9c9a7",
+                                    "content": "疼痛"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1c054a3f0fd4198a0cc9601b958691b",
+                                    "content": "治愈"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Stenosis这个词的词根含义是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "-stenosis表示收缩或变窄，常用来描述血管或器官管道的狭窄状态。",
+                        "id": "78014c1c7db948bdae4f8face9ddd8a2",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85184cdd65a646f3b78ef4f47fe583b3",
+                                "content": "Pathogenic"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c96e975a0e90479d810c8a05e426d9ca",
+                                "content": "Cardiology"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd98f7e5703b4c92af4f87d0472c1bf4",
+                                "content": "Laparoscopy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "006ac6767dd24c3495aaee2154534490",
+                                "content": "Hepatitis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85184cdd65a646f3b78ef4f47fe583b3",
+                                    "content": "Pathogenic"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c96e975a0e90479d810c8a05e426d9ca",
+                                    "content": "Cardiology"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd98f7e5703b4c92af4f87d0472c1bf4",
+                                    "content": "Laparoscopy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "006ac6767dd24c3495aaee2154534490",
+                                    "content": "Hepatitis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词包含\"-genic\"这个词根？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "-genic表示“产生”，“pathogenic”意指产生疾病的。",
+                        "id": "79d5f41e2a944efca7202508582c494a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "848fd2edc763419cb5ece9587d20d9c3",
+                                "content": "-dermato-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f022a3dea49d4010b7efd1b09fc20fdf",
+                                "content": "-logy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f2c5acd71054205813acc1da176caa9",
+                                "content": "-opsy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6b1123583e064f8dae9dcbe55b39b073",
+                                "content": "-pathy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "848fd2edc763419cb5ece9587d20d9c3",
+                                    "content": "-dermato-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f022a3dea49d4010b7efd1b09fc20fdf",
+                                    "content": "-logy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f2c5acd71054205813acc1da176caa9",
+                                    "content": "-opsy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6b1123583e064f8dae9dcbe55b39b073",
+                                    "content": "-pathy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "单词\"dermatology\"中的词根是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "dermatology中的\"-dermato-\"来源于希腊语词根，意为“皮肤”。",
+                        "id": "7d284ccf517b4bde8d8d7ac74927c732",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d05494a35e64598a9dadb690e74f77b",
+                                "content": "儿科医生"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e124d3d680d4b2e94046bceaad2db86",
+                                "content": "内科医生"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "547aa7193d8941daaae73416e7b4999f",
+                                "content": "外科医生"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ffd70913141b4915b7060d1c63ab516e",
+                                "content": "牙科医生"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d05494a35e64598a9dadb690e74f77b",
+                                    "content": "儿科医生"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e124d3d680d4b2e94046bceaad2db86",
+                                    "content": "内科医生"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "547aa7193d8941daaae73416e7b4999f",
+                                    "content": "外科医生"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ffd70913141b4915b7060d1c63ab516e",
+                                    "content": "牙科医生"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Pediatrician这个职业名称中的词根指的是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "pediatrician中的\"pediatr-\"来自希腊语，意为儿童医疗。",
+                        "id": "8016fba659ea4cbe8f37dbae14a90e63",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "146a0778061944f1b5af59340e77722b",
+                                "content": "cardio- 和 vascular"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bcd00c2432754cd88a07d5ab068b9f15",
+                                "content": "cardio- 和 venous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c22d1fe538543e8b67dd2399d4c9e37",
+                                "content": "arterio- 和 venous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce6fe5b50e674c1b9585c3338924dfd4",
+                                "content": "hemato- 和 cardiac"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "146a0778061944f1b5af59340e77722b",
+                                    "content": "cardio- 和 vascular"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bcd00c2432754cd88a07d5ab068b9f15",
+                                    "content": "cardio- 和 venous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c22d1fe538543e8b67dd2399d4c9e37",
+                                    "content": "arterio- 和 venous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce6fe5b50e674c1b9585c3338924dfd4",
+                                    "content": "hemato- 和 cardiac"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cardiovascular这个词由哪两个词根组成？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "cardiovascular由\"cardio-\"（心脏）和\"vascular\"（血管的）组成。",
+                        "id": "89660f4a0a4d4eafa43c2087ed28a3e5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0dc402aa675147cfafa61ee09248acf1",
+                                "content": "pneumo-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47fdb740711e4f7b81d463c9427e2c16",
+                                "content": "-nia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e8c12bd228541d68261cc2971e44ea3",
+                                "content": "-itis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5424f4261810451da9bca243b5050ed0",
+                                "content": "cardio-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0dc402aa675147cfafa61ee09248acf1",
+                                    "content": "pneumo-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47fdb740711e4f7b81d463c9427e2c16",
+                                    "content": "-nia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e8c12bd228541d68261cc2971e44ea3",
+                                    "content": "-itis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5424f4261810451da9bca243b5050ed0",
+                                    "content": "cardio-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Pneumonia\"这个词中包含哪个词根？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "\"pneumonia\"中的\"pneumo-\"来自希腊语，表示肺部。",
+                        "id": "9f99ccf627b540819617bc1e49536b54",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7fbbcb0e0b040bfb36df6022a8ce61a",
+                                "content": "dermato-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a57a37d2731b4e988be8f3491b09dcab",
+                                "content": "-logist"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a20853d10be4b89b91199ab3732e758",
+                                "content": "-iatrist"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b95126394b3e45de9ef1fade09a69b01",
+                                "content": "-scope"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7fbbcb0e0b040bfb36df6022a8ce61a",
+                                    "content": "dermato-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a57a37d2731b4e988be8f3491b09dcab",
+                                    "content": "-logist"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a20853d10be4b89b91199ab3732e758",
+                                    "content": "-iatrist"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b95126394b3e45de9ef1fade09a69b01",
+                                    "content": "-scope"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Dermatologist这个职业名称中的词根是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "dermatologist中的\"dermato-\"来自希腊语，表示皮肤。",
+                        "id": "a5ce45f7c24f420299a785b0c262a2ad",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0885c0b6590040e89a3913eaed93483c",
+                                "content": "疾病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac2db4cf53a946b697be224612444fc6",
+                                "content": "遗传"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7ab1888aa674065871e9fac30651481",
+                                "content": "石头形成"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43107d9218b447889577e930d73b4e22",
+                                "content": "疼痛管理"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0885c0b6590040e89a3913eaed93483c",
+                                    "content": "疾病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac2db4cf53a946b697be224612444fc6",
+                                    "content": "遗传"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7ab1888aa674065871e9fac30651481",
+                                    "content": "石头形成"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43107d9218b447889577e930d73b4e22",
+                                    "content": "疼痛管理"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Lithiasis这个词的含义与以下哪项最接近？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "lithiasis由\"-lith-\"（石头）和\"-iasis\"（形成状态）组成，指结石症。",
+                        "id": "a942cde5c3364e2da84b0e6e643d5996",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "032486be8ccd4ca2857f87d57b7cc7fe",
+                                "content": "毒物，毒性的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff2563cf98654633a908c0582c91dc16",
+                                "content": "治疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "360663d2a67e4f7a9747dbfec419bf7e",
+                                "content": "生物学过程"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2b5d732f0ffc42c89feaf5d304390cc5",
+                                "content": "病理学现象"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "032486be8ccd4ca2857f87d57b7cc7fe",
+                                    "content": "毒物，毒性的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff2563cf98654633a908c0582c91dc16",
+                                    "content": "治疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "360663d2a67e4f7a9747dbfec419bf7e",
+                                    "content": "生物学过程"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2b5d732f0ffc42c89feaf5d304390cc5",
+                                    "content": "病理学现象"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Toxicology这个单词中的词根指的是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "toxicology中的\"tox-\"或\"toxic-\"表示毒物或毒性。",
+                        "id": "b4587a9dcd9b4cc19efe99711da5e4e8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c593bce912b422a856d5625cea44be1",
+                                "content": "呼吸的"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a31495eaacd24afdaabc6e386ba73d63",
+                                "content": "心脏的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5946b90de8f643efa3027432070a9d59",
+                                "content": "肌肉的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0c45b7aa44354649b3ab8f048418b885",
+                                "content": "骨骼的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c593bce912b422a856d5625cea44be1",
+                                    "content": "呼吸的"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a31495eaacd24afdaabc6e386ba73d63",
+                                    "content": "心脏的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5946b90de8f643efa3027432070a9d59",
+                                    "content": "肌肉的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0c45b7aa44354649b3ab8f048418b885",
+                                    "content": "骨骼的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cardiac这个词代表什么意思？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "cardiac来自\"cardi-\"，表示与心脏有关的。",
+                        "id": "c5a850d937064c3db4d4892127f36ef3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a74e78e2d874d5a8cc2844171996239",
+                                "content": "Neurology"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e556d60adab047299d7b8e083ff7fd68",
+                                "content": "Cardiology"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "255e67df37574b83b65266962926d6f0",
+                                "content": "Appendectomy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6b2f3e618bfd484f81fdfbaa00d70d6b",
+                                "content": "Dermatology"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a74e78e2d874d5a8cc2844171996239",
+                                    "content": "Neurology"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e556d60adab047299d7b8e083ff7fd68",
+                                    "content": "Cardiology"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "255e67df37574b83b65266962926d6f0",
+                                    "content": "Appendectomy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6b2f3e618bfd484f81fdfbaa00d70d6b",
+                                    "content": "Dermatology"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "下列哪个选项是以\"-ectomy\"结尾的？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "-ectomy表示手术移除，\"appendectomy\"即阑尾切除术。",
+                        "id": "c917b49130a94c3cb60b5920c95b5790",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6513713bac2149ba8d83bc1bfe4ee404",
+                                "content": "缺乏维生素"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4760457235a482590e8e667cf6a7843",
+                                "content": "缺乏血液"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cd90f9776ec240e69badc7c6568b4c10",
+                                "content": "缺乏能量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "552847b3e6924696bfed44811346a64b",
+                                "content": "缺乏氧气"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6513713bac2149ba8d83bc1bfe4ee404",
+                                    "content": "缺乏维生素"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4760457235a482590e8e667cf6a7843",
+                                    "content": "缺乏血液"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cd90f9776ec240e69badc7c6568b4c10",
+                                    "content": "缺乏能量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "552847b3e6924696bfed44811346a64b",
+                                    "content": "缺乏氧气"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Anemia是由于缺乏什么导致的病症？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "anemia来自于希腊语，表示血液减少或缺乏。",
+                        "id": "e0f96d5de64c41cab46ad1542470abc8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f2cecee2b8fe416ba333bdafd6f41899",
+                                "content": "-logy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5097c16549f449a9ae4af1e470c0c2eb",
+                                "content": "-cardio-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d5159c53f0048b288976dbd8a3fe7ab",
+                                "content": "-pexy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85ba78ef8db54ebab9b3aacd427946c7",
+                                "content": "-pathy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f2cecee2b8fe416ba333bdafd6f41899",
+                                    "content": "-logy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5097c16549f449a9ae4af1e470c0c2eb",
+                                    "content": "-cardio-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d5159c53f0048b288976dbd8a3fe7ab",
+                                    "content": "-pexy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85ba78ef8db54ebab9b3aacd427946c7",
+                                    "content": "-pathy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Cardiology\"这个单词的后缀是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "-logy是一个后缀，表示“学科”，所以\"cardiology\"指的是研究心脏的科学。",
+                        "id": "e85eb0c0e7fa4e988134a81e89101661",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dde1e6249ee2488498bacfcb0bf463e4",
+                                "content": "有害的"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd26aeb9a7de4f4fbb0b9c96f4a6d47c",
+                                "content": "治疗的，有益健康的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3ec1025f8654a3b91bb1d9873a002dd",
+                                "content": "诊断的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0df14076f964feba7bdbc4365275eb6",
+                                "content": "预防的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dde1e6249ee2488498bacfcb0bf463e4",
+                                    "content": "有害的"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd26aeb9a7de4f4fbb0b9c96f4a6d47c",
+                                    "content": "治疗的，有益健康的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3ec1025f8654a3b91bb1d9873a002dd",
+                                    "content": "诊断的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0df14076f964feba7bdbc4365275eb6",
+                                    "content": "预防的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Therapeutic这个词的意思是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "\"therapeutic\"来自\"therapy\"，表示治疗或疗效。",
+                        "id": "eefd62a56b2d492db40b232da40c0c5c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a021a68e9b4d40d9828da42141859af7",
+                                "content": "血液学"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9461732857142c5abd27063cf269cf9",
+                                "content": "心脏病学"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad40f539e47f43c781b4d916d2b5c4bf",
+                                "content": "胃肠病学"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11e056e5591e45669f2933202314aad0",
+                                "content": "皮肤科学"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a021a68e9b4d40d9828da42141859af7",
+                                    "content": "血液学"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9461732857142c5abd27063cf269cf9",
+                                    "content": "心脏病学"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad40f539e47f43c781b4d916d2b5c4bf",
+                                    "content": "胃肠病学"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11e056e5591e45669f2933202314aad0",
+                                    "content": "皮肤科学"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Hematology这个单词中的词根指的是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "hematology中的\"hemato-\"来自希腊语，意为血液。",
+                        "id": "ef1f4121749242469d686cb9de9394aa",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35c486b9c2934621bc9a661133535025",
+                                "content": "骨质疏松"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f542642733e4d1fa85b80f86bd9a89a",
+                                "content": "关节炎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c54c1f63f18b42c39f85e67a1b1c7406",
+                                "content": "骨折"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5777f4c8f34b40969e9434f39043f816",
+                                "content": "肌肉萎缩"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35c486b9c2934621bc9a661133535025",
+                                    "content": "骨质疏松"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f542642733e4d1fa85b80f86bd9a89a",
+                                    "content": "关节炎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c54c1f63f18b42c39f85e67a1b1c7406",
+                                    "content": "骨折"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5777f4c8f34b40969e9434f39043f816",
+                                    "content": "肌肉萎缩"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Osteoporosis这个单词中的词根指的是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "osteoporosis中的\"osteo-\"指骨，\"-porosis\"指多孔或稀疏，合起来指骨质疏松症。",
+                        "id": "fb5fd6592fdd4620b50765fd701d560a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "fe2ba55a93dd66b604fc3515cf971376",
+            "useTime": 9000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 30,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 30,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 15:21:15",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重点",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 30
+    },
+    "message": ""
+}

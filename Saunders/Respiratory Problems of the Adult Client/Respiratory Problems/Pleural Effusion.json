@@ -1,0 +1,591 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:16:16",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:16:16",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:16:19",
+            "id": "9134511fda3ad934d0ad0acc04acf2b6",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9233ac1101a44a2286a34651793f6a17",
+                                "content": "Malignancy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dae2ce5d4b1c46188220ffe5b7004b7f",
+                                "content": "Pneumonia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dda0b43775c84c96bd6b3d9a44e16490",
+                                "content": "Tuberculosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c45cd9a6a97544c99376bb5a5c2a149d",
+                                "content": "Congestive heart failure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9233ac1101a44a2286a34651793f6a17",
+                                    "content": "Malignancy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dae2ce5d4b1c46188220ffe5b7004b7f",
+                                    "content": "Pneumonia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dda0b43775c84c96bd6b3d9a44e16490",
+                                    "content": "Tuberculosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c45cd9a6a97544c99376bb5a5c2a149d",
+                                    "content": "Congestive heart failure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the pleural fluid cytology report for a client with pleural effusion. The report describes the fluid as clear and pale yellow with no red blood cells (RBCs) or white blood cells (WBCs) detected. Based on these results, which underlying condition would the nurse suspect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThere are various types of pleural fluid, including transudative fluid or exudative fluid, depending on the underlying cause. Exudate is typically cloudy and yellow and is cell-rich, including WBCs. Generally, exudate indicates an underlying infectious, inflammatory, or malignant process. Transudate is clear or pale yellow with few cells present. Transudate can be related to congestive heart failure due to fluid overload; cirrhosis due to decreased albumin production and subsequent decreased oncotic pressure; or renal disease, which contributes to fluid overload and increased capillary pressure. Options 1, 2 and 3 are either malignant or infectious processes and would likely cause an exudative pleural effusion. Since the client’s pleural fluid is clear and pale yellow with no RBCs or WBCs, the transudate is present. Therefore, option 4 is correct as congestive heart failure is associated with transudative pleural effusion.",
+                        "id": "15cc7ec99be744b1b34485e5c0d3977d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf403bf1404b4643be2b752f6e500f48",
+                                "content": "Cirrhosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5388a4a881d24a6295abf62e88b686ca",
+                                "content": "Malignancy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3969885016d4f23b5a8d0e48e0e15f9",
+                                "content": "Chronic kidney disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6dfecc053da84deca5d98e77da5c8a19",
+                                "content": "Congestive heart failure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf403bf1404b4643be2b752f6e500f48",
+                                    "content": "Cirrhosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5388a4a881d24a6295abf62e88b686ca",
+                                    "content": "Malignancy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3969885016d4f23b5a8d0e48e0e15f9",
+                                    "content": "Chronic kidney disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6dfecc053da84deca5d98e77da5c8a19",
+                                    "content": "Congestive heart failure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who underwent a thoracentesis to treat pleural effusion. The pleural fluid testing results indicate the pleural fluid is cloudy and confirm the presence of white blood cells (WBCs). Which condition would the nurse suspect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPleural effusion is a sign of an underlying disease process and the type of pleural fluid can provide information about what underlying disease is responsible for the effusion. Pleural fluid is described as transudative or exudative. Transudative pleural fluid is typically a clear, pale yellow fluid due to the lack of protein or cells in the fluid. Congestive heart failure, chronic liver disease such as cirrhosis, or renal disease may be the underlying cause of a transudative pleural effusion. Exudative fluid is cloudy due to the presence of WBCs and is a sign of an inflammatory or infectious process, including malignancy. In this situation, the pleural fluid is exudative since it is cloudy and WBCs are present. Since options 1, 3 and 4 are likely related to transudative, clear pleural fluid, option 2 is the correct answer.",
+                        "id": "51f90009a0854a3188392122ff01fab0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65c9bc9cb31344c484fae39e83021d0b",
+                                "content": "Alveoli"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c291312f46c04a038765b94280b001df",
+                                "content": "Trachea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4dc716b28294c94a60a9760b6b5b34c",
+                                "content": "Pleural space"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c864b2611aa4ee191845d518cb07769",
+                                "content": "Main bronchi"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65c9bc9cb31344c484fae39e83021d0b",
+                                    "content": "Alveoli"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c291312f46c04a038765b94280b001df",
+                                    "content": "Trachea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4dc716b28294c94a60a9760b6b5b34c",
+                                    "content": "Pleural space"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c864b2611aa4ee191845d518cb07769",
+                                    "content": "Main bronchi"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assisting a radiologist to facilitate a thoracentesis for a client with pleural effusion. The nurse assists the client to a position that widens the spaces between the ribs to help drain which area?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThoracentesis is the needle aspiration of fluid or air from the pleural space for diagnostic or management purposes. Thoracentesis may be done at the bedside and is often done with imaging for guidance. The other options are incorrect.",
+                        "id": "960b320e0a5040ce88bb18284ea09e0a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af2b7715fde94c34acd72e247bc2c6ac",
+                                "content": "Absence of dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd9ca842d0e74dae9c86549ffd63430e",
+                                "content": "Increased severity of cough"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a52aab5880a64411839a0448037c4f77",
+                                "content": "Dull percussion notes over lung tissue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64ac009180bc4698abd2550a94905f6d",
+                                "content": "Decreased tactile fremitus over lung tissue"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af2b7715fde94c34acd72e247bc2c6ac",
+                                    "content": "Absence of dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd9ca842d0e74dae9c86549ffd63430e",
+                                    "content": "Increased severity of cough"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a52aab5880a64411839a0448037c4f77",
+                                    "content": "Dull percussion notes over lung tissue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64ac009180bc4698abd2550a94905f6d",
+                                    "content": "Decreased tactile fremitus over lung tissue"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has been treated for pleural effusion with a thoracentesis. The nurse determines that this procedure has been effective if the nurse notes which assessment finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client who has undergone thoracentesis would experience relief of the signs and symptoms experienced before the procedure. Typical signs and symptoms of pleural effusion include dry, nonproductive cough; dyspnea (usually on exertion); decreased or absent tactile fremitus; and dull or flat percussion notes on respiratory assessment.",
+                        "id": "aefe794104174bb19a6cf711c0c4b1d9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4dbf2d73b76d4ab6ab3ef5db0278b059",
+                                "content": "2 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79925199910243ca903dee2a29612dec",
+                                "content": "4 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b454fcd0abdd464db50f0c0bc3135d3a",
+                                "content": "6 hours"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b45d212a6a34bc6b532c1f56ff6551d",
+                                "content": "8 hours"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4dbf2d73b76d4ab6ab3ef5db0278b059",
+                                    "content": "2 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79925199910243ca903dee2a29612dec",
+                                    "content": "4 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b454fcd0abdd464db50f0c0bc3135d3a",
+                                    "content": "6 hours"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b45d212a6a34bc6b532c1f56ff6551d",
+                                    "content": "8 hours"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assisting a pulmonologist with a pleurodesis to treat a client with recurrent pleural effusions. After the pulmonologist instills the medication into the pleural space, for how long would the nurse anticipate the chest tube drainage system will need to be clamped?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPleurodesis is a procedure in which a medication, such as doxycycline or bleomycin, is instilled into the pleural space via an existing chest tube. The medication triggers an inflammatory reaction that destroys the pleural space, thereby preventing future fluid accumulation. The chest tube drainage system needs to be clamped for a period of 8 hours after the procedure, after which it is unclamped and the medication is allowed to drain out of the lungs. Options 1, 2 and 3 are inadequate amounts of time for the medication to exert its therapeutic effect after this procedure. Therefore, option 4 is correct.",
+                        "id": "b22f6bcb72184749aa3cd8d87969674e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5313c30d10ca4a3f991e9e1f479ec3f2",
+                                "content": "1800"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec881ae85a1846808fa520b7dcc50ac7",
+                                "content": "2000"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f26b5c3a65da4c3b94d672b0b72b564c",
+                                "content": "2200"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ddfe8b390c84476b841e395cc2408c0c",
+                                "content": "2400"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5313c30d10ca4a3f991e9e1f479ec3f2",
+                                    "content": "1800"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec881ae85a1846808fa520b7dcc50ac7",
+                                    "content": "2000"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f26b5c3a65da4c3b94d672b0b72b564c",
+                                    "content": "2200"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ddfe8b390c84476b841e395cc2408c0c",
+                                    "content": "2400"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who underwent a pleurodesis procedure to treat a recurrent pleural effusion. The medication was instilled into the chest tube at 1600 and subsequently clamped. At what time will the nurse unclamp the chest tube?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDuring a pleurodesis procedure, a chemical irritant, such as doxycycline or bleomycin, is instilled into the pleural cavity via a chest tube. The medication needs to stay in place for at least 8 hours to be effective. Options 1, 2, and 3 are too early to unclamp the chest tube as the medication would be in place for only 2, 4, and 6 hours, respectively. Therefore, option 4 is correct.",
+                        "id": "e711e444a5384f19aea45cda0e8e31f7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d66f85cb951642b2901cc066abc3b008",
+                                "content": "Decreased oncotic pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5fac10632f8444ff9223a3eecb504430",
+                                "content": "Lymphatic fluid outflow obstruction"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30d447fd436647d8891b6c8200e20d36",
+                                "content": "Increased pulmonary capillary pressure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ab430828fad4c5b83bedc54c8b2cf57",
+                                "content": "Decreased pulmonary capillary pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dcedd4402fa94bec91b14b761aebfbb7",
+                                "content": "Increased pleural membrane permeability"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d66f85cb951642b2901cc066abc3b008",
+                                    "content": "Decreased oncotic pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5fac10632f8444ff9223a3eecb504430",
+                                    "content": "Lymphatic fluid outflow obstruction"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30d447fd436647d8891b6c8200e20d36",
+                                    "content": "Increased pulmonary capillary pressure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ab430828fad4c5b83bedc54c8b2cf57",
+                                    "content": "Decreased pulmonary capillary pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dcedd4402fa94bec91b14b761aebfbb7",
+                                    "content": "Increased pleural membrane permeability"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is reviewing the pathophysiology of pleural effusion. The nurse knows that pleural fluid balance is managed by several mechanisms and correctly identifies which of the following as a cause for the development of pleural effusion? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe lungs are covered by a two-layered pleural membrane that contains a small amount of pleural fluid between the parietal and visceral pleura to lubricate lung movement. The fluid volume in the pleural space is managed by a balance between hydrostatic pressure, oncotic pressure, capillary permeability and lymphatic fluid outflow. Pleural effusion occurs when one of the previously mentioned mechanisms is disturbed and excessive fluid accumulates in the pleural space. Decreased oncotic pressure, lymphatic fluid outflow obstruction, increased capillary pressure (not decreased capillary pressure), and increased pleural membrane permeability can lead to the development of pleural effusion. Therefore, options 1, 2, 3, and 5 are correct.",
+                        "id": "32f7c507e0fb437fa83591538ae3eabf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "ff40726631a4623ef62af8e132f4b3c5",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 7,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 7,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:16:20",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Pleural Effusion",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 7
+    },
+    "message": ""
+}

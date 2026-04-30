@@ -1,0 +1,135 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 17:53:24",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 17:53:24",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 17:53:27",
+            "id": "110a8a60ae62bdde72f29c60a87bc788",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbf56636c448431da13753a9c44663b2",
+                                "content": "The client has reported sleeping less."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f73a9e9f2d849199fcd7c6f7479846e",
+                                "content": "The client's cholesterol level is elevated."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5aba12880ea4a528924a2da4440d33c",
+                                "content": "The client reports a decrease in appetite."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "89a92adce2e341a9aab42663af3288ba",
+                                "content": "The client gained 8 pounds since the last visit."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54683b71c179417cb7bb875570e205d0",
+                                "content": "The client's blood pressure is increased from baseline."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbf56636c448431da13753a9c44663b2",
+                                    "content": "The client has reported sleeping less."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f73a9e9f2d849199fcd7c6f7479846e",
+                                    "content": "The client's cholesterol level is elevated."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5aba12880ea4a528924a2da4440d33c",
+                                    "content": "The client reports a decrease in appetite."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "89a92adce2e341a9aab42663af3288ba",
+                                    "content": "The client gained 8 pounds since the last visit."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54683b71c179417cb7bb875570e205d0",
+                                    "content": "The client's blood pressure is increased from baseline."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A client is being seen at the primary health care provider (PHCP) office. The client has a history of schizophrenia and has been taking a new psychotropic medication for 3 weeks. Which finding(s) indicate a need for follow-up? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nClients with schizoaffective disorders are at higher incidence for metabolic syndrome and diabetes mellitus due to the side effects experienced while taking psychotropic medications, such as increase in appetite, weight gain, increased cholesterol levels, and increased blood pressure. Psychotropic medications cause sedation; therefore option 1 is incorrect.\n\nTest-Taking Strategy:\nNote the strategic words, need for follow-up. Thinking about the pharmacology of psychotropic medications will assist in eliminating option 1 because they often cause sedation, so the client would sleep longer. Eliminate option 3 because these medications cause an increase in appetite and therefore weight gain. The notable weight gain since the last visit is concerning along with the elevated cholesterol and elevated blood pressure. These findings place the client at risk for type 2 diabetes mellitus and metabolic syndrome.",
+                        "id": "9844f3efcca84ed795c5fe10e0d34c2a",
+                        "mark": "0",
+                        "collectionState": "1"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "92154fed718124149ac374d503b5b561",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 1,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 1,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 17:53:27",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Individuals with Mental Health Problems",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 1
+    },
+    "message": ""
+}

@@ -1,0 +1,985 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 19:13:42",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 19:13:42",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 19:13:45",
+            "id": "e5f1745c8d8af26d8ea3f617bce739e1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b3c94394469481ea3db0a70cbf0babe",
+                                "content": "Calcium level of 15 mg/dL (3.75 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b21013ae96f945cc8fa56e6edcc7813a",
+                                "content": "Potassium level of 3.8 mEq/L (3.8 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "889463507a0a41a7af64dc7fed7f0ba3",
+                                "content": "Platelet count of 200,000 mm3 (200 × 109/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69b48f2fb24543cda2a908bdc6b36788",
+                                "content": "White blood cell (WBC) count of 6000 mm3 (6 × 109/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b3c94394469481ea3db0a70cbf0babe",
+                                    "content": "Calcium level of 15 mg/dL (3.75 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b21013ae96f945cc8fa56e6edcc7813a",
+                                    "content": "Potassium level of 3.8 mEq/L (3.8 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "889463507a0a41a7af64dc7fed7f0ba3",
+                                    "content": "Platelet count of 200,000 mm3 (200 × 109/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69b48f2fb24543cda2a908bdc6b36788",
+                                    "content": "White blood cell (WBC) count of 6000 mm3 (6 × 109/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the laboratory test results for a client with bladder cancer with bone metastasis. The nurse would contact the primary health care provider (PHCP) if which finding is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypercalcemia is a serum calcium level greater than 10.5 mg/dL (2.6 mmol/L). It most often occurs in clients who have bone metastasis and is a late manifestation of extensive malignancy. The presence of cancer in the bone causes the bone to release calcium into the bloodstream. Hypercalcemia is an oncological emergency, and the PHCP needs to be notified. Options 2, 3, and 4 indicate normal laboratory values.",
+                        "id": "278d73a22ee44191b8c1c7820a527009",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ab0dfb66ba747f3abe9d7811e8c422c",
+                                "content": "Urinate immediately."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ca59d7db2454726928351dd42d6a67d",
+                                "content": "Maintain strict bed rest."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa31203c79ac4b40a7e5f8baee626a6c",
+                                "content": "Change position every 15 minutes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "597cec2ac08c494e9a94a70430a1f47b",
+                                "content": "Retain the instillation fluid for 30 minutes."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ab0dfb66ba747f3abe9d7811e8c422c",
+                                    "content": "Urinate immediately."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ca59d7db2454726928351dd42d6a67d",
+                                    "content": "Maintain strict bed rest."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa31203c79ac4b40a7e5f8baee626a6c",
+                                    "content": "Change position every 15 minutes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "597cec2ac08c494e9a94a70430a1f47b",
+                                    "content": "Retain the instillation fluid for 30 minutes."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client after intravesical instillation of an alkylating chemotherapeutic agent for the treatment of bladder cancer. What would the nurse instruct the client to do after the instillation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWith intravesical instillation, normally the medication is injected into the bladder through a urethral catheter, the catheter is clamped or removed, and the client is asked to retain the fluid for 2 hours. The client changes position every 15 to 30 minutes, usually from side to side and from supine to prone. The client then voids and is instructed to drink water to flush the bladder.",
+                        "id": "30ca00b976a14d3784091d004527945e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "682bf73bf9ff49ceaa80ce4cdc6c05db",
+                                "content": "Bladder cancer most often occurs in women."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3bc6c10dcac46c6bab00e0d87fb07cb",
+                                "content": "Using cigarettes and drinking coffee can increase the risk."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dcbfe567c54f451586b1cf51b5f0314e",
+                                "content": "Bladder cancer generally is seen in clients older than age 40."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a768cbb8f7e4ca38597c11115dc49bb",
+                                "content": "Environmental health hazards have been implicated as a cause."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "682bf73bf9ff49ceaa80ce4cdc6c05db",
+                                    "content": "Bladder cancer most often occurs in women."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3bc6c10dcac46c6bab00e0d87fb07cb",
+                                    "content": "Using cigarettes and drinking coffee can increase the risk."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dcbfe567c54f451586b1cf51b5f0314e",
+                                    "content": "Bladder cancer generally is seen in clients older than age 40."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a768cbb8f7e4ca38597c11115dc49bb",
+                                    "content": "Environmental health hazards have been implicated as a cause."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The oncology nurse is providing a teaching session for a group of nursing students regarding the risks and causes of bladder cancer. Which statement by a student would indicate a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe incidence of bladder cancer is greater in men than in women and affects white people twice as often as black people. The remaining options describe risks associated with bladder cancer.",
+                        "id": "64f666c7bd544a419b785efe10cfb264",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "440d6dc631864df0a586ecfdc2c701fe",
+                                "content": "Dysuria"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d52aff9a49194f96b4b9120ebdb55783",
+                                "content": "Hematuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "672681e7a6004a5d9cd3571c2be9abbb",
+                                "content": "Urgency on urination"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d22a1a4f77714234b64be2b7fcd93ead",
+                                "content": "Frequency of urination"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "440d6dc631864df0a586ecfdc2c701fe",
+                                    "content": "Dysuria"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d52aff9a49194f96b4b9120ebdb55783",
+                                    "content": "Hematuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "672681e7a6004a5d9cd3571c2be9abbb",
+                                    "content": "Urgency on urination"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d22a1a4f77714234b64be2b7fcd93ead",
+                                    "content": "Frequency of urination"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the history of a client with bladder cancer. The nurse expects to note documentation of which most common sign or symptom of this type of cancer?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe most common sign in clients with cancer of the bladder is hematuria. The client also may experience irritative voiding symptoms such as frequency, urgency, and dysuria, and these symptoms often are associated with carcinoma in situ. Dysuria, urgency, and frequency of urination are also symptoms of a bladder infection.",
+                        "id": "7a88b73e5c05486990504edec23eda09",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19ef8529498e4fe091809cba002a4bad",
+                                "content": "Rupture of the bladder"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b8a6755e281c4f1a9066eb8f63787dc5",
+                                "content": "The development of a vesicovaginal fistula"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b88702d430f84570a3564d2e37e6d4ac",
+                                "content": "Extreme stress caused by the diagnosis of cancer"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bda4be73d744b938b127da94665b102",
+                                "content": "Altered perineal sensation as a side effect of radiation therapy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19ef8529498e4fe091809cba002a4bad",
+                                    "content": "Rupture of the bladder"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b8a6755e281c4f1a9066eb8f63787dc5",
+                                    "content": "The development of a vesicovaginal fistula"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b88702d430f84570a3564d2e37e6d4ac",
+                                    "content": "Extreme stress caused by the diagnosis of cancer"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bda4be73d744b938b127da94665b102",
+                                    "content": "Altered perineal sensation as a side effect of radiation therapy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who has been receiving radiation therapy for bladder cancer states to the nurse, \"I feel like I am urinating through my vagina.\" The nurse interprets that the client may be experiencing which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA vesicovaginal fistula is a genital fistula that occurs between the bladder and vagina. The fistula is an abnormal opening between these two body parts; if this occurs, the client may experience drainage of urine through the vagina. The client's complaint is not associated with options 1, 3, or 4.",
+                        "id": "b8fba36bdcca43a08b04e92535e14bcc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1b1da3e58954e0598940261b652b37d",
+                                "content": "Encourage increased intake of oral fluids."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d7077a8eaae547709870d31cbd1aee75",
+                                "content": "Provide increased doses of opioid analgesics."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5385f92f8b834ad48bb3f161e58e1ed1",
+                                "content": "Place the client on strict contact isolation for 24 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d81b7b21ce44f69997ca4f9105d8590",
+                                "content": "Keep the client on nothing by mouth (NPO) status for 6 hours."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1b1da3e58954e0598940261b652b37d",
+                                    "content": "Encourage increased intake of oral fluids."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d7077a8eaae547709870d31cbd1aee75",
+                                    "content": "Provide increased doses of opioid analgesics."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5385f92f8b834ad48bb3f161e58e1ed1",
+                                    "content": "Place the client on strict contact isolation for 24 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d81b7b21ce44f69997ca4f9105d8590",
+                                    "content": "Keep the client on nothing by mouth (NPO) status for 6 hours."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is receiving intravesical chemotherapy for cancer of the bladder. The nurse would plan to take which action after the completion of each treatment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter intravesical chemotherapy, the nurse increases fluids to help flush the medication out of the bladder after the period of retention. The client does not have a need for opioid analgesics as a result of the chemotherapy treatment, nor does the client need to be NPO. The chemotherapy agent and the urine are treated as biohazards, but the client does not need to be placed on contact isolation.",
+                        "id": "b8fdb791f9a34138b9120d42176d6e86",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e6ab3fb6bef4b73a0863628030e8f1b",
+                                "content": "Dietary restrictions"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6534d1f8f8dc46e28e2d3a288b494666",
+                                "content": "Technique of catheterization"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a34da71d526241e087b7aafe2518cb14",
+                                "content": "External pouch and application care"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c251ebc8b80948c281704bedb0926419",
+                                "content": "Proper administration of prophylactic antibiotics"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e6ab3fb6bef4b73a0863628030e8f1b",
+                                    "content": "Dietary restrictions"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6534d1f8f8dc46e28e2d3a288b494666",
+                                    "content": "Technique of catheterization"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a34da71d526241e087b7aafe2518cb14",
+                                    "content": "External pouch and application care"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c251ebc8b80948c281704bedb0926419",
+                                    "content": "Proper administration of prophylactic antibiotics"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A cystectomy is performed for a client with a diagnosis of bladder cancer, and a Kock pouch is created for urinary diversion. In creating a discharge teaching plan for the client, the nurse would include which instruction in the plan?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "49d86bb4d5071eb7de614d6c79f7abfb",
+                        "difficulty": "考试范围-Creating创新",
+                        "textAnalysis": "Rationale:\nA Kock pouch is a continent internal ileal reservoir. The nurse instructs the client about the technique of catheterization. Dietary restrictions are not required. There is no external pouch. Antibiotics are not required unless an infection is present; also, antibiotics are prescribed by the health care provider.",
+                        "id": "cdba430167a84f958b88178c227b1648",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6beff884365a4cfda8a8ddd079a03685",
+                                "content": "Proteinuria and dysuria"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "898df2e792b64d3e9e71ac6d3c5a54f0",
+                                "content": "Hematuria and absence of pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe4f0c9464e64cfdaf8a621146445d87",
+                                "content": "Painful urination and hematuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d7063af1eb04f93a4fc509e168e1889",
+                                "content": "Pyuria and palpable abdominal mass"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6beff884365a4cfda8a8ddd079a03685",
+                                    "content": "Proteinuria and dysuria"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "898df2e792b64d3e9e71ac6d3c5a54f0",
+                                    "content": "Hematuria and absence of pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe4f0c9464e64cfdaf8a621146445d87",
+                                    "content": "Painful urination and hematuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d7063af1eb04f93a4fc509e168e1889",
+                                    "content": "Pyuria and palpable abdominal mass"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to the hospital with suspected bladder cancer. The nurse assesses the client for which early signs and symptoms of the disease?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe most common earliest manifestation of bladder cancer is hematuria that is not accompanied by pain. The hematuria is intermittent at first. Later signs and symptoms include hematuria with dysuria and frequency because of bladder irritation. Pyuria and proteinuria are not part of the clinical picture. A mass usually is not palpable.",
+                        "id": "d73b7b0c005e46d0b8d3c1198b557828",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19cc44a8c9a1459e8bcdafd0742a37cc",
+                                "content": "I change my pouch every week."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d91b5466cda54bf2bd8f35a085e9cba0",
+                                "content": "I change the appliance in the morning."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dea3ea9d87344419a47c3cb5aabeb6e6",
+                                "content": "I empty the urinary collection bag when it is two-thirds full."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "120c2867843d41bd8df47d44a19336c5",
+                                "content": "When I'm in the shower, I direct the flow of water away from my stoma."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19cc44a8c9a1459e8bcdafd0742a37cc",
+                                    "content": "I change my pouch every week."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d91b5466cda54bf2bd8f35a085e9cba0",
+                                    "content": "I change the appliance in the morning."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dea3ea9d87344419a47c3cb5aabeb6e6",
+                                    "content": "I empty the urinary collection bag when it is two-thirds full."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "120c2867843d41bd8df47d44a19336c5",
+                                    "content": "When I'm in the shower, I direct the flow of water away from my stoma."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client who has a new ureterostomy. Which statement by the client indicates the need for more education about urinary stoma care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe urinary collection bag needs to be changed when it is one-third full to prevent pulling of the appliance and leakage. The remaining options identify correct statements about the care of a urinary stoma.\n",
+                        "id": "e151c6719c544605b900aad0b1683ff8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2d00ef75d0a4decbb58784c9b9a31ff",
+                                "content": "I change my pouch every week."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9f53c727113e41d6ae50566ae1a84d0b",
+                                "content": "I change the appliance in the morning."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1c5c883fefb40399bbeb89db7ebe03b",
+                                "content": "I empty the urinary collection bag when it is two-thirds full."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e52e0f4dd634161b40207e06f9d6fc0",
+                                "content": "When I'm in the shower, I direct the flow of water away from my stoma."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2d00ef75d0a4decbb58784c9b9a31ff",
+                                    "content": "I change my pouch every week."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9f53c727113e41d6ae50566ae1a84d0b",
+                                    "content": "I change the appliance in the morning."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1c5c883fefb40399bbeb89db7ebe03b",
+                                    "content": "I empty the urinary collection bag when it is two-thirds full."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e52e0f4dd634161b40207e06f9d6fc0",
+                                    "content": "When I'm in the shower, I direct the flow of water away from my stoma."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client with bladder cancer who had a cystectomy and creation of a ureterostomy. Which statement by the client indicates the need for more education about urinary stoma care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe urinary collection bag needs to be changed when it is one-third full to prevent pulling of the appliance and leakage. The remaining options identify correct statements about the care of a urinary stoma.",
+                        "id": "f62e48e26d1c4963b7d62c4f574db0bb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd2e7404b405415792e5499759362f08",
+                                "content": "Dusky appearance of the stoma"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34c5536aac2d4bb58ea8696afc8a7067",
+                                "content": "Stoma protrusion from the skin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ae9fef84365478bb30750a8b5684fb3",
+                                "content": "Sharp abdominal pain with rigidity"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ffe14f23af04372b960f07eb0f0e574",
+                                "content": "Urine output greater than 30 mL/hour"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ab573dbb65e4661ba6e44d5955584e8",
+                                "content": "Mucous shreds in the urine collection bag"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd2e7404b405415792e5499759362f08",
+                                    "content": "Dusky appearance of the stoma"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34c5536aac2d4bb58ea8696afc8a7067",
+                                    "content": "Stoma protrusion from the skin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ae9fef84365478bb30750a8b5684fb3",
+                                    "content": "Sharp abdominal pain with rigidity"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ffe14f23af04372b960f07eb0f0e574",
+                                    "content": "Urine output greater than 30 mL/hour"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ab573dbb65e4661ba6e44d5955584e8",
+                                    "content": "Mucous shreds in the urine collection bag"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A client with bladder cancer has undergone surgical removal of the bladder with creation of an ileal conduit. Which assessment findings indicate that the client is developing complications? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTo create an ileal conduit, the surgeon takes a short segment of the small intestine and reconnects the remaining intestine so that it functions normally. One end of the removed segment of intestine is placed at the skin surface to create the stoma. The stoma would be red and moist. A pale, dusky stoma indicates poor vascular supply that could result in necrosis. The stoma would be flush to the skin. The client would not have sharp abdominal pain with rigidity, an indication of peritonitis. Any of these findings needs to be reported to the primary health care provider. Options 4 and 5 are normal findings.",
+                        "id": "dd4af4664de9411d9d0e2aa9341f13fc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94eccd0a893a4831b3591a9db9822573",
+                                "content": "Quitting smoking will help to reduce my risk."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e6286e7cbad454b9eaeda6df4d19d50",
+                                "content": "I have to consider natural alternatives to dye my hair."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d5b6442f958439d9b05bdf5b34b53de",
+                                "content": "Infections of the bladder cannot cause bladder cancer."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "205f8a2857d64e949e5d0aafebde49ce",
+                                "content": "Chemicals have to enter the bladder directly in order to cause bladder cancer."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c952950d2b34742a84f059a5b2dbff5",
+                                "content": "I have to consult with my primary health care provider about long-term use of cyclophosphamide medications."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94eccd0a893a4831b3591a9db9822573",
+                                    "content": "Quitting smoking will help to reduce my risk."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e6286e7cbad454b9eaeda6df4d19d50",
+                                    "content": "I have to consider natural alternatives to dye my hair."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d5b6442f958439d9b05bdf5b34b53de",
+                                    "content": "Infections of the bladder cannot cause bladder cancer."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "205f8a2857d64e949e5d0aafebde49ce",
+                                    "content": "Chemicals have to enter the bladder directly in order to cause bladder cancer."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c952950d2b34742a84f059a5b2dbff5",
+                                    "content": "I have to consult with my primary health care provider about long-term use of cyclophosphamide medications."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse has conducted an educational session about risk factors for bladder cancer with clients in the ambulatory care center. Which statements by the clients indicate that teaching was effective? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe greatest risk factor for bladder cancer is tobacco use. Exposure to toxins in hair dyes, rubber, paint, electric cable, and textile industries increases risk for bladder cancer. Chemicals may enter the body through contact with skin and mucous membranes in the respiratory tract. In addition, bladder infections and long-term use of cyclophosphamides may cause bladder cancer.",
+                        "id": "df638542a7f14bdf8adfacf47b38a685",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "af4e637ad481d45e8bdb79db522d324e",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 12,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 12,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 19:13:46",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Bladder and Kidney Cancer",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 12
+    },
+    "message": ""
+}

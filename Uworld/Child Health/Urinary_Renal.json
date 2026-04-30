@@ -1,0 +1,663 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 13:04:42",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 13:04:42",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 13:04:45",
+            "id": "8b9a2f3399a3176110a6b2fefbb31bcc",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68a24d4d1427ae95e4ebb85d5c32be81",
+                                "content": "Blood-streaked stools "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "18f8e202b7fcae64c7023a1b5e53f18e",
+                                "content": "Client drank fruit juice"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5dc652af370f5fe703f630e50060064",
+                                "content": "Dry mucous membranes"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "962a5b3a7ae472b05c87c475b6758a6e",
+                                "content": "Petechiae noted on the trunk"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68a24d4d1427ae95e4ebb85d5c32be81",
+                                    "content": "Blood-streaked stools "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "18f8e202b7fcae64c7023a1b5e53f18e",
+                                    "content": "Client drank fruit juice"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5dc652af370f5fe703f630e50060064",
+                                    "content": "Dry mucous membranes"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "962a5b3a7ae472b05c87c475b6758a6e",
+                                    "content": "Petechiae noted on the trunk"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse assesses a pediatric client who was diagnosed with diarrhea caused by Escherichia coli.  The nurse is most concerned with which finding?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Hemolytic uremic syndrome (HUS) is a life-threatening complication of Escherichia coli diarrhea and results in red cell hemolysis, low platelets, and acute kidney injury.  Hemolysis results in anemia, and low platelets manifest as petechiae or purpura.  Therefore, the presence of petechiae in this client could indicate underlying HUS and needs further assessment.</p><p><br></p><p>(Option 1)  E coli bacteria infect people through contaminated food or water and attack the digestive system.  Blood-streaked stool due to intestinal irritation is a common symptom associated with this illness.  Treatment is aimed at preventing dehydration, and clients usually improve in about a week.</p><p><br></p><p>(Option 2)  Fruit juices are discouraged in acute diarrhea as they have high sugar (osmolality) and low electrolyte content.  Continuing the client's normal diet (solid foods) is encouraged as it shortens the duration and severity of the diarrhea.</p><p><br></p><p>(Option 3)  Dry mucous membranes are a sign of dehydration, a common complication of any persistent diarrhea.  Dehydration should be treated promptly, especially in children; however, as long as fluid is replenished, the condition is not life-threatening.</p><p><br></p><p>Educational objective:</p><p>Hemolytic uremic syndrome is a life-threatening complication of Escherichia coli diarrhea.  Clinical features include anemia (pallor), low platelets (petechiae and purpura), and acute kidney injury (low urine output).</p>",
+                        "id": "21bddf6624ac4906b1c16b75cfafe114",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "609ffd6dd5733461222283c833d783b5",
+                                "content": "&quot;Cutting down on added salt will be good for the whole family.&quot; "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ba37c4d48e2911803208ff8a5088118",
+                                "content": " &quot;I'll organize a lot of playdates to keep my child's spirits up.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "208e402e4a791759ad0bf3df2a4a0dcd",
+                                "content": "&quot;I'll restrict my child's fluids if I notice swelling or weight gain.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5fea926429ff06c2d3812f54b525eb9e",
+                                "content": "&quot;I'll test for protein in my child's urine every day.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "609ffd6dd5733461222283c833d783b5",
+                                    "content": "&quot;Cutting down on added salt will be good for the whole family.&quot; "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ba37c4d48e2911803208ff8a5088118",
+                                    "content": " &quot;I'll organize a lot of playdates to keep my child's spirits up.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "208e402e4a791759ad0bf3df2a4a0dcd",
+                                    "content": "&quot;I'll restrict my child's fluids if I notice swelling or weight gain.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5fea926429ff06c2d3812f54b525eb9e",
+                                    "content": "&quot;I'll test for protein in my child's urine every day.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a 7-year-old child diagnosed with nephrotic syndrome who will be discharged soon.  Which statement by the parent indicates the need for reinforcement of teaching?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation: Nephrotic syndrome, an autoimmune disease, affects children age 2-7 and is characterized by increased permeability of the glomerulus to proteins (eg, albumin, immunoglobulins, natural anticoagulants).  Loss of albumin in urine leads to hypoalbuminemia; this causes decreased plasma oncotic pressure, which allows fluid to leak out of the vascular spaces.  Reduced plasma volume (hypovolemia) activates kidneys to retain salt and water (renin-angiontensin-aldosterone system).  Clients will have generalized edema, weight gain, loss of appetite (from ascites), and decreased urine output.  Loss of immunoglobulins makes children susceptible to infection.  Treatment typically includes:\n\nCorticosteroids and other immunosuppressants (eg, cyclosporine)\nLoss of appetite management by making foods fun and attractive\nInfection prevention (eg, limiting social interaction until the child is better) (Option 2)\n(Option 1)  A regular diet without added salt is prescribed to prevent edema while in remission.  More stringent sodium restrictions are necessary when symptoms are present.\n\n(Option 3)  Fluid restriction is needed in severe cases of edema. \n\n(Option 4)  There is a high risk for recurrence after recovery, and relapses may occur several times per year.  The parent/caregiver should test daily for proteinuria, weigh the child weekly, and keep a diary of results.  Early detection and treatment improve the course of the illness.\n\nEducational objective:\nNephrotic syndrome is characterized by massive proteinuria, edema, and hypoalbuminemia.  Home management includes a low-sodium diet with attractive foods; infection prevention; fluid restriction for severe edema; and monitoring of weight gain and proteinuria to detect relapse.",
+                        "id": "2c4a17b6fb4140eebb74b8d299c3512e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27312b65ff7c84b32635413d706edb94",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Glomerular injury</span></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce3ef9b3f4f59c23ae34bb279be6c9b5",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Hepatic impairment</span></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b7fe493f4f291894c3a9ed79fc9c2db",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Inherited hypercholesterolemia</span></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3275d22c9057d8208ac77187f492290c",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Malnutrition</span></p>"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27312b65ff7c84b32635413d706edb94",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Glomerular injury</span></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce3ef9b3f4f59c23ae34bb279be6c9b5",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Hepatic impairment</span></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b7fe493f4f291894c3a9ed79fc9c2db",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Inherited hypercholesterolemia</span></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3275d22c9057d8208ac77187f492290c",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nfont-size:10.5000pt;\">Malnutrition</span></p>"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A nurse is reviewing the laboratory values for a 3-year-old client with nephrotic syndrome.&nbsp; The nurse interprets the results to <strong>most clearly</strong>&nbsp;reflect which physiologic process related to nephrotic syndrome?&nbsp; <strong>Click on the exhibit button for additional information</strong>.&nbsp;&nbsp;</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1729844778414.png\"></p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "videoIdAnalysis": "",
+                        "textAnalysis": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1729844714739.png\"></p><p><strong>Nephrotic syndrome</strong>&nbsp;is a collection of symptoms resulting from various causes of glomerular injury. &nbsp;Below are the <strong>4 classic manifestations</strong>&nbsp;of nephrotic syndrome:</p><p>·&nbsp;Massive proteinuria – caused by increased glomerular permeability</p><p>·&nbsp;Hypoalbuminemia – resulting from excess protein loss in the urine</p><p>·&nbsp;Edema – specifically periorbital and peripheral edema and ascites; caused by low serum protein and albumin as fluid is pulled into interstitial spaces and body cavities</p><p>·&nbsp;Hyperlipidemia – related to increased compensatory protein and lipid production by the liver</p><p>Additional symptoms include decreased urine output, fatigue, pallor, and weight gain.</p><p>The most common cause of nephrotic syndrome in children is <strong>minimal change nephrotic syndrome</strong>, which is generally considered <strong>idiopathic</strong>.&nbsp; Less common secondary causes may be related to systemic disease or infection, such as glomerulonephritis, drug toxicity, or acquired immunodeficiency syndrome.</p><p><strong>(Option 2)</strong>&nbsp; Ascites and edema are often associated with liver disease.&nbsp; However, these symptoms result from fluid shifts related to hypoalbuminemia in nephrotic syndrome.</p><p><strong>(Option 3)</strong>&nbsp; Lipid levels (normal total cholesterol &lt;200 mg/dL [5.2 mmol/L]) can increase with nephrotic syndrome as the liver produces increased lipids and proteins to compensate for protein loss.</p><p><strong>(Option 4)</strong>&nbsp; Although low serum albumin (normal 3.5-5.0 g/dL [35-50 g/L]) could result from malnutrition, hypoalbuminemia in nephrotic syndrome is related to massive proteinuria (negative to trace protein on urinalysis is usually considered normal).</p><p><strong>Educational objective:</strong></p><p><strong>Nephrotic syndrome</strong>&nbsp;is a collection of symptoms resulting from glomerular injury.&nbsp; The 4 characteristic manifestations are proteinuria, edema, hypoalbuminemia, and hyperlipidemia.</p><p>Management of Care</p><p>NCSBN Client Need</p>",
+                        "id": "343fadfedde9ffb0f4a5176cebb3ca9f",
+                        "videoIdContent": "",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cdb8ff7f93c478b0042bb1d046b03e2",
+                                "content": "Blood pressure "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42f730f2264d7ee863362edeb3eefff5",
+                                "content": "Hematuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d9a9bfbdbd72edcb0c913573a36646c",
+                                "content": "Intake and output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2abb784acdbbe128de22e7877d3702ef",
+                                "content": "Peripheral edema"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cdb8ff7f93c478b0042bb1d046b03e2",
+                                    "content": "Blood pressure "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42f730f2264d7ee863362edeb3eefff5",
+                                    "content": "Hematuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d9a9bfbdbd72edcb0c913573a36646c",
+                                    "content": "Intake and output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2abb784acdbbe128de22e7877d3702ef",
+                                    "content": "Peripheral edema"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A nurse is caring for a child with acute glomerulonephritis.  Frequent monitoring of which of the following is a priority?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>Acute glomerulonephritis (AGN) in children is an immune complex disease most commonly induced by prior group A beta-hemolytic streptococcal infection of the skin or throat.  A latent period of 2-3 weeks occurs between the streptococcal infection (eg, pharyngitis) and the symptoms of AGN.  Clinical manifestations include periorbital and facial/generalized edema, hypertension, and oliguria, which are primarily due to fluid retention (decreased kidney filtration).  The urine is tea-colored and cloudy due to the presence of protein and blood.</p><p><br></p><p>Although most clients recover spontaneously within days, severe hypertension is an anticipated complication that must be identified early.  Monitoring and control of blood pressure are most important as they prevent further progression of kidney injury and development of hypertensive encephalopathy or pulmonary edema.</p><p><br></p><p>(Option 2)  Hematuria is common with AGN.  It is usually minimal and resolves spontaneously.  Monitoring is important but not a priority.</p><p><br></p><p>(Option 3)  The most important measure of fluid status is a daily weight as it identifies fluid retention and response to treatment.  Monitoring intake and output is important but is not the priority action over hypertension monitoring and control.</p><p><br></p><p>(Option 4)  Monitoring for edema is important but not the priority.  Moderate sodium restriction is needed, especially if hypertension and edema are present.  Otherwise, avoiding high-sodium foods and having no added salt in the diet may be adequate measures.</p><p><br></p><p>Educational objective:</p><p>Acute glomerulonephritis is most often caused by recent streptococcal infection.  Nursing care is focused on monitoring vital signs (particularly blood pressure) and fluid status, avoiding salt in the diet, and conserving energy.</p>",
+                        "id": "71f2063fdf27470ca3cfd9aa40c04cde",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58506a6473a405638bc63c5eb292e362",
+                                "content": "Child who had a surgical repair of hypospadias earlier today with no urinary output in the past hour "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b47a6495e4f9a3f5810dd1ee065c0d87",
+                                "content": " Child who is awaiting a neurological consult for suspected absence seizures and is sleeping soundly"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5153db0a2f3a300e421660f3a054be6",
+                                "content": "Child who returned from a bronchoscopy an hour ago and coughed up blood-tinged sputum"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2bd100e25b27b0752c7eed89cc1199f7",
+                                "content": " Child with gastroenteritis, serum sodium of 131 mEq/L (131 mmol/L), and temperature of 100 F (37.7 C)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58506a6473a405638bc63c5eb292e362",
+                                    "content": "Child who had a surgical repair of hypospadias earlier today with no urinary output in the past hour "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b47a6495e4f9a3f5810dd1ee065c0d87",
+                                    "content": " Child who is awaiting a neurological consult for suspected absence seizures and is sleeping soundly"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5153db0a2f3a300e421660f3a054be6",
+                                    "content": "Child who returned from a bronchoscopy an hour ago and coughed up blood-tinged sputum"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2bd100e25b27b0752c7eed89cc1199f7",
+                                    "content": " Child with gastroenteritis, serum sodium of 131 mEq/L (131 mmol/L), and temperature of 100 F (37.7 C)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse has assessed 4 children.  Which finding requires immediate follow-up with the health care provider?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1729843017694.png\"></p><p>Hypospadias is a congenital defect in which the urethral opening is on the underside of the penis.  Except in very mild cases, the condition is typically corrected around age 6-12 months by surgically redirecting the urethra to the penis tip.  Circumcision is delayed so the foreskin can be used to reconstruct the urethra.  If not corrected, clients may have toilet-training difficulties, more frequent urinary tract infections, and inability to achieve erections later in life.</p><p><br></p><p>Postoperatively, the client will have a catheter or stent to maintain patency while the new meatus heals.  Urinary output is an important indication of urethral patency.  Fluids are encouraged, and the hourly output is documented.  Absence of urinary output for an hour indicates that a kink or obstruction may have occurred (Option 1).</p><p><br></p><p>(Option 2)  Absence seizures are brief moments of staring accompanied by a lapse in awareness.  These seizures often go undetected and do not cause physical injury.</p><p><br></p><p>(Option 3)  Small amounts of blood-tinged sputum are normal after bronchoscopy; however, frank bleeding or clots should be reported.</p><p><br></p><p>(Option 4)  Electrolyte disturbances commonly occur with gastroenteritis due to prolonged or heavy vomiting and diarrhea.  This client's sodium and temperature are slightly abnormal but not critical.</p><p><br></p><p>Educational objective:</p><p>Hypospadias, a condition in which the urethral opening is on the underside of the penis, is surgically corrected by rerouting the urethra and inserting a temporary stent to aid healing.  Urinary output is closely monitored postoperatively to ensure patency.</p>",
+                        "id": "88353fa5c66548369672f451748c5ce1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d4086c077aef99cdd212400ac6a8980",
+                                "content": "Blood pressure measurements "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "36590256ca5d1fe54ff1dbadb172e26e",
+                                "content": " Daily weight measurements"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f40c0259505cf0e4042c6df8c6353c7",
+                                "content": "Intake and output measurements"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "663676aca6fe29e09141ab53c165c7f1",
+                                "content": "Severity of pitting edema"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d4086c077aef99cdd212400ac6a8980",
+                                    "content": "Blood pressure measurements "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "36590256ca5d1fe54ff1dbadb172e26e",
+                                    "content": " Daily weight measurements"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f40c0259505cf0e4042c6df8c6353c7",
+                                    "content": "Intake and output measurements"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "663676aca6fe29e09141ab53c165c7f1",
+                                    "content": "Severity of pitting edema"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client diagnosed with acute glomerulonephritis has pitting edema in both lower extremities, blood pressure of 170/80 mm Hg, and proteinuria.  When developing a plan of care for this client, the nurse should include which most accurate indicator of fluid loss or gain？</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p>Explanation:</p><p><br></p><p>The most accurate indicator of fluid loss or gain in an acutely ill client is weight, as accurate intake and output and assessment of insensible losses may be difficult (Option 3).  A 2.2-lb (1-kg) weight gain is equal to 1,000 mL of retained fluid.</p><p><br></p><p>(Option 1)  Blood pressure measures the amount of pressure exerted on the arterial walls due to factors such as peripheral artery constriction or dilation, not just fluid volume status.</p><p><br></p><p>(Option 4)  Pitting edema is not an accurate indicator as the fluid may shift from intravascular to interstitial spaces without an overall change in fluid gain or loss throughout the body.</p><p><br></p><p>Educational objective:</p><p>The most accurate indicator of fluid loss or gain in an acutely ill client is daily weight.</p>",
+                        "id": "9d964994c2664aae976a60bc90df3b6e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b36c6b43d1520920110c4c97a73a532",
+                                "content": "Assessment of the child's emotional maturity level "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a11b1e88ce857cd8acb2a158366a90c",
+                                "content": "Auscultating for adventious breath sounds "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d82b630f282d0c1c2980ef9516608ec",
+                                "content": "Instructions not to palpate the abdomen "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5218d997fb5c6cc038a39a313eb699d",
+                                "content": "Monitoring blood pressure closely "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b36c6b43d1520920110c4c97a73a532",
+                                    "content": "Assessment of the child's emotional maturity level "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a11b1e88ce857cd8acb2a158366a90c",
+                                    "content": "Auscultating for adventious breath sounds "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d82b630f282d0c1c2980ef9516608ec",
+                                    "content": "Instructions not to palpate the abdomen "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5218d997fb5c6cc038a39a313eb699d",
+                                    "content": "Monitoring blood pressure closely "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is admitting a 4-year-old diagnosed with Wilms tumor.&nbsp; The child is scheduled for a right nephrectomy in the morning.&nbsp; Which action is a priority in the preoperative care plan?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1729844851052.png\"></p><p>＂Wilms tumor （nephroblastoma） is a kidney tumor that usually occurs in children age ＜5.&nbsp; Most often it involves only one kidney, and the prognosis is good if the tumor has not metastasized.&nbsp; Wilms tumor is usually diagnosed after caregivers observe an unusual contour in the child＇s abdomen.&nbsp; Once the diagnosis is suspected or confirmed, the abdomen should not be palpated, as this can disrupt the encapsulated tumor.&nbsp; It is important to post the sign ＂＂DO NOT PALPATE ABDOMEN＂＂ at the bedside.&nbsp; It is also essential that the child be handled carefully during bathing.</p><p><br></p><p>（Option 1）&nbsp; Assessment of a child＇s development level and emotional maturity will help determine the appropriate approach to use during the many painful procedures that the child will undergo in rapid succession.&nbsp; However, this assessment is not a priority.</p><p><br></p><p>（Option 2）&nbsp; If the tumor has metastasized, adventitious sounds may be present.&nbsp; Auscultating for them is not a priority.</p><p><br></p><p>（Option 4）&nbsp; Some clients may have hypertension due to excess production of renin, and this will require monitoring.&nbsp; However, it is not as important as ensuring that the abdomen is not palpated.</p><p><br></p><p>Educational objective:</p><p>Wilms tumor is discovered when caregivers note an unusual bulging/swelling on one side of a child＇s abdomen.&nbsp; The abdomen should not be palpated until after the diagnosis is suspected or confirmed as this can disrupt the tumor and cause dissemination of tumor cells.＂</p>",
+                        "id": "a7eccd894bb449f69fa31eb36fcbeffb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23710f98ab31950b3284c9724b7c31c7",
+                                "content": "&quot;I'll provide a healthy diet without added salt for my child.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65a34b228adcdef590d4fe5ec7ada5d7",
+                                "content": "&quot;I'll organize playdates to keep my child's spirits up during relapses.&quot; "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3014ffb66a8fa63caa28756dc21b29c6",
+                                "content": "&quot;I'll restrict my child's fluids if I notice swelling or rapid weight gain.&quot; "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "220ffdbb6b6cc09210e4fdc52428965e",
+                                "content": "&quot;I'll test for protein in my child's urine every day.&quot; "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23710f98ab31950b3284c9724b7c31c7",
+                                    "content": "&quot;I'll provide a healthy diet without added salt for my child.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65a34b228adcdef590d4fe5ec7ada5d7",
+                                    "content": "&quot;I'll organize playdates to keep my child's spirits up during relapses.&quot; "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3014ffb66a8fa63caa28756dc21b29c6",
+                                    "content": "&quot;I'll restrict my child's fluids if I notice swelling or rapid weight gain.&quot; "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "220ffdbb6b6cc09210e4fdc52428965e",
+                                    "content": "&quot;I'll test for protein in my child's urine every day.&quot; "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is caring for a 7-year-old client diagnosed with nephrotic syndrome who will be discharged soon.&nbsp; Which statement by the parent indicates the need for further teaching?</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1729844958916.png\"></p><p>＂Nephrotic syndrome, an autoimmune disease, affects children age 2-7 and is characterized by increased permeability of the glomerulus to proteins （eg, albumin, immunoglobulins, natural anticoagulants）.&nbsp; Loss of albumin in urine leads to hypoalbuminemia； this causes decreased plasma oncotic pressure, which allows fluid to leak out of the vascular spaces.&nbsp; Reduced plasma volume （hypovolemia） activates kidneys to retain salt and water （via the renin-angiotensin-aldosterone system）.&nbsp; Clients experience generalized edema, weight gain, loss of appetite （from ascites）, and decreased urine output.</p><p><br></p><p>The loss of immunoglobulins causes increased susceptibility to infection.&nbsp; Caregivers should minimize the risk of infection during relapses （eg, limiting visitors） （Option 2）.</p><p><br></p><p>Treatment typically includes:</p><p><br></p><p>Corticosteroids and other immunosuppressants （eg, cyclosporine）</p><p>Loss of appetite management （eg, making foods fun and attractive）</p><p>Infection prevention （eg, limiting social interaction until the child is in remission）</p><p>（Option 1）&nbsp; A regular diet without added salt is prescribed to prevent edema while in remission.&nbsp; More stringent sodium restrictions are necessary when symptoms are present.</p><p><br></p><p>（Option 3）&nbsp; Fluid restriction is needed in cases of edema or rapid weight gain.</p><p><br></p><p>（Option 4）&nbsp; There is a high risk for recurrence after recovery, and relapses may occur several times per year.&nbsp; The parent/caregiver should test daily for proteinuria, weigh the child weekly, and keep a diary of results.＂</p>",
+                        "id": "f78826c48cc74e1c9e5707050698c289",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "446840e8de0941d8b254b3268d719a5d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "79cf9c369ba24d1281ca58de84c5ce35",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 8,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 8,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 13:04:45",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Urinary/Renal",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Uworld",
+        "questionNumber": 8
+    },
+    "message": ""
+}

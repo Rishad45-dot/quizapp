@@ -1,0 +1,592 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:19:34",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:19:34",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:19:38",
+            "id": "6c43e0e0eeaf09e371c3ac798417197f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af20a038685e44b2b83030765928cef0",
+                                "content": "Mask"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9af452fe686046249ffc87e2b5fe3a67",
+                                "content": "Gown"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "241e2f9dbbd94d4198cfbb26421bb7c6",
+                                "content": "Gloves"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43668dbad90b41a9b7dc8a906e8a41b8",
+                                "content": "Eye protection"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af20a038685e44b2b83030765928cef0",
+                                    "content": "Mask"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9af452fe686046249ffc87e2b5fe3a67",
+                                    "content": "Gown"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "241e2f9dbbd94d4198cfbb26421bb7c6",
+                                    "content": "Gloves"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43668dbad90b41a9b7dc8a906e8a41b8",
+                                    "content": "Eye protection"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is taking the history of a client with occupational lung disease (silicosis). The nurse would ask the client whether the client wears which item during periods of exposure to silica particles?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSilicosis results from chronic, excessive inhalation of particles of free crystalline silica dust. The client needs to wear a mask to limit inhalation of this substance, which can cause restrictive lung disease after years of exposure. Options 2, 3, and 4 are not necessary.",
+                        "id": "1a28055495034a82bfdaaff84fe3e4eb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "215a6ae2c21a415fb057c5207c41fe3e",
+                                "content": "Fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db8b3cc8ca154e1288ae50c5976bb5f7",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7311095d6907450f9ebd4798ae7e110b",
+                                "content": "Weight loss"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbcf752d8da7487bb63d09c84bf53e18",
+                                "content": "Shortness of breath"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "215a6ae2c21a415fb057c5207c41fe3e",
+                                    "content": "Fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db8b3cc8ca154e1288ae50c5976bb5f7",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7311095d6907450f9ebd4798ae7e110b",
+                                    "content": "Weight loss"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbcf752d8da7487bb63d09c84bf53e18",
+                                    "content": "Shortness of breath"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides discharge instructions to a client with pulmonary sarcoidosis. The nurse concludes that the client understands the information if the client indicates to report which early sign of exacerbation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDry cough and dyspnea are typical early manifestations of pulmonary sarcoidosis. Later manifestations include night sweats, fever, weight loss, and skin nodules.",
+                        "id": "1aca24fb55184ec987960826b6a57a0d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da650a14814b7afc48839fe4c9476dbf",
+                                "content": "Stridor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2cdead6900a8a06e4c5338855377238",
+                                "content": "Crackles"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "495341b251c6b918920a080048897fa8",
+                                "content": "Rhonchi"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3d369d6448161a5b691cc1ecac8fa0b",
+                                "content": "High-pitched wheezes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da650a14814b7afc48839fe4c9476dbf",
+                                    "content": "Stridor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2cdead6900a8a06e4c5338855377238",
+                                    "content": "Crackles"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "495341b251c6b918920a080048897fa8",
+                                    "content": "Rhonchi"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3d369d6448161a5b691cc1ecac8fa0b",
+                                    "content": "High-pitched wheezes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client with smoke inhalation is experiencing severe dyspnea, and the nurse listens to the client's breath sounds and hears this sound. The nurse would document this finding as which sound? Refer to audio.</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale:</p><p>The sound that the nurse hears is stridor. Stridor is a harsh, high-pitched sound associated with breathing and is the major manifestation of airway obstruction. The nurse immediately notifies the primary health care provider (PHCP). The nurse also places the client in a high-Fowler's position to aid in breathing and proper alignment of airway structures. The nurse then monitors the client, including vital signs, and prepares the client for endotracheal intubation or tracheostomy. Rhonchi (low-pitched, coarse, loud, low-snoring or moaning sounds) are heard in conditions causing obstruction of the bronchus or trachea. Crackles are audible when there is a sudden opening of small airways that contain fluid, are usually heard during inspiration, and do not clear with a cough. Crackles resemble the sound of a lock of hair being rubbed between the thumb and forefinger and are heard in conditions such as pulmonary edema. High-pitched crackles are characteristically fine and are high-pitched discontinuous popping noises (nonmusical sounds) heard during the end of inspiration. Medium-pitched crackles produce a moist sound about halfway through inspiration. Coarse crackles are low-pitched bubbling sounds that start early in inspiration and extend into the first part of expiration. High-pitched wheezes are musical sounds that predominate in expiration but may occur in both expiration and inspiration. They occur in the small airways and are heard in narrowed-airway diseases such as asthma or emphysema.</p>",
+                        "id": "2be8466e190b423a9ad0cef3f8b9ae91",
+                        "videoIdContent": "deeaa359a25b7b966fed9bc09246c88d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6bcfb5c6a67444a79ea252ed194e4b34",
+                                "content": "The client has reduced lung volume and fibrosis on chest x-ray."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ef43f5d2e2b4ed2af804401f096e020",
+                                "content": "There is evidence of silica in the bloodstream but no clinical symptoms."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00f51598363f4b56910dd65b04cf0f0f",
+                                "content": "The client has normal pulmonary function studies but has shortness of breath."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71425ef7396d436f90fa6d196756ef4e",
+                                "content": "Massive pulmonary fibrosis is visible on chest x-ray, and extrapulmonary symptoms are apparent."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6bcfb5c6a67444a79ea252ed194e4b34",
+                                    "content": "The client has reduced lung volume and fibrosis on chest x-ray."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ef43f5d2e2b4ed2af804401f096e020",
+                                    "content": "There is evidence of silica in the bloodstream but no clinical symptoms."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00f51598363f4b56910dd65b04cf0f0f",
+                                    "content": "The client has normal pulmonary function studies but has shortness of breath."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71425ef7396d436f90fa6d196756ef4e",
+                                    "content": "Massive pulmonary fibrosis is visible on chest x-ray, and extrapulmonary symptoms are apparent."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client tells the nurse that the primary health care provider (PHCP) has stated a diagnosis of silicosis. The nurse determines that which finding is consistent with this respiratory disorder?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe client with silicosis has evidence of fibrosis on chest x-ray. Pulmonary function studies reveal some decreases in vital capacity and total lung volume. This disease is restricted to the respiratory system only.",
+                        "id": "ad9a91ee1eee46b8a3d5ba425c1c1488",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bf970ebdf1e4308957340cfd14429b9",
+                                "content": "Fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e51c3718329a4c8f94e283112246c27d",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7cdca9358724a08b2eb09f5e2d63d93",
+                                "content": "Weight loss"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbe8737947bd49e0b2143b2ca82e4435",
+                                "content": "Shortness of breath"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bf970ebdf1e4308957340cfd14429b9",
+                                    "content": "Fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e51c3718329a4c8f94e283112246c27d",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7cdca9358724a08b2eb09f5e2d63d93",
+                                    "content": "Weight loss"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbe8737947bd49e0b2143b2ca82e4435",
+                                    "content": "Shortness of breath"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is giving discharge instructions to a client with pulmonary sarcoidosis. The nurse concludes that the client understands the information if the client indicates to report which early sign of exacerbation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDry cough and dyspnea are typical early manifestations of pulmonary sarcoidosis. Later manifestations include night sweats, fever, weight loss, and skin nodules.",
+                        "id": "cd9081194c1b41e085f2b4df1703978b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "325caa5ade0a4a56b0f000cbf9d789b4",
+                                "content": "Coma"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7f1b1faa0a5412d8e5c2b3dbdc3d26e",
+                                "content": "Flushing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a8e2f92b4c54cd59357f70c41a52acc",
+                                "content": "Dizziness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d60ab1f678340cfbed49d2914e5eac1",
+                                "content": "Tachycardia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "325caa5ade0a4a56b0f000cbf9d789b4",
+                                    "content": "Coma"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7f1b1faa0a5412d8e5c2b3dbdc3d26e",
+                                    "content": "Flushing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a8e2f92b4c54cd59357f70c41a52acc",
+                                    "content": "Dizziness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d60ab1f678340cfbed49d2914e5eac1",
+                                    "content": "Tachycardia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who suffered an inhalation injury from a wood stove. The carbon monoxide blood report reveals a level of 12%. Based on this level, the nurse would anticipate noting which sign in the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCarbon monoxide levels between 11% and 20% result in flushing, headache, decreased visual activity, decreased cerebral functioning, and slight breathlessness; levels of 21% to 40% result in nausea, vomiting, dizziness, tinnitus, vertigo, confusion, drowsiness, pale to reddish-purple skin, and tachycardia; levels of 41% to 60% result in seizure and coma; and levels higher than 60% result in death.",
+                        "id": "d8424be99d984112a6f3c74a581062df",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab2df82ab14b47a2931d16ca97ba7b17",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8d6b3a28ac34a698d3d5f64d1032999",
+                                "content": "Malaise"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c407057add44a4ea7a96d3fd6bad9aa",
+                                "content": "Anorexia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "14c8eda07ad243e0a332a908f3649c6b",
+                                "content": "Weight gain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4c0b3bd8eed44fe8f4a0797c11e47ec",
+                                "content": "Dyspnea at rest"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab2df82ab14b47a2931d16ca97ba7b17",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8d6b3a28ac34a698d3d5f64d1032999",
+                                    "content": "Malaise"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c407057add44a4ea7a96d3fd6bad9aa",
+                                    "content": "Anorexia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "14c8eda07ad243e0a332a908f3649c6b",
+                                    "content": "Weight gain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4c0b3bd8eed44fe8f4a0797c11e47ec",
+                                    "content": "Dyspnea at rest"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A client with silicosis is being monitored yearly at the health care clinic. On assessment, the nurse would ask the client about which manifestations of the disorder? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSilicosis is a chronic lung fibrosis that results from the long-term inhalation of silica dust. It is characterized by nodule formation between alveoli, leading to fibrosis. Malaise, extreme fatigue, anorexia, weight loss, and dyspnea on exertion (not at rest) would occur in a client with silicosis. Additional manifestations include reduced lung volume and upper lobe fibrosis.",
+                        "id": "6e2b266480ff4e42bf5c1a5df52901fd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "5c86aac7ae546cb2d1bdb30a8b187fd6",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 7,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 7,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:19:38",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Occupational Lung Disease",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 7
+    },
+    "message": ""
+}

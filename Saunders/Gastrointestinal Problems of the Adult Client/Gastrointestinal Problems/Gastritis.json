@@ -1,0 +1,771 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 19:55:43",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 19:55:43",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 19:55:45",
+            "id": "9d6141a23db94a018409ab49b22826a2",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "404ca025cc2f46ff91f875bf13cc665b",
+                                "content": "Pepsin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a88cecfcd973453d954b51c3c9ee305f",
+                                "content": "Gastrin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23975974a6a84790b3e141329a84339d",
+                                "content": "Ghrelin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6a74b0239daf443f9b7b14acbc9addff",
+                                "content": "Prostaglandins"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "404ca025cc2f46ff91f875bf13cc665b",
+                                    "content": "Pepsin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a88cecfcd973453d954b51c3c9ee305f",
+                                    "content": "Gastrin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23975974a6a84790b3e141329a84339d",
+                                    "content": "Ghrelin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6a74b0239daf443f9b7b14acbc9addff",
+                                    "content": "Prostaglandins"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing instructor asks a nursing student which substance provides a protective function for the stomach against autodigestion and subsequent gastritis. The nursing student responds correctly by identifying which substance?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nGastritis refers to inflammation of the gastric mucosa. Mucosal injury occurs when there is a break in the protective barrier in the stomach lining. Prostaglandins are responsible for the protective mucosal barrier of the stomach lining. Eliminate option 1, as pepsin is a digestive enzyme in the stomach responsible for protein digestion. Eliminate option 2, as gastrin is a hormone that stimulates gastric acid secretion. Eliminate option 3, as ghrelin is a hormone that stimulates appetite. Therefore, since prostaglandins have a role in maintaining the protective stomach lining, option 4 is correct.",
+                        "id": "00ed679312594bf2b5b0d653263e59d0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d54d602c484612bc84fdd9a14cd5bcfb",
+                                "content": "Ibuprofen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "13ed1938a63015b57f1621a0c5479555",
+                                "content": "Indomethacin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da1b1706b248e2aaeef8666a344a2b3b",
+                                "content": "Acetaminophen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "997a68555ada1666b6ab02358853f397",
+                                "content": "Naproxen sodium"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d54d602c484612bc84fdd9a14cd5bcfb",
+                                    "content": "Ibuprofen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "13ed1938a63015b57f1621a0c5479555",
+                                    "content": "Indomethacin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da1b1706b248e2aaeef8666a344a2b3b",
+                                    "content": "Acetaminophen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "997a68555ada1666b6ab02358853f397",
+                                    "content": "Naproxen sodium"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client with gastritis asks the nurse at a screening clinic about analgesics that will not cause epigastric distress. The nurse would tell the client that which medication is acceptable to take?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Analgesics such as acetaminophen are unlikely to cause epigastric distress. Ibuprofen, indomethacin, and naproxen sodium are nonsteroidal anti-inflammatory medications (NSAIDs) and are irritating to the gastrointestinal tract, so they need to be avoided in clients with gastritis.</p>",
+                        "id": "27eced6a6e7947c79817f22f8f13246b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30fd5a3344474f21aca991d0eb7aa836",
+                                "content": "Portal vein"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d7fff395c1064236a5ce641ca4d006cb",
+                                "content": "Celiac artery"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3141b7f4e3bb43a5922b642dcb873f30",
+                                "content": "Vagus nerve"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a212d5507ee5426282a8217381207688",
+                                "content": "Pyloric valve"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30fd5a3344474f21aca991d0eb7aa836",
+                                    "content": "Portal vein"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d7fff395c1064236a5ce641ca4d006cb",
+                                    "content": "Celiac artery"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3141b7f4e3bb43a5922b642dcb873f30",
+                                    "content": "Vagus nerve"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a212d5507ee5426282a8217381207688",
+                                    "content": "Pyloric valve"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with gastritis experiencing chronic gastric hypersecretion is scheduled for surgery. The nurse teaches the client that the procedure will lessen the stomach's production of acid by altering which structure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nVagotomy is a procedure that can reduce innervation to the stomach, thereby reducing the production of gastric acid. The portal vein drains venous blood from the stomach. The celiac artery brings arterial blood to the stomach. The pyloric valve separates the stomach from the duodenum. The pyloric valve may undergo surgical repair if it becomes stenosed; this procedure is known as pyloroplasty.",
+                        "id": "3ce4c2f5bae34f6f86a2a43b8ac9aaac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef7c4244d2bd44ce9d44a852914a714e",
+                                "content": "Monitor strict intake and output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e220328168914909bebec34abfe47e38",
+                                "content": "Administer IV ciprofloxacin as ordered"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cce4e016259d494da3599fe21e2f183e",
+                                "content": "Administer 2 mg oral loperamide as needed every 6 hours for diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d279730af0447ec9916c154bd01ac97",
+                                "content": "Administer intravenous (IV) 0.9% normal saline at 75 milliliters per hour (mL/hr)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef7c4244d2bd44ce9d44a852914a714e",
+                                    "content": "Monitor strict intake and output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e220328168914909bebec34abfe47e38",
+                                    "content": "Administer IV ciprofloxacin as ordered"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cce4e016259d494da3599fe21e2f183e",
+                                    "content": "Administer 2 mg oral loperamide as needed every 6 hours for diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d279730af0447ec9916c154bd01ac97",
+                                    "content": "Administer intravenous (IV) 0.9% normal saline at 75 milliliters per hour (mL/hr)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with acute bacterial gastroenteritis. Which of the following primary health care provider prescriptions would require a need for follow-up?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nGastroenteritis is a condition that causes acute vomiting and diarrhea and results in acute inflammation of the gastric and small bowel mucosa. It is usually bacterial or viral in nature. Clients are at risk for hypovolemia and electrolyte imbalances due to frequent vomiting or diarrhea, and treatment involves eradicating the causative organism and restoring fluid volume status. Option 1 is an appropriate nursing action, as the client’s intake and output provides valuable data regarding the client’s hydration status. Option 2 is an appropriate action, as antimicrobials are used to treat bacterial gastroenteritis. Option 4 is an appropriate action in the treatment of this condition to restore fluid volume status. Option 3 is the action that would require a need for follow-up with the primary health care provider, as antidiarrheals such as loperamide are not recommended in bacterial or viral gastroenteritis, as inhibiting diarrhea may slow the elimination of the pathogen from the body. Therefore, option 3 is correct, as it requires further follow-up.",
+                        "id": "bc9607fa5fd74dfb856f923842881b2c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8587b6e2fc04ce5a4b48f218ea9acca",
+                                "content": "Digoxin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "272283def5c3486ea49f70b6415c7d03",
+                                "content": "Furosemide"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2672494a79c41d4961cbea0931f48ad",
+                                "content": "Indomethacin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee977ecaf14d4815bc76c6dd7a2c4e26",
+                                "content": "Propranolol hydrochloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8587b6e2fc04ce5a4b48f218ea9acca",
+                                    "content": "Digoxin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "272283def5c3486ea49f70b6415c7d03",
+                                    "content": "Furosemide"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2672494a79c41d4961cbea0931f48ad",
+                                    "content": "Indomethacin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee977ecaf14d4815bc76c6dd7a2c4e26",
+                                    "content": "Propranolol hydrochloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the medication record of a client with acute gastritis. Which medication, if noted on the client's record, would the nurse question?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIndomethacin is a nonsteroidal anti-inflammatory drug and can cause ulceration of the esophagus, stomach, or small intestine. Indomethacin is contraindicated in a client with gastrointestinal disorders. Digoxin is a cardiac medication. Furosemide is a loop diuretic. Propranolol hydrochloride is a beta-adrenergic blocking agent. Digoxin, furosemide, and propranolol are not contraindicated in clients with gastric disorders.",
+                        "id": "e9df2abd7fd64354813d7fb9db9d9ef8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96b04904dda541cc80d6666ae65b8ccf",
+                                "content": "Vitamin B6"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c07e457e95d4a10be75c16430b37b86",
+                                "content": "Vitamin B12"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4b1caa56ebe46c5a5a4b72438bcf9d1",
+                                "content": "Vitamin D"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58d4653bcb5f4d2a8879fc55aaf63b58",
+                                "content": "Vitamin K"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96b04904dda541cc80d6666ae65b8ccf",
+                                    "content": "Vitamin B6"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c07e457e95d4a10be75c16430b37b86",
+                                    "content": "Vitamin B12"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4b1caa56ebe46c5a5a4b72438bcf9d1",
+                                    "content": "Vitamin D"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58d4653bcb5f4d2a8879fc55aaf63b58",
+                                    "content": "Vitamin K"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse caring for a client with chronic gastritis understands that the client is at risk for malnutrition. The client is at increased risk for malabsorption if which nutrient is deficient due to the lack of intrinsic factor (IF)?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nChronic gastritis is a diffuse inflammation of the gastric mucosa that results in progressive thinning and atrophy of the stomach lining. As atrophy progresses, the parietal cells become less efficient in secreting intrinsic factor (IF), a substance necessary for vitamin B12 absorption. Inadequate levels of this vitamin result in pernicious anemia. Therefore, option 2 is correct.",
+                        "id": "ebc64f3051fe4db0b98ea2312375233a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0cc4e4b931d42e9a7dc6154195e9378",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cbce1b40bbe948558e315a19182dc481",
+                                "content": "Dusky mucous membranes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3ddd732e7e8405f8ce6a90d3f702270",
+                                "content": "Shortness of breath on exertion"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ecaa59a2b20b4f90a40ab75504c3eed2",
+                                "content": "Red tongue that is smooth and sore"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0cc4e4b931d42e9a7dc6154195e9378",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cbce1b40bbe948558e315a19182dc481",
+                                    "content": "Dusky mucous membranes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3ddd732e7e8405f8ce6a90d3f702270",
+                                    "content": "Shortness of breath on exertion"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ecaa59a2b20b4f90a40ab75504c3eed2",
+                                    "content": "Red tongue that is smooth and sore"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client with atrophic gastritis who has a diagnosis of pernicious anemia. Which finding would the nurse expect to note in this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nClassic signs of pernicious anemia include weakness, mild diarrhea, and a smooth red tongue that is sore. The client also may have nervous system signs and symptoms such as paresthesias, difficulty with balance, and occasional confusion. The client does not exhibit dyspnea, the mucous membranes do not become dusky, and the client does not exhibit shortness of breath.",
+                        "id": "f1717ad3fc20499b99b2e4b7e8154120",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "265d1fa785744a8d8c9c483d008b74df",
+                                "content": "Nausea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab4628cfc9e447569901facf3182bdfe",
+                                "content": "Dyspepsia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86fc22365df64f1d889c140887c7094d",
+                                "content": "Polyphagia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "801eb79b19104dd78732fdc2abc7448e",
+                                "content": "Hematemesis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fcdfe63fe4440869b6144737ccf4791",
+                                "content": "Insidious onset of epigastric discomfort"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9aaad109920b4ba0bf407e26bb848a6d",
+                                "content": "Correct Answers"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "265d1fa785744a8d8c9c483d008b74df",
+                                    "content": "Nausea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab4628cfc9e447569901facf3182bdfe",
+                                    "content": "Dyspepsia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86fc22365df64f1d889c140887c7094d",
+                                    "content": "Polyphagia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "801eb79b19104dd78732fdc2abc7448e",
+                                    "content": "Hematemesis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fcdfe63fe4440869b6144737ccf4791",
+                                    "content": "Insidious onset of epigastric discomfort"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9aaad109920b4ba0bf407e26bb848a6d",
+                                    "content": "Correct Answers"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is assessing a client diagnosed with acute gastritis. Which of the following clinical manifestations would the nurse expect? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAcute gastritis refers to inflammation of the gastric mucosa after exposure to local irritants or pathological organisms. Key features of acute gastritis include rapid onset of epigastric discomfort, nausea and vomiting, hematemesis (or vomiting blood), gastric hemorrhage, dyspepsia (heartburn), and anorexia. Eliminate option 3 because a lack of appetite, or anorexia, not polyphagia (excessive hunger), is associated with acute gastritis. Next, eliminate option 5 because acute gastritis is associated with a rapid onset of symptoms, not an insidious, or slow, onset of symptoms. Therefore, options 1, 2 and 4 are correct.",
+                        "id": "02f1ed9182994fe3a149539899360f23",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2651df0a79a14174aee5d8e6c922586c",
+                                "content": "Helicobacter pylori infection"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac06622558704cd8b8d6533a8e848dbb",
+                                "content": "Long-term corticosteroid therapy"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "071da2bbc0bd4cfa91ef7fff9963cb8f",
+                                "content": "Consuming multiple cups of coffee daily"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f871375a26f04f8585a0431d8945fb76",
+                                "content": "Consuming five alcoholic beverages approximately 3 times per week"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3075480c1e64fd182aa71ee1fc887d0",
+                                "content": "Taking ibuprofen approximately 2 times per month for headaches"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2651df0a79a14174aee5d8e6c922586c",
+                                    "content": "Helicobacter pylori infection"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac06622558704cd8b8d6533a8e848dbb",
+                                    "content": "Long-term corticosteroid therapy"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "071da2bbc0bd4cfa91ef7fff9963cb8f",
+                                    "content": "Consuming multiple cups of coffee daily"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f871375a26f04f8585a0431d8945fb76",
+                                    "content": "Consuming five alcoholic beverages approximately 3 times per week"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3075480c1e64fd182aa71ee1fc887d0",
+                                    "content": "Taking ibuprofen approximately 2 times per month for headaches"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with new-onset abdominal pain who was diagnosed with acute gastritis. The client asks the nurse what may have caused this condition. Which of the following client factors increases the risk of acute gastritis? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAcute gastritis refers to inflammation of the gastric mucosa after exposure to local irritants or pathological organisms. Gastritis results in a thickened, reddened gastric mucosa with prominent rugae. Eliminate option 5 because long-term, not short-term, use of nonsteroidal anti-inflammatory drugs (NSAIDs) is associated with acute gastritis. Options 1, 2, 3, and 4 are risk factors for the development of acute gastritis, as Helicobacter pylori (H. pylori) infection, long-term corticosteroid therapy, and regular caffeine and alcohol intake are risk factors for acute gastritis.",
+                        "id": "f3267fc32d7d4c349137552c8da8e764",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "bb5794199a07f9ab4bf73b7b578d4b70",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 9,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 9,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 19:55:46",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Gastritis",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 9
+    },
+    "message": ""
+}

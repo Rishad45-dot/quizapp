@@ -1,0 +1,661 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:57:33",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:57:33",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:57:38",
+            "id": "2db70bcd293cc6f329924fb739d42f35",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b12ed1c287c2657d6c48115f43ac12c7",
+                                "videoIdContent": "undefined",
+                                "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819547670.jpg\"></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f3c44163b53e02e714cf1c0550205b7",
+                                "videoIdContent": "undefined",
+                                "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819562918.jpg\"></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "651745dbcfb75410bfaacaefa8099999",
+                                "videoIdContent": "undefined",
+                                "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819575879.jpg\"></p>"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2268267cd30cdb4ea28fe4220491c819",
+                                "videoIdContent": "undefined",
+                                "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819590685.jpg\"></p>"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b12ed1c287c2657d6c48115f43ac12c7",
+                                    "videoIdContent": "undefined",
+                                    "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819547670.jpg\"></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f3c44163b53e02e714cf1c0550205b7",
+                                    "videoIdContent": "undefined",
+                                    "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819562918.jpg\"></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "651745dbcfb75410bfaacaefa8099999",
+                                    "videoIdContent": "undefined",
+                                    "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819575879.jpg\"></p>"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2268267cd30cdb4ea28fe4220491c819",
+                                    "videoIdContent": "undefined",
+                                    "content": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1700819590685.jpg\"></p>"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The primary health care provider prescribes the instillation of mydriatic eye drops to both eyes of a client. The nurse administers the eye drops and monitors the client for an effective response from the medication, as indicated by which response? Click on the image to indicate your answer.</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "<p>Rationale:</p><p>The top figure identifies unequal pupil size. This finding may be normal in some individuals, but the client with unequal pupil size needs to be assessed for central nervous system disease. The figure that is second from the top identifies constricted pupils. The third figure from the top identifies a unilateral dilated pupil, indicating cranial nerve III damage. Mydriatic eye drops dilate the pupils. The bottom figure identifies dilated pupils.</p>",
+                        "id": "2376310953e84a8aa0f33de6dfa589f3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8402a4443714446843734aa4ae0ab56",
+                                "content": "Provide lubrication to the operative eye prior to giving the eye drops."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8662a3d04b84407c848ec1ebb6f19bf9",
+                                "content": "Call the surgeon, as this medication will further constrict the operative pupil."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e30208fc7314c3986e1e0933be342de",
+                                "content": "Consult the surgeon, as there is not sufficient time for the dilative effects to occur."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "89cd7f52027943cd9da36f7868d7d1f7",
+                                "content": "Give the medication as prescribed; the surgeon needs optimal constriction of the pupil."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8402a4443714446843734aa4ae0ab56",
+                                    "content": "Provide lubrication to the operative eye prior to giving the eye drops."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8662a3d04b84407c848ec1ebb6f19bf9",
+                                    "content": "Call the surgeon, as this medication will further constrict the operative pupil."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e30208fc7314c3986e1e0933be342de",
+                                    "content": "Consult the surgeon, as there is not sufficient time for the dilative effects to occur."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "89cd7f52027943cd9da36f7868d7d1f7",
+                                    "content": "Give the medication as prescribed; the surgeon needs optimal constriction of the pupil."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "In preparation for cataract surgery, the nurse is to administer cyclopentolate eye drops at 0900 for surgery that is scheduled for 0915. What initial action would the nurse take in relation to the characteristics of the medication action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCyclopentolate is a rapidly acting mydriatic and cycloplegic medication. Cyclopentolate is effective in 25 to 75 minutes, and accommodation returns in 6 to 24 hours. Cyclopentolate is used for preoperative mydriasis, not pupil constriction. The nurse would consult with the surgeon about the time of administration of the eye drops since 15 minutes is not adequate time for dilation to occur.",
+                        "id": "23a0f07a9d3d4705b2f612d793e5b9cb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48a2148a39764c4facb97fbefb3ba89d",
+                                "content": "It lubricates the eye."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9080d46c83fb44c69f9070877360c462",
+                                "content": "It makes my pupils smaller."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70bce8801f0a4578930d7f7f15adcac7",
+                                "content": "It paralyzes the muscles in my eye."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed70e710df244217ba6dec28b304387b",
+                                "content": "It causes my vessels to become smaller."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48a2148a39764c4facb97fbefb3ba89d",
+                                    "content": "It lubricates the eye."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9080d46c83fb44c69f9070877360c462",
+                                    "content": "It makes my pupils smaller."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70bce8801f0a4578930d7f7f15adcac7",
+                                    "content": "It paralyzes the muscles in my eye."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed70e710df244217ba6dec28b304387b",
+                                    "content": "It causes my vessels to become smaller."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The preoperative medication sheet identifies that cyclopentolate is prescribed for a client before cataract surgery. The client asks the nurse what the medication is for, and the nurse provides education. Which statement by the client indicates that teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nCyclopentolate is used for preoperative mydriasis. It is a rapid-acting mydriatic and cycloplegic medication. Cycloplegics are medications that paralyze the ciliary muscle, and mydriatics are medications that dilate the pupil. Cyclopentolate becomes effective in 25 to 75 minutes, and the effects last for 6 to 24 hours. The statements in the remaining options are not actions of this medication.",
+                        "id": "31e0c2e1c7a74fadb4e775c8035fbdf7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3414793ec8784438bd874096c7929bdc",
+                                "content": "A miotic agent"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22bb2abadfe0489ea17e0ead2d2a325c",
+                                "content": "A thiazide diuretic"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4cd50232f0f04a718b6396aac8613d77",
+                                "content": "An osmotic diuretic"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c90b2c6dff944a51ac489056b364a0d9",
+                                "content": "A mydriatic medication"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3414793ec8784438bd874096c7929bdc",
+                                    "content": "A miotic agent"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22bb2abadfe0489ea17e0ead2d2a325c",
+                                    "content": "A thiazide diuretic"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4cd50232f0f04a718b6396aac8613d77",
+                                    "content": "An osmotic diuretic"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c90b2c6dff944a51ac489056b364a0d9",
+                                    "content": "A mydriatic medication"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "In preparation for cataract surgery, the nurse is to administer prescribed eye drops. The nurse reviews the primary health care provider's prescriptions, expecting which type of eye drops to be prescribed?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA mydriatic medication produces mydriasis or dilation of the pupil. Mydriatic medications are used preoperatively in the client with a cataract. These medications act by dilating the pupils; they also constrict blood vessels. A miotic medication constricts the pupil. An osmotic diuretic may be used to decrease intraocular pressure. A thiazide diuretic is not likely to be prescribed for a client with a cataract.",
+                        "id": "33fdee624fbc4e9a99ec578e21f947ba",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4f66789703d4acabf4da62dbafffc60",
+                                "content": "Carbachol"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "445ac1295f19465c847d8e52db7d3134",
+                                "content": "Atropine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3581d24c7bba497c82089bafa660f52b",
+                                "content": "Pilocarpine nitrate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ae47cda89214bc6bd19176f6bfb7ed8",
+                                "content": "Pilocarpine hydrochloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4f66789703d4acabf4da62dbafffc60",
+                                    "content": "Carbachol"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "445ac1295f19465c847d8e52db7d3134",
+                                    "content": "Atropine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3581d24c7bba497c82089bafa660f52b",
+                                    "content": "Pilocarpine nitrate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ae47cda89214bc6bd19176f6bfb7ed8",
+                                    "content": "Pilocarpine hydrochloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse would question the physician if which medication were prescribed for a client with glaucoma?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPilocarpine and carbachol are examples of miotic agents used in the treatment of glaucoma. Atropine sulfate is a mydriatic and cycloplegic medication that is contraindicated for use in clients with glaucoma. Mydriatic medications dilate the pupil and can cause an increase in intraocular pressure in the eye.",
+                        "id": "455e4516fdc24bda9383a6efd8bc9df8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a90f7eafe654334842d1d5a273f89ac",
+                                "content": "Disulfiram"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c28d054a9d934b5985e7fea3cc1c9dee",
+                                "content": "Cyclopentolate"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "953d5b45621a4dd6b883745512bab9cf",
+                                "content": "Atropine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ec07cfa81304895b762d3243acdfe33",
+                                "content": "Naloxone hydrochloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a90f7eafe654334842d1d5a273f89ac",
+                                    "content": "Disulfiram"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c28d054a9d934b5985e7fea3cc1c9dee",
+                                    "content": "Cyclopentolate"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "953d5b45621a4dd6b883745512bab9cf",
+                                    "content": "Atropine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ec07cfa81304895b762d3243acdfe33",
+                                    "content": "Naloxone hydrochloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse working in a long-term care facility notes that several clients are taking pilocarpine hydrochloride eye drops. The nurse ensures that which medication is available on the nursing unit for use if a client should develop systemic toxicity from pilocarpine hydrochloride?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPilocarpine hydrochloride is a cholinergic agent. Atropine sulfate must be available in the event of systemic toxicity from pilocarpine hydrochloride. Pilocarpine toxicity is manifested by vertigo, bradycardia, tremors, hypotension, syncope, cardiac dysrhythmias, and seizures. Disulfiram is an alcohol deterrent used in the management of alcoholism in selected clients. Cyclopentolate is a rapidly acting mydriatic and cycloplegic medication used preoperatively for surgical procedures on the eye. Naloxone hydrochloride is an opioid antagonist used to reverse opioid-induced respiratory depression.",
+                        "id": "a12d4ab85239425e87e1e841e8dc5281",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4fe72aa650f4423da8c817ebe5c3eb08",
+                                "content": "Clarify the prescription for the atropine sulfate."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09460b4625774198a46e9bd8587a0c07",
+                                "content": "Clarify the prescription for the pilocarpine hydrochloride."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "654b3f51b703419da513e4dab86d3022",
+                                "content": "Determine the date of the scheduled follow-up PHCP visit."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec0a0899b2f042a28db40b611b89fbfc",
+                                "content": "Determine the extent of the intraocular pressure caused by the glaucoma."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4fe72aa650f4423da8c817ebe5c3eb08",
+                                    "content": "Clarify the prescription for the atropine sulfate."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09460b4625774198a46e9bd8587a0c07",
+                                    "content": "Clarify the prescription for the pilocarpine hydrochloride."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "654b3f51b703419da513e4dab86d3022",
+                                    "content": "Determine the date of the scheduled follow-up PHCP visit."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec0a0899b2f042a28db40b611b89fbfc",
+                                    "content": "Determine the extent of the intraocular pressure caused by the glaucoma."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home care nurse is reviewing the record of a client newly diagnosed with glaucoma who is scheduled for a home visit. The nurse notes that the primary health care provider (PHCP) has prescribed atropine sulfate and pilocarpine hydrochloride eye drops. The nurse would contact the PHCP before the home visit for which reason?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAtropine sulfate is a mydriatic and cycloplegic medication that is contraindicated in clients with glaucoma. Mydriatic medications dilate the pupil and cause increased intraocular pressure in the eye. Pilocarpine hydrochloride is a miotic agent used in the treatment of glaucoma. It is unnecessary to contact the PHCP regarding the date for follow-up treatment. In fact, the client may know this date, which the nurse can ask about during the home care visit. It is unnecessary to know the extent of the intraocular pressure caused by the glaucoma in planning care for the client.",
+                        "id": "c8da183cd2b64eddb4b3405131a12373",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "969a3b9a86d542dca93ff38dc852021b",
+                                "content": "The medication dilates the pupil of the operative eye."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f37c37b01c141fc9d4c6dd9f771320a",
+                                "content": "The medication constricts the pupil of the operative eye."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c243f59c780462db7cdc02c86923ed1",
+                                "content": "The medication is needed for the initiation of miosis in the operative eye."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e3f0066bf3a4c97aca81710968d7e0e",
+                                "content": "The medication provides the necessary lubrication to the nonoperative eye."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "969a3b9a86d542dca93ff38dc852021b",
+                                    "content": "The medication dilates the pupil of the operative eye."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f37c37b01c141fc9d4c6dd9f771320a",
+                                    "content": "The medication constricts the pupil of the operative eye."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c243f59c780462db7cdc02c86923ed1",
+                                    "content": "The medication is needed for the initiation of miosis in the operative eye."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e3f0066bf3a4c97aca81710968d7e0e",
+                                    "content": "The medication provides the necessary lubrication to the nonoperative eye."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who is scheduled for cataract surgery requires preoperative instillation of cyclopentolate eye drops as prescribed. The client asks the nurse why this medication is needed, and the nurse provides education. Which statement by the client indicates that teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nCyclopentolate is a rapidly acting mydriatic and cycloplegic medication that is used preoperatively to dilate the eye. It is effective in 25 to 75 minutes, and accommodation returns in 6 to 24 hours. The statements in the other options are incorrect.",
+                        "id": "d008df44d4c14f8599c5b4c2ac7602ac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "e15427df3686e47f1aa5fbe598ba6fa6",
+            "useTime": 4000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 8,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 8,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:57:38",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Mydriatic, Cycloplegic, and Anticholinergic Medications",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 8
+    },
+    "message": ""
+}

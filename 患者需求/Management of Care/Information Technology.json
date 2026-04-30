@@ -1,0 +1,1565 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 13:40:23",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 13:40:23",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 13:40:26",
+            "id": "f4b5fa6532fbbc75e4ae3bcf141012b8",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b08170e495a247cbbeb12be3d070b84e",
+                                "content": "Nursing Minimum Data Set (NMDS)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44ac555e7fff45f499db87d3ef055d41",
+                                "content": "Unified Nursing Language System (UNLS)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a151748a5a1547dd8d44c3b7a4d93ba5",
+                                "content": "American Nurses Association (ANA)- recognized languages"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fea4e31b8619487db6a7c7af9487d2fe",
+                                "content": "MEDLINE"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b08170e495a247cbbeb12be3d070b84e",
+                                    "content": "Nursing Minimum Data Set (NMDS)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44ac555e7fff45f499db87d3ef055d41",
+                                    "content": "Unified Nursing Language System (UNLS)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a151748a5a1547dd8d44c3b7a4d93ba5",
+                                    "content": "American Nurses Association (ANA)- recognized languages"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fea4e31b8619487db6a7c7af9487d2fe",
+                                    "content": "MEDLINE"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What is the list of data elements necessary for a computerized client record system called?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:NMDS is a list of data elements necessary in any computerized client record system or national database.\nOption 2:UNLS maps concepts by identifying common terms in vocabularies and acknowledging them as synonyms of the same concept.\nOption 3:ANA recognized twelve classification systems uniquely developed to documenting nursing care. Terms from ANA recognized languages for nursing are used as a core for the nursing vocabulary.\nOption 4:MEDLINE is a database that contains references to articles in the biomedical literature. It is maintained by the National Library of Medicine.",
+                        "id": "112818ee75ba4e27bb3af614faac3bac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d29060bfc26d4d948e09f1d76966c3d4",
+                                "content": "Glucometer"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4c2d57bd12d42089458cd5ac33bf6ed",
+                                "content": "Stethoscope"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9f7b3fbfcb14ee8a56403c2fb5847c5",
+                                "content": "Barcode scanner"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ab3b492317a4213b976b956e2302b40",
+                                "content": "Cardiorespiratory monitor"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d29060bfc26d4d948e09f1d76966c3d4",
+                                    "content": "Glucometer"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4c2d57bd12d42089458cd5ac33bf6ed",
+                                    "content": "Stethoscope"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9f7b3fbfcb14ee8a56403c2fb5847c5",
+                                    "content": "Barcode scanner"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ab3b492317a4213b976b956e2302b40",
+                                    "content": "Cardiorespiratory monitor"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which is not a computerized device used by a nurse in a health-care setting?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:A glucometer is a computerized device that may be used to determine the blood glucose level of a client at the bedside.\nOption 2:A stethoscope is used to auscultate the lung and heart sounds. It is not an electronic or computerized device.\nOption 3:A barcode scanner is a computerized device that may be used by the nurse to scan medications.\nOption 4:A cardiorespiratory monitor is a computerized device that measures the heartbeat and respiratory rate of the client.",
+                        "id": "16afe5efe64245f699679840df1da606",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac1ee46a7fb64bf296bf247b8e9010f4",
+                                "content": "Use of infusion devices"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7502a66d6fc442eb9864c2e95c432a1e",
+                                "content": "Bar-coding of medications"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11ffabe64fe84a54ab0ddda742ea498f",
+                                "content": "Computerized physician order entry (CPOE)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "145d909d310345159973b2ba6e851e4b",
+                                "content": "Written communication by the primary health-care provider"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac1ee46a7fb64bf296bf247b8e9010f4",
+                                    "content": "Use of infusion devices"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7502a66d6fc442eb9864c2e95c432a1e",
+                                    "content": "Bar-coding of medications"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11ffabe64fe84a54ab0ddda742ea498f",
+                                    "content": "Computerized physician order entry (CPOE)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "145d909d310345159973b2ba6e851e4b",
+                                    "content": "Written communication by the primary health-care provider"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which method can help to prevent nurses from selecting an incorrect medication while caring for a client?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:The use of infusion devices at the point of care helps to ensure that the client receives the correct dose of medication.\nOption 2:Bar-coding medications at the unit-dose level help to prevent nurses from selecting an incorrect medication.\nOption 3:CPOE prevents errors in reading and transcribing medication prescriptions.\nOption 4:Illegible handwritten prescription by the primary health-care provider can lead to medication errors which can be prevented by using electronic prescriptions.",
+                        "id": "1986545bb7634ebab6c7b9bd1b236fc9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d16e7753751645cca7997e9608a84ac4",
+                                "content": "Refrain from leaving the logged in system unattended."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "804cb5cdddf54e9cbad47f8656df22ba",
+                                "content": "Ensure data on the computer is encrypted."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e39414718ba84d6d9651e2503c950ddf",
+                                "content": "Make sure the computer is protected with a firewall."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "462ddc5f5aea450d80d3f656f7bcd367",
+                                "content": "Use antivirus software on the computer."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d16e7753751645cca7997e9608a84ac4",
+                                    "content": "Refrain from leaving the logged in system unattended."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "804cb5cdddf54e9cbad47f8656df22ba",
+                                    "content": "Ensure data on the computer is encrypted."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e39414718ba84d6d9651e2503c950ddf",
+                                    "content": "Make sure the computer is protected with a firewall."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "462ddc5f5aea450d80d3f656f7bcd367",
+                                    "content": "Use antivirus software on the computer."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse documents interventions and outcome of care for a client. What should the nurse do to prevent unauthorized access to the data?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The nurse should not leave the computer unattended while entering a client’s data. It is the nurse’s responsibility to use a password to lock the system.\nOption 2:It is the responsibility of the systems administrator to ensure encryption on all computers at the health-care facility.\nOption 3:The systems administer is responsible for ensuring all computers in the health-care facility are protected with a firewall. This prevents unauthorized access to the computer network.\nOption 4:Antivirus software is used to prevent loss of data. It does not help to prevent unauthorized access to the computer.\n\nTest Taking Tips: The nurse should prevent unauthorized access to client data at the preliminary level.",
+                        "id": "203a502efd904d22a5a2809d00b4fb94",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9c27518d0cf4ba0a3f28378ef5b898e",
+                                "content": "EBP is practiced by accredited health-care agencies."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ddcd8a732e6c4f168937a36492192418",
+                                "content": "EBP occurs when the nurse uses textbooks to solve problems."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e84558f18996419bb2609242d1952d5c",
+                                "content": "EBP occurs when colleagues in a health-care facility confer with each other to arrive at decisions."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b75a319d39b4826b1d30fa3ea22727c",
+                                "content": "EBP is nursing care based on knowledge generated from research and documented evidence."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9c27518d0cf4ba0a3f28378ef5b898e",
+                                    "content": "EBP is practiced by accredited health-care agencies."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ddcd8a732e6c4f168937a36492192418",
+                                    "content": "EBP occurs when the nurse uses textbooks to solve problems."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e84558f18996419bb2609242d1952d5c",
+                                    "content": "EBP occurs when colleagues in a health-care facility confer with each other to arrive at decisions."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b75a319d39b4826b1d30fa3ea22727c",
+                                    "content": "EBP is nursing care based on knowledge generated from research and documented evidence."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement is the best description of evidence-based practice (EBP)?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:Hospitals and other health-care agencies must demonstrate the implementation of EBP to receive accreditation.\nOption 2:Textbooks are a good source of information, but they do not contain latest information because of time lapse during publication.\nOption 3:EBP occurs when the nurse provides care based on knowledge acquired from sound research results. The nurse should refer to the internet for the latest source of information to make decisions.\nOption 4:The nurse is involved in EBP while providing nursing care based on knowledge generated from research and documented evidence of efficacy.",
+                        "id": "391ab4bd1b2248838e2392fcde34fd44",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "813ac8d7c537427eba27e199ccec2f6a",
+                                "content": "“.edu”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54cf4a9f6e0d4b8088a2f0bf2bac8028",
+                                "content": "“.gov”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dd8b727050e4b3f9729d57a4be4cf90",
+                                "content": "“.org”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "20134274d2f943e98fa9f908246bf907",
+                                "content": "“.mil”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "813ac8d7c537427eba27e199ccec2f6a",
+                                    "content": "“.edu”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54cf4a9f6e0d4b8088a2f0bf2bac8028",
+                                    "content": "“.gov”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dd8b727050e4b3f9729d57a4be4cf90",
+                                    "content": "“.org”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "20134274d2f943e98fa9f908246bf907",
+                                    "content": "“.mil”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A student nurse is accessing the internet for details about a university. What would the URL contain?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:A school or university website address will have “.edu.”\nOption 2:A government website address will have “.gov.”\nOption 3:A nonprofit organization website address has “.org.”\nOption 4:A website by the military services will have “.mil.”",
+                        "id": "3d089674d4834853ac0a5ad51261f4d5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d1d73a96c9be48f7be2ec854ba38a77f",
+                                "content": "By linking the data in existing nursing information systems with that in other health-care systems"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db5df9328ec345ff9ad8a97ea08eec24",
+                                "content": "By projecting trends in nursing care"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d86968a2a2a4980a444a1def82d7eec",
+                                "content": "By describing nursing care of clients in various settings"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90a2678a7e864fb2924ab1b8fab54c33",
+                                "content": "By studying nursing care in a geographical area"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d1d73a96c9be48f7be2ec854ba38a77f",
+                                    "content": "By linking the data in existing nursing information systems with that in other health-care systems"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db5df9328ec345ff9ad8a97ea08eec24",
+                                    "content": "By projecting trends in nursing care"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d86968a2a2a4980a444a1def82d7eec",
+                                    "content": "By describing nursing care of clients in various settings"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90a2678a7e864fb2924ab1b8fab54c33",
+                                    "content": "By studying nursing care in a geographical area"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "How does Nursing Minimum Data Set (NMDS) stimulate nursing research?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:One of the purposes of NMDS is to stimulate nursing research through linkages of detailed data existing in the nursing information system and in other health-care systems.\nOption 2:NMDS is used to gather information about the trends in nursing care and allocation of nursing resources according to the nursing diagnosis.\nOption 3:NMDS is used to describe nursing care of clients in institutional and noninstitutional settings.\nOption 4:NMDS is used to establish comparability of nursing data across clinical populations in various geographical areas and settings.",
+                        "id": "47a1d68b2b0240c1b3c4902800ace935",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87e104c8456f4354bbfd2fa8e1b7304d",
+                                "content": "Data"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1d765326ff741eb87651b5f395cdb22",
+                                "content": "Information"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f2845c493aeb42d1ab5b325e96606d84",
+                                "content": "Knowledge"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3316cbad1bcd4a5c9f0fa9e49bf603b8",
+                                "content": "Facts"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87e104c8456f4354bbfd2fa8e1b7304d",
+                                    "content": "Data"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1d765326ff741eb87651b5f395cdb22",
+                                    "content": "Information"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f2845c493aeb42d1ab5b325e96606d84",
+                                    "content": "Knowledge"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3316cbad1bcd4a5c9f0fa9e49bf603b8",
+                                    "content": "Facts"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "While assessing a client, the nurse notes “120”, “80”. What term best describes these numbers?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:The numbers 120 and 80 are raw and unstructured facts or data, which do not mean anything on their own.\nOption 2:Information is data that has been formatted and interpreted.\nOption 3:Knowledge is the synthesis of data and information.\nOption 4:A fact is an actual detail or element. Several facts together contribute to data collection.",
+                        "id": "8413a012a632470d904ca311effd16c5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3586e46bff9b4da8aa04cc5f2d79af52",
+                                "content": "Use simple passwords that are easy to remember."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69416a3b916d4a9fa9b3ec0b01573a01",
+                                "content": "Refrain from changing passwords often."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a3dfe7faefba4445a7f61665986dae34",
+                                "content": "Refrain from sharing passwords with others."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6adb99febe304017991b13e8fd6c3b26",
+                                "content": "Make a note of the password in a notebook."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3586e46bff9b4da8aa04cc5f2d79af52",
+                                    "content": "Use simple passwords that are easy to remember."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69416a3b916d4a9fa9b3ec0b01573a01",
+                                    "content": "Refrain from changing passwords often."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a3dfe7faefba4445a7f61665986dae34",
+                                    "content": "Refrain from sharing passwords with others."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6adb99febe304017991b13e8fd6c3b26",
+                                    "content": "Make a note of the password in a notebook."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse educator is teaching students about managing passwords on their computer systems. What is the most important thing that the nurse educator can teach them?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:The password should be complex, so that it is harder for hackers to break it. A password should contain a combination of letters, numbers, and symbols for maximum protection.\nOption 2:Passwords should be changed frequently to maximize protection.\nOption 3:The nurse educator should teach the students not to share passwords with others. The passwords are important to protect the privacy of client data.\nOption 4:Passwords should be memorized and not recorded in a notebook, which can be easily accessed by others.\n\nTest Taking Tips: The first level of protection of client data in a computer system is the password, which is managed by the nurse operating the computer.",
+                        "id": "9736950b217844ac84a637f30f802e7c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2e0f93905974c6eabb199689b317599",
+                                "content": "Use word processing software to submit research papers."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "677ac211b0ab44ab9a5a3bcc8434aaa5",
+                                "content": "Use electronic “drop boxes” to upload papers."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6be2f1d0172847ba83ef6b8d0a3a4348",
+                                "content": "Use presentation graphics for oral presentations."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51809ad7dd8941d1a339e7489b3720f6",
+                                "content": "Use specialized application to access client data and document care."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2e0f93905974c6eabb199689b317599",
+                                    "content": "Use word processing software to submit research papers."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "677ac211b0ab44ab9a5a3bcc8434aaa5",
+                                    "content": "Use electronic “drop boxes” to upload papers."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6be2f1d0172847ba83ef6b8d0a3a4348",
+                                    "content": "Use presentation graphics for oral presentations."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51809ad7dd8941d1a339e7489b3720f6",
+                                    "content": "Use specialized application to access client data and document care."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which task is the practicing nurse most likely to perform on a daily basis while working at the health-care facility?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:The student nurse may need word processing software to submit research papers.\nOption 2:The student nurse may have to submit assignments as electronic attachments or in assignment drop boxes in web-based courses.\nOption 3:The student nurse would use software to present graphics for oral or group presentations.\nOption 4:The practicing nurse would require using specialized application to access client data and document care on a daily basis. Documentation involves selection of interventions and outcomes from a prepared list of appropriate terms.\n\nTest Taking Tips: The practicing nurse should be computer literate to update the client’s electronic health record.",
+                        "id": "ae956acca6d245cbbcf8cfc7c4e7fb48",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a716ceab97014c02a3ab0f2c7c9a5594",
+                                "content": "Triage nurse"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "866160818d0145b0ab8486b62d791088",
+                                "content": "Telehealth nurse"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ae3968e519c489ba5045e9e5563d4aa",
+                                "content": "Informatics nurse"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca165c47fb7f4cc6b22e3f1d45aeb0d9",
+                                "content": "Critical care nurse"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a716ceab97014c02a3ab0f2c7c9a5594",
+                                    "content": "Triage nurse"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "866160818d0145b0ab8486b62d791088",
+                                    "content": "Telehealth nurse"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ae3968e519c489ba5045e9e5563d4aa",
+                                    "content": "Informatics nurse"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca165c47fb7f4cc6b22e3f1d45aeb0d9",
+                                    "content": "Critical care nurse"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse at the health-care facility uses technology to monitor the blood pressure and temperature of a client who is at home. What is the role of the nurse?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:The triage nurse cares for clients in an emergency situation.\nOption 2:The telehealth nurse provides client care from a distance. The technology involves the use of electronic information and telecommunication to support long-distance health care.\nOption 3:The informatics nurse has a specialty practice in nursing. The informatics nurse seeks to create new knowledge and wisdom by working with data and information.\nOption 4:The critical care nurse cares for clients in the intensive care unit (ICU) of a health-care facility.",
+                        "id": "ae9a7a28feaf45c9b03f422de7e62d72",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd708cdef11049eeaf7714251fa10f56",
+                                "content": "Performing skilled surgical procedures"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1baa9bc313fb441a920a86bf77af44b6",
+                                "content": "Measuring the blood pressure of a client in a remote location"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48be676d1b574f7c8255e1fca8c8e837",
+                                "content": "Studying the digital image of a radiograph"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eca494b777064de9af4c4e321f3e0036",
+                                "content": "Monitoring clients in a remotely located critical care unit"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd708cdef11049eeaf7714251fa10f56",
+                                    "content": "Performing skilled surgical procedures"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1baa9bc313fb441a920a86bf77af44b6",
+                                    "content": "Measuring the blood pressure of a client in a remote location"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48be676d1b574f7c8255e1fca8c8e837",
+                                    "content": "Studying the digital image of a radiograph"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eca494b777064de9af4c4e321f3e0036",
+                                    "content": "Monitoring clients in a remotely located critical care unit"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Telehealth often uses robotics to provide care to the client. Which scenario would be the best use of robotics?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:Telehealth uses robotics to perform surgeries when the skilled surgeon is at another location.\nOption 2:Telehealth involves home monitoring with stethoscopes, which can transmit data to the home health agency.\nOption 3:Telehealth uses internet technology to convey digital image of a radiograph to a radiologist in another location across the globe.\nOption 4:An electronic intensive care unit (ICU) allows for experienced critical care nurses to monitor clients in partnership with remotely located critical care nurses.",
+                        "id": "af4362bf335f49dd829100b3086e96b7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f0a1999ff4b2407288f5ee321b77db47",
+                                "content": "It may be written by a clinical expert."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fed1ce29e114a848409f7f2290de7fc",
+                                "content": "It is a colorful journal with illustrations and photographs."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57d77343897c4ac7854ecaa9377fa209",
+                                "content": "The language is designed to meet a minimal educational level."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00ca94d2f2aa453f87f16d71d4a2efa6",
+                                "content": "The original source of the information is obscure."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f0a1999ff4b2407288f5ee321b77db47",
+                                    "content": "It may be written by a clinical expert."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fed1ce29e114a848409f7f2290de7fc",
+                                    "content": "It is a colorful journal with illustrations and photographs."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57d77343897c4ac7854ecaa9377fa209",
+                                    "content": "The language is designed to meet a minimal educational level."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00ca94d2f2aa453f87f16d71d4a2efa6",
+                                    "content": "The original source of the information is obscure."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What is a characteristic of a scholarly journal?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:A scholarly journal contains articles by a clinical expert, a scholar, or a scientific researcher in a particular field.\nOption 2:Scholarly journals may contain tables and graphs, but are not as colorfully illustrated as periodicals.\nOption 3:The language of the articles adheres to professional standards, with footnotes and citations.\nOption 4:The articles in scholarly journals are based on original research. The information in popular periodicals may be obscure.\n\nTest Taking Tips: Articles in a scholarly journal are based on research.",
+                        "id": "d11c942feae34034b6d94608245654db",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7d882a7578142849ad60b7469a5741c",
+                                "content": "One person can access the paper record at a time."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d6629273fdc47efaacd94ce57b008b3",
+                                "content": "The paper record can be shared only through hard copy."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5eb0a2a91b3343508a8916715f3df28d",
+                                "content": "The information in a paper record can be duplicated."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a706bbccda04311af936357e0a896cd",
+                                "content": "The paper record accepts multiple data types."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7d882a7578142849ad60b7469a5741c",
+                                    "content": "One person can access the paper record at a time."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d6629273fdc47efaacd94ce57b008b3",
+                                    "content": "The paper record can be shared only through hard copy."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5eb0a2a91b3343508a8916715f3df28d",
+                                    "content": "The information in a paper record can be duplicated."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a706bbccda04311af936357e0a896cd",
+                                    "content": "The paper record accepts multiple data types."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What is the advantage of a paper record over an electronic health record?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:A disadvantage of the paper record is that only one person can access it at a time, as it is only a hard copy. An electronic health record can be accessed several authorized persons at a time from different locations.\nOption 2:A disadvantage of the paper record is that it can be shared only through a hard copy. The same client may have separate records at each facility.\nOption 3:One disadvantage of paper records is that a client may have multiple paper records with incomplete information at each facility. This is unlikely in an electronic health record.\nOption 4:An advantage of the paper record is that it can accept multiple data types unlike an electronic health record that has certain limitations. The paper record can incorporate graphs, photographs, drawings, and text.",
+                        "id": "d4df1d3f9fb24068a440d15f55e2304c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29fc9b4aada847d58210f29eefbd293e",
+                                "content": "The U.S. government"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e395d6c87064cdf88b74e95fc0bf16e",
+                                "content": "The U.S. military"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0eef237631a3486ba056793fbca81f5f",
+                                "content": "A non-profit organization"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f544f13a42f49fd91389febd76252d7",
+                                "content": "A network of computers"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29fc9b4aada847d58210f29eefbd293e",
+                                    "content": "The U.S. government"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e395d6c87064cdf88b74e95fc0bf16e",
+                                    "content": "The U.S. military"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0eef237631a3486ba056793fbca81f5f",
+                                    "content": "A non-profit organization"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f544f13a42f49fd91389febd76252d7",
+                                    "content": "A network of computers"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which institution publishes a document with “.mil” in web address?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:The U.S. government publishes documents with “.gov” in web address.\nOption 2:The U.S. military publishes documents with “.mil” in web address.\nOption 3:A non-profit organization publishes documents with “.org” in the web address.\nOption 4:A network of computers uses “.net” while publishing documents.",
+                        "id": "f3f6070c76d746e4bcfc4614ce1d4185",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef8565930d2e4bfd93edc4d232c80ec3",
+                                "content": "It describes perioperative nursing practice."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ebb7028a45184eea98b148be3b145ec8",
+                                "content": "It is composed of a data dictionary, nursing diagnoses, client care actions, and client care goals."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4111e198d8d4472c93db646a56808cce",
+                                "content": "It is used to document client care at home."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f82091419e74847b96e0fa991c36701",
+                                "content": "It is a classification used for Medicare."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef8565930d2e4bfd93edc4d232c80ec3",
+                                    "content": "It describes perioperative nursing practice."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ebb7028a45184eea98b148be3b145ec8",
+                                    "content": "It is composed of a data dictionary, nursing diagnoses, client care actions, and client care goals."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4111e198d8d4472c93db646a56808cce",
+                                    "content": "It is used to document client care at home."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f82091419e74847b96e0fa991c36701",
+                                    "content": "It is a classification used for Medicare."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement is true for Patient Care Data Set (PCDS)?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:Perioperative Nursing Data Set (PNDS) describes perioperative nursing practice. It was the first language developed by a nursing specialty.\nOption 2:PCDS is composed of a data dictionary, nursing diagnoses, client care actions, and client care goals. It was developed for multidisciplinary use.\nOption 3:The Omaha system is used to document care in community and home care agencies.\nOption 4:Diagnostic Related Group (DRG) is a classification system for most health conditions in order to establish a standardized reimbursement system for Medicare.",
+                        "id": "f77af2cf1b0b4e0abc5e9535d75d3af9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f48cb9401f8475b810c087bb832ba5f",
+                                "content": "It integrates client information with prescription data."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c1a42b17975248468b6abe277c2fbdff",
+                                "content": "It reduces prescription errors."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "007dcde50c974853b90f6a8443e0e800",
+                                "content": "It alerts against potential drug errors."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bdde88a1bba6441f8a5f4a26ba525f04",
+                                "content": "It detects dosing errors."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47d08a50ac834ee6a7bbdbb2c27e15c3",
+                                "content": "It is a time-consuming process."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f48cb9401f8475b810c087bb832ba5f",
+                                    "content": "It integrates client information with prescription data."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c1a42b17975248468b6abe277c2fbdff",
+                                    "content": "It reduces prescription errors."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "007dcde50c974853b90f6a8443e0e800",
+                                    "content": "It alerts against potential drug errors."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bdde88a1bba6441f8a5f4a26ba525f04",
+                                    "content": "It detects dosing errors."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47d08a50ac834ee6a7bbdbb2c27e15c3",
+                                    "content": "It is a time-consuming process."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "What are the benefits of a computer physician order entry (CPOE)? Select all that apply.",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationales\n\nOption 1:The CPOE system checks the prescription against the client data. The prescription is integrated with client history of allergies, laboratory, and other prescription data.\nOption 2:The CPOE allows the primary health-care provider to enter the medication prescriptions into a computerized system. This reduces errors which may occur due to illegible handwritten prescriptions.\nOption 3:Certain drugs used for different purposes may have similar sounding names. The CPOE system can detect potential drug errors and alert the primary health-care provider.\nOption 4:The CPOE system can detect dosing errors. It will alert the primary health-care provider by flagging a medication dilution or dosage that falls out of the normal dosing standards.\nOption 5:Communication between the primary health-care provider, those who dispense, and those who administer the medication to the client is improved. The system is rapid and ensures that the medication reaches the client quickly.\n\nTest Taking Tips: The CPOE is a computerized system that allows the primary health-care provider to document the prescription for a client.",
+                        "id": "71353af4eec9463ca33f799f8e1ac01a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5377f5d089b4485193f30d61a67f8e49",
+                                "content": "The site has help screens."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a1c08314d01e4fd1a70e93dcfd506528",
+                                "content": "The site does not allow downloads."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3abb872f32a4924917e0d93fea0727c",
+                                "content": "The site has a search engine."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0299306042d54dc28c2d84e06415ce50",
+                                "content": "The site loads very quickly."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bb4d8cd515f430887700121e1d7669f",
+                                "content": "The user has to pay to obtain a full download."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5377f5d089b4485193f30d61a67f8e49",
+                                    "content": "The site has help screens."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1c08314d01e4fd1a70e93dcfd506528",
+                                    "content": "The site does not allow downloads."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3abb872f32a4924917e0d93fea0727c",
+                                    "content": "The site has a search engine."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0299306042d54dc28c2d84e06415ce50",
+                                    "content": "The site loads very quickly."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bb4d8cd515f430887700121e1d7669f",
+                                    "content": "The user has to pay to obtain a full download."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A nurse is evaluating a health information website. Which features on a website increase its usability? Select all that apply.",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:The presence of help screens is important for first-time users. It helps them navigate through the website.\nOption 2:A site that does not allow information download has less usability.\nOption 3:A search engine increases the usability of the site.\nOption 4:The site that loads quickly is easily accessed and used for information.\nOption 5:Information availability is determined by the amount one has to pay to access information.",
+                        "id": "c049f4b3e2e34a9189eef9f05bf28fad",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b849f61cd8814086a27f3e2afd4ddb55",
+                                "content": "Availability of HELP screens"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0a759c61f0e40f0818291f19b6fb00c",
+                                "content": "Date when website was launched"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ae6ed5261a248029f30fbe76d49c465",
+                                "content": "Date when the website was updated"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5923603f86ea4c6882a35b9c977fe8c3",
+                                "content": "Activity of all the links on the website"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e19f590f001b483b8b613e97b88bb838",
+                                "content": "Ability to view or download the information"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b849f61cd8814086a27f3e2afd4ddb55",
+                                    "content": "Availability of HELP screens"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0a759c61f0e40f0818291f19b6fb00c",
+                                    "content": "Date when website was launched"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ae6ed5261a248029f30fbe76d49c465",
+                                    "content": "Date when the website was updated"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5923603f86ea4c6882a35b9c977fe8c3",
+                                    "content": "Activity of all the links on the website"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e19f590f001b483b8b613e97b88bb838",
+                                    "content": "Ability to view or download the information"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "What should the nurse look for in a website to identify its currency? Select all that apply.",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\n\nOption 1:The nurse checks the usability of the site by assessing the HELP screens.\nOption 2:The nurse checks the date when the website was first launched. It helps the nurse to locate current information.\nOption 3:The nurse should also check the date when the website was last updated. This date may indicate that new information has been added or a spelling mistake has been corrected or the physical appearance has been altered.\nOption 4:The nurse should check if all the links within the website are working. This helps the nurse to identify if the website has been checked for possible errors.\nOption 5:The nurse assesses the availability of the information by checking whether it can be viewed or downloaded.",
+                        "id": "e0c0b6b9dd514036bf5b36dcd034db93",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da725876b2bf4137b136138caa771d07",
+                                "content": "1,4,3,2"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da725876b2bf4137b136138caa771d07",
+                                    "content": "1,4,3,2"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "3",
+                        "version": 0,
+                        "content": "Arrange the events in the order in which they occur when a message is sent through a listserv.                                                               1.The names and addresses of people are stored on a single server\n2.The message is sent to all the addresses in the server\n3.The message is delivered to the listserv server\n4.The group is designated a single address",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Rationales\nA listserv is a powerful and instantaneous communication tool. The names and e-mail addresses of people who belong to a group are stored on a single server. A message is delivered to the server address. The server distributes the message via e-mail to all the subscribers. The subscribers have an equal opportunity to participate in the discussion.",
+                        "id": "a5755cd0295b458abe3fbaa5a03b1688",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "b4c2fc314d7eb39ca58963f26b223179",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 20,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 20,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 13:40:26",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Information Technology",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "患者需求",
+        "questionNumber": 20
+    },
+    "message": ""
+}

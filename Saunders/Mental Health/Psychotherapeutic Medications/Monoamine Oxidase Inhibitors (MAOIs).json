@@ -1,0 +1,813 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 21:45:38",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 21:45:38",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 21:45:45",
+            "id": "0ac5133cb666c03d04dfb7abafb8bf43",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "547dd2cc8ad54c30896be277f71501ac",
+                                "content": "Salami"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3dec9fc1761b4aabb22bb4898a12b4eb",
+                                "content": "Scallops"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5cca8c2731ec4632aa104be3de0a17d5",
+                                "content": "Pineapple"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "99f062c26eeb47feab7dbe041f4a6c04",
+                                "content": "Mashed potatoes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "547dd2cc8ad54c30896be277f71501ac",
+                                    "content": "Salami"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3dec9fc1761b4aabb22bb4898a12b4eb",
+                                    "content": "Scallops"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5cca8c2731ec4632aa104be3de0a17d5",
+                                    "content": "Pineapple"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "99f062c26eeb47feab7dbe041f4a6c04",
+                                    "content": "Mashed potatoes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing dietary instructions to a client who is prescribed tranylcypromine sulfate. The nurse emphasizes that it is important to avoid eating which food?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nTranylcypromine sulfate is a monoamine oxidase inhibitor (MAOI) that is used to treat depression. A tyramine-restricted diet is required during therapy to avoid hypertensive crisis, a life-threatening effect of the medication. Foods to be avoided are meats prepared with tenderizer, smoked or pickled fish, beef liver, chicken liver, and dry sausage (salami, pepperoni, and bologna). In addition, figs; bananas; aged cheese; yogurt and sour cream; beer, red wine, alcoholic beverages; soy sauce; yeast extract; chocolate; caffeine; and foods that are aged, pickled, fermented, or smoked need to be avoided. Many over-the-counter medications also include tyramine and must be avoided as well.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Teaching and Learning\n\nTest-Taking Strategy:\nFocus on the subject, the food to be avoided for a client taking tranylcypromine sulfate. Recall that tranylcypromine sulfate is an MAOI and that tyramine-containing items need to be avoided. Knowledge of the foods that contain tyramine will direct you to the correct option.\n ",
+                        "id": "11fe5831f8414c9380784eedc0820726",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e196a64a3edd48c4ac4c549d4d6b77a7",
+                                "content": "Drinking any amount of wine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24264cb13e8d4018b9aa001815bd0bce",
+                                "content": "Consuming any fresh dairy products"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc0a8f249e974ff2b55d60d23168c8b0",
+                                "content": "Exposing the skin of the face to sunlight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1cef466753fa40b98b8fcd33a6513601",
+                                "content": "Eating either fresh or frozen green leafy vegetables"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e196a64a3edd48c4ac4c549d4d6b77a7",
+                                    "content": "Drinking any amount of wine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24264cb13e8d4018b9aa001815bd0bce",
+                                    "content": "Consuming any fresh dairy products"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc0a8f249e974ff2b55d60d23168c8b0",
+                                    "content": "Exposing the skin of the face to sunlight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1cef466753fa40b98b8fcd33a6513601",
+                                    "content": "Eating either fresh or frozen green leafy vegetables"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is prescribed tranylcypromine. The nurse educating a client about tranylcypromine would instruct the client to avoid which activity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nTranylcypromine is a monoamine oxidase inhibitor (MAOI) that is used to treat depression. Food and fluids containing tyramine, such as aged cheese, smoked or pickled meats or poultry, fermented meat, beer, wine, and liqueurs, would not be used concurrently with MAOIs because they can cause sudden and severe hypertensive reactions. The remaining options are not contraindicated with the use of this medication.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, the item to avoid when taking tranylcypromine. Use general medication guidelines to direct you to the correct option when clients are prescribed MAOIs such as tranylcypromine.",
+                        "id": "3abf6f775c7444648d50aa1054613521",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd6c592a63dd4fc5a4ba1c05a8246d20",
+                                "content": "Vasodilators"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f753ca581b9c4d48a350ce653e8f9977",
+                                "content": "Aged cheeses"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91d35cbe5ff04ba2b407af640c10ff02",
+                                "content": "Digitalis preparations"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "83882c51eaf744ad8a5c6214f62d52d6",
+                                "content": "Cherries and blueberries"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd6c592a63dd4fc5a4ba1c05a8246d20",
+                                    "content": "Vasodilators"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f753ca581b9c4d48a350ce653e8f9977",
+                                    "content": "Aged cheeses"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91d35cbe5ff04ba2b407af640c10ff02",
+                                    "content": "Digitalis preparations"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "83882c51eaf744ad8a5c6214f62d52d6",
+                                    "content": "Cherries and blueberries"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse developing a teaching plan for a client being prescribed phenelzine sulfate would instruct the client to avoid which item?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPhenelzine sulfate is in the monoamine oxidase inhibitor (MAOI) class of antidepressant medications. A client taking an MAOI must avoid foods that contain tyramine such as aged cheeses, alcoholic beverages, avocados, bananas, and caffeine drinks. Other food items to avoid include chocolate, meat tenderizers, pickled herring, raisins, sour cream, yogurt, and soy sauce. Medications that would be avoided include amphetamines, antiasthmatics, and certain antidepressants. Clients taking MAOI medications also would avoid levodopa and meperidine. The items identified in the other options need not be avoided.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, phenelzine sulfate. Recalling that phenelzine sulfate is an MAOI and knowing the foods that need to be avoided will direct you to the correct option. Remember that a client taking an MAOI must avoid tyramine-containing foods such as aged cheeses, alcoholic beverages, avocados, bananas, and caffeine drinks.\n ",
+                        "id": "744e4bb5122a46cf81526fbec5fa0b1e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24a475e0ae2e49d39ac11c626dcbf4ef",
+                                "content": "Pickled herring, French fries, and milk"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "232d8d4ff4c24a70a11fa5dd4407759e",
+                                "content": "Pepperoni pizza, salad, and a cola drink"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5ad96d6fc68490a8a06883434b0e1ce",
+                                "content": "Roasted chicken, roasted potatoes, and beer"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a64510b9cab46cfac68814d0ada4834",
+                                "content": "Fried haddock, baked potato, and a cola drink"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24a475e0ae2e49d39ac11c626dcbf4ef",
+                                    "content": "Pickled herring, French fries, and milk"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "232d8d4ff4c24a70a11fa5dd4407759e",
+                                    "content": "Pepperoni pizza, salad, and a cola drink"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5ad96d6fc68490a8a06883434b0e1ce",
+                                    "content": "Roasted chicken, roasted potatoes, and beer"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a64510b9cab46cfac68814d0ada4834",
+                                    "content": "Fried haddock, baked potato, and a cola drink"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client diagnosed with depression and prescribed tranylcypromine sulfate has been instructed on the appropriate diet. The nurse determines that the client understands the diet if which foods are selected from the dietary menu?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nTranylcypromine sulfate is a monoamine oxidase inhibitor (MAOI) that is used to treat depression. A tyramine-restricted diet is required while on this medication to avoid hypertensive crisis, a life-threatening effect of the medication. Foods to be avoided are meats prepared with tenderizer, smoked or pickled fish, beef or chicken liver, and dry sausage (salami, pepperoni, bologna). In addition, figs; bananas; aged cheese; yogurt and sour cream; beer, red wine, and other alcoholic beverages; soy sauce; yeast extract; chocolate; caffeine; and aged, pickled, fermented, or smoked foods need to be avoided.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Nutrition, Safety\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, tranylcypromine sulfate and teaching for the client on MAOIs. Recall that when taking such medications, tyramine-containing items need to be avoided. Recalling the foods that contain tyramine will direct you to the correct option.\n ",
+                        "id": "880541ad702b4aeb8cb0337a915db58d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c151308cf954dcb8a1f50433a0e2795",
+                                "content": "Lethargy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d0a31cb0d4b45ebbaaf08c5be4f74f3",
+                                "content": "Depression"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad36734972f94d5fa8b8b67ce790117b",
+                                "content": "Restlessness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f482a452c0504b9fbcfb9958ea26033e",
+                                "content": "Constipation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c151308cf954dcb8a1f50433a0e2795",
+                                    "content": "Lethargy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d0a31cb0d4b45ebbaaf08c5be4f74f3",
+                                    "content": "Depression"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad36734972f94d5fa8b8b67ce790117b",
+                                    "content": "Restlessness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f482a452c0504b9fbcfb9958ea26033e",
+                                    "content": "Constipation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A monoamine oxidase inhibitor (MAOI) is prescribed for a client. Which sign or symptom is indicative of toxicity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAcute toxicity of monoamine oxidase inhibitors (MAOIs) is manifested by restlessness, anxiety, and insomnia. Dizziness and hypertension also can occur in acute toxicity. The remaining options are not signs of toxicity related to MAOIs.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, MAOI toxicity. Recall that a sign/symptom of toxicity would likely be hypermetabolic in nature. This will direct you to the correct option.\n ",
+                        "id": "d30e15313197413ba39fdcdfbfa38a29",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10ee52e9f8ce4745b4eb9cef9f97f5d5",
+                                "content": "Risk of liver damage may be increased."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0698dcd7cdad4bd1bc374c318d873912",
+                                "content": "Bradycardia and hypotension may indicate toxicity."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ffc71a24c5248f882c1e5bcd3d85a90",
+                                "content": "Headache, hypertension, and nausea and vomiting may indicate toxicity."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d3b74719c674316b44aab0fd1cda39b",
+                                "content": "Hypotensive crisis may be precipitated by foods rich in tyramine and tryptophan."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10ee52e9f8ce4745b4eb9cef9f97f5d5",
+                                    "content": "Risk of liver damage may be increased."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0698dcd7cdad4bd1bc374c318d873912",
+                                    "content": "Bradycardia and hypotension may indicate toxicity."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ffc71a24c5248f882c1e5bcd3d85a90",
+                                    "content": "Headache, hypertension, and nausea and vomiting may indicate toxicity."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d3b74719c674316b44aab0fd1cda39b",
+                                    "content": "Hypotensive crisis may be precipitated by foods rich in tyramine and tryptophan."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is taking a monoamine oxidase inhibitor (MAOI). What is the primary reason the nurse needs to assess this client closely?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHeadache, hypertension, tachycardia, nausea, and vomiting are precursors to hypertensive crisis brought about by the ingestion of foods rich in tyramine and tryptophan while the client is taking monoamine oxidase inhibitors (MAOIs). These medications act by decreasing the amount of monoamine oxidase in the liver, which is necessary for the breakdown and use of tyramine and tryptophan. Hypertensive crisis may lead to circulatory collapse, intracranial hemorrhage, and death.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options, Strategic Words\n\nTest-Taking Strategy:\nNote the strategic word, primary. Eliminate options that are comparable or alike such as those that include hypotension. Regarding the remaining options, recalling the relationship between MAOIs and toxicity will direct you to the correct option.\n ",
+                        "id": "db31e539ac6946c58549c9c142eaf39d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27d638ce8c1145b082cbb612880c35e4",
+                                "content": "Avocados"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8b0b428df9444bfb52991c6f01ba5ea",
+                                "content": "Figs and raisins"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "782075bd9d8d427c928f82ea2cfe1559",
+                                "content": "Bologna or salami"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58c81b77f20a410294372be5ca5aa10c",
+                                "content": "Carrots or radishes"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d127a2b0342f407eabf6cb2155cc3b2d",
+                                "content": "Sweet potatoes and squash"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0aa3056673741deaa80225d523bef17",
+                                "content": "Red wine, such as Chianti or sherry"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27d638ce8c1145b082cbb612880c35e4",
+                                    "content": "Avocados"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8b0b428df9444bfb52991c6f01ba5ea",
+                                    "content": "Figs and raisins"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "782075bd9d8d427c928f82ea2cfe1559",
+                                    "content": "Bologna or salami"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58c81b77f20a410294372be5ca5aa10c",
+                                    "content": "Carrots or radishes"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d127a2b0342f407eabf6cb2155cc3b2d",
+                                    "content": "Sweet potatoes and squash"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0aa3056673741deaa80225d523bef17",
+                                    "content": "Red wine, such as Chianti or sherry"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A client has begun taking phenelzine. At the initiation of therapy, the client is taught which foods are acceptable to consume? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPhenelzine is a monoamine oxidase inhibitor (MAOI). The client needs to avoid foods that are high in tyramine because they could trigger a potentially fatal hypertensive crisis. Foods to avoid include aged cheeses, smoked or processed meats, red wines, avocados, raisins, and figs. Vegetables are generally acceptable, with the exception of broad beans, including fava beans.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, phenelzine therapy and acceptable foods to consume with an MAOI. To answer this question accurately, you must be familiar with this medication and the foods that must be avoided while it is being administered. Recalling that phenelzine is an MAOI and that tyramine needs to be avoided will direct you to the correct options.",
+                        "id": "28752554322e42d9aac78a952ebefdf5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aad6bd422e53452d858a7f8e15503d4d",
+                                "content": "Figs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d874a8466b9741d5949aad1559d97580",
+                                "content": "Yogurt"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f5d186d882a4e5a9ef2c07513dd5d88",
+                                "content": "Crackers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c820903439d4479388a6f9e9724a9a26",
+                                "content": "Aged cheese"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "744cee903ae741c0b31f40cca1d4f92f",
+                                "content": "Tossed salad"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "471266e19eae4b129911a76a6256cb20",
+                                "content": "Oatmeal raisin cookies"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aad6bd422e53452d858a7f8e15503d4d",
+                                    "content": "Figs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d874a8466b9741d5949aad1559d97580",
+                                    "content": "Yogurt"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f5d186d882a4e5a9ef2c07513dd5d88",
+                                    "content": "Crackers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c820903439d4479388a6f9e9724a9a26",
+                                    "content": "Aged cheese"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "744cee903ae741c0b31f40cca1d4f92f",
+                                    "content": "Tossed salad"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "471266e19eae4b129911a76a6256cb20",
+                                    "content": "Oatmeal raisin cookies"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A hospitalized client is started on phenelzine (Nardil) for the treatment of depression. The nurse should instruct the client that which foods are acceptable to consume while taking this medication? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPhenelzine is a monoamine oxidase inhibitor (MAOI). The client should avoid ingesting foods that are high in tyramine. Ingestion of these foods could trigger a potentially fatal hypertensive crisis. Foods to avoid include yogurt; aged cheeses; smoked or processed meats; red wines; and fruits such as avocados, raisins, or figs.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Teaching and Learning\nPriority Concepts: Nutrition, Safety\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, acceptable food items while taking MAOIs. Recall that phenelzine is an MAOI and that foods high in tyramine need to be avoided. Next, from the food items listed in the question, identify the foods that are tyramine-free.\n ",
+                        "id": "6b9b90788e664d95bc0c4dfbeea7cf97",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4b1ed032e7354f24fbf122435bda348",
+                                "content": "Figs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d759ff1cd917a52eb722c77eb1ea8fe7",
+                                "content": "Yogurt"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b0832603aa9ad262dc21eee0360c94f",
+                                "content": "Crackers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f37ab2fc915a64299a666e3b63f94d8",
+                                "content": "Aged cheese"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b51ba6d132c4c23f2bc1fbd2d153b5fa",
+                                "content": "Tossed salad"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "392c8d3c3174bb277c28118cab83b391",
+                                "content": "Oatmeal raisin cookies"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4b1ed032e7354f24fbf122435bda348",
+                                    "content": "Figs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d759ff1cd917a52eb722c77eb1ea8fe7",
+                                    "content": "Yogurt"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b0832603aa9ad262dc21eee0360c94f",
+                                    "content": "Crackers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f37ab2fc915a64299a666e3b63f94d8",
+                                    "content": "Aged cheese"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b51ba6d132c4c23f2bc1fbd2d153b5fa",
+                                    "content": "Tossed salad"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "392c8d3c3174bb277c28118cab83b391",
+                                    "content": "Oatmeal raisin cookies"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "<p>A hospitalized client is started on a monoamine oxidase inhibitor (MAOI) for the treatment of depression. The nurse would instruct the client that which foods are acceptable to consume while taking this medication? Select all that apply.</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale:</p><p>With MAOIs, the client should avoid ingesting foods that are high in tyramine. Ingestion of these foods could trigger a potentially fatal hypertensive crisis. Foods to avoid include yogurt; aged cheeses; smoked or processed meats; red wines; and fruits such as avocados, raisins, or figs.</p><p><br></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Generate Solutions</p><p>Cognitive Ability: Analyzing</p><p>Content Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)</p><p>Health Problem: Mental Health: Mood Disorders</p><p>Integrated Process: Teaching and Learning</p><p>Priority Concepts: Nutrition, Safety</p><p>Strategies: Subject</p><p><br></p><p>Test-Taking Strategy:</p><p>Focus on the subject, acceptable food items while taking MAOIs. Recall that with MAOIs, foods high in tyramine need to be avoided. Next, from the food items listed in the question, identify the foods that are tyramine-free.</p><p> </p>",
+                        "id": "b7b29174ec37461b8ba439480a07b9a1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "938437eb87093403ca3ca06d732d0a12",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 9,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 9,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 21:45:45",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Monoamine Oxidase Inhibitors (MAOIs)",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 9
+    },
+    "message": ""
+}

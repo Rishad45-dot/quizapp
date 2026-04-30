@@ -1,0 +1,149 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-30 12:48:41",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-30 12:48:41",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-30 12:48:44",
+            "id": "92662b4ca6b505a81fde0ad0037d5481",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d81b93e3cc8639fcf4df515862b5199",
+                                "content": "  Doxycycline"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0d49e1efe651cec5422a9d9a6f92a42",
+                                "content": "Fluticasone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aebac468d2d84e15533b00616f050ba5",
+                                "content": "Insulin aspart"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "643a3cd005fc96f08081d724af133146",
+                                "content": "Isotretinoin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "92f46e7adc8e6a99e1cd7e7aeae24cfc",
+                                "content": "Lisinopril"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4802b54611a2e33a31eb6cfe92272a9",
+                                "content": " Thyroxine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d81b93e3cc8639fcf4df515862b5199",
+                                    "content": "  Doxycycline"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0d49e1efe651cec5422a9d9a6f92a42",
+                                    "content": "Fluticasone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aebac468d2d84e15533b00616f050ba5",
+                                    "content": "Insulin aspart"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "643a3cd005fc96f08081d724af133146",
+                                    "content": "Isotretinoin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "92f46e7adc8e6a99e1cd7e7aeae24cfc",
+                                    "content": "Lisinopril"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4802b54611a2e33a31eb6cfe92272a9",
+                                    "content": " Thyroxine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is returning the results of a urine pregnancy test to a client currently taking several medications.  Which of the following prescriptions are contraindicated in pregnancy?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Explanation:\n\nDoxycycline (Doryx) should not be used during pregnancy as it can impair bone mineralization in the fetus.\n\nIsotretinoin (Accutane) is a category X medication in pregnancy and causes severe birth defects.  Retinoids may not be prescribed to a premenopausal client without a formal agreement to participate in the iPledge prescription tracking program.  A commitment to always use at least 2 forms of birth control to prevent pregnancy is required.\n\nAngiotensin-converting enzyme (ACE) inhibitors such as lisinopril (Prinivil) should also not be used in pregnancy as they can affect kidney development in the fetus.\n\n(Option 2)  Inhaled corticosteroids are classified under the United States Food and Drug Administration Pregnancy Category C – the drug has not been conclusively proven to be safe during pregnancy, but the prescription should be continued if there is a clear medical need (eg, severe asthma).\n\n(Option 3)  Insulin is safe for use during pregnancy.\n\n(Option 6)  The use of thyroxine (Synthroid) in pregnancy should be monitored carefully to provide an appropriate dose for the physiological changes of maternity, but it is not teratogenic.\n\nEducational objective:\nCommonly used medications that are absolutely contraindicated in pregnancy include doxycycline, isotretinoin, and ACE inhibitors.",
+                        "id": "ec680ecd7b66418e8976d37182048708",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "446840e8de0941d8b254b3268d719a5d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "1094ae6d171a43b79e2a5a926f59c02b",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 1,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 1,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-30 12:48:45",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Antepartum",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Uworld",
+        "questionNumber": 1
+    },
+    "message": ""
+}

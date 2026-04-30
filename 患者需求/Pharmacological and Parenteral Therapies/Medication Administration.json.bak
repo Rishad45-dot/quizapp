@@ -1,0 +1,24 @@
+{
+  "sourceId": "4ad2ceec0d1ea7339d63181060bd4984",
+  "name": "Medication Administration",
+  "data": {
+    "id": "4ad2ceec0d1ea7339d63181060bd4984",
+    "name": "Medication Administration",
+    "parentId": "56786e2f1513c4c711e5a11951eead81",
+    "leaf": false,
+    "code": "",
+    "questionNumber": 20,
+    "isFree": "0",
+    "orderRecord": {
+      "id": "f8d8c60bc8725c1864a24e03cd69cc0e",
+      "chapterId": "4ad2ceec0d1ea7339d63181060bd4984",
+      "state": "0",
+      "type": "0",
+      "questionNumber": 20,
+      "answerQuestionNumber": 2,
+      "correctRate": 0.0,
+      "answerQuestionRate": 10.0
+    },
+    "isShowChild": false
+  }
+}

@@ -1,0 +1,577 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:08:05",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:08:05",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:08:07",
+            "id": "6ce493ab3f360d8dfcc1034e79cb51b7",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fb4c5969ea446f88b4e3b1057da3923",
+                                "content": "It is used as a prophylactic measure."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82be6d0eb09c43d8961020522ecaab80",
+                                "content": "It is inaccurate and needs to be questioned."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f5896bb251d427d86317c3cc0529054",
+                                "content": "It is likely that the client has a new gastrointestinal disorder."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1397ec9890dc4bce85872b2877b47d05",
+                                "content": "It is used before surgery, so the client will probably require surgery."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fb4c5969ea446f88b4e3b1057da3923",
+                                    "content": "It is used as a prophylactic measure."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82be6d0eb09c43d8961020522ecaab80",
+                                    "content": "It is inaccurate and needs to be questioned."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f5896bb251d427d86317c3cc0529054",
+                                    "content": "It is likely that the client has a new gastrointestinal disorder."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1397ec9890dc4bce85872b2877b47d05",
+                                    "content": "It is used before surgery, so the client will probably require surgery."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the prescriptions for a newly admitted client. The nurse sees a prescription for intravenous pantoprazole but does not see any gastrointestinal conditions in the medical record. How would the nurse interpret this prescription?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPantoprazole is a proton pump inhibitor and is commonly used as a gastrointestinal prophylactic measure to prevent stress ulcers. The other options are incorrect.",
+                        "id": "2c54206f56cc40d9832dfdfdff571dac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ba629f1e3e74b14a96f0d24a3ae4a49",
+                                "content": "Chew the pill thoroughly."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "248a73ad42f94cc9af542da74426e636",
+                                "content": "Swallow the tablet whole."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "433e261a68a84ad58f5802380085e7a6",
+                                "content": "Headache is expected to occur."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "edf82e4240a045148c063a7d8b7d3a46",
+                                "content": "Crush the pill if it is difficult to swallow."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ba629f1e3e74b14a96f0d24a3ae4a49",
+                                    "content": "Chew the pill thoroughly."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "248a73ad42f94cc9af542da74426e636",
+                                    "content": "Swallow the tablet whole."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "433e261a68a84ad58f5802380085e7a6",
+                                    "content": "Headache is expected to occur."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "edf82e4240a045148c063a7d8b7d3a46",
+                                    "content": "Crush the pill if it is difficult to swallow."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The client with gastroesophageal reflux disease (GERD) has a new prescription for pantoprazole. Which instruction would the nurse provide to the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPantoprazole, a proton pump inhibitor, is a delayed-release medication and would be swallowed whole. It would not be chewed or crushed. Headache is a potential side effect of the medication and needs to be reported to the primary health care provider if it is troublesome.",
+                        "id": "2fca7859f5ce40e6bcf89cf60831aee2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5cc14c04008540a3ab9b8fc030e933df",
+                                "content": "Has your appetite increased?"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d42d329ea9fc4e708ab03b7460cf7d25",
+                                "content": "Are you experiencing any heartburn?"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf1c20364d03414ba42a0107f1c83322",
+                                "content": "Do you have any problems with vision?"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22367b99953548389acb0b0c556c6bdd",
+                                "content": "Do you experience any leg pain when walking?"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5cc14c04008540a3ab9b8fc030e933df",
+                                    "content": "Has your appetite increased?"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d42d329ea9fc4e708ab03b7460cf7d25",
+                                    "content": "Are you experiencing any heartburn?"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf1c20364d03414ba42a0107f1c83322",
+                                    "content": "Do you have any problems with vision?"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22367b99953548389acb0b0c556c6bdd",
+                                    "content": "Do you experience any leg pain when walking?"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse notes that a client is taking lansoprazole. Which question by the nurse helps to determine that this medication is effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nLansoprazole is a gastric acid proton pump inhibitor that is used to treat gastric and duodenal ulcers, erosive esophagitis, and hypersecretory conditions. It also is used to treat gastroesophageal reflux disease (GERD). It is not used to treat problems with appetite, visual problems, or leg pain.",
+                        "id": "3dc5e2f6d92143448c6b5202b13ed850",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4277a067d6b3411a9a70ca268e0ac814",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51ffd50c54534f70957c79593e27b3a2",
+                                "content": "Heartburn"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "adfab96e717e4758beb23c7f7eaf8caa",
+                                "content": "Flatulence"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ccdd79b8b6af48d8bd86e9b506467a29",
+                                "content": "Constipation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4277a067d6b3411a9a70ca268e0ac814",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51ffd50c54534f70957c79593e27b3a2",
+                                    "content": "Heartburn"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "adfab96e717e4758beb23c7f7eaf8caa",
+                                    "content": "Flatulence"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ccdd79b8b6af48d8bd86e9b506467a29",
+                                    "content": "Constipation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has been taking omeprazole for 4 weeks. The ambulatory care nurse evaluates medication effectiveness by asking the client whether relief was obtained from which symptom?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nOmeprazole is a proton pump inhibitor and is classified as an antiulcer agent. The medication relieves pain from gastric irritation, which often is experienced as \"heartburn\" by clients. The medication does not relieve the symptoms identified in the remaining options.",
+                        "id": "471691fa22b8445aa7bde6023ed81b32",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f791db3886a4eb2bf29d440f1e9f412",
+                                "content": "Naproxen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71e5761669304b8295e19ea3d6217efa",
+                                "content": "Ibuprofen"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48c13b112d124460979886d95bc04c56",
+                                "content": "Acetaminophen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf0cdb00537c4f88b7d309b9686de52a",
+                                "content": "Acetylsalicylic acid"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f791db3886a4eb2bf29d440f1e9f412",
+                                    "content": "Naproxen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71e5761669304b8295e19ea3d6217efa",
+                                    "content": "Ibuprofen"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48c13b112d124460979886d95bc04c56",
+                                    "content": "Acetaminophen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf0cdb00537c4f88b7d309b9686de52a",
+                                    "content": "Acetylsalicylic acid"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is taking lansoprazole. The nurse anticipates that the primary health care provider will advise the client to take which product if needed for a headache?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nLansoprazole is a proton pump inhibitor and is commonly used to treat a gastrointestinal disorder. The client with gastrointestinal disease would avoid taking medications that are irritating to the stomach lining. Irritants would include aspirin and nonsteroidal anti-inflammatory drugs (NSAIDs), which include naproxen and ibuprofen. The client needs to be advised to take acetaminophen for a headache.",
+                        "id": "5cdf833106284edfad2560c3fd1c239b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e025fdbfc049492a91dd028a028b3343",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca04a7aef8384c37859eb7d9d5dcfa27",
+                                "content": "Heartburn"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b4688a083ad447baa5b81c4ade95bb5",
+                                "content": "Flatulence"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6530ae01218942f2ab8920c68794a627",
+                                "content": "Constipation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e025fdbfc049492a91dd028a028b3343",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca04a7aef8384c37859eb7d9d5dcfa27",
+                                    "content": "Heartburn"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b4688a083ad447baa5b81c4ade95bb5",
+                                    "content": "Flatulence"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6530ae01218942f2ab8920c68794a627",
+                                    "content": "Constipation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with peptic ulcer disease has been taking omeprazole for 4 weeks. The ambulatory care nurse evaluates that the client is receiving the optimal intended effect of the medication if the client reports the absence of which symptom?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nOmeprazole is a proton pump inhibitor classified as an antiulcer agent. The intended effect of the medication is relief of pain from gastric irritation, often called heartburn by clients. Omeprazole is not used to treat the conditions identified in options 1, 3, and 4.",
+                        "id": "d0f01a33833d4d488e9b7ae47d68ea69",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9afd86baa0e0441d9f1b1a137b5cb8d0",
+                                "content": "Ibuprofen"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a041fe291fbc411f85b510bb332297f9",
+                                "content": "Acetaminophen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "efdb492bb40348cdb7b62f5e40a8faab",
+                                "content": "Naproxen sodium"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "04daf107688346e2ba30890a3a466f6f",
+                                "content": "Acetylsalicylic acid"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9afd86baa0e0441d9f1b1a137b5cb8d0",
+                                    "content": "Ibuprofen"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a041fe291fbc411f85b510bb332297f9",
+                                    "content": "Acetaminophen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "efdb492bb40348cdb7b62f5e40a8faab",
+                                    "content": "Naproxen sodium"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "04daf107688346e2ba30890a3a466f6f",
+                                    "content": "Acetylsalicylic acid"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has been given lansoprazole for the chronic management of Zollinger-Ellison syndrome. The nurse instructs the client to take which product for pain while taking this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLansoprazole is a proton pump inhibitor. Zollinger-Ellison syndrome is a hypersecretory condition of the stomach, associated with increased risk of problems from irritation of the stomach lining. The client would take acetaminophen for pain relief. Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen and naproxen sodium, would be avoided, as would aspirin, because they are potential stomach irritants.",
+                        "id": "eb898a0988634aed90aed90872433ba7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "a418a63bef097cd81e289cf12640bdfc",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 7,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 7,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:08:08",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Proton Pump Inhibitors",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 7
+    },
+    "message": ""
+}

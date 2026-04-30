@@ -1,0 +1,757 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:12:34",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:12:34",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:12:36",
+            "id": "d85520aa6bdd47b87a3d0dfdf2734c21",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71c3ed0f9b474623b22738224e305b2a",
+                                "content": "Slow, deep respirations"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8cd946fa00f04dcf905011747e720122",
+                                "content": "Rapid, deep respirations"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cd1f780e6f384f4ab035bc63a0af8020",
+                                "content": "Paradoxical respirations"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1c82588d593484a8d19d43dfbea4f35",
+                                "content": "Pain, especially with inspiration"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71c3ed0f9b474623b22738224e305b2a",
+                                    "content": "Slow, deep respirations"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8cd946fa00f04dcf905011747e720122",
+                                    "content": "Rapid, deep respirations"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cd1f780e6f384f4ab035bc63a0af8020",
+                                    "content": "Paradoxical respirations"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1c82588d593484a8d19d43dfbea4f35",
+                                    "content": "Pain, especially with inspiration"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing the respiratory status of a client who has suffered a fractured rib. The nurse would expect to note which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nRib fractures result from a blunt injury or a fall. Typical signs and symptoms include pain and tenderness localized at the fracture site that is exacerbated by inspiration and palpation, shallow respirations, splinting or guarding the chest protectively to minimize chest movement, and possible bruising at the fracture site. Paradoxical respirations are seen with flail chest.",
+                        "id": "26b13660219d45a6abcfd3e08e5e29c6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1cdc487779854000a5eefbf645e7e3ca",
+                                "content": "Strapping is useful only if the ribs are fractured in several places at once."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e32ca2faa8014612842689f074125eaa",
+                                "content": "That's a good idea. I'll ask the doctor for a prescription for the needed supplies."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "66d6aeb543e54f94ae1a00744cdba472",
+                                "content": "That isn't done because people often would develop pneumonia from the constricting effect on the lungs."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94d10b149dfd47ab80b0bd6594f84e24",
+                                "content": "That might help you to breathe better, but this facility does not carry the necessary supplies in the stockroom. When you get home, you can purchase them at the medical supply store."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1cdc487779854000a5eefbf645e7e3ca",
+                                    "content": "Strapping is useful only if the ribs are fractured in several places at once."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e32ca2faa8014612842689f074125eaa",
+                                    "content": "That's a good idea. I'll ask the doctor for a prescription for the needed supplies."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "66d6aeb543e54f94ae1a00744cdba472",
+                                    "content": "That isn't done because people often would develop pneumonia from the constricting effect on the lungs."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94d10b149dfd47ab80b0bd6594f84e24",
+                                    "content": "That might help you to breathe better, but this facility does not carry the necessary supplies in the stockroom. When you get home, you can purchase them at the medical supply store."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is diagnosed with a rib fracture and asks the nurse why strapping of the ribs is not being done. Which response by the nurse is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nStrapping of the ribs has a constricting effect on the ribs and on deep breathing and can actually increase the risk of atelectasis and pneumonia. Therefore, options 1, 2, and 4 are incorrect.",
+                        "id": "466f948d598746fc865f756933c3a332",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c680db3f17344222a2f5713f84bd3283",
+                                "content": "The drainage chamber is full."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df429c9148dc432f8f1b1dd466b45874",
+                                "content": "The pneumothorax is resolving."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1095b5abb05b4f8e8e8a7882d5751e8f",
+                                "content": "The suction chamber system is shut off."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d1119776a8024afe8208b33cbf68c2fb",
+                                "content": "There is an air leak somewhere in the system."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c680db3f17344222a2f5713f84bd3283",
+                                    "content": "The drainage chamber is full."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df429c9148dc432f8f1b1dd466b45874",
+                                    "content": "The pneumothorax is resolving."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1095b5abb05b4f8e8e8a7882d5751e8f",
+                                    "content": "The suction chamber system is shut off."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d1119776a8024afe8208b33cbf68c2fb",
+                                    "content": "There is an air leak somewhere in the system."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse caring for a client who has a pneumothorax notes continuous bubbling in the water seal chamber of the client's closed chest drainage system. How would the nurse interpret this finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nContinuous bubbling through both inspiration and expiration indicates that there is air leaking into the system. A resolving pneumothorax or a full drainage chamber would not cause bubbling with respiration in the water seal chamber. Shutting off the suction to the system stops bubbling in the suction control chamber but does not affect the water seal chamber.",
+                        "id": "4e5c6218e00a4522b1b965bb1e14f93c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba4d21deb41443ba82997a4a1133c48a",
+                                "content": "Telfa dressing and Neosporin ointment"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e505663d0862442a8f7b8b5c415ac79b",
+                                "content": "Petrolatum gauze and sterile 4 × 4 gauze"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1b465c8a723401e87c8fdc1c0892b74",
+                                "content": "Benzoin spray and a hydrocolloid dressing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ab32250770d49e58ca8e7d9ff99eea5",
+                                "content": "Sterile 4 × 4 gauze, Neosporin ointment, and tape"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba4d21deb41443ba82997a4a1133c48a",
+                                    "content": "Telfa dressing and Neosporin ointment"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e505663d0862442a8f7b8b5c415ac79b",
+                                    "content": "Petrolatum gauze and sterile 4 × 4 gauze"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1b465c8a723401e87c8fdc1c0892b74",
+                                    "content": "Benzoin spray and a hydrocolloid dressing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ab32250770d49e58ca8e7d9ff99eea5",
+                                    "content": "Sterile 4 × 4 gauze, Neosporin ointment, and tape"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A primary health care provider (PHCP) tells the nurse that a client's chest tube is to be removed since pneumothorax is resolved. The nurse would bring which dressing materials to the bedside for the PHCP's use?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nOn removal of the chest tube, sterile petrolatum gauze and sterile 4 × 4 gauze is placed at the insertion site. The entire dressing is securely taped to make sure it is occlusive. The use of Telfa dressing, Neosporin ointment, hydrocolloid dressing, or benzoin spray is not indicated. Elastoplast tape may be used at the discretion of the PHCP as the tape of choice to make the dressing occlusive.",
+                        "id": "7f8c3feb999b474592d75bf9f24aa009",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d89e06b1d22468cbf4880bc721432c7",
+                                "content": "Cyanosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bc308c703c94413caba0e06d6cea4af5",
+                                "content": "Hypotension"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5417be7352b840b685d1e34516af7418",
+                                "content": "Paradoxical chest movement"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d25182762a241eebff07c50996b32f7",
+                                "content": "Dyspnea, especially on exhalation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d89e06b1d22468cbf4880bc721432c7",
+                                    "content": "Cyanosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bc308c703c94413caba0e06d6cea4af5",
+                                    "content": "Hypotension"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5417be7352b840b685d1e34516af7418",
+                                    "content": "Paradoxical chest movement"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d25182762a241eebff07c50996b32f7",
+                                    "content": "Dyspnea, especially on exhalation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a chest injury has suffered flail chest. The nurse assesses the client for which most distinctive sign of flail chest?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nFlail chest results from multiple rib fractures. This results in a \"floating\" section of ribs. Because this section is unattached to the rest of the bony rib cage, this segment results in paradoxical chest movement. This means that the force of inspiration pulls the fractured segment inward, while the rest of the chest expands. Similarly, during exhalation, the segment balloons outward while the rest of the chest moves inward. This is a characteristic sign of flail chest.",
+                        "id": "87877e12dc304c59849770c76dd7d532",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63ed2513619c4fceb86d5fd1051359a4",
+                                "content": "Just under the left clavicle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ca7ba9f1e9b4402bd7f167fb66554ae",
+                                "content": "Midsternum, 1 inch to the left"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8eeb1cc3b2f44d0ae6b8e218c37afaf",
+                                "content": "Over the fifth intercostal space"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a5d3f5904c44fb4aeb1356252b59404",
+                                "content": "Midsternum, 1 inch to the right"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63ed2513619c4fceb86d5fd1051359a4",
+                                    "content": "Just under the left clavicle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ca7ba9f1e9b4402bd7f167fb66554ae",
+                                    "content": "Midsternum, 1 inch to the left"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8eeb1cc3b2f44d0ae6b8e218c37afaf",
+                                    "content": "Over the fifth intercostal space"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a5d3f5904c44fb4aeb1356252b59404",
+                                    "content": "Midsternum, 1 inch to the right"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A chest x-ray report for a client indicates the presence of a left apical pneumothorax. The nurse would assess the status of breath sounds in that area by placing the stethoscope in which location?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe apex of the lung is the rounded, uppermost part of the lung. Therefore, the nurse would place the stethoscope just under the left clavicle. All of the other options are incorrect locations for assessing the left apex.",
+                        "id": "98e17d4adae54abfa05ada3fecef7865",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d73640e93742421c9a22ebf7b8cb1a54",
+                                "content": "A low respiratory rate"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a84e28bacb2f4ac1bb265712e49e644b",
+                                "content": "Diminished breath sounds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "129eaa9a5f4c48239d13dd9b58cc2cc1",
+                                "content": "The presence of a barrel chest"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1db7f8f91fde4aa5a3f6118f07dac815",
+                                "content": "A sucking sound at the site of injury"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d73640e93742421c9a22ebf7b8cb1a54",
+                                    "content": "A low respiratory rate"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a84e28bacb2f4ac1bb265712e49e644b",
+                                    "content": "Diminished breath sounds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "129eaa9a5f4c48239d13dd9b58cc2cc1",
+                                    "content": "The presence of a barrel chest"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1db7f8f91fde4aa5a3f6118f07dac815",
+                                    "content": "A sucking sound at the site of injury"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The emergency department nurse is assessing a client who has sustained a blunt injury to the chest wall. Which finding indicates the presence of a pneumothorax in this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThis client has sustained a blunt or closed-chest injury. Basic symptoms of a closed pneumothorax are shortness of breath and chest pain. A larger pneumothorax may cause tachypnea, cyanosis, diminished breath sounds, and subcutaneous emphysema. Hyperresonance also may occur on the affected side. A sucking sound at the site of injury would be noted with an open chest injury.",
+                        "id": "a14ccff0c99f4426ad65a668d7e7af59",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0f69d10e55047e4850e1c3c3fab38a4",
+                                "content": "I will lie on the affected side for an hour."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdda5411edd84073a765bc335471d0ae",
+                                "content": "I can expect a chest x-ray exam to be done shortly."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a018bd192a3a446a94716cd940e60590",
+                                "content": "I will let you know at once if I have trouble breathing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75d9c75a967845ef86c3e03b36074f9c",
+                                "content": "I will notify you if I feel a crackling sensation in my chest."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0f69d10e55047e4850e1c3c3fab38a4",
+                                    "content": "I will lie on the affected side for an hour."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdda5411edd84073a765bc335471d0ae",
+                                    "content": "I can expect a chest x-ray exam to be done shortly."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a018bd192a3a446a94716cd940e60590",
+                                    "content": "I will let you know at once if I have trouble breathing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75d9c75a967845ef86c3e03b36074f9c",
+                                    "content": "I will notify you if I feel a crackling sensation in my chest."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing immediate postprocedure care to a client who had a thoracentesis to relieve a tension pneumothorax that resulted from rib fractures. The goal is that the client will exhibit normal respiratory functioning, and the nurse provides instructions to assist the client with this goal. Which client statement indicates that further instruction is needed?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAfter the procedure the client usually is turned onto the unaffected side for 1 hour to facilitate lung expansion. Tachypnea, dyspnea, cyanosis, retractions, or diminished breath sounds, which may indicate pneumothorax, need to be reported to the primary health care provider. A chest x-ray may be performed to evaluate the degree of lung reexpansion or pneumothorax. Subcutaneous emphysema (crepitus) may follow this procedure because air in the pleural cavity leaks into subcutaneous tissues. The involved tissues feel like lumpy paper and crackle when palpated (crepitus). Usually subcutaneous emphysema causes no problems unless it is increasing and constricting vital organs, such as the trachea.",
+                        "id": "cdf7f43545ce4f2a9ea3ff384be0337b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ac996212a594df3b1f19dc0cd037300",
+                                "content": "Dry air"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49bfdd3412084013ab24129081774f50",
+                                "content": "Clean air"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d06860fb4474b8da338d52f63af89ae",
+                                "content": "Exercise"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b43a6d4886c4bf4887701a6bcc435b9",
+                                "content": "Rest and sleep"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31e71538146d40e5b196a484cc4d0f24",
+                                "content": "An upper respiratory infection (URI)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43735c436fde4370bd82f02c0a574926",
+                                "content": "Nonsteroidal anti-inflammatory drugs (NSAIDs)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ac996212a594df3b1f19dc0cd037300",
+                                    "content": "Dry air"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49bfdd3412084013ab24129081774f50",
+                                    "content": "Clean air"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d06860fb4474b8da338d52f63af89ae",
+                                    "content": "Exercise"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b43a6d4886c4bf4887701a6bcc435b9",
+                                    "content": "Rest and sleep"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31e71538146d40e5b196a484cc4d0f24",
+                                    "content": "An upper respiratory infection (URI)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43735c436fde4370bd82f02c0a574926",
+                                    "content": "Nonsteroidal anti-inflammatory drugs (NSAIDs)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is providing education to a group of adolescents diagnosed with asthma. The nurse informs the group that which can be triggers for an asthma attack? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTriggers for asthma include response to the presence of specific allergens; general irritants such as cold air, dry air, or fine airborne particles; microorganisms; and aspirin and other NSAIDs. Increased airway sensitivity (hyperresponsiveness) can occur with exercise, with an upper respiratory illness, and for unknown reasons. Clean air and adequate rest and sleep help to promote lung function.",
+                        "id": "a6d11a30ec584da087476c2914705e13",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "de42758e8e9969238cf69307dfda8bf8",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 9,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 9,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:12:37",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Chest Injuries & Asthma",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 9
+    },
+    "message": ""
+}

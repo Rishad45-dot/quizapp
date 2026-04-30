@@ -1,0 +1,501 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:19:00",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:19:00",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:19:05",
+            "id": "4bd6e83924356ff5946cc06c4b1ed1bc",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7f0d54c8c6f48bab2e4252c873bba30",
+                                "content": "Pneumonia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec3a4fa59195474a9e40adc3eaf40bdb",
+                                "content": "Pneumothorax"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "148321f36851490ea3dbce4d3e45a86f",
+                                "content": "Pleural effusion"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "927c95c10170444aa9aef8b76aac5773",
+                                "content": "Carbon monoxide poisoning"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7f0d54c8c6f48bab2e4252c873bba30",
+                                    "content": "Pneumonia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec3a4fa59195474a9e40adc3eaf40bdb",
+                                    "content": "Pneumothorax"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "148321f36851490ea3dbce4d3e45a86f",
+                                    "content": "Pleural effusion"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "927c95c10170444aa9aef8b76aac5773",
+                                    "content": "Carbon monoxide poisoning"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the emergency department is caring for a client brought in from a house fire. The client is exhibiting dyspnea with clear breath sounds bilaterally and is complaining of a severe headache. The client is exhibiting signs of confusion and is oriented to self. The client’s vital signs are as follows: temperature 98.2℉ (36.7℃), oxygen saturation 91%, respiratory rate 26 breaths per minute, heart rate 112 beats per minute, and blood pressure 100/62. Which of the following conditions would the nurse suspect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCarbon monoxide is present in many noxious substances, including cigarette smoke and fire smoke. Carbon monoxide has a higher affinity for hemoglobin than oxygen and displaces oxygen from hemoglobin, thereby inhibiting the body's ability to oxygenate tissues. Clinical manifestations include severe headache, dyspnea, tachypnea, confusion, tachycardia, cyanosis, and respiratory depression. Carbon monoxide poisoning results from inhaling combustion fumes, such as from a fire, and carbon monoxide displaces oxygen on the red blood cells, inhibiting the body’s ability to carry and deliver oxygen to tissues. Since the client has been in a house fire, which is a risk factor for this condition, and is exhibiting signs and symptoms consistent with carbon monoxide poisoning, option 4 is correct.",
+                        "id": "1e64fbfb389d457a956d7fd1de387600",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c5c54e5866346aa9ffb0470fab0b012",
+                                "content": "Mild poisoning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29ccc3974fca4a4285cafa743e2def90",
+                                "content": "Fatal poisoning"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d562f0ee8dd94c1280074ee6aff71fd9",
+                                "content": "Severe poisoning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0eef8e89dd8c4f2fb4e4c7f7b8d65ad1",
+                                "content": "Moderate poisoning"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c5c54e5866346aa9ffb0470fab0b012",
+                                    "content": "Mild poisoning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29ccc3974fca4a4285cafa743e2def90",
+                                    "content": "Fatal poisoning"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d562f0ee8dd94c1280074ee6aff71fd9",
+                                    "content": "Severe poisoning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0eef8e89dd8c4f2fb4e4c7f7b8d65ad1",
+                                    "content": "Moderate poisoning"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing student is reviewing the pathophysiology of carbon monoxide poisoning. After reviewing the material, how would the nursing student correctly interpret a carboxyhemoglobin level of 56%?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA normal carbon monoxide, or carboxyhemoglobin, level is 1% to 10%. Mild poisoning is indicated by carbon monoxide levels ranging from 11% to 20%. Moderate poisoning is indicated by carbon monoxide levels ranging from 21% to 40%. Severe poisoning is indicated by carbon monoxide levels ranging from 41% to 60%. Lastly, fatal poisoning is indicated by carbon monoxide levels ranging from 61% to 80%. Therefore, a carboxyhemoglobin level of 56% indicates severe carbon monoxide poisoning. Therefore, option 3 is correct.",
+                        "id": "5f770be6aac341aa9a811f4647c9d678",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "293c85febca04fd5bbe8134a29e147f4",
+                                "content": "Insert an intravenous (IV) catheter."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bb56fed864564dc7a218cf5474ba8af6",
+                                "content": "Draw a serum carboxyhemoglobin level."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0502b498e9d042fb8c2e1b53c5c310ee",
+                                "content": "Apply 100% oxygen via nonrebreather mask."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a75c8220814a48488abe55cc2d4eea75",
+                                "content": "Apply a continuous oxygen saturation monitor."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "293c85febca04fd5bbe8134a29e147f4",
+                                    "content": "Insert an intravenous (IV) catheter."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bb56fed864564dc7a218cf5474ba8af6",
+                                    "content": "Draw a serum carboxyhemoglobin level."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0502b498e9d042fb8c2e1b53c5c310ee",
+                                    "content": "Apply 100% oxygen via nonrebreather mask."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a75c8220814a48488abe55cc2d4eea75",
+                                    "content": "Apply a continuous oxygen saturation monitor."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the emergency department is preparing for the arrival of a client with suspected carbon monoxide poisoning. Which primary health care provider (PHCP) order would the nurse perform first upon the client’s arrival?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCarbon monoxide poisoning results in the displacement of oxygen from hemoglobin in the blood, resulting in tissue hypoxia. Although options 1, 2 and 4 are appropriate interventions in the care of a client with carbon monoxide poisoning, the first action the nurse would take to assist the client’s airway and breathing would be to apply high-flow oxygen via a nonrebreather mask. Therefore, option 3 is correct.",
+                        "id": "84472a2728334c3383608f35aee0a624",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91ed13724b734469bfec8469145a329f",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0062f8e690b4142b1c1af9e14f270f4",
+                                "content": "Headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a315b76855974d999d3590b73151eec3",
+                                "content": "Weight gain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42b998c03d5149b58faffbfe24a00b26",
+                                "content": "Hypothermia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91ed13724b734469bfec8469145a329f",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0062f8e690b4142b1c1af9e14f270f4",
+                                    "content": "Headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a315b76855974d999d3590b73151eec3",
+                                    "content": "Weight gain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42b998c03d5149b58faffbfe24a00b26",
+                                    "content": "Hypothermia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with acquired immunodeficiency syndrome (AIDS) has histoplasmosis. The nurse would assess the client for which expected finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHistoplasmosis is an opportunistic fungal infection that can occur in the client with AIDS. The infection begins as a respiratory infection and can progress to disseminated infection. Typical signs and symptoms include fever, dyspnea, cough, and weight loss. Enlargement of the client's lymph nodes, liver, and spleen may occur as well.",
+                        "id": "b24b4a6806374f6daa9076d4c06c274b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "402e2bd13b4445c5a67c218edf1c0e4d",
+                                "content": "Mild poisoning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f85d01ce85cc447abb1d9d7b671d5e72",
+                                "content": "Fatal poisoning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53716e81f7984e3a92f57df653fec38b",
+                                "content": "Severe poisoning"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f1712fe495b480eae0018837adef7c3",
+                                "content": "Moderate poisoning"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "402e2bd13b4445c5a67c218edf1c0e4d",
+                                    "content": "Mild poisoning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f85d01ce85cc447abb1d9d7b671d5e72",
+                                    "content": "Fatal poisoning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53716e81f7984e3a92f57df653fec38b",
+                                    "content": "Severe poisoning"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f1712fe495b480eae0018837adef7c3",
+                                    "content": "Moderate poisoning"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the emergency department is reviewing laboratory results for a client with carbon monoxide poisoning. The client’s carboxyhemoglobin level is 25%. How would the nurse interpret the severity of carbon monoxide poisoning?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCarbon monoxide is a colorless, odorless, and tasteless gas that is released into the air due to combustion. Carbon monoxide has a higher affinity for hemoglobin than oxygen, forming carboxyhemoglobin and thereby impeding the body’s ability to oxygenate tissues. Laboratory testing to determine the severity of carbon monoxide poisoning is a serum carboxyhemoglobin level. A normal carbon monoxide, or carboxyhemoglobin, level is 1% to 10%. Mild poisoning is indicated by carbon monoxide levels ranging from 11% to 20%. Moderate poisoning is indicated by carbon monoxide levels ranging from 21% to 40%. Severe poisoning is indicated by carbon monoxide levels ranging from 41% to 60%. Lastly, fatal poisoning is indicated by carbon monoxide levels ranging from 61% to 80%. Therefore, a carboxyhemoglobin level of 25% indicates moderate carbon monoxide poisoning. Therefore, option 4 is correct.",
+                        "id": "bb72b7499e334b5abc0dfeff4126ee14",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f5dce97cdd847f5aead0f04e87cb486",
+                                "content": "1%-10%"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70167901e7b0405fb7bae5e22bbe5029",
+                                "content": "11%-20%"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c278e4290844581b938b5a37f70747c",
+                                "content": "21%-40%"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b846ca9624f486b8019b10771280bb1",
+                                "content": "41%-60%"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f5dce97cdd847f5aead0f04e87cb486",
+                                    "content": "1%-10%"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70167901e7b0405fb7bae5e22bbe5029",
+                                    "content": "11%-20%"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c278e4290844581b938b5a37f70747c",
+                                    "content": "21%-40%"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b846ca9624f486b8019b10771280bb1",
+                                    "content": "41%-60%"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The emergency room nurse is caring for a client rescued from a house fire that is exhibiting signs and symptoms of carbon monoxide poisoning. The client is complaining of the room spinning, ringing in the ears, headache, and nausea. The client is becoming increasingly irritable and confused. Physical assessment shows reddish-purple skin, and the ordered electrocardiogram (ECG) demonstrates a depressed ST segment. The nurse would determine that the severity of the client's carbon monoxide poisoning correlates with which range in the carboxyhemoglobin level?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA normal carbon monoxide, or carboxyhemoglobin, level is 1% to 10%. Mild poisoning is indicated by carbon monoxide levels ranging from 11% to 20%. The physiological effects with mild poisoning include headache, slight breathlessness, decreased cerebral function, and blurred vision. Moderate poisoning is indicated by carbon monoxide levels ranging from 21% to 40%. Signs and symptoms of moderate poisoning include headache, tinnitus (ringing in ears), nausea, drowsiness, vertigo (spinning sensation), altered mental status, confusion, stupor, irritability, pale to reddish-purple skin, hypotension, tachycardia, and dysrhythmias or ST segment depression on an ECG. Severe poisoning is indicated by carbon monoxide levels ranging from 41% to 60%. Clinical manifestations of severe poisoning include coma, convulsions, and cardiopulmonary instability. Lastly, fatal poisoning is indicated by carbon monoxide levels ranging from 61% to 80%, and death occurs. Therefore, the signs and symptoms the client is exhibiting are characteristic of moderate carbon monoxide poisoning and a carboxyhemoglobin level range of 21% to 40%. Therefore, option 3 is correct.",
+                        "id": "f5aec5779d15419d83764d6752a86290",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "1280ee9d1964ab9a4ae7afbf7547dd60",
+            "useTime": 3000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 6,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 6,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:19:05",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Carbon Monoxide Poisoning & Histoplasmosis",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 6
+    },
+    "message": ""
+}

@@ -1,0 +1,121 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 17:56:25",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 17:56:25",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 17:56:28",
+            "id": "c186bec89dc0439e38acc6f89ef251e1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "365295756ea9493e9d3339ad8049f032",
+                                "content": "The clients are unemployed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ce5198a87e24474aaf4574c00665db6",
+                                "content": "The clinic has payment options."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67629427b6e34d628e734109a1db18db",
+                                "content": "The clients lack access to preventive health care."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d365d7f56d94778b1069fe8341dc6d4",
+                                "content": "The clinic can qualify them for Medicaid coverage."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "365295756ea9493e9d3339ad8049f032",
+                                    "content": "The clients are unemployed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ce5198a87e24474aaf4574c00665db6",
+                                    "content": "The clinic has payment options."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67629427b6e34d628e734109a1db18db",
+                                    "content": "The clients lack access to preventive health care."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d365d7f56d94778b1069fe8341dc6d4",
+                                    "content": "The clinic can qualify them for Medicaid coverage."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is working in a very busy outpatient clinic that cares primarily for uninsured clients. The nurse plans care, knowing that the most likely reason for this clinic being so busy is which factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe underinsured or uninsured client is at increased risk for health disorders due to a lack of access to care. Additionally, preventive care or treatment for chronic diseases is decreased among this population as well. A client can be employed and still be uninsured. There are no data to indicate that the clinic has payment options or that the clinic can qualify clients for Medicaid. Qualifying for Medicaid needs to be done through the state or federal social services department.\n\nTest-Taking Strategy:\nNote the strategic words, most likely, and the subject, the reason that the clinic is so busy. From the options, you must choose the best answer. Recalling that clients who are underinsured or uninsured often do not have adequate access to preventive health care will direct you to option 3.",
+                        "id": "14ff44b3a934480bbd6c89fcfca1cd68",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "c1aa266784f938cd8ffd3f0707d650bf",
+            "useTime": 1000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 1,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 1,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 17:56:28",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Uninsured and Underinsured Individuals",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 1
+    },
+    "message": ""
+}

@@ -1,0 +1,2325 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 15:19:00",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 15:19:00",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 15:19:05",
+            "id": "3a3ff5f93be920297364ea6a88b94139",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa03fc4ae2204ebe8009c4cf84b67b22",
+                                "content": "Chlorophyll"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71db79b74e2f46898710cc9787d40996",
+                                "content": "Cyanide"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dd6206211ed4a6490a62a00c9e12999",
+                                "content": "Glucose"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77ea20f727b14a60b7d9085409b6343a",
+                                "content": "Hemoglobin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa03fc4ae2204ebe8009c4cf84b67b22",
+                                    "content": "Chlorophyll"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71db79b74e2f46898710cc9787d40996",
+                                    "content": "Cyanide"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dd6206211ed4a6490a62a00c9e12999",
+                                    "content": "Glucose"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77ea20f727b14a60b7d9085409b6343a",
+                                    "content": "Hemoglobin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词包含的前缀与\"chlorine\"（氯）中的\"chlor\"相同？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Chloro-\"是\"chlor\"的变体，两者都来源于希腊语词根\"chloros\"，意为“绿色”或“淡绿色”，故\"chlorine\"和\"chlorophyll\"（叶绿素）有关联。",
+                        "id": "19f1195f2ce74d509b6a1425270bce8a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d678ea4f931043e18ad2bd1b76ff534e",
+                                "content": "Polymer"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79993077e5e149b29d7f88ca4e53f255",
+                                "content": "Monochrome"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34ec3a0b68e84b1d93f010d3ba7950cb",
+                                "content": "Biology"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6ffe866a35541e68b432e4d71b2b3ab",
+                                "content": "Triangle"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d678ea4f931043e18ad2bd1b76ff534e",
+                                    "content": "Polymer"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79993077e5e149b29d7f88ca4e53f255",
+                                    "content": "Monochrome"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34ec3a0b68e84b1d93f010d3ba7950cb",
+                                    "content": "Biology"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6ffe866a35541e68b432e4d71b2b3ab",
+                                    "content": "Triangle"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词的前缀表示“多”或“许多”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Poly-\"前缀来源于希腊语，意为“多”或“许多”，用于形成表示多个单位或多种成分的名词，如\"polymer\"（聚合物）。",
+                        "id": "25f1046fa1394932863246bb741193ba",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "45c56fbbbae5496ea7f0d8088aacd3c6",
+                                "content": "生命、生物"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a41de7624f64b7593db5bfd25deea14",
+                                "content": "双的、二"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43e940db378748c7bc140da60523dbcb",
+                                "content": "化学物品"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c00a0b3c4754efeb9a37d410172b154",
+                                "content": "重力"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "45c56fbbbae5496ea7f0d8088aacd3c6",
+                                    "content": "生命、生物"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a41de7624f64b7593db5bfd25deea14",
+                                    "content": "双的、二"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43e940db378748c7bc140da60523dbcb",
+                                    "content": "化学物品"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c00a0b3c4754efeb9a37d410172b154",
+                                    "content": "重力"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "前缀\"bio-\"通常指的是什么含义？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"bio-\"来源于希腊语，通常表示与生命、生物学相关的概念。",
+                        "id": "2ea37a829d944756b8d086d453154ba7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa38f4a9a36f40b0ad66089710cf969a",
+                                "content": "pre-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a923434f8ef448e7803f8c1145f32009",
+                                "content": "post-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7c4c7c361874e558e2dbb74bc7a166f",
+                                "content": "per-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fbfd60f9db946cb8ebd0ce1c23d2baf",
+                                "content": "sub-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa38f4a9a36f40b0ad66089710cf969a",
+                                    "content": "pre-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a923434f8ef448e7803f8c1145f32009",
+                                    "content": "post-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7c4c7c361874e558e2dbb74bc7a166f",
+                                    "content": "per-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fbfd60f9db946cb8ebd0ce1c23d2baf",
+                                    "content": "sub-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“之前的”或“之前的”状态？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：pre-作为一个前缀，表示时间上的\"之前\"，如在\"precaution\"（预防）这个词中，表示提前采取措施。",
+                        "id": "5174d76738b84398aab20c07fa08ad64",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e11fda5a6f784ceabb482cb62456659a",
+                                "content": "单个"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fef8da0ebb1744019e36a7a7b70b1892",
+                                "content": "许多"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8df66b0679e749509afff6abae3b7b99",
+                                "content": "无"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "434ad70f94c9490e9748df5fda95abcb",
+                                "content": "三"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e11fda5a6f784ceabb482cb62456659a",
+                                    "content": "单个"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fef8da0ebb1744019e36a7a7b70b1892",
+                                    "content": "许多"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8df66b0679e749509afff6abae3b7b99",
+                                    "content": "无"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "434ad70f94c9490e9748df5fda95abcb",
+                                    "content": "三"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "如果一个词以“multi-”开头，它通常指的是什么概念？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“multi-”这个前缀表示“许多”，如“multimedia”（多媒体的）。",
+                        "id": "53d89df5ff6449b6a7f23d51283d1c3f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e087f6bf61914d07adda8af713418ed4",
+                                "content": "sub-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17528afbd90842abb897ef9b1d176796",
+                                "content": "supra-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dfc095f3107647b498aab3dd7daca861",
+                                "content": "super-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03d8769f687648f6893fe22305e22b03",
+                                "content": "sur-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e087f6bf61914d07adda8af713418ed4",
+                                    "content": "sub-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17528afbd90842abb897ef9b1d176796",
+                                    "content": "supra-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dfc095f3107647b498aab3dd7daca861",
+                                    "content": "super-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03d8769f687648f6893fe22305e22b03",
+                                    "content": "sur-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“在……之下”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：“sub-”这个前缀来自拉丁语，意味着在……之下或次于，用来表示位置或等级的低下。例如，“subordinate”指的是下属或从属的地位。",
+                        "id": "55b744df2a134b52a884bd9f62fdeac0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "844fe0b8232a436bb1c61f4a78a670eb",
+                                "content": "chrom(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e41689b1d005413997bdf81b0f6ba84c",
+                                "content": "melan(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ff9fd1d57ec488da131ab99c1102a74",
+                                "content": "rube-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54414c753e11439896917f934de34d9b",
+                                "content": "erythr(o)-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "844fe0b8232a436bb1c61f4a78a670eb",
+                                    "content": "chrom(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e41689b1d005413997bdf81b0f6ba84c",
+                                    "content": "melan(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ff9fd1d57ec488da131ab99c1102a74",
+                                    "content": "rube-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54414c753e11439896917f934de34d9b",
+                                    "content": "erythr(o)-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在化学中，描述颜色通常使用的前缀是哪一个？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "chrom(o)- 这个前缀与颜色有关，如“chromatography”（色谱法）。",
+                        "id": "72b66cf6edbb40b7a30441b8c6acea0e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b3c9b614f554072a8fa61e9446e754c",
+                                "content": "白色"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ca6d4d11e5543989eb450e41cc71f10",
+                                "content": "黑色"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9403371484c54820afe5bf41be0cfdf5",
+                                "content": "红色"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b8595066845847999b4b1c6ff273e981",
+                                "content": "蓝色"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b3c9b614f554072a8fa61e9446e754c",
+                                    "content": "白色"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ca6d4d11e5543989eb450e41cc71f10",
+                                    "content": "黑色"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9403371484c54820afe5bf41be0cfdf5",
+                                    "content": "红色"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b8595066845847999b4b1c6ff273e981",
+                                    "content": "蓝色"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "含有\"leuko-\"前缀的单词通常指的是什么颜色？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Leuko-\"前缀来源于希腊语，意为“白色”，因此带有该前缀的单词通常与白色有关。",
+                        "id": "738f4c4d061143c59f5d3cf05210c46f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a11e6e46a084d0b9bc043a485898f54",
+                                "content": "hypo-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3291b814ef464f7bafe44ea8222c7615",
+                                "content": "micro-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4a04399ca5a43108ec994e62e21d970",
+                                "content": "macro-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bc9dc80ee9694bd4b37c95db7566962d",
+                                "content": "poly-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a11e6e46a084d0b9bc043a485898f54",
+                                    "content": "hypo-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3291b814ef464f7bafe44ea8222c7615",
+                                    "content": "micro-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4a04399ca5a43108ec994e62e21d970",
+                                    "content": "macro-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bc9dc80ee9694bd4b37c95db7566962d",
+                                    "content": "poly-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "下列哪个前缀与“小”或“微”相关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "micro- 这个前缀表示“小”或“微”，如“microscope”（显微镜）。",
+                        "id": "74da258fac694fdea32a6a9892077203",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aeefd4ee80ef4c8885916e3d6e5eb207",
+                                "content": "少"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5063f087d27c4a0b82b7837b52fd240c",
+                                "content": "多"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86dc79a9d16a49ebaae9bdb03b698f4c",
+                                "content": "一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a744151ae13349999720e7d1d5871a63",
+                                "content": "千"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aeefd4ee80ef4c8885916e3d6e5eb207",
+                                    "content": "少"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5063f087d27c4a0b82b7837b52fd240c",
+                                    "content": "多"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86dc79a9d16a49ebaae9bdb03b698f4c",
+                                    "content": "一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a744151ae13349999720e7d1d5871a63",
+                                    "content": "千"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“oligo-”这个前缀通常指代什么数量级的概念？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“oligo-”是一个用来表示“少”的数量级概念的前缀",
+                        "id": "7d597f8740044d05b93177794ea44fd2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9aa77ba0fa35405b93928f351eb80cde",
+                                "content": "环绕的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bcce1e78e47547df82af0cef27424b16",
+                                "content": "超过的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "431f10fa71e64d4e8b0751818323feba",
+                                "content": "内部的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b475aa1774c4d088e87e98493dfccaa",
+                                "content": "之前的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9aa77ba0fa35405b93928f351eb80cde",
+                                    "content": "环绕的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bcce1e78e47547df82af0cef27424b16",
+                                    "content": "超过的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "431f10fa71e64d4e8b0751818323feba",
+                                    "content": "内部的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b475aa1774c4d088e87e98493dfccaa",
+                                    "content": "之前的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Prefix \"circum-\" 通常指代什么含义？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：circum-环绕的，围",
+                        "id": "7e484beea0a14b7eb4350dcbe429b655",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c26b0ece232443ad9cbf7df4cdb583bc",
+                                "content": "真的"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "26f2228e5f6e4f73b0cb9830ec1e11e7",
+                                "content": "假的、伪装的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e8c7e7852864fa9a6404f5bd4948067",
+                                "content": "无意义的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "995e0399e839406e9c40b6ebc25c9a25",
+                                "content": "有毒的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c26b0ece232443ad9cbf7df4cdb583bc",
+                                    "content": "真的"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "26f2228e5f6e4f73b0cb9830ec1e11e7",
+                                    "content": "假的、伪装的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e8c7e7852864fa9a6404f5bd4948067",
+                                    "content": "无意义的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "995e0399e839406e9c40b6ebc25c9a25",
+                                    "content": "有毒的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "前缀\"pseudo-\"的含义是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"pseudo-\"意为假的、伪装的，常用来描述虚假的外表或特性。",
+                        "id": "841e87f4c7af4b26b10bed9eba2e2596",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "119ae4ac2ac34c1c87c6de70303f1479",
+                                "content": "post-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59feaf10086b45ea8bf5a7780fe92138",
+                                "content": "pre-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f403ba8c7a9f4fb29e080a9da225135a",
+                                "content": "an-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6788b0794e214c1f8a857fedc1205da3",
+                                "content": "dis-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "119ae4ac2ac34c1c87c6de70303f1479",
+                                    "content": "post-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59feaf10086b45ea8bf5a7780fe92138",
+                                    "content": "pre-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f403ba8c7a9f4fb29e080a9da225135a",
+                                    "content": "an-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6788b0794e214c1f8a857fedc1205da3",
+                                    "content": "dis-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "描述事件发生在参考点之后的时间，常用的前缀是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"post-\"这个前缀来源于拉丁语，意味着“之后”或“在后面”，常用于表示时间上的后继，如\"postwar\"（战后的）。",
+                        "id": "85c3dc999e104640b827bca6b41eacaf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b25b3b5253c7482da78d8a8af32f6c76",
+                                "content": "三"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bd898817e954838adaf7c706c1263c9",
+                                "content": "四"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2710392a0c5e4c02bd57fa0a2ef23b1b",
+                                "content": "六"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3190b0e03d004f33bb61a3cdfa9b2faf",
+                                "content": "七"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b25b3b5253c7482da78d8a8af32f6c76",
+                                    "content": "三"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bd898817e954838adaf7c706c1263c9",
+                                    "content": "四"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2710392a0c5e4c02bd57fa0a2ef23b1b",
+                                    "content": "六"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3190b0e03d004f33bb61a3cdfa9b2faf",
+                                    "content": "七"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在数学中，“hexa-”通常是指几边形或者几个角？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“hexa-”这个前缀表示数字六，如“hexagon”（六边形）。",
+                        "id": "86f5ba978fe44515af6f6691276325d7",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3644e5a0ba67462295243b2f4b5742ac",
+                                "content": "微观"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f66641415c284fa38e388e0b19342fb6",
+                                "content": "巨大、宏观"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8ad541dff97433db0e88b8bdecea692",
+                                "content": "中立"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f12efa6a8a2440a9afb4055214f28eca",
+                                "content": "热力学"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3644e5a0ba67462295243b2f4b5742ac",
+                                    "content": "微观"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f66641415c284fa38e388e0b19342fb6",
+                                    "content": "巨大、宏观"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8ad541dff97433db0e88b8bdecea692",
+                                    "content": "中立"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f12efa6a8a2440a9afb4055214f28eca",
+                                    "content": "热力学"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "前缀\"macro-\"与以下哪个概念相关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"macro-\"指大尺度或宏观层面的事物。",
+                        "id": "891da080a59b4692b4eb36ca0337b991",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30552250d40e4787992d0e70b82e241c",
+                                "content": "第一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4749d87fc564440888e45dcb754dcf06",
+                                "content": "第二"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43e308f095b242d1bde9ebddc3face02",
+                                "content": "第三"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f5707132a6246278f53de9d326eda88",
+                                "content": "第四"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30552250d40e4787992d0e70b82e241c",
+                                    "content": "第一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4749d87fc564440888e45dcb754dcf06",
+                                    "content": "第二"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43e308f095b242d1bde9ebddc3face02",
+                                    "content": "第三"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f5707132a6246278f53de9d326eda88",
+                                    "content": "第四"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“primi-”这个前缀通常与哪类序数有关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“primi-”这个前缀与序数“第一”有关，如“primary”（主要的，首要的）。",
+                        "id": "983c048ded7c47aa9ecf1da22495c3c5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9532312ea6f74b9bae3289b981970d34",
+                                "content": "inter-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e93d155ac2db45f2b148e588fa52a24c",
+                                "content": "trans-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8956237c64854923969041eda2b452b1",
+                                "content": "intra-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6bba4f92482c44d2baae1e4ed68779a3",
+                                "content": "extra-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9532312ea6f74b9bae3289b981970d34",
+                                    "content": "inter-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e93d155ac2db45f2b148e588fa52a24c",
+                                    "content": "trans-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8956237c64854923969041eda2b452b1",
+                                    "content": "intra-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6bba4f92482c44d2baae1e4ed68779a3",
+                                    "content": "extra-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“在……之间”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：inter-两者之间",
+                        "id": "9ae61cd6341e4a8cb4b6af10fae911da",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f84d0b8ed5bf442aa971736bb23d3eb5",
+                                "content": "Flavus"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81978863b1ca42d3ae7b0bcc92d1d9ef",
+                                "content": "Cyanide"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1db8eb2fab9942a99ec7bac9ca8cc696",
+                                "content": "Jaundice"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe17152858d34c4cb636d524fba3cacb",
+                                "content": "Xanthosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f84d0b8ed5bf442aa971736bb23d3eb5",
+                                    "content": "Flavus"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81978863b1ca42d3ae7b0bcc92d1d9ef",
+                                    "content": "Cyanide"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1db8eb2fab9942a99ec7bac9ca8cc696",
+                                    "content": "Jaundice"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe17152858d34c4cb636d524fba3cacb",
+                                    "content": "Xanthosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "下列哪个选项含有表示“蓝色”的前缀？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Cyan-\"前缀来源于希腊语，意味着“蓝色”，因此与蓝色相关的单词通常会使用这个前缀。",
+                        "id": "9d5fe0a109ad461cbe2701d28e6e412a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f5da8186ce649778f79b19191ac01a0",
+                                "content": "bi-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5fd74d3b167f44b995dc4e0168b3c3b6",
+                                "content": "uni-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0db9b95a2f0c4c5cb3c9b009bad71b6c",
+                                "content": "multi-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e6219808a254162a3f1867c2a4c25bc",
+                                "content": "poly-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f5da8186ce649778f79b19191ac01a0",
+                                    "content": "bi-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5fd74d3b167f44b995dc4e0168b3c3b6",
+                                    "content": "uni-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0db9b95a2f0c4c5cb3c9b009bad71b6c",
+                                    "content": "multi-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e6219808a254162a3f1867c2a4c25bc",
+                                    "content": "poly-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在生物学中，“单”的意思通常用什么前缀表示？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "uni- 是一个常见的生物学前缀，表示“单”的意思，如“unicellular”（单细胞的）。",
+                        "id": "a78cf0c76c0d45e08555c7f704ea6ae1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aeb395ddee4e48f98344737fb4f48ebf",
+                                "content": "细胞外"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1318d734bf154255a59848d6e7732ef7",
+                                "content": "细胞内"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "908d88ef7da4466b83dffdac89f0ffdd",
+                                "content": "细胞膜"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "691616fd05e842de92284fe429f13c2f",
+                                "content": "细胞核"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aeb395ddee4e48f98344737fb4f48ebf",
+                                    "content": "细胞外"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1318d734bf154255a59848d6e7732ef7",
+                                    "content": "细胞内"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "908d88ef7da4466b83dffdac89f0ffdd",
+                                    "content": "细胞膜"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "691616fd05e842de92284fe429f13c2f",
+                                    "content": "细胞核"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "如果一个物质是\"intracellular\"，它位于哪里？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"intracellular\"由\"intra-\"（内部的）和\"cellular\"（细胞的）组成，意味着细胞内的。",
+                        "id": "adff49c62de94a9e852f0ae1ab119237",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86c791acba4b4ab2a5c3982eff5d08a7",
+                                "content": "re-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90ea6267d6ce4a0e972253b21b4ebb66",
+                                "content": "de-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d840482dd7c4a4088cc1962c77f3394",
+                                "content": "dis-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "445a2f494f4d40d198134d4cb47f1df5",
+                                "content": "un-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86c791acba4b4ab2a5c3982eff5d08a7",
+                                    "content": "re-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90ea6267d6ce4a0e972253b21b4ebb66",
+                                    "content": "de-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d840482dd7c4a4088cc1962c77f3394",
+                                    "content": "dis-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "445a2f494f4d40d198134d4cb47f1df5",
+                                    "content": "un-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“再次，重新”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：re-再次，重新",
+                        "id": "b4df03f16e8841d9ac7be20cd12d22d1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15b439bec0854992a5bff08cec7f690c",
+                                "content": "hemi-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d35b0a83918494f9b95cd7feb0f0f36",
+                                "content": "nulli-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b04c60ff3705467f9b24e16d52667b83",
+                                "content": "milli-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dcdc6d7c508b45a1979a242b71562ec0",
+                                "content": "primi-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15b439bec0854992a5bff08cec7f690c",
+                                    "content": "hemi-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d35b0a83918494f9b95cd7feb0f0f36",
+                                    "content": "nulli-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b04c60ff3705467f9b24e16d52667b83",
+                                    "content": "milli-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dcdc6d7c508b45a1979a242b71562ec0",
+                                    "content": "primi-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“半”或“部分”的概念？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "hemi- 是一个常用来表示“半”或“部分”的前缀",
+                        "id": "c121d52e8f604567af96daa8c80d84c4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e5f194f9d7c348ec91b79fbcb8bea75c",
+                                "content": "之前的"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2258ed7d4be49868c7fbe0ca71d9ded",
+                                "content": "旁边的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f3a3d13255949e38045b2f98874b9fd",
+                                "content": "之上的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "318fca545e034530a6265ee640f2818d",
+                                "content": "之下的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e5f194f9d7c348ec91b79fbcb8bea75c",
+                                    "content": "之前的"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2258ed7d4be49868c7fbe0ca71d9ded",
+                                    "content": "旁边的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f3a3d13255949e38045b2f98874b9fd",
+                                    "content": "之上的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "318fca545e034530a6265ee640f2818d",
+                                    "content": "之下的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Para-\" 这个前缀指的是什么意思？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Para-\"附近，旁边",
+                        "id": "c4911bd64caf46338d9e93a199f48555",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "676487f111a04cd5aa762afb5212b025",
+                                "content": "supra-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc0b04b422fc4781aa59fd0fb021b4d2",
+                                "content": "infra-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50cf0741595e43e2b4bf87992b79b197",
+                                "content": "ultra-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "579ebacad0ad4934b21864d61db2bb13",
+                                "content": "sub-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "676487f111a04cd5aa762afb5212b025",
+                                    "content": "supra-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc0b04b422fc4781aa59fd0fb021b4d2",
+                                    "content": "infra-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50cf0741595e43e2b4bf87992b79b197",
+                                    "content": "ultra-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "579ebacad0ad4934b21864d61db2bb13",
+                                    "content": "sub-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“超过，超越”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：ultra-超过，超越",
+                        "id": "c7865133713a47929c3e75df0ded5910",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29e7e60feafc41398aeed76085865a88",
+                                "content": "相反、反对"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7eda242e15d64a1ebbeef55e14b800e0",
+                                "content": "强调或加强"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0de8dcee48c84583a90e8027201514a5",
+                                "content": "无或非"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1cbef7508de84f4b9e35853ef23c7fdf",
+                                "content": "相似或近似"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29e7e60feafc41398aeed76085865a88",
+                                    "content": "相反、反对"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7eda242e15d64a1ebbeef55e14b800e0",
+                                    "content": "强调或加强"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0de8dcee48c84583a90e8027201514a5",
+                                    "content": "无或非"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1cbef7508de84f4b9e35853ef23c7fdf",
+                                    "content": "相似或近似"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "如果一个单词包含前缀a-，这通常表示什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：a-作为前缀，常常表示否定或缺乏某种属性，相当于\"not\"或\"without\"。",
+                        "id": "c793b5d8e02f4bb7999c0cd287404f5c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc4a2e3e168d45ea8edddd2659e90397",
+                                "content": "juxta-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6660d2418dc54358b53325684278175d",
+                                "content": "ambi-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e39845bae6ba483aa269694d400a435b",
+                                "content": "auto-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "783010c450c94a45a78e0bcb9d7b5958",
+                                "content": "per-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc4a2e3e168d45ea8edddd2659e90397",
+                                    "content": "juxta-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6660d2418dc54358b53325684278175d",
+                                    "content": "ambi-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e39845bae6ba483aa269694d400a435b",
+                                    "content": "auto-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "783010c450c94a45a78e0bcb9d7b5958",
+                                    "content": "per-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪个前缀表示“附近，旁边”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：juxta-附近，旁边",
+                        "id": "cb76f453c28f442fb098215004f681cc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee38948f065149ba9a91b26865ee8017",
+                                "content": "黄色"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "36c66fc54656472c9104633f60f490d5",
+                                "content": "蓝色"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "348009bb679740588b682f67ce8fab73",
+                                "content": "红色"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84c8addc8be44e5992233d45b5dd3174",
+                                "content": "绿色"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee38948f065149ba9a91b26865ee8017",
+                                    "content": "黄色"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "36c66fc54656472c9104633f60f490d5",
+                                    "content": "蓝色"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "348009bb679740588b682f67ce8fab73",
+                                    "content": "红色"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84c8addc8be44e5992233d45b5dd3174",
+                                    "content": "绿色"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "xanth(o)-这个前缀通常指代的颜色是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "xanth(o)-来自希腊语，意思是\"黄色\"，通常与黄色或类似阳光色彩有关。",
+                        "id": "d0d02480a4a1422ebb7cb70636969e4a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98f9fafb2875472f94e04e0f3f151b5e",
+                                "content": "一"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "855026a96997495b878b2dde63810aec",
+                                "content": "千分之一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "657346543c6f4da5bb37db8a466a4c6a",
+                                "content": "百万分之一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f2c0182fe7e47ecb5a8c1cc919943ce",
+                                "content": "三"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98f9fafb2875472f94e04e0f3f151b5e",
+                                    "content": "一"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "855026a96997495b878b2dde63810aec",
+                                    "content": "千分之一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "657346543c6f4da5bb37db8a466a4c6a",
+                                    "content": "百万分之一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f2c0182fe7e47ecb5a8c1cc919943ce",
+                                    "content": "三"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“milli-”这个前缀代表的数值是多少？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“milli-”表示“千分之一”，如“millilitre”（毫升）。",
+                        "id": "d111df48af7342cc911a81e4e5e67fab",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d5ed01ffe134670bcb003bd2e9a2201",
+                                "content": "Antibody"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9b8eee550aa43a3ac3fe5a983876397",
+                                "content": "Contrast"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d77a2399410646aa982e8b4244713816",
+                                "content": "Immigrant"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90c890bc4a3c4691b3af930618d9b0df",
+                                "content": "Indirect"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d5ed01ffe134670bcb003bd2e9a2201",
+                                    "content": "Antibody"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9b8eee550aa43a3ac3fe5a983876397",
+                                    "content": "Contrast"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d77a2399410646aa982e8b4244713816",
+                                    "content": "Immigrant"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90c890bc4a3c4691b3af930618d9b0df",
+                                    "content": "Indirect"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个选项的前缀表示“反对”或“反抗”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Anti-\"前缀直接来自希腊语，意思是“反对”，“抵抗”，用于形成表示反对、防御或反向作用的词汇，如\"antibody\"（抗体）。",
+                        "id": "fad7d5c466db478ea7b8332402ae7d05",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "45bc05959737429ab20862b4978cce3f",
+                                "content": "一百分之一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bdc3214072644f51b5ec36635f8f20b5",
+                                "content": "一千分之一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab1e61c48f354ecdbf609a91439c1ff3",
+                                "content": "万分之一"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bb4ed32f3a6d4cdb8235dffff1c29763",
+                                "content": "十万分之一"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "45bc05959737429ab20862b4978cce3f",
+                                    "content": "一百分之一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bdc3214072644f51b5ec36635f8f20b5",
+                                    "content": "一千分之一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab1e61c48f354ecdbf609a91439c1ff3",
+                                    "content": "万分之一"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bb4ed32f3a6d4cdb8235dffff1c29763",
+                                    "content": "十万分之一"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“centi-”这个前缀表示的数值是多少？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“centi-”表示“一百分之一”，如“centimeter”（厘米）。",
+                        "id": "ff80e85f14574955921bd91bc32b070c",
+                        "mark": "0",
+                        "collectionState": "1"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "6ae58b8c50d9d133a10906fa3b9b1aa9",
+            "useTime": 3000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 30,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 30,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 15:19:06",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重点",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 30
+    },
+    "message": ""
+}

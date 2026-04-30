@@ -1,0 +1,805 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-29 20:07:03",
+        "success": true,
+        "typeText": "章节练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-29 20:07:03",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-04-29 20:07:06",
+            "id": "631a314ec8441ca2639c50e5529bb655",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e6ed213a4cf4380968c8a6548611c8f",
+                                "content": "I can stop the medication if my pain is relieved."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd5f8403ec414e72a516c1e485a91dc2",
+                                "content": "I may get terrible diarrhea from the medication, and if I do I need to stop taking it."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59bd56acd1974adbad32caebf725f39b",
+                                "content": "Side effects are minimal, and I need to take it an hour before meals and at bedtime."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87b6fc874dde440b977e74507d07b17d",
+                                "content": "I need to take the medication halfway between meals and at bedtime on an empty stomach."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e6ed213a4cf4380968c8a6548611c8f",
+                                    "content": "I can stop the medication if my pain is relieved."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd5f8403ec414e72a516c1e485a91dc2",
+                                    "content": "I may get terrible diarrhea from the medication, and if I do I need to stop taking it."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59bd56acd1974adbad32caebf725f39b",
+                                    "content": "Side effects are minimal, and I need to take it an hour before meals and at bedtime."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87b6fc874dde440b977e74507d07b17d",
+                                    "content": "I need to take the medication halfway between meals and at bedtime on an empty stomach."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides medication instructions to a client who has a prescription for sucralfate to be taken 4 times daily. Which statement by the client indicates teaching was effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSucralfate is a gastric protectant. The medication should be scheduled for administration 1 hour before meals and at bedtime. The medication is scheduled so that it has time to bind to the base of ulcers and erosions and form a protective coating before food intake stimulates chemical and mechanical irritation in the stomach. Medication should not be stopped. Side effects are minimal, and diarrhea is not associated with the medication.",
+                        "id": "086bcfdd36294b83a95ec592218499a5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b73d1ec665842aaa51b466ea3c0df21",
+                                "content": "Every 6 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c0fb4ffa7224ab9853c404561ba739d",
+                                "content": "With meals and at bedtime"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7921f08db854d81b3ac482298fab896",
+                                "content": "1 hour after meals and at bedtime"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "877c790cc7cd4257b75f7f2c98b6a3b9",
+                                "content": "1 hour before meals and at bedtime"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b73d1ec665842aaa51b466ea3c0df21",
+                                    "content": "Every 6 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c0fb4ffa7224ab9853c404561ba739d",
+                                    "content": "With meals and at bedtime"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7921f08db854d81b3ac482298fab896",
+                                    "content": "1 hour after meals and at bedtime"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "877c790cc7cd4257b75f7f2c98b6a3b9",
+                                    "content": "1 hour before meals and at bedtime"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has a prescription for sucralfate, orally 4 times daily. The nurse writes which schedule for this medication on the medication administration record?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSucralfate is prescribed to treat gastric ulcers. It would be scheduled for administration 1 hour before meals and at bedtime to allow it to form a protective coating over the gastric ulcer to prevent irritation by food, gastric acid, and mechanical movement of the stomach. The other options are incorrect.",
+                        "id": "39abc4f179874fccbdc380fb6cfddb4a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a287d61d8ab24fa6b14d2ace23d947d4",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9f92d651f3b04734a9454e0ad263de22",
+                                "content": "Bleeding"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4a0761c91354e43a6697ebb89ba3775",
+                                "content": "Joint aches"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9fc7fc5cd81e469bbc4e571a2dc4eb77",
+                                "content": "Epigastric pain"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a287d61d8ab24fa6b14d2ace23d947d4",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9f92d651f3b04734a9454e0ad263de22",
+                                    "content": "Bleeding"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4a0761c91354e43a6697ebb89ba3775",
+                                    "content": "Joint aches"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9fc7fc5cd81e469bbc4e571a2dc4eb77",
+                                    "content": "Epigastric pain"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who has been chronically taking acetylsalicylic acid (aspirin) for arthritis has been given a prescription for misoprostol. The nurse determines that the new medication is effective if the client states relief from which problem?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nA client who chronically uses aspirin is prone to gastric mucosal injury, which causes epigastric pain as a symptom. Misoprostol is a gastric protectant specifically given to prevent this occurrence. Diarrhea can be a side effect of the medication, but it is not an intended effect. Bleeding and joint aches are not relieved by misoprostol.",
+                        "id": "45615a3118bf49a98e8ddff72ec9f43b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4b54fec5a4e49c883ed5fd46b8d998b",
+                                "content": "Resolved diarrhea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef5630c252144286ac63eab9773d7fdb",
+                                "content": "Relief of epigastric pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1143a9bad7fa4ffe8cd47b3854ff66da",
+                                "content": "Decreased platelet count"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02e627967cf740e586ede8216f66ec05",
+                                "content": "Decreased white blood cell count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4b54fec5a4e49c883ed5fd46b8d998b",
+                                    "content": "Resolved diarrhea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef5630c252144286ac63eab9773d7fdb",
+                                    "content": "Relief of epigastric pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1143a9bad7fa4ffe8cd47b3854ff66da",
+                                    "content": "Decreased platelet count"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02e627967cf740e586ede8216f66ec05",
+                                    "content": "Decreased white blood cell count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who uses nonsteroidal anti-inflammatory drugs (NSAIDs) has been taking misoprostol. The nurse determines that the misoprostol is having the intended therapeutic effect if which finding is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client who uses NSAIDs is prone to gastric mucosal injury. Misoprostol is a gastric protectant and is given specifically to prevent this occurrence in clients taking NSAIDs frequently. Diarrhea can be a side effect of the medication but is not an intended effect. Options 3 and 4 are unrelated to the purpose of misoprostol.",
+                        "id": "4f33911192984d3bb5e0bb67516582bb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c007c23c408043ec970ac0f59bc8ff85",
+                                "content": "Reducing gastric acidity"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "550698ee06bd4e3ea2f80764d70e79d9",
+                                "content": "Treating bacterial infection"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bde8345272104054bb6f6d87f506c0a8",
+                                "content": "Enhancing mucosal defenses"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ecf8432e5474f7c924d3f60cb44f993",
+                                "content": "Eradicating Helicobacter pylori"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c007c23c408043ec970ac0f59bc8ff85",
+                                    "content": "Reducing gastric acidity"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "550698ee06bd4e3ea2f80764d70e79d9",
+                                    "content": "Treating bacterial infection"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bde8345272104054bb6f6d87f506c0a8",
+                                    "content": "Enhancing mucosal defenses"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ecf8432e5474f7c924d3f60cb44f993",
+                                    "content": "Eradicating Helicobacter pylori"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The client with peptic ulcer disease is prescribed medication therapy. The nurse explains the medications to the client and explains that sucralfate will help to heal the ulcer by doing what?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMedication therapy is used to treat peptic ulcer disease by three mechanisms: eradicating H. pylori (or other bacterial infections), reducing gastric acidity, and enhancing mucosal defenses. Sucralfate works by enhancing mucosal defenses. Antibiotics treat infection and eradicate H. pylori. Antisecretory agents, misoprostol, and antacids work by reducing gastric acidity.",
+                        "id": "9f74cd3a03a14ed880509a954d16b19a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5897a68354e94296a97c244c27f7224b",
+                                "content": "Take the sucralfate once a day at bedtime with food."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0441a02d8e04412bb19b64d94d3a05ba",
+                                "content": "Take the sucralfate daily with the proton pump inhibitor."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bb27f2bb1f484ee8932ba10e532f22af",
+                                "content": "Take the sucralfate before meals and at bedtime on an empty stomach."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10948eca75644e7e8c8f8e8e68ce75ea",
+                                "content": "Take the sucralfate immediately after eating and within 30 minutes of an antacid."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5897a68354e94296a97c244c27f7224b",
+                                    "content": "Take the sucralfate once a day at bedtime with food."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0441a02d8e04412bb19b64d94d3a05ba",
+                                    "content": "Take the sucralfate daily with the proton pump inhibitor."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bb27f2bb1f484ee8932ba10e532f22af",
+                                    "content": "Take the sucralfate before meals and at bedtime on an empty stomach."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10948eca75644e7e8c8f8e8e68ce75ea",
+                                    "content": "Take the sucralfate immediately after eating and within 30 minutes of an antacid."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a history of gastroesophageal reflux disease (GERD) is diagnosed with peptic ulcer disease (PUD). The primary health care provider prescribes sucralfate in addition to the client's other medications. What teaching would the nurse include in this client's instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSucralfate is an antiulcer medication that promotes ulcer healing by creating a protective barrier against acid and pepsin. It should be taken on an empty stomach. The usual recommended adult dosage is 1 gram 4 times a day, taken 1 hour before meals and at bedtime. Options 1, 2, and 4 are incorrect, as sucralfate would be taken on an empty stomach, at least twice a day, and at least 30 minutes apart from an antacid.",
+                        "id": "af783d2e4241445eb4010eb7eb02e910",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "268f6c0eb9bb4a14a1cc281f44fc1156",
+                                "content": "At bedtime"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68535d199691414db2da27c2437b562a",
+                                "content": "One hour after meals"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75a0174dc5cd48a381444e01b87be18b",
+                                "content": "At noontime with a meal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4ff6751aed74f769772f7767137b240",
+                                "content": "One hour before meals and again at bedtime"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "268f6c0eb9bb4a14a1cc281f44fc1156",
+                                    "content": "At bedtime"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68535d199691414db2da27c2437b562a",
+                                    "content": "One hour after meals"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75a0174dc5cd48a381444e01b87be18b",
+                                    "content": "At noontime with a meal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4ff6751aed74f769772f7767137b240",
+                                    "content": "One hour before meals and again at bedtime"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Sucralfate is prescribed for a client. The nurse determines that the client understands the instructions for medication administration if the client states to take the medication at what time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSucralfate is an antiulcer medication that forms a barrier over the ulcer and protects against acid and pepsin. The medication would be taken 1 hour before meals and at bedtime to allow it to form a protective coating over the ulcer to prevent irritation from food, gastric acid, and mechanical movement. The other time frames are incorrect.",
+                        "id": "cac352a989bc48948efa3a9640edc01f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd41bc0f3b5f4956a1e6c08494b30740",
+                                "content": "With meals and at bedtime"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7472073cd0c4302a2478d5a45533e3f",
+                                "content": "Every 6 hours around the clock"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c68059edb3248ad937eba5ebece2568",
+                                "content": "One hour after meals and at bedtime"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1f919b2b59e47e88375e4fd89685123",
+                                "content": "One hour before meals and at bedtime"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd41bc0f3b5f4956a1e6c08494b30740",
+                                    "content": "With meals and at bedtime"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7472073cd0c4302a2478d5a45533e3f",
+                                    "content": "Every 6 hours around the clock"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c68059edb3248ad937eba5ebece2568",
+                                    "content": "One hour after meals and at bedtime"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1f919b2b59e47e88375e4fd89685123",
+                                    "content": "One hour before meals and at bedtime"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a gastric ulcer has a prescription for sucralfate 1 gram by mouth 4 times daily. The nurse would schedule the medication for which times?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSucralfate is a gastric protectant. The medication would be scheduled for administration 1 hour before meals and at bedtime. The medication is timed to allow it to form a protective coating over the ulcer before food intake stimulates gastric acid production and mechanical irritation. The other options are incorrect.",
+                        "id": "d6abe97381d14f2291030c03c0848532",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "acc888ef1274498aa02a345164274ed4",
+                                "content": "Resolved diarrhea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85d0d0a13b9947bc96327467ec89c2a6",
+                                "content": "Relief of epigastric pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "899ec2a428aa4be6b5ca58826e191097",
+                                "content": "Decreased platelet count"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81a212378c87450f8e7a7efbe2310700",
+                                "content": "Decreased white blood cell count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "acc888ef1274498aa02a345164274ed4",
+                                    "content": "Resolved diarrhea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85d0d0a13b9947bc96327467ec89c2a6",
+                                    "content": "Relief of epigastric pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "899ec2a428aa4be6b5ca58826e191097",
+                                    "content": "Decreased platelet count"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81a212378c87450f8e7a7efbe2310700",
+                                    "content": "Decreased white blood cell count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with gastritis who uses nonsteroidal antiinflammatory drugs (NSAIDs) has been taking misoprostol. The nurse determines that the misoprostol is having the intended therapeutic effect if which finding is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client who uses NSAIDs is prone to gastric mucosal injury. Misoprostol is a gastric protectant and is given specifically to prevent this occurrence in clients taking NSAIDs frequently. Diarrhea can be a side effect of the medication but is not an intended effect. Options 3 and 4 are unrelated to the purpose of misoprostol.",
+                        "id": "dfbb3e58f0ac469fa6b312696763d6d3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94f6ca89e24848ffa350ef19b2d28b72",
+                                "content": "I have fewer joint aches."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90e6b5ff5d8646e589b1b88617551579",
+                                "content": "My joint mobility has improved."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3ea1466df2f4581be8d046c45349c81",
+                                "content": "I no longer have pain above my stomach."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d8d01cfc44e452793d79ca161038a61",
+                                "content": "I am no longer experiencing constipation."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94f6ca89e24848ffa350ef19b2d28b72",
+                                    "content": "I have fewer joint aches."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90e6b5ff5d8646e589b1b88617551579",
+                                    "content": "My joint mobility has improved."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3ea1466df2f4581be8d046c45349c81",
+                                    "content": "I no longer have pain above my stomach."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d8d01cfc44e452793d79ca161038a61",
+                                    "content": "I am no longer experiencing constipation."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The client has begun taking misoprostol. Which statement by the client indicates that the misoprostol is effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nMisoprostol is a gastric protectant and is given specifically to prevent gastric mucosal injury. Constipation is not associated with the use of this medication. Fewer joint aches and improved joint mobility are incorrect and are not intended effects of the medication.",
+                        "id": "f9fc2210c69b481ea4909073bddf9c9a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "isLessonPractice": "0",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "chapterId": "d8a686d2353b4be2861d5de1439c03b9",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-04-29 20:07:07",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Gastric Protectants",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}
