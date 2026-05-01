@@ -1,10 +1,9 @@
-<!-- FILE: quiz_player.html (updated with auto completion badge & full progress tracking) -->
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <title>医学词汇测验 · 即时反馈与正确率统计</title>
+    <title>医学词汇测验 · 收藏复习 & 正确率统计</title>
     <style>
         * { box-sizing: border-box; }
         body {
@@ -219,6 +218,21 @@
             margin: 0;
             flex: 1;
         }
+        .save-btn {
+            background: none;
+            border: none;
+            font-size: 1.3rem;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 30px;
+            transition: 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .save-btn.saved { color: #f5b042; text-shadow: 0 0 2px rgba(0,0,0,0.1); }
+        .save-btn:not(.saved) { color: #aaa; }
+        .save-btn:hover { background: #f0f2f5; }
         .options { padding: 16px 20px; display: flex; flex-direction: column; gap: 12px; }
         .option {
             display: flex;
@@ -312,7 +326,6 @@
                     <div class="subtitle" id="subtitle"></div>
                 </div>
             </div>
-            <!-- 统计摘要区 + 完成度徽章 -->
             <div class="stats-summary" id="statsSummary">
                 <div class="stats-numbers">
                     <span>📋 总题数: <strong id="totalCount">0</strong></span>
@@ -349,13 +362,20 @@
             </label>
         </div>
         <div class="setting-group">
+            <label>📚 收藏复习</label>
+            <label style="display: flex; align-items: center; gap: 8px;">
+                <input type="checkbox" id="onlySavedCheckbox"> 仅练习收藏题目
+            </label>
+            <button class="btn-small-outline" id="clearSavedBtn" style="margin-top: 4px;">🗑️ 清除所有收藏</button>
+        </div>
+        <div class="setting-group">
             <button class="btn-small" id="applySettingsBtn">应用筛选</button>
             <button class="btn-small-outline" id="resetProgressBtn">重置进度</button>
         </div>
     </div>
 
     <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
-    <footer>✨ <strong>单选</strong>题目：点击选项后<strong>立即显示答案+解析</strong>；<strong>多选题</strong>需点击「核对答案」。<br>🏆 当所有题目均已回答并核对后，自动显示“本章已完成”徽章，并同步到章节导航页。</footer>
+    <footer>✨ <strong>单选</strong>题目：点击选项后<strong>立即显示答案+解析</strong>；<strong>多选题</strong>需点击「核对答案」。<br>⭐ 点击题目旁的星星可收藏题目，用于日后集中复习。</footer>
 </div>
 <div id="toastMessage" class="toast"></div>
 
@@ -396,56 +416,75 @@
         return d.split('-').pop() || d;
     }
 
-    let fullQuestions = [];           // 全部原始题目
-    let currentQuestions = [];        // 经过筛选/随机后的题目
-    
-    // 全局完整进度（针对 fullQuestions）
-    let fullUserAnswers = [];          // 与 fullQuestions 等长
-    let fullAnswerStatus = [];         // 与 fullQuestions 等长
-    
-    // 当前视图进度（指向 full 的索引映射）
-    let currentUserAnswers = [];       // 对应 currentQuestions 的答案
-    let currentAnswerStatus = [];      // 对应 currentQuestions 的核对状态
-    
+    let fullQuestions = [];
+    let currentQuestions = [];
+    let fullUserAnswers = [];
+    let fullAnswerStatus = [];
+    let currentUserAnswers = [];
+    let currentAnswerStatus = [];
     let currentFilePath = "";
     
+    // ---------- 收藏功能 ----------
+    function getSavedKey() { return `saved_questions_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function loadSavedQuestionIds() {
+        const saved = localStorage.getItem(getSavedKey());
+        if (saved) {
+            try { return JSON.parse(saved); } catch(e) { return []; }
+        }
+        return [];
+    }
+    function saveQuestionIds(ids) {
+        localStorage.setItem(getSavedKey(), JSON.stringify(ids));
+    }
+    function isQuestionSaved(questionId) {
+        const saved = loadSavedQuestionIds();
+        return saved.includes(questionId);
+    }
+    function toggleSavedQuestion(questionId) {
+        let saved = loadSavedQuestionIds();
+        if (saved.includes(questionId)) {
+            saved = saved.filter(id => id !== questionId);
+            showToast(`⭐ 已从收藏中移除`, 1000);
+        } else {
+            saved.push(questionId);
+            showToast(`📌 已添加到“仅练习收藏题目”列表`, 1500);
+        }
+        saveQuestionIds(saved);
+        // 如果当前仅显示收藏模式，需要重新渲染列表
+        const onlySaved = document.getElementById('onlySavedCheckbox').checked;
+        if (onlySaved) applyFilters();
+        else renderQuiz();  // 刷新星星状态
+    }
+    function clearAllSaved() {
+        saveQuestionIds([]);
+        showToast(`🗑️ 已清除所有收藏题目`, 1500);
+        const onlySaved = document.getElementById('onlySavedCheckbox').checked;
+        if (onlySaved) applyFilters();
+        else renderQuiz();
+    }
+    
+    // 完整进度存储相关
     function getStorageKey() { return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getFullProgressKey() { return `full_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     
-    // 保存完整进度 + 当前视图进度（视图进度单独保存，用于筛选后恢复）
     function saveAllProgress() {
         if (!currentFilePath || !fullQuestions.length) return;
-        // 保存完整进度
-        const fullData = {
-            fullUserAnswers: fullUserAnswers,
-            fullAnswerStatus: fullAnswerStatus
-        };
+        const fullData = { fullUserAnswers, fullAnswerStatus };
         localStorage.setItem(getFullProgressKey(), JSON.stringify(fullData));
-        
-        // 保存当前视图进度 (用于快速恢复筛选状态)
         const indices = currentQuestions.map(q => fullQuestions.indexOf(q));
-        const viewData = {
-            userAnswers: currentUserAnswers,
-            answerStatus: currentAnswerStatus,
-            currentQuestionsIndices: indices
-        };
+        const viewData = { userAnswers: currentUserAnswers, answerStatus: currentAnswerStatus, currentQuestionsIndices: indices };
         localStorage.setItem(getStorageKey(), JSON.stringify(viewData));
-        
-        // 检查全章节完成状态并存储标记
         let allCompleted = true;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
-            if (q.type === '3') continue; // 排序题暂不计入
+            if (q.type === '3') continue;
             const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
             const isChecked = fullAnswerStatus[i] === true;
             if (!hasAnswer || !isChecked) { allCompleted = false; break; }
         }
-        if (allCompleted && fullQuestions.length > 0) {
-            localStorage.setItem(getCompletionKey(), 'true');
-        } else {
-            localStorage.removeItem(getCompletionKey());
-        }
+        if (allCompleted && fullQuestions.length > 0) localStorage.setItem(getCompletionKey(), 'true');
+        else localStorage.removeItem(getCompletionKey());
         updateCompletionUI();
     }
     
@@ -458,24 +497,18 @@
                     fullUserAnswers = data.fullUserAnswers;
                     fullAnswerStatus = data.fullAnswerStatus;
                     for (let i = 0; i < fullQuestions.length; i++) {
-                        if (fullQuestions[i].type === '1' && (!fullUserAnswers[i] || !Array.isArray(fullUserAnswers[i]))) {
-                            fullUserAnswers[i] = [];
-                        }
+                        if (fullQuestions[i].type === '1' && (!fullUserAnswers[i] || !Array.isArray(fullUserAnswers[i]))) fullUserAnswers[i] = [];
                     }
                     return true;
                 }
             } catch(e) {}
         }
-        // 初始化
         fullUserAnswers = new Array(fullQuestions.length).fill(null);
         fullAnswerStatus = new Array(fullQuestions.length).fill(false);
-        for (let i = 0; i < fullQuestions.length; i++) {
-            if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
-        }
+        for (let i = 0; i < fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
         return false;
     }
     
-    // 根据当前筛选列表，从完整进度中映射到当前视图
     function syncCurrentFromFull() {
         currentUserAnswers = new Array(currentQuestions.length).fill(null);
         currentAnswerStatus = new Array(currentQuestions.length).fill(false);
@@ -486,9 +519,7 @@
                 if (currentQuestions[i].type === '1') {
                     if (!ans || !Array.isArray(ans)) ans = [];
                     currentUserAnswers[i] = [...ans];
-                } else {
-                    currentUserAnswers[i] = ans;
-                }
+                } else currentUserAnswers[i] = ans;
                 currentAnswerStatus[i] = fullAnswerStatus[idxInFull] || false;
             } else {
                 if (currentQuestions[i].type === '1') currentUserAnswers[i] = [];
@@ -498,7 +529,6 @@
         }
     }
     
-    // 将当前视图的改动同步回完整进度
     function syncFullFromCurrent() {
         for (let i = 0; i < currentQuestions.length; i++) {
             const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
@@ -513,14 +543,10 @@
     function updateCompletionUI() {
         const completed = localStorage.getItem(getCompletionKey()) === 'true';
         const badge = document.getElementById('completionBadge');
-        if (completed && fullQuestions.length > 0) {
-            badge.style.display = 'inline-flex';
-        } else {
-            badge.style.display = 'none';
-        }
+        if (completed && fullQuestions.length > 0) badge.style.display = 'inline-flex';
+        else badge.style.display = 'none';
     }
     
-    // 统计基于完整进度 (用于显示总正确率等)
     function computeFullStatistics() {
         let total = fullQuestions.length;
         let answered = 0, correct = 0, incorrect = 0;
@@ -530,7 +556,6 @@
             const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
             if (hasAnswer) answered++;
             if (fullAnswerStatus[i] && hasAnswer) {
-                // 判断正误
                 const options = q.optionList || [];
                 const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
                 let isCorrect = false;
@@ -562,7 +587,7 @@
     function renderQuiz() {
         const container = document.getElementById('quizContainer');
         if (!currentQuestions.length) {
-            container.innerHTML = '<div class="error-box">⚠️ 没有题目。请检查筛选条件。</div>';
+            container.innerHTML = '<div class="error-box">⚠️ 没有题目。请检查筛选条件或收藏夹是否为空。</div>';
             updateStatsDisplay();
             updateCompletionUI();
             return;
@@ -580,10 +605,13 @@
             let selectedId = (!isMulti && userSel) ? userSel : null;
             let selectedIds = (isMulti && Array.isArray(userSel)) ? userSel : [];
             const difficultyLabel = getDifficultyLabel(q.difficulty);
+            const saved = isQuestionSaved(q.id);
+            
             html += `<div class="card" data-qidx="${idx}"><div class="question-header">
                         <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '排序题' : '单选题')}</span>
                         <span class="difficulty-badge">📊 ${difficultyLabel}</span>
                         <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
+                        <button class="save-btn ${saved ? 'saved' : ''}" data-id="${q.id}" data-savebtn="${idx}">${saved ? '★' : '☆'}</button>
                         <span class="status ${statusClass}">${statusText}</span>
                      </div><div class="options" id="options-${idx}">`;
             if (qType === '3') {
@@ -624,7 +652,16 @@
         });
         container.innerHTML = html;
         
-        // 事件绑定
+        // 绑定收藏按钮事件
+        document.querySelectorAll('.save-btn').forEach(btn => {
+            const qid = btn.getAttribute('data-id');
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                if (qid) toggleSavedQuestion(qid);
+            });
+        });
+        
+        // 绑定选项变更和核对按钮
         currentQuestions.forEach((q, idx) => {
             if (q.type === '3') return;
             const div = document.getElementById(`options-${idx}`);
@@ -678,6 +715,14 @@
     function applyFilters() {
         if (!fullQuestions.length) return;
         let filtered = [...fullQuestions];
+        const onlySaved = document.getElementById('onlySavedCheckbox').checked;
+        if (onlySaved) {
+            const savedIds = loadSavedQuestionIds();
+            filtered = filtered.filter(q => savedIds.includes(q.id));
+            if (filtered.length === 0) {
+                showToast(`⭐ 暂无收藏题目，请先点击题目旁的星星收藏`, 2500);
+            }
+        }
         const countVal = document.getElementById('questionCountSelect').value;
         if (countVal !== 'all') {
             const limit = parseInt(countVal);
@@ -690,10 +735,11 @@
             }
         }
         currentQuestions = filtered;
-        syncCurrentFromFull();   // 从完整进度映射
+        syncCurrentFromFull();
         renderQuiz();
         document.getElementById('settingsPanel').classList.remove('open');
-        showToast('✅ 筛选已应用，统计基于全部题目');
+        if (onlySaved && filtered.length) showToast(`📚 当前显示 ${filtered.length} 道收藏题目`, 1500);
+        else if (!onlySaved) showToast('✅ 筛选已应用');
     }
     
     function resetProgress() {
@@ -707,7 +753,7 @@
         syncCurrentFromFull();
         renderQuiz();
         document.getElementById('settingsPanel').classList.remove('open');
-        showToast('🔄 进度已重置，完成标记已清除');
+        showToast('🔄 答题进度已重置，但收藏列表保留');
     }
     
     // 主加载
@@ -746,6 +792,7 @@
     });
     document.getElementById('applySettingsBtn').addEventListener('click', applyFilters);
     document.getElementById('resetProgressBtn').addEventListener('click', resetProgress);
+    document.getElementById('clearSavedBtn').addEventListener('click', clearAllSaved);
 </script>
 </body>
 </html>
