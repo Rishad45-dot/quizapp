@@ -254,7 +254,8 @@
             font-size: 0.9rem;
         }
         .correct-answer { color: #2c7a4d; font-weight: 500; }
-        .your-answer { color: #d9534f; }
+        .your-answer-incorrect { color: #d9534f; }
+        .your-answer-correct { color: #2c7a4d; font-weight: 500; }
         .analysis {
             margin-top: 12px;
             color: #5a6874;
@@ -468,14 +469,40 @@
     function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getStatsKey() { return `quiz_stats_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     
+    // 判断某个题目的答案是否正确 (基于已核对状态和用户选择)
+    function isQuestionCorrect(q, userAns, isChecked) {
+        if (!isChecked) return false;
+        const type = q.type;
+        const options = q.optionList || [];
+        const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
+        if (type === '3') return false;
+        if (type === '1') {
+            const selected = userAns || [];
+            if (!Array.isArray(selected)) return false;
+            if (selected.length !== correctIds.length) return false;
+            const sortedSelected = [...selected].sort();
+            const sortedCorrect = [...correctIds].sort();
+            return JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
+        } else {
+            const selectedId = userAns;
+            if (!selectedId) return false;
+            return correctIds.length === 1 && correctIds[0] === selectedId;
+        }
+    }
+    
     // 保存章节统计数据（正确数，总题数，准确率）
     function saveChapterStats() {
-        const stats = computeFullStatistics();
-        const chapterStats = {
-            correct: stats.correct,
-            total: stats.total,
-            accuracy: stats.rate
-        };
+        let total = 0, correct = 0;
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            if (q.type === '3') continue;
+            total++;
+            if (fullAnswerStatus[i] && isQuestionCorrect(q, fullUserAnswers[i], true)) {
+                correct++;
+            }
+        }
+        const accuracy = total === 0 ? 0 : (correct/total)*100;
+        const chapterStats = { correct, total, accuracy };
         localStorage.setItem(getStatsKey(), JSON.stringify(chapterStats));
     }
     
@@ -497,7 +524,7 @@
         }
         if (allCompleted && fullQuestions.length > 0) {
             localStorage.setItem(getCompletionKey(), 'true');
-            saveChapterStats();  // 保存详细统计
+            saveChapterStats();
         } else {
             localStorage.removeItem(getCompletionKey());
             localStorage.removeItem(getStatsKey());
@@ -581,22 +608,12 @@
         let total = 0, answered = 0, correct = 0, incorrect = 0;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
-            if (q.type === '3') continue; // 排序题不参与统计
+            if (q.type === '3') continue;
             total++;
             const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
             if (hasAnswer) answered++;
             if (fullAnswerStatus[i] && hasAnswer) {
-                const options = q.optionList || [];
-                const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
-                let isCorrect = false;
-                if (q.type === '1') {
-                    const selected = fullUserAnswers[i] || [];
-                    if (selected.length === correctIds.length && selected.sort().join() === correctIds.sort().join()) isCorrect = true;
-                } else {
-                    const selectedId = fullUserAnswers[i];
-                    if (selectedId && correctIds.length === 1 && correctIds[0] === selectedId) isCorrect = true;
-                }
-                if (isCorrect) correct++;
+                if (isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
                 else incorrect++;
             }
         }
@@ -665,6 +682,11 @@
                 if (isMulti) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
                 else if (isRadio && !isCorrectShown) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
                 if (isCorrectShown) {
+                    // 判断用户答案是否正确
+                    const isAnswerCorrect = isQuestionCorrect(q, userSel, true);
+                    const correctClass = "correct-answer";
+                    const userAnswerClass = isAnswerCorrect ? "your-answer-correct" : "your-answer-incorrect";
+                    
                     let correctText = options.filter(o=>o.isRight==="1").map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;}).join(' ;  ');
                     let userText = '';
                     if (isMulti) {
@@ -674,9 +696,11 @@
                         let selOpt = options.find(o=>o.id===selectedId);
                         userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===selectedId))}. ${unescapeHtml(selOpt.content)}` : '未选';
                     }
-                    html += `<div class="feedback"><div class="correct-answer">✅ 正确答案： ${correctText}</div>
-                             <div class="your-answer">📝 你的答案： ${userText}</div>
-                             <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div></div>`;
+                    html += `<div class="feedback">
+                                <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
+                                <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
+                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                            </div>`;
                 }
             }
             html += `</div></div>`;
