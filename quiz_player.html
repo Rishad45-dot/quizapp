@@ -450,10 +450,9 @@
             showToast(`📌 已添加到“仅练习收藏题目”列表`, 1500);
         }
         saveQuestionIds(saved);
-        // 如果当前仅显示收藏模式，需要重新渲染列表
         const onlySaved = document.getElementById('onlySavedCheckbox').checked;
         if (onlySaved) applyFilters();
-        else renderQuiz();  // 刷新星星状态
+        else renderQuiz();
     }
     function clearAllSaved() {
         saveQuestionIds([]);
@@ -467,6 +466,18 @@
     function getStorageKey() { return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getFullProgressKey() { return `full_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function getStatsKey() { return `quiz_stats_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    
+    // 保存章节统计数据（正确数，总题数，准确率）
+    function saveChapterStats() {
+        const stats = computeFullStatistics();
+        const chapterStats = {
+            correct: stats.correct,
+            total: stats.total,
+            accuracy: stats.rate
+        };
+        localStorage.setItem(getStatsKey(), JSON.stringify(chapterStats));
+    }
     
     function saveAllProgress() {
         if (!currentFilePath || !fullQuestions.length) return;
@@ -475,6 +486,7 @@
         const indices = currentQuestions.map(q => fullQuestions.indexOf(q));
         const viewData = { userAnswers: currentUserAnswers, answerStatus: currentAnswerStatus, currentQuestionsIndices: indices };
         localStorage.setItem(getStorageKey(), JSON.stringify(viewData));
+        
         let allCompleted = true;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
@@ -483,8 +495,13 @@
             const isChecked = fullAnswerStatus[i] === true;
             if (!hasAnswer || !isChecked) { allCompleted = false; break; }
         }
-        if (allCompleted && fullQuestions.length > 0) localStorage.setItem(getCompletionKey(), 'true');
-        else localStorage.removeItem(getCompletionKey());
+        if (allCompleted && fullQuestions.length > 0) {
+            localStorage.setItem(getCompletionKey(), 'true');
+            saveChapterStats();  // 保存详细统计
+        } else {
+            localStorage.removeItem(getCompletionKey());
+            localStorage.removeItem(getStatsKey());
+        }
         updateCompletionUI();
     }
     
@@ -543,16 +560,29 @@
     function updateCompletionUI() {
         const completed = localStorage.getItem(getCompletionKey()) === 'true';
         const badge = document.getElementById('completionBadge');
-        if (completed && fullQuestions.length > 0) badge.style.display = 'inline-flex';
-        else badge.style.display = 'none';
+        if (completed && fullQuestions.length > 0) {
+            const statsRaw = localStorage.getItem(getStatsKey());
+            if (statsRaw) {
+                try {
+                    const stats = JSON.parse(statsRaw);
+                    const acc = Math.round(stats.accuracy);
+                    badge.innerHTML = `🏆 ${acc}% 已完成`;
+                } catch(e) { badge.innerHTML = `🏆 本章已完成`; }
+            } else {
+                badge.innerHTML = `🏆 本章已完成`;
+            }
+            badge.style.display = 'inline-flex';
+        } else {
+            badge.style.display = 'none';
+        }
     }
     
     function computeFullStatistics() {
-        let total = fullQuestions.length;
-        let answered = 0, correct = 0, incorrect = 0;
+        let total = 0, answered = 0, correct = 0, incorrect = 0;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
-            if (q.type === '3') continue;
+            if (q.type === '3') continue; // 排序题不参与统计
+            total++;
             const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
             if (hasAnswer) answered++;
             if (fullAnswerStatus[i] && hasAnswer) {
@@ -571,7 +601,8 @@
             }
         }
         const unanswered = total - answered;
-        return { total, answered, correct, incorrect, unanswered, rate: total === 0 ? 0 : (correct/total)*100 };
+        const rate = total === 0 ? 0 : (correct/total)*100;
+        return { total, answered, correct, incorrect, unanswered, rate };
     }
     
     function updateStatsDisplay() {
@@ -652,7 +683,6 @@
         });
         container.innerHTML = html;
         
-        // 绑定收藏按钮事件
         document.querySelectorAll('.save-btn').forEach(btn => {
             const qid = btn.getAttribute('data-id');
             btn.addEventListener('click', (e) => {
@@ -661,7 +691,6 @@
             });
         });
         
-        // 绑定选项变更和核对按钮
         currentQuestions.forEach((q, idx) => {
             if (q.type === '3') return;
             const div = document.getElementById(`options-${idx}`);
@@ -747,6 +776,7 @@
         localStorage.removeItem(getFullProgressKey());
         localStorage.removeItem(getStorageKey());
         localStorage.removeItem(getCompletionKey());
+        localStorage.removeItem(getStatsKey());
         fullUserAnswers = new Array(fullQuestions.length).fill(null);
         fullAnswerStatus = new Array(fullQuestions.length).fill(false);
         for (let i=0; i<fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
