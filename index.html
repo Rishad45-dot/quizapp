@@ -1,3 +1,4 @@
+<!-- FILE: chapter_ui.html (updated with completion badge) -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,13 +46,24 @@
         .chapter-header:hover { background: #f9fafc; }
         .chapter-title { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
         .expand-icon { font-size: 18px; color: #8c9aa8; width: 24px; text-align: center; }
-        .chapter-name { font-weight: 500; font-size: 16px; }
+        .chapter-name { font-weight: 500; font-size: 16px; display: flex; align-items: center; gap: 8px; }
         .question-count {
             color: #5a6874;
             font-size: 13px;
             background: #f0f2f5;
             padding: 2px 10px;
             border-radius: 20px;
+        }
+        .completion-badge {
+            background: #2c7a4d;
+            color: white;
+            font-size: 11px;
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
         }
         .action-buttons { display: flex; gap: 12px; }
         .btn {
@@ -86,38 +98,39 @@
 <div class="container">
     <div class="header">
         <div class="logo">📚 RN/CGN 练习题库</div>
-        <div class="info">章节导航 • 点击展开/折叠</div>
+        <div class="info">章节导航 • 点击展开/折叠 • ✅ 已完成章节会显示徽章</div>
     </div>
     <div id="chapterTree">加载中...</div>
 </div>
 
 <script>
-    // Improved function to convert absolute Windows path to relative web path
+    // 将绝对路径转成相对路径（与 quiz_player 一致）
     function toRelativePath(absolutePath) {
-        // Known root folders that appear directly under the server root
         const knownFolders = ["Saunders", "Uworld", "医学术语", "患者需求"];
         for (const folder of knownFolders) {
             const idx = absolutePath.indexOf(folder);
             if (idx !== -1) {
-                // Extract from the known folder onwards
-                let rel = absolutePath.substring(idx);
-                // Replace backslashes with forward slashes for URL
-                rel = rel.replace(/\\/g, '/');
+                let rel = absolutePath.substring(idx).replace(/\\/g, '/');
                 return rel;
             }
         }
-        // Fallback: just return the file name (last segment)
         const parts = absolutePath.split(/[\\/]/);
         return parts[parts.length - 1];
     }
-
-    // Open quiz player with the relative JSON file path
+    
+    // 检查章节是否已完成（使用与 quiz_player 相同的 localStorage key）
+    function isChapterCompleted(absolutePath) {
+        const relativePath = toRelativePath(absolutePath);
+        const key = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
+        return localStorage.getItem(key) === 'true';
+    }
+    
     function openQuiz(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
         const quizUrl = `quiz_player.html?file=${encodeURIComponent(relativePath)}`;
         window.open(quizUrl, '_blank');
     }
-
+    
     function renderTree(rootNode) {
         const container = document.getElementById('chapterTree');
         container.innerHTML = '';
@@ -129,13 +142,12 @@
             sourceHeader.innerHTML = `<span style="font-size:18px; font-weight:600;">📂 ${sourceName}</span>`;
             sourceCard.appendChild(sourceHeader);
             for (const chapter of topChapters) {
-                const chapterDiv = createChapterElement(chapter, 1);
-                sourceCard.appendChild(chapterDiv);
+                sourceCard.appendChild(createChapterElement(chapter, 1));
             }
             container.appendChild(sourceCard);
         }
     }
-
+    
     function createChapterElement(node, depth) {
         const wrapper = document.createElement('div');
         wrapper.className = 'chapter-item';
@@ -144,7 +156,7 @@
         header.style.paddingLeft = `${24 + (depth-1)*20}px`;
         const hasChildren = node.children && node.children.length > 0;
         const isLeaf = node.isLeaf;
-
+        
         const leftDiv = document.createElement('div');
         leftDiv.className = 'chapter-title';
         const expandSpan = document.createElement('span');
@@ -170,46 +182,50 @@
             expandSpan.innerHTML = '•';
         }
         leftDiv.appendChild(expandSpan);
+        
         const nameSpan = document.createElement('span');
         nameSpan.className = 'chapter-name';
         nameSpan.innerText = node.name;
+        
+        // 添加完成标记（仅叶子节点且已完成）
+        if (isLeaf && node.filePath && isChapterCompleted(node.filePath)) {
+            const badgeSpan = document.createElement('span');
+            badgeSpan.className = 'completion-badge';
+            badgeSpan.innerHTML = '✅ 已完成';
+            nameSpan.appendChild(badgeSpan);
+        }
         leftDiv.appendChild(nameSpan);
+        
         const countSpan = document.createElement('span');
         countSpan.className = 'question-count';
         countSpan.innerText = `${node.questionNumber} 道题`;
         leftDiv.appendChild(countSpan);
-
+        
         const actions = document.createElement('div');
         actions.className = 'action-buttons';
         if (isLeaf && node.filePath) {
             const orderBtn = document.createElement('button');
             orderBtn.className = 'btn';
             orderBtn.innerText = '顺序刷题';
-            orderBtn.onclick = (e) => {
-                e.stopPropagation();
-                openQuiz(node.filePath);
-            };
+            orderBtn.onclick = (e) => { e.stopPropagation(); openQuiz(node.filePath); };
             const chapBtn = document.createElement('button');
             chapBtn.className = 'btn btn-primary';
             chapBtn.innerText = '章节练习';
-            chapBtn.onclick = (e) => {
-                e.stopPropagation();
-                openQuiz(node.filePath);
-            };
+            chapBtn.onclick = (e) => { e.stopPropagation(); openQuiz(node.filePath); };
             actions.appendChild(orderBtn);
             actions.appendChild(chapBtn);
-        } else if (!isLeaf) {
+        } else {
             const dummy = document.createElement('span');
             dummy.style.fontSize = '12px';
             dummy.style.color = '#8c9aa8';
             dummy.innerText = '展开查看内容';
             actions.appendChild(dummy);
         }
-
+        
         header.appendChild(leftDiv);
         header.appendChild(actions);
         wrapper.appendChild(header);
-
+        
         if (hasChildren) {
             const childrenDiv = document.createElement('div');
             childrenDiv.className = 'children';
@@ -220,8 +236,8 @@
         }
         return wrapper;
     }
-
-    // Load chapters_tree.json from the server
+    
+    // 加载 chapters_tree.json
     fetch('chapters_tree.json')
         .then(response => {
             if (!response.ok) throw new Error('File not found');
