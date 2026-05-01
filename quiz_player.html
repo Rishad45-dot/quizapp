@@ -1,3 +1,4 @@
+<!-- FILE: quiz_player.html (updated with auto completion badge & full progress tracking) -->
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -17,7 +18,6 @@
             margin: 0 auto;
             padding: 0 12px 20px 12px;
         }
-        /* Sticky header */
         .header {
             position: sticky;
             top: 0;
@@ -91,6 +91,18 @@
         .stat-answered { color: #2c6e9e; background: #e8f0fe; }
         .stat-unanswered { color: #8c9aa8; background: #f0f2f5; }
         .stat-rate { font-weight: 700; color: #2c7a4d; background: #eaf9e8; }
+        .completion-badge {
+            background: #2c7a4d;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            white-space: nowrap;
+        }
         .settings-toggle {
             background: #f0f2f5;
             border: none;
@@ -114,9 +126,7 @@
             align-items: flex-end;
             scroll-margin-top: 80px;
         }
-        .settings-panel.open {
-            display: flex;
-        }
+        .settings-panel.open { display: flex; }
         .setting-group {
             display: flex;
             flex-direction: column;
@@ -170,9 +180,7 @@
             white-space: nowrap;
             box-shadow: 0 2px 8px rgba(0,0,0,0.2);
         }
-        .toast.show {
-            opacity: 1;
-        }
+        .toast.show { opacity: 1; }
         .question-grid { display: flex; flex-direction: column; gap: 20px; }
         .card {
             background: white;
@@ -300,14 +308,11 @@
         <div class="header-inner">
             <div class="title-section">
                 <div>
-                    <div class="chapter-title" id="chapterTitle">
-                        加载中...
-                        <span class="source-badge" id="sourceBadge"></span>
-                    </div>
+                    <div class="chapter-title" id="chapterTitle">加载中...<span class="source-badge" id="sourceBadge"></span></div>
                     <div class="subtitle" id="subtitle"></div>
                 </div>
             </div>
-            <!-- 统计摘要区（中文直观统计） -->
+            <!-- 统计摘要区 + 完成度徽章 -->
             <div class="stats-summary" id="statsSummary">
                 <div class="stats-numbers">
                     <span>📋 总题数: <strong id="totalCount">0</strong></span>
@@ -316,7 +321,10 @@
                     <span class="stat-incorrect">❌ 错误: <strong id="incorrectCount">0</strong></span>
                     <span class="stat-unanswered">⏳ 未答: <strong id="unansweredCount">0</strong></span>
                 </div>
-                <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
+                <div style="display: flex; align-items: center; gap: 12px;">
+                    <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
+                    <div id="completionBadge" class="completion-badge" style="display: none;">🏆 本章已完成</div>
+                </div>
             </div>
             <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
         </div>
@@ -346,12 +354,8 @@
         </div>
     </div>
 
-    <div id="quizContainer" class="question-grid">
-        <div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">
-            ⏳ 正在加载，请稍候...
-        </div>
-    </div>
-    <footer>✨ <strong>单选</strong>题目：点击选项后<strong>立即显示答案+解析</strong>，并计入正确/错误统计；<strong>多选题</strong>需点击「核对答案」后计入统计。<br>📊 统计面板显示实时正确率与答题明细。</footer>
+    <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
+    <footer>✨ <strong>单选</strong>题目：点击选项后<strong>立即显示答案+解析</strong>；<strong>多选题</strong>需点击「核对答案」。<br>🏆 当所有题目均已回答并核对后，自动显示“本章已完成”徽章，并同步到章节导航页。</footer>
 </div>
 <div id="toastMessage" class="toast"></div>
 
@@ -362,196 +366,205 @@
         div.innerHTML = html;
         return div.textContent || div.innerText || '';
     }
-
     function showToast(message, duration = 2000) {
         const toast = document.getElementById('toastMessage');
         toast.textContent = message;
         toast.classList.add('show');
-        setTimeout(() => {
-            toast.classList.remove('show');
-        }, duration);
+        setTimeout(() => toast.classList.remove('show'), duration);
     }
-
     function parseJsonContent(jsonObj) {
         try {
-            let studentArray = null;
-            if (jsonObj.data && jsonObj.data.record && jsonObj.data.record.extJson && jsonObj.data.record.extJson.studentQuestionArray) {
-                studentArray = jsonObj.data.record.extJson.studentQuestionArray;
-            } else if (jsonObj.record && jsonObj.record.extJson && jsonObj.record.extJson.studentQuestionArray) {
-                studentArray = jsonObj.record.extJson.studentQuestionArray;
-            } else if (jsonObj.extJson && jsonObj.extJson.studentQuestionArray) {
-                studentArray = jsonObj.extJson.studentQuestionArray;
-            } else if (jsonObj.studentQuestionArray) {
-                studentArray = jsonObj.studentQuestionArray;
-            }
-            return studentArray;
-        } catch(e) {
-            console.error(e);
-            return null;
-        }
+            let arr = null;
+            if (jsonObj.data?.record?.extJson?.studentQuestionArray) arr = jsonObj.data.record.extJson.studentQuestionArray;
+            else if (jsonObj.record?.extJson?.studentQuestionArray) arr = jsonObj.record.extJson.studentQuestionArray;
+            else if (jsonObj.extJson?.studentQuestionArray) arr = jsonObj.extJson.studentQuestionArray;
+            else if (jsonObj.studentQuestionArray) arr = jsonObj.studentQuestionArray;
+            return arr;
+        } catch(e) { return null; }
     }
-
-    function getSourceFromPath(filePath) {
-        const known = ["Saunders", "Uworld", "医学术语", "患者需求"];
-        for (const src of known) {
-            if (filePath.includes(src)) return src;
-        }
+    function getSourceFromPath(p) {
+        for (const src of ["Saunders","Uworld","医学术语","患者需求"]) if (p.includes(src)) return src;
         return "";
     }
-
-    function getDifficultyLabel(diffStr) {
-        if (!diffStr) return "通用";
-        if (diffStr.includes("Analyzing")) return "分析 (Analyzing)";
-        if (diffStr.includes("Applying")) return "应用 (Applying)";
-        if (diffStr.includes("Understanding")) return "理解 (Understanding)";
-        if (diffStr.includes("Evaluating")) return "评价 (Evaluating)";
-        if (diffStr.includes("中级")) return "中级";
-        return diffStr.split('-').pop() || diffStr;
+    function getDifficultyLabel(d) {
+        if (!d) return "通用";
+        if (d.includes("Analyzing")) return "分析 (Analyzing)";
+        if (d.includes("Applying")) return "应用 (Applying)";
+        if (d.includes("Understanding")) return "理解 (Understanding)";
+        if (d.includes("Evaluating")) return "评价 (Evaluating)";
+        if (d.includes("中级")) return "中级";
+        return d.split('-').pop() || d;
     }
 
-    let fullQuestions = [];
-    let currentQuestions = [];
-    let userAnswers = [];      // 存储用户选择的选项id (单选存string，多选存array)
-    let answerStatus = [];     // 是否已经核对/判定 (用于显示解析及计入正确/错误统计)
+    let fullQuestions = [];           // 全部原始题目
+    let currentQuestions = [];        // 经过筛选/随机后的题目
+    
+    // 全局完整进度（针对 fullQuestions）
+    let fullUserAnswers = [];          // 与 fullQuestions 等长
+    let fullAnswerStatus = [];         // 与 fullQuestions 等长
+    
+    // 当前视图进度（指向 full 的索引映射）
+    let currentUserAnswers = [];       // 对应 currentQuestions 的答案
+    let currentAnswerStatus = [];      // 对应 currentQuestions 的核对状态
+    
     let currentFilePath = "";
-
-    // 判断某个题目的答案是否正确 (基于已核对状态和用户选择)
-    function isQuestionCorrect(q, idx) {
-        if (!answerStatus[idx]) return false;   // 尚未核对/判定，不计入正确/错误
-        const type = q.type;
-        const options = q.optionList || [];
-        const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
-        if (type === '3') {
-            // 排序题目前无用户交互，默认不计入统计，返回false
-            return false;
-        } else if (type === '1') {
-            // 多选题：用户选择数组是否与正确选项id集合完全一致（无序，忽略顺序）
-            const selected = userAnswers[idx] || [];
-            if (!Array.isArray(selected)) return false;
-            if (selected.length !== correctIds.length) return false;
-            const sortedSelected = [...selected].sort();
-            const sortedCorrect = [...correctIds].sort();
-            return JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
-        } else {
-            // 单选题 (type !== '1' && !=='3')
-            const selectedId = userAnswers[idx];
-            if (!selectedId) return false;
-            return correctIds.length === 1 && correctIds[0] === selectedId;
-        }
-    }
-
-    // 计算完整统计 (总数, 已答, 正确, 错误, 未答)
-    function computeStatistics() {
-        let total = currentQuestions.length;
-        let answered = 0;      // 有选择内容 (单选有值，多选length>0)
-        let correct = 0;
-        let incorrect = 0;
-        let unanswered = 0;
-        for (let i = 0; i < currentQuestions.length; i++) {
-            const q = currentQuestions[i];
-            const type = q.type;
-            let hasSelection = false;
-            if (type === '3') {
-                // 排序题忽略不计入统计（不参与正确率）
-                continue;
-            } else if (type === '1') {
-                const sel = userAnswers[i];
-                hasSelection = (sel && Array.isArray(sel) && sel.length > 0);
-            } else {
-                const sel = userAnswers[i];
-                hasSelection = (sel != null && sel !== '');
-            }
-            if (hasSelection) answered++;
-            // 只有已核对/判定的题目才计入正确/错误统计
-            if (answerStatus[i] && hasSelection) {
-                if (isQuestionCorrect(q, i)) {
-                    correct++;
-                } else {
-                    incorrect++;
-                }
-            } else if (!hasSelection) {
-                unanswered++;
-            }
-        }
-        // 未答数量 = 总数 - 已答数量
-        unanswered = total - answered;
-        return { total, answered, correct, incorrect, unanswered };
-    }
-
-    // 更新UI统计 (进度条已移除，只更新简要统计)
-    function updateStatsAndProgress() {
-        if (!currentQuestions.length) {
-            document.getElementById('totalCount').innerText = '0';
-            document.getElementById('answeredCount').innerText = '0';
-            document.getElementById('correctCount').innerText = '0';
-            document.getElementById('incorrectCount').innerText = '0';
-            document.getElementById('unansweredCount').innerText = '0';
-            document.getElementById('correctRate').innerText = '0%';
-            return;
-        }
-        const stats = computeStatistics();
-        const total = stats.total;
-        const correct = stats.correct;
-        const rate = total === 0 ? 0 : (correct / total) * 100;
-        document.getElementById('totalCount').innerText = total;
-        document.getElementById('answeredCount').innerText = stats.answered;
-        document.getElementById('correctCount').innerText = correct;
-        document.getElementById('incorrectCount').innerText = stats.incorrect;
-        document.getElementById('unansweredCount').innerText = stats.unanswered;
-        document.getElementById('correctRate').innerHTML = `${Math.round(rate)}%`;
-    }
-
-    function saveProgress() {
-        if (!currentFilePath || !currentQuestions.length) return;
+    
+    function getStorageKey() { return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function getFullProgressKey() { return `full_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    
+    // 保存完整进度 + 当前视图进度（视图进度单独保存，用于筛选后恢复）
+    function saveAllProgress() {
+        if (!currentFilePath || !fullQuestions.length) return;
+        // 保存完整进度
+        const fullData = {
+            fullUserAnswers: fullUserAnswers,
+            fullAnswerStatus: fullAnswerStatus
+        };
+        localStorage.setItem(getFullProgressKey(), JSON.stringify(fullData));
+        
+        // 保存当前视图进度 (用于快速恢复筛选状态)
         const indices = currentQuestions.map(q => fullQuestions.indexOf(q));
-        const data = {
-            userAnswers: userAnswers,
-            answerStatus: answerStatus,
+        const viewData = {
+            userAnswers: currentUserAnswers,
+            answerStatus: currentAnswerStatus,
             currentQuestionsIndices: indices
         };
-        localStorage.setItem(getStorageKey(), JSON.stringify(data));
+        localStorage.setItem(getStorageKey(), JSON.stringify(viewData));
+        
+        // 检查全章节完成状态并存储标记
+        let allCompleted = true;
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            if (q.type === '3') continue; // 排序题暂不计入
+            const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
+            const isChecked = fullAnswerStatus[i] === true;
+            if (!hasAnswer || !isChecked) { allCompleted = false; break; }
+        }
+        if (allCompleted && fullQuestions.length > 0) {
+            localStorage.setItem(getCompletionKey(), 'true');
+        } else {
+            localStorage.removeItem(getCompletionKey());
+        }
+        updateCompletionUI();
     }
-
-    function getStorageKey() {
-        return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`;
-    }
-
-    function loadProgress() {
-        const saved = localStorage.getItem(getStorageKey());
-        if (!saved) return false;
-        try {
-            const data = JSON.parse(saved);
-            const savedIndices = data.currentQuestionsIndices;
-            if (savedIndices && savedIndices.length === currentQuestions.length) {
-                let valid = true;
-                for (let i = 0; i < savedIndices.length; i++) {
-                    if (fullQuestions[savedIndices[i]] !== currentQuestions[i]) {
-                        valid = false;
-                        break;
-                    }
-                }
-                if (valid) {
-                    userAnswers = data.userAnswers;
-                    answerStatus = data.answerStatus;
-                    while (userAnswers.length < currentQuestions.length) userAnswers.push(null);
-                    while (answerStatus.length < currentQuestions.length) answerStatus.push(false);
-                    for (let i = 0; i < currentQuestions.length; i++) {
-                        if (currentQuestions[i].type === '1' && (!userAnswers[i] || !Array.isArray(userAnswers[i]))) {
-                            userAnswers[i] = [];
+    
+    function loadFullProgress() {
+        const savedFull = localStorage.getItem(getFullProgressKey());
+        if (savedFull) {
+            try {
+                const data = JSON.parse(savedFull);
+                if (data.fullUserAnswers && data.fullUserAnswers.length === fullQuestions.length) {
+                    fullUserAnswers = data.fullUserAnswers;
+                    fullAnswerStatus = data.fullAnswerStatus;
+                    for (let i = 0; i < fullQuestions.length; i++) {
+                        if (fullQuestions[i].type === '1' && (!fullUserAnswers[i] || !Array.isArray(fullUserAnswers[i]))) {
+                            fullUserAnswers[i] = [];
                         }
                     }
                     return true;
                 }
-            }
-        } catch(e) {}
+            } catch(e) {}
+        }
+        // 初始化
+        fullUserAnswers = new Array(fullQuestions.length).fill(null);
+        fullAnswerStatus = new Array(fullQuestions.length).fill(false);
+        for (let i = 0; i < fullQuestions.length; i++) {
+            if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+        }
         return false;
     }
-
+    
+    // 根据当前筛选列表，从完整进度中映射到当前视图
+    function syncCurrentFromFull() {
+        currentUserAnswers = new Array(currentQuestions.length).fill(null);
+        currentAnswerStatus = new Array(currentQuestions.length).fill(false);
+        for (let i = 0; i < currentQuestions.length; i++) {
+            const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
+            if (idxInFull !== -1) {
+                let ans = fullUserAnswers[idxInFull];
+                if (currentQuestions[i].type === '1') {
+                    if (!ans || !Array.isArray(ans)) ans = [];
+                    currentUserAnswers[i] = [...ans];
+                } else {
+                    currentUserAnswers[i] = ans;
+                }
+                currentAnswerStatus[i] = fullAnswerStatus[idxInFull] || false;
+            } else {
+                if (currentQuestions[i].type === '1') currentUserAnswers[i] = [];
+                else currentUserAnswers[i] = null;
+                currentAnswerStatus[i] = false;
+            }
+        }
+    }
+    
+    // 将当前视图的改动同步回完整进度
+    function syncFullFromCurrent() {
+        for (let i = 0; i < currentQuestions.length; i++) {
+            const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
+            if (idxInFull !== -1) {
+                fullUserAnswers[idxInFull] = (currentQuestions[i].type === '1') ? [...(currentUserAnswers[i] || [])] : currentUserAnswers[i];
+                fullAnswerStatus[idxInFull] = currentAnswerStatus[i];
+            }
+        }
+        saveAllProgress();
+    }
+    
+    function updateCompletionUI() {
+        const completed = localStorage.getItem(getCompletionKey()) === 'true';
+        const badge = document.getElementById('completionBadge');
+        if (completed && fullQuestions.length > 0) {
+            badge.style.display = 'inline-flex';
+        } else {
+            badge.style.display = 'none';
+        }
+    }
+    
+    // 统计基于完整进度 (用于显示总正确率等)
+    function computeFullStatistics() {
+        let total = fullQuestions.length;
+        let answered = 0, correct = 0, incorrect = 0;
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            if (q.type === '3') continue;
+            const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
+            if (hasAnswer) answered++;
+            if (fullAnswerStatus[i] && hasAnswer) {
+                // 判断正误
+                const options = q.optionList || [];
+                const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
+                let isCorrect = false;
+                if (q.type === '1') {
+                    const selected = fullUserAnswers[i] || [];
+                    if (selected.length === correctIds.length && selected.sort().join() === correctIds.sort().join()) isCorrect = true;
+                } else {
+                    const selectedId = fullUserAnswers[i];
+                    if (selectedId && correctIds.length === 1 && correctIds[0] === selectedId) isCorrect = true;
+                }
+                if (isCorrect) correct++;
+                else incorrect++;
+            }
+        }
+        const unanswered = total - answered;
+        return { total, answered, correct, incorrect, unanswered, rate: total === 0 ? 0 : (correct/total)*100 };
+    }
+    
+    function updateStatsDisplay() {
+        const stats = computeFullStatistics();
+        document.getElementById('totalCount').innerText = stats.total;
+        document.getElementById('answeredCount').innerText = stats.answered;
+        document.getElementById('correctCount').innerText = stats.correct;
+        document.getElementById('incorrectCount').innerText = stats.incorrect;
+        document.getElementById('unansweredCount').innerText = stats.unanswered;
+        document.getElementById('correctRate').innerHTML = `${Math.round(stats.rate)}%`;
+    }
+    
     function renderQuiz() {
         const container = document.getElementById('quizContainer');
         if (!currentQuestions.length) {
             container.innerHTML = '<div class="error-box">⚠️ 没有题目。请检查筛选条件。</div>';
-            updateStatsAndProgress();
+            updateStatsDisplay();
+            updateCompletionUI();
             return;
         }
         let html = '';
@@ -560,158 +573,108 @@
             const options = q.optionList || [];
             const isMulti = (qType === '1');
             const isRadio = (!isMulti && qType !== '3');
-            const userSel = userAnswers[idx] || (isMulti ? [] : null);
+            const userSel = currentUserAnswers[idx] || (isMulti ? [] : null);
             const statusClass = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? 'answered' : '';
             const statusText = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? '已回答' : '未答';
-            const isCorrectShown = answerStatus[idx] || false;
+            const isCorrectShown = currentAnswerStatus[idx] || false;
             let selectedId = (!isMulti && userSel) ? userSel : null;
             let selectedIds = (isMulti && Array.isArray(userSel)) ? userSel : [];
             const difficultyLabel = getDifficultyLabel(q.difficulty);
-
-            html += `<div class="card" data-qidx="${idx}">`;
-            html += `<div class="question-header">
+            html += `<div class="card" data-qidx="${idx}"><div class="question-header">
                         <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '排序题' : '单选题')}</span>
                         <span class="difficulty-badge">📊 ${difficultyLabel}</span>
                         <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
                         <span class="status ${statusClass}">${statusText}</span>
-                     </div>`;
-            html += `<div class="options" id="options-${idx}">`;
-            
+                     </div><div class="options" id="options-${idx}">`;
             if (qType === '3') {
-                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;">
-                            <strong>📌 排序题：</strong> 下面列出原有顺序，可参考解析。<br/><ul>`;
-                options.forEach((opt, optIdx) => {
-                    html += `<li>${optIdx+1}. ${unescapeHtml(opt.content)}</li>`;
-                });
+                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;"><strong>📌 排序题：</strong> 下面列出原有顺序，可参考解析。<br/><ul>`;
+                options.forEach((opt, i) => html += `<li>${i+1}. ${unescapeHtml(opt.content)}</li>`);
                 html += `</ul></div>`;
                 if (isCorrectShown) {
-                    let correctOrder = [...options].sort((a,b)=> parseInt(a.isRight) - parseInt(b.isRight)).map(o=>o.content).join(' → ');
+                    let correctOrder = [...options].sort((a,b)=> parseInt(a.isRight)-parseInt(b.isRight)).map(o=>o.content).join(' → ');
                     html += `<div class="analysis"><strong>正确顺序：</strong> ${correctOrder}<br/><strong>解析：</strong> ${unescapeHtml(q.textAnalysis || '无解析')}</div>`;
                 }
             } else {
-                // 单选/多选选项
                 options.forEach((opt, optIdx) => {
-                    const letter = String.fromCharCode(65 + optIdx);
-                    const isChecked = (isMulti ? selectedIds.includes(opt.id) : selectedId === opt.id);
+                    const letter = String.fromCharCode(65+optIdx);
+                    const isChecked = isMulti ? selectedIds.includes(opt.id) : (selectedId === opt.id);
                     const inputType = isMulti ? 'checkbox' : 'radio';
-                    const inputName = `q${idx}`;
-                    html += `<div class="option" data-opt-id="${opt.id}">
-                                <span class="prefix">${letter}.</span>
-                                <input type="${inputType}" name="${inputName}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
-                                <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label>
-                             </div>`;
+                    html += `<div class="option"><span class="prefix">${letter}.</span>
+                             <input type="${inputType}" name="q${idx}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
+                             <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label></div>`;
                 });
-                
-                // 显示核对按钮：多选题永远显示；单选题仅在未显示解析时显示（立即反馈后按钮隐藏）
-                if (isMulti) {
-                    html += `<div style="margin-top: 12px; text-align: right;">
-                                <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>
-                             </div>`;
-                } else if (isRadio && !isCorrectShown) {
-                    html += `<div style="margin-top: 12px; text-align: right;">
-                                <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>
-                             </div>`;
-                }
-                
+                if (isMulti) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
+                else if (isRadio && !isCorrectShown) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
                 if (isCorrectShown) {
-                    let correctAnswersText = options.filter(opt => opt.isRight === "1").map(opt => {
-                        let letterOpt = String.fromCharCode(65 + options.findIndex(o=>o.id===opt.id));
-                        return `${letterOpt}. ${unescapeHtml(opt.content)}`;
-                    }).join(' ;  ');
-                    let userAnswersText = '';
+                    let correctText = options.filter(o=>o.isRight==="1").map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;}).join(' ;  ');
+                    let userText = '';
                     if (isMulti) {
-                        let selectedOpts = options.filter(opt => selectedIds.includes(opt.id)).map(opt => {
-                            let letterOpt = String.fromCharCode(65 + options.findIndex(o=>o.id===opt.id));
-                            return `${letterOpt}. ${unescapeHtml(opt.content)}`;
-                        });
-                        userAnswersText = selectedOpts.length ? selectedOpts.join(' ; ') : '未选任何选项';
+                        let selOpts = options.filter(o=>selectedIds.includes(o.id)).map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;});
+                        userText = selOpts.length ? selOpts.join(' ; ') : '未选任何选项';
                     } else {
-                        let selectedOpt = options.find(opt => opt.id === selectedId);
-                        userAnswersText = selectedOpt ? `${String.fromCharCode(65 + options.findIndex(o=>o.id===selectedId))}. ${unescapeHtml(selectedOpt.content)}` : '未选';
+                        let selOpt = options.find(o=>o.id===selectedId);
+                        userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===selectedId))}. ${unescapeHtml(selOpt.content)}` : '未选';
                     }
-                    html += `<div class="feedback">
-                                <div class="correct-answer">✅ 正确答案： ${correctAnswersText}</div>
-                                <div class="your-answer">📝 你的答案： ${userAnswersText}</div>
-                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
-                            </div>`;
+                    html += `<div class="feedback"><div class="correct-answer">✅ 正确答案： ${correctText}</div>
+                             <div class="your-answer">📝 你的答案： ${userText}</div>
+                             <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div></div>`;
                 }
             }
             html += `</div></div>`;
         });
         container.innerHTML = html;
-
-        // 绑定事件
+        
+        // 事件绑定
         currentQuestions.forEach((q, idx) => {
             if (q.type === '3') return;
-            const optionsDiv = document.getElementById(`options-${idx}`);
-            if (!optionsDiv) return;
-            const inputs = optionsDiv.querySelectorAll('input');
+            const div = document.getElementById(`options-${idx}`);
+            if (!div) return;
+            const inputs = div.querySelectorAll('input');
             const isMulti = (q.type === '1');
             const isRadio = (!isMulti && q.type !== '3');
-            
-            inputs.forEach(input => {
-                input.addEventListener('change', () => {
+            inputs.forEach(inp => {
+                inp.addEventListener('change', () => {
                     if (isMulti) {
-                        let current = userAnswers[idx] || [];
-                        const val = input.value;
-                        if (input.checked) {
-                            if (!current.includes(val)) current.push(val);
-                        } else {
-                            current = current.filter(v => v !== val);
-                        }
-                        userAnswers[idx] = current;
-                        // 多选改动后清除核对状态，隐藏解析
-                        if (answerStatus[idx]) {
-                            answerStatus[idx] = false;
-                        }
+                        let cur = currentUserAnswers[idx] || [];
+                        if (inp.checked) { if (!cur.includes(inp.value)) cur.push(inp.value); }
+                        else { cur = cur.filter(v=>v!==inp.value); }
+                        currentUserAnswers[idx] = cur;
+                        if (currentAnswerStatus[idx]) currentAnswerStatus[idx] = false;
                         const statusSpan = document.querySelector(`.card[data-qidx="${idx}"] .status`);
                         if (statusSpan) {
-                            const hasAnswer = (userAnswers[idx]?.length > 0);
-                            statusSpan.innerText = hasAnswer ? '已回答' : '未答';
-                            if (hasAnswer) statusSpan.classList.add('answered');
-                            else statusSpan.classList.remove('answered');
+                            const has = (currentUserAnswers[idx]?.length > 0);
+                            statusSpan.innerText = has ? '已回答' : '未答';
+                            if (has) statusSpan.classList.add('answered'); else statusSpan.classList.remove('answered');
                         }
-                        updateStatsAndProgress();
-                        saveProgress();
-                        renderQuiz();   // 重新渲染以移除反馈区域
-                    } 
-                    else if (isRadio) {
-                        if (input.checked) {
-                            userAnswers[idx] = input.value;
-                        }
-                        // 单选立即核对（自动显示解析，计入统计）
-                        answerStatus[idx] = true;
-                        updateStatsAndProgress();
-                        saveProgress();
-                        renderQuiz();   // 立即刷新显示解析
+                        syncFullFromCurrent();
+                        renderQuiz();
+                    } else if (isRadio && inp.checked) {
+                        currentUserAnswers[idx] = inp.value;
+                        currentAnswerStatus[idx] = true;
+                        syncFullFromCurrent();
+                        renderQuiz();
                     }
                 });
             });
-            
-            const checkBtn = document.querySelector(`.btn-check[data-idx="${idx}"]`);
-            if (checkBtn) {
-                checkBtn.addEventListener('click', () => {
-                    if (!answerStatus[idx]) {
-                        answerStatus[idx] = true;
-                        updateStatsAndProgress();
-                        saveProgress();
+            const btn = document.querySelector(`.btn-check[data-idx="${idx}"]`);
+            if (btn) {
+                btn.addEventListener('click', () => {
+                    if (!currentAnswerStatus[idx]) {
+                        currentAnswerStatus[idx] = true;
+                        syncFullFromCurrent();
                         renderQuiz();
-                    } else {
-                        // 若已核对，轻提示但不影响
-                        if (isMulti) {
-                            // 多选重新核对更新统计（基于当前选项重算正确性）
-                            updateStatsAndProgress();
-                            saveProgress();
-                            renderQuiz();
-                        }
+                    } else if (isMulti) {
+                        syncFullFromCurrent();
+                        renderQuiz();
                     }
                 });
             }
         });
-        updateStatsAndProgress();
-        saveProgress();
+        updateStatsDisplay();
+        updateCompletionUI();
+        saveAllProgress();
     }
-
+    
     function applyFilters() {
         if (!fullQuestions.length) return;
         let filtered = [...fullQuestions];
@@ -721,101 +684,65 @@
             if (filtered.length > limit) filtered = filtered.slice(0, limit);
         }
         if (document.getElementById('randomizeCheckbox').checked) {
-            for (let i = filtered.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
+            for (let i=filtered.length-1; i>0; i--) {
+                const j = Math.floor(Math.random()*(i+1));
                 [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
             }
         }
         currentQuestions = filtered;
-        userAnswers = new Array(currentQuestions.length).fill(null);
-        answerStatus = new Array(currentQuestions.length).fill(false);
-        for (let i = 0; i < currentQuestions.length; i++) {
-            if (currentQuestions[i].type === '1') userAnswers[i] = [];
-        }
-        // 尝试加载匹配的进度
-        const saved = localStorage.getItem(getStorageKey());
-        if (saved) {
-            try {
-                const data = JSON.parse(saved);
-                if (data.currentQuestionsIndices && data.currentQuestionsIndices.length === currentQuestions.length) {
-                    let match = true;
-                    for (let i = 0; i < currentQuestions.length; i++) {
-                        if (fullQuestions[data.currentQuestionsIndices[i]] !== currentQuestions[i]) {
-                            match = false;
-                            break;
-                        }
-                    }
-                    if (match) {
-                        userAnswers = data.userAnswers;
-                        answerStatus = data.answerStatus;
-                        for (let i = 0; i < currentQuestions.length; i++) {
-                            if (currentQuestions[i].type === '1' && (!userAnswers[i] || !Array.isArray(userAnswers[i]))) {
-                                userAnswers[i] = [];
-                            }
-                        }
-                    }
-                }
-            } catch(e) {}
-        }
+        syncCurrentFromFull();   // 从完整进度映射
         renderQuiz();
         document.getElementById('settingsPanel').classList.remove('open');
-        showToast('✅ 筛选已应用，统计已更新');
+        showToast('✅ 筛选已应用，统计基于全部题目');
     }
-
+    
     function resetProgress() {
-        if (!currentQuestions.length) return;
+        if (!fullQuestions.length) return;
+        localStorage.removeItem(getFullProgressKey());
         localStorage.removeItem(getStorageKey());
-        userAnswers = new Array(currentQuestions.length).fill(null);
-        answerStatus = new Array(currentQuestions.length).fill(false);
-        for (let i = 0; i < currentQuestions.length; i++) {
-            if (currentQuestions[i].type === '1') userAnswers[i] = [];
-        }
+        localStorage.removeItem(getCompletionKey());
+        fullUserAnswers = new Array(fullQuestions.length).fill(null);
+        fullAnswerStatus = new Array(fullQuestions.length).fill(false);
+        for (let i=0; i<fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+        syncCurrentFromFull();
         renderQuiz();
         document.getElementById('settingsPanel').classList.remove('open');
-        showToast('🔄 进度已重置，统计归零');
+        showToast('🔄 进度已重置，完成标记已清除');
     }
-
+    
     // 主加载
     const urlParams = new URLSearchParams(window.location.search);
     const fileParam = urlParams.get('file');
     if (!fileParam) {
-        document.getElementById('quizContainer').innerHTML = '<div class="error-box">❌ 未提供文件参数。请通过 ?file=相对路径 打开此页面。</div>';
+        document.getElementById('quizContainer').innerHTML = '<div class="error-box">❌ 未提供文件参数。</div>';
         document.getElementById('chapterTitle').innerText = '错误';
     } else {
         currentFilePath = decodeURIComponent(fileParam);
         fetch(currentFilePath)
-            .then(response => {
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
-                return response.json();
-            })
+            .then(res => res.json())
             .then(data => {
-                const questions = parseJsonContent(data);
-                if (!questions || questions.length === 0) throw new Error('没有题目');
-                fullQuestions = questions;
+                const qs = parseJsonContent(data);
+                if (!qs || !qs.length) throw new Error('无题目');
+                fullQuestions = qs;
+                loadFullProgress();
+                syncCurrentFromFull();
                 applyFilters();
-                const displayName = currentFilePath.replace(/\.json$/i, '').split('/').pop();
-                const source = getSourceFromPath(currentFilePath);
-                document.getElementById('chapterTitle').innerHTML = `${displayName} <span class="source-badge">${source}</span>`;
-                let sub = data.parentCategory || (data.originalData?.parentCategory) || (data.data?.chapterName) || '';
+                const displayName = currentFilePath.replace(/\.json$/i,'').split('/').pop();
+                const src = getSourceFromPath(currentFilePath);
+                document.getElementById('chapterTitle').innerHTML = `${displayName} <span class="source-badge">${src}</span>`;
+                let sub = data.parentCategory || data.originalData?.parentCategory || data.data?.chapterName || '';
                 document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
             })
             .catch(err => {
-                console.error(err);
-                document.getElementById('quizContainer').innerHTML = `<div class="error-box"><strong>❌ 加载失败</strong><br>文件: ${currentFilePath}<br>错误: ${err.message}</div>`;
-                document.getElementById('chapterTitle').innerHTML = `加载失败 <span class="source-badge"></span>`;
+                document.getElementById('quizContainer').innerHTML = `<div class="error-box">❌ 加载失败: ${err.message}</div>`;
+                document.getElementById('chapterTitle').innerHTML = `加载失败`;
             });
     }
-
-    // UI 事件
-    document.getElementById('settingsToggle').addEventListener('click', () => {
+    
+    document.getElementById('settingsToggle').addEventListener('click', ()=>{
         const panel = document.getElementById('settingsPanel');
-        const isOpen = panel.classList.contains('open');
-        if (!isOpen) {
-            panel.classList.add('open');
-            setTimeout(() => panel.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
-        } else {
-            panel.classList.remove('open');
-        }
+        if (panel.classList.contains('open')) panel.classList.remove('open');
+        else { panel.classList.add('open'); setTimeout(()=>panel.scrollIntoView({behavior:'smooth',block:'start'}),50); }
     });
     document.getElementById('applySettingsBtn').addEventListener('click', applyFilters);
     document.getElementById('resetProgressBtn').addEventListener('click', resetProgress);
