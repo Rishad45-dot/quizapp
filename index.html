@@ -1,4 +1,3 @@
-<!-- FILE: chapter_ui.html (updated with completion badge) -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +45,7 @@
         .chapter-header:hover { background: #f9fafc; }
         .chapter-title { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
         .expand-icon { font-size: 18px; color: #8c9aa8; width: 24px; text-align: center; }
-        .chapter-name { font-weight: 500; font-size: 16px; display: flex; align-items: center; gap: 8px; }
+        .chapter-name { font-weight: 500; font-size: 16px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
         .question-count {
             color: #5a6874;
             font-size: 13px;
@@ -57,13 +56,13 @@
         .completion-badge {
             background: #2c7a4d;
             color: white;
-            font-size: 11px;
-            padding: 2px 8px;
+            font-size: 12px;
+            padding: 3px 10px;
             border-radius: 20px;
             font-weight: 500;
             display: inline-flex;
             align-items: center;
-            gap: 4px;
+            gap: 5px;
         }
         .action-buttons { display: flex; gap: 12px; }
         .btn {
@@ -98,7 +97,7 @@
 <div class="container">
     <div class="header">
         <div class="logo">📚 RN/CGN 练习题库</div>
-        <div class="info">章节导航 • 点击展开/折叠 • ✅ 已完成章节会显示徽章</div>
+        <div class="info">章节导航 • 点击展开/折叠 • ✅ 已完成章节显示正确数/总数</div>
     </div>
     <div id="chapterTree">加载中...</div>
 </div>
@@ -118,11 +117,22 @@
         return parts[parts.length - 1];
     }
     
-    // 检查章节是否已完成（使用与 quiz_player 相同的 localStorage key）
-    function isChapterCompleted(absolutePath) {
+    // 获取章节完成状态和详细统计
+    function getChapterStats(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
-        const key = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
-        return localStorage.getItem(key) === 'true';
+        const keyCompleted = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
+        const keyStats = `quiz_stats_${relativePath.replace(/[\\/]/g, '_')}`;
+        const completed = localStorage.getItem(keyCompleted) === 'true';
+        let stats = null;
+        if (completed) {
+            const raw = localStorage.getItem(keyStats);
+            if (raw) {
+                try {
+                    stats = JSON.parse(raw);
+                } catch(e) {}
+            }
+        }
+        return { completed, stats };
     }
     
     function openQuiz(absolutePath) {
@@ -188,11 +198,27 @@
         nameSpan.innerText = node.name;
         
         // 添加完成标记（仅叶子节点且已完成）
-        if (isLeaf && node.filePath && isChapterCompleted(node.filePath)) {
-            const badgeSpan = document.createElement('span');
-            badgeSpan.className = 'completion-badge';
-            badgeSpan.innerHTML = '✅ 已完成';
-            nameSpan.appendChild(badgeSpan);
+        if (isLeaf && node.filePath) {
+            const { completed, stats } = getChapterStats(node.filePath);
+            if (completed && stats && stats.total > 0) {
+                const badgeSpan = document.createElement('span');
+                badgeSpan.className = 'completion-badge';
+                const correct = stats.correct;
+                const total = stats.total;
+                const percent = Math.round(stats.accuracy);
+                if (correct === total) {
+                    badgeSpan.innerHTML = `✅ ${correct}/${total} 正确 (100%)`;
+                } else {
+                    badgeSpan.innerHTML = `✅ ${correct}/${total} 正确 (${percent}%)`;
+                }
+                nameSpan.appendChild(badgeSpan);
+            } else if (completed) {
+                // 兼容旧的只存完成标记的情况
+                const badgeSpan = document.createElement('span');
+                badgeSpan.className = 'completion-badge';
+                badgeSpan.innerHTML = `✅ 已完成`;
+                nameSpan.appendChild(badgeSpan);
+            }
         }
         leftDiv.appendChild(nameSpan);
         
