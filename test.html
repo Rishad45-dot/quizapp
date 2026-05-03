@@ -1,0 +1,26 @@
+async function testBitableAPI() {
+    const APP_ID = 'cli_a97c56989b38dbc0';
+    const APP_SECRET = 'yTsedLZswdY3xsYkbK3Dfe6JUaARsrgS';
+    const APP_TOKEN = 'SXIJbQ9Tzab87yssBbNcDFConxE';
+    const TABLE_ID = 'tblGtvGnLa1SsELv';
+
+    try {
+        // Get token
+        const tokenRes = await fetch('https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal', {
+            method: 'POST',
+            body: JSON.stringify({ app_id: APP_ID, app_secret: APP_SECRET })
+        });
+        const { tenant_access_token } = await tokenRes.json();
+
+        // Read a record
+        const recordsRes = await fetch(`https://open.feishu.cn/open-apis/bitable/v1/apps/${APP_TOKEN}/tables/${TABLE_ID}/records?page_size=1`, {
+            headers: { 'Authorization': `Bearer ${tenant_access_token}` }
+        });
+        const data = await recordsRes.json();
+        console.log('✅ Connection successful!', data);
+    } catch (error) {
+        console.error('❌ Connection error:', error);
+    }
+}
+
+testBitableAPI();
