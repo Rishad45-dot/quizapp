@@ -30,14 +30,14 @@
         .header-inner {
             max-width: 1300px;
             margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 12px;
         }
         .title-section {
-            flex: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 6px;
         }
         .chapter-title {
             font-size: 1.25rem;
@@ -58,27 +58,10 @@
             color: #5a6874;
             margin-top: 2px;
         }
-        .back-button {
-            background: #ecf5ff;
-            border: none;
-            padding: 6px 16px;
-            border-radius: 30px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            color: #2c7a4d;
-            text-decoration: none;
-        }
-        .back-button:hover {
-            background: #e0e7f0;
-        }
         .stats-summary {
             background: #f8f9fc;
             border-radius: 20px;
             padding: 8px 12px;
-            margin-top: 12px;
             margin-bottom: 12px;
             font-size: 0.8rem;
             display: flex;
@@ -118,26 +101,6 @@
             align-items: center;
             gap: 6px;
             white-space: nowrap;
-        }
-        .daily-stats {
-            background: #e8f0fe;
-            padding: 4px 12px;
-            border-radius: 30px;
-            font-size: 0.75rem;
-            font-weight: 500;
-            display: inline-flex;
-            flex-direction: column;
-            align-items: flex-end;
-            gap: 2px;
-        }
-        .daily-counter {
-            color: #2c7a4d;
-            font-weight: 600;
-        }
-        .daily-message {
-            color: #c45c00;
-            font-size: 0.7rem;
-            font-weight: normal;
         }
         .settings-toggle {
             background: #f0f2f5;
@@ -228,9 +191,9 @@
             padding: 16px 20px 12px 20px;
             border-bottom: 1px solid #e9eef3;
             display: flex;
-            align-items: baseline;
-            gap: 12px;
+            align-items: center;
             flex-wrap: wrap;
+            gap: 8px 12px;
         }
         .tag {
             background: #ecf5ff;
@@ -239,14 +202,30 @@
             border-radius: 30px;
             font-size: 0.75rem;
             font-weight: 500;
+            display: inline-block;
         }
         .difficulty-badge {
             background: #f0f2f5;
-            color: #8c9aa8;
+            color: #5a6874;
             padding: 4px 12px;
             border-radius: 30px;
             font-size: 0.7rem;
             font-weight: 500;
+            display: inline-block;
+        }
+        /* 题号样式：紧凑，不占用过多宽度，移动端友好 */
+        .qnum {
+            background: #eef2f7;
+            border-radius: 30px;
+            padding: 3px 10px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #2c3e50;
+            line-height: 1.2;
+            display: inline-block;
+            margin-left: 2px;
+            margin-right: 2px;
+            white-space: nowrap;
         }
         .question-title {
             font-size: 1rem;
@@ -254,6 +233,8 @@
             line-height: 1.4;
             margin: 0;
             flex: 1;
+            min-width: 160px;
+            color: #1e2a36;
         }
         .save-btn {
             background: none;
@@ -266,6 +247,7 @@
             display: inline-flex;
             align-items: center;
             gap: 4px;
+            margin-left: auto;
         }
         .save-btn.saved { color: #f5b042; text-shadow: 0 0 2px rgba(0,0,0,0.1); }
         .save-btn:not(.saved) { color: #aaa; }
@@ -314,11 +296,12 @@
         }
         .status {
             display: inline-block;
-            margin-left: 16px;
-            font-size: 0.75rem;
-            padding: 2px 10px;
+            font-size: 0.7rem;
+            padding: 4px 10px;
             border-radius: 30px;
             background: #f0f2f5;
+            color: #5a6874;
+            white-space: nowrap;
         }
         .status.answered { background: #e3f7ec; color: #2c7a4d; }
         .error-box {
@@ -344,15 +327,39 @@
             .title-section { flex-direction: column; align-items: flex-start; }
             .stats-numbers { gap: 8px; }
             .stats-numbers span { font-size: 0.7rem; padding: 2px 6px; }
-            .question-header { flex-direction: column; align-items: flex-start; }
-            .status { margin-left: 0; margin-top: 6px; }
+            .question-header { 
+                padding: 14px 16px 10px 16px;
+                gap: 8px 10px;
+            }
+            .question-title {
+                font-size: 0.95rem;
+                width: 100%;
+                margin-top: 2px;
+            }
+            .status { margin-left: 0; }
             .option { padding: 8px 10px; }
             .btn-check { width: 100%; text-align: center; }
             .settings-panel { flex-direction: column; align-items: stretch; }
             .setting-group { width: 100%; }
             .toast { white-space: normal; text-align: center; width: 90%; }
-            .daily-stats { align-items: flex-start; margin-top: 8px; }
-            .back-button { font-size: 0.7rem; padding: 4px 12px; }
+            .qnum {
+                padding: 2px 8px;
+                font-size: 0.7rem;
+            }
+        }
+        /* 让 save-btn 不会过度挤压，保持星标在右侧 */
+        .question-header .save-btn {
+            margin-left: auto;
+            order: 10;
+        }
+        .question-header .status {
+            order: 11;
+        }
+        /* 保证题号自然排列 */
+        .question-header .tag, 
+        .question-header .difficulty-badge,
+        .question-header .qnum {
+            flex-shrink: 0;
         }
     </style>
 </head>
@@ -366,26 +373,21 @@
                     <div class="subtitle" id="subtitle"></div>
                 </div>
             </div>
-            <a href="index.html" class="back-button" id="backButton">← 返回章节列表</a>
-        </div>
-        <div class="stats-summary" id="statsSummary">
-            <div class="stats-numbers">
-                <span>📋 总题数: <strong id="totalCount">0</strong></span>
-                <span class="stat-answered">✏️ 已答: <strong id="answeredCount">0</strong></span>
-                <span class="stat-correct">✅ 正确: <strong id="correctCount">0</strong></span>
-                <span class="stat-incorrect">❌ 错误: <strong id="incorrectCount">0</strong></span>
-                <span class="stat-unanswered">⏳ 未答: <strong id="unansweredCount">0</strong></span>
-            </div>
-            <div style="display: flex; align-items: center; gap: 12px;">
-                <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
-                <div id="completionBadge" class="completion-badge" style="display: none;">🏆 本章已完成</div>
-                <div class="daily-stats" id="dailyStats">
-                    <span class="daily-counter" id="dailyCounter">📅 今日练习: 0</span>
-                    <span class="daily-message" id="dailyMessage"></span>
+            <div class="stats-summary" id="statsSummary">
+                <div class="stats-numbers">
+                    <span>📋 总题数: <strong id="totalCount">0</strong></span>
+                    <span class="stat-answered">✏️ 已答: <strong id="answeredCount">0</strong></span>
+                    <span class="stat-correct">✅ 正确: <strong id="correctCount">0</strong></span>
+                    <span class="stat-incorrect">❌ 错误: <strong id="incorrectCount">0</strong></span>
+                    <span class="stat-unanswered">⏳ 未答: <strong id="unansweredCount">0</strong></span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 12px;">
+                    <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
+                    <div id="completionBadge" class="completion-badge" style="display: none;">🏆 本章已完成</div>
                 </div>
             </div>
+            <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
         </div>
-        <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
     </div>
 
     <div class="settings-panel" id="settingsPanel">
@@ -420,72 +422,11 @@
     </div>
 
     <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
-    <footer>✨ <strong>单选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目。📅 每日练习计数自动重置于午夜，并显示昨日战绩激励。</footer>
+    <footer>✨ <strong>单选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星收藏题目，用于日后集中复习。<br>🔢 题号 (1,2,3…) 显示在难度标签之后，方便定位。</footer>
 </div>
 <div id="toastMessage" class="toast"></div>
 
 <script>
-    // ==================== 每日练习计数器 (与 index.html 共享) ====================
-    const DAILY_STORAGE_KEY = 'quiz_daily_history';
-    
-    function getTodayDate() {
-        const now = new Date();
-        return `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
-    }
-    
-    function getYesterdayDate() {
-        const yesterday = new Date();
-        yesterday.setDate(yesterday.getDate() - 1);
-        return `${yesterday.getFullYear()}-${String(yesterday.getMonth()+1).padStart(2,'0')}-${String(yesterday.getDate()).padStart(2,'0')}`;
-    }
-    
-    function loadDailyHistory() {
-        const stored = localStorage.getItem(DAILY_STORAGE_KEY);
-        if (stored) {
-            try { return JSON.parse(stored); } catch(e) {}
-        }
-        return {};
-    }
-    
-    function getTodayStats(history) {
-        const today = getTodayDate();
-        if (!history[today]) history[today] = { count: 0, practicedIds: [] };
-        return history[today];
-    }
-    
-    function getYesterdayCount(history) {
-        const yesterday = getYesterdayDate();
-        return history[yesterday] ? history[yesterday].count : 0;
-    }
-    
-    function updateDailyDisplay() {
-        const history = loadDailyHistory();
-        const todayCount = getTodayStats(history).count;
-        const yesterdayCount = getYesterdayCount(history);
-        document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
-        const msgSpan = document.getElementById('dailyMessage');
-        if (yesterdayCount > 0) {
-            msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
-        } else if (todayCount === 0) {
-            msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
-        } else {
-            msgSpan.innerHTML = `💪 继续保持！`;
-        }
-    }
-    
-    function recordPractice(questionId) {
-        if (!questionId) return;
-        const history = loadDailyHistory();
-        const todayStats = getTodayStats(history);
-        if (!todayStats.practicedIds.includes(questionId)) {
-            todayStats.practicedIds.push(questionId);
-            todayStats.count = todayStats.practicedIds.length;
-            localStorage.setItem(DAILY_STORAGE_KEY, JSON.stringify(history));
-        }
-        updateDailyDisplay();
-    }
-    
-    // ==================== 原有Quiz逻辑 ====================
     function unescapeHtml(html) {
         const div = document.createElement('div');
         div.innerHTML = html;
@@ -749,10 +690,13 @@
             let selectedIds = (isMulti && Array.isArray(userSel)) ? userSel : [];
             const difficultyLabel = getDifficultyLabel(q.difficulty);
             const saved = isQuestionSaved(q.id);
+            // 题目序号 (从1开始)
+            const questionNumber = idx + 1;
             
             html += `<div class="card" data-qidx="${idx}"><div class="question-header">
                         <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '排序题' : '单选题')}</span>
                         <span class="difficulty-badge">📊 ${difficultyLabel}</span>
+                        <span class="qnum">${questionNumber}</span>
                         <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
                         <button class="save-btn ${saved ? 'saved' : ''}" data-id="${q.id}" data-savebtn="${idx}">${saved ? '★' : '☆'}</button>
                         <span class="status ${statusClass}">${statusText}</span>
@@ -814,7 +758,6 @@
             if (!div) return;
             const inputs = div.querySelectorAll('input');
             const isMulti = (q.type === '1');
-            const isRadio = (!isMulti && q.type !== '3');
             inputs.forEach(inp => {
                 inp.addEventListener('change', () => {
                     if (isMulti) {
@@ -831,7 +774,7 @@
                         }
                         syncFullFromCurrent();
                         renderQuiz();
-                    } else if (isRadio && inp.checked) {
+                    } else if (inp.checked) {
                         const idxInFull = fullQuestions.indexOf(q);
                         if (idxInFull !== -1 && fullAnswerStatus[idxInFull] === true) {
                             currentUserAnswers[idx] = inp.value;
@@ -840,23 +783,20 @@
                         } else {
                             currentUserAnswers[idx] = inp.value;
                             currentAnswerStatus[idx] = true;
-                            recordPractice(q.id);
                             syncFullFromCurrent();
                             renderQuiz();
                         }
                     }
                 });
             });
-            const btn = document.querySelector(`.btn-check[data-idx="${idx}"]`);
+            const btn = div.querySelector(`.btn-check[data-idx="${idx}"]`);
             if (btn) {
                 btn.addEventListener('click', () => {
                     if (!currentAnswerStatus[idx]) {
                         currentAnswerStatus[idx] = true;
-                        recordPractice(currentQuestions[idx].id);
                         syncFullFromCurrent();
                         renderQuiz();
                     } else if (isMulti) {
-                        recordPractice(currentQuestions[idx].id);
                         syncFullFromCurrent();
                         renderQuiz();
                     }
@@ -919,9 +859,6 @@
         document.getElementById('chapterTitle').innerText = '错误';
     } else {
         currentFilePath = decodeURIComponent(fileParam);
-        // Store the current chapter path for auto‑expand on index.html
-        localStorage.setItem('last_practiced_chapter', currentFilePath);
-        
         fetch(currentFilePath)
             .then(res => res.json())
             .then(data => {
@@ -936,7 +873,6 @@
                 document.getElementById('chapterTitle').innerHTML = `${displayName} <span class="source-badge">${src}</span>`;
                 let sub = data.parentCategory || data.originalData?.parentCategory || data.data?.chapterName || '';
                 document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
-                updateDailyDisplay();
             })
             .catch(err => {
                 document.getElementById('quizContainer').innerHTML = `<div class="error-box">❌ 加载失败: ${err.message}</div>`;
