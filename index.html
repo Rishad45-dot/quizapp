@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>RN/CGN 练习题库 – Chapter Navigator</title>
     <style>
         * { box-sizing: border-box; }
@@ -54,17 +54,35 @@
             padding: 16px 24px;
             cursor: pointer;
             transition: background 0.1s;
+            gap: 16px;
         }
         .chapter-header:hover { background: #f9fafc; }
-        .chapter-title { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-        .expand-icon { font-size: 18px; color: #8c9aa8; width: 24px; text-align: center; }
-        .chapter-name { font-weight: 500; font-size: 16px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+        .chapter-title { 
+            display: flex; 
+            align-items: center; 
+            gap: 12px; 
+            flex-wrap: wrap;  /* allows title to wrap on narrow screens */
+            flex: 1;
+            min-width: 0;     /* helps with flex shrinking */
+        }
+        .expand-icon { font-size: 18px; color: #8c9aa8; width: 24px; text-align: center; flex-shrink: 0; }
+        .chapter-name { 
+            font-weight: 500; 
+            font-size: 16px; 
+            display: flex; 
+            align-items: center; 
+            gap: 8px; 
+            flex-wrap: wrap;
+            word-break: break-word;
+        }
         .question-count {
             color: #5a6874;
             font-size: 13px;
             background: #f0f2f5;
             padding: 2px 10px;
             border-radius: 20px;
+            white-space: nowrap;
+            flex-shrink: 0;
         }
         .completion-badge {
             background: #2c7a4d;
@@ -76,8 +94,13 @@
             display: inline-flex;
             align-items: center;
             gap: 5px;
+            white-space: nowrap;
         }
-        .action-buttons { display: flex; gap: 12px; }
+        .action-buttons { 
+            display: flex; 
+            gap: 12px; 
+            flex-shrink: 0;
+        }
         .btn {
             border: none;
             background: #ecf5ff;
@@ -87,6 +110,7 @@
             cursor: pointer;
             transition: 0.2s;
             color: #2c7a4d;
+            white-space: nowrap;
         }
         .btn-primary { background: #2c7a4d; color: white; }
         .btn-primary:hover { background: #236b42; }
@@ -104,8 +128,57 @@
             font-weight: 500;
             border-bottom: 1px solid #e9eef3;
         }
+        
+        /* ========== 移动端优化：idea #2 按钮换行 ========== */
         @media (max-width: 700px) {
-            .daily-stats { align-items: flex-start; margin-top: 8px; }
+            .chapter-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 12px;
+                padding: 14px 18px;
+            }
+            .action-buttons {
+                width: 100%;
+                justify-content: flex-start;
+            }
+            .btn {
+                padding: 6px 14px;
+                font-size: 12px;
+            }
+            .chapter-title {
+                width: 100%;
+            }
+            .chapter-name {
+                font-size: 15px;
+            }
+            .expand-icon {
+                margin-right: 4px;
+            }
+            .children {
+                padding-left: 24px;
+            }
+            .daily-stats {
+                align-items: flex-start;
+                margin-top: 6px;
+            }
+        }
+        
+        /* 对中等屏幕优化：适当缩小间距，防止挤压 */
+        @media (max-width: 900px) and (min-width: 701px) {
+            .chapter-header {
+                padding: 14px 18px;
+                gap: 12px;
+            }
+            .action-buttons {
+                gap: 8px;
+            }
+            .btn {
+                padding: 5px 12px;
+                font-size: 12px;
+            }
+            .chapter-name {
+                font-size: 14px;
+            }
         }
     </style>
 </head>
@@ -338,10 +411,8 @@
     function expandLastPracticedChapter() {
         const lastPath = localStorage.getItem('last_practiced_chapter');
         if (!lastPath) return;
-        // Normalize path to relative for matching
         const relativeLast = toRelativePath(lastPath);
         
-        // Find the leaf node with matching filePath
         const allLeafNodes = document.querySelectorAll('.chapter-item[data-filepath]');
         let targetNode = null;
         for (let node of allLeafNodes) {
@@ -353,12 +424,10 @@
         }
         if (!targetNode) return;
         
-        // Traverse up and expand all parent .children containers
         let current = targetNode.parentElement;
         while (current) {
             if (current.classList && current.classList.contains('children')) {
                 current.classList.add('open');
-                // Find the expand icon in the preceding sibling .chapter-header
                 const parentItem = current.previousElementSibling;
                 if (parentItem && parentItem.classList.contains('chapter-header')) {
                     const expandIcon = parentItem.querySelector('.expand-icon');
@@ -369,7 +438,6 @@
             }
             current = current.parentElement;
         }
-        // Scroll to the target node
         targetNode.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
     
