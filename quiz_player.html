@@ -78,6 +78,7 @@
             background: #f8f9fc;
             border-radius: 20px;
             padding: 8px 12px;
+            margin-top: 12px;
             margin-bottom: 12px;
             font-size: 0.8rem;
             display: flex;
@@ -365,7 +366,7 @@
                     <div class="subtitle" id="subtitle"></div>
                 </div>
             </div>
-            <a href="chapter_ui.html" class="back-button" id="backButton">← 返回章节列表</a>
+            <a href="index.html" class="back-button" id="backButton">← 返回章节列表</a>
         </div>
         <div class="stats-summary" id="statsSummary">
             <div class="stats-numbers">
@@ -424,7 +425,7 @@
 <div id="toastMessage" class="toast"></div>
 
 <script>
-    // ==================== 每日练习计数器 (与 chapter_ui 共享) ====================
+    // ==================== 每日练习计数器 (与 index.html 共享) ====================
     const DAILY_STORAGE_KEY = 'quiz_daily_history';
     
     function getTodayDate() {
@@ -918,7 +919,7 @@
         document.getElementById('chapterTitle').innerText = '错误';
     } else {
         currentFilePath = decodeURIComponent(fileParam);
-        // Store the current chapter path for auto‑expand on chapter_ui
+        // Store the current chapter path for auto‑expand on index.html
         localStorage.setItem('last_practiced_chapter', currentFilePath);
         
         fetch(currentFilePath)
