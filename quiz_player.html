@@ -102,6 +102,26 @@
             gap: 6px;
             white-space: nowrap;
         }
+        .daily-stats {
+            background: #e8f0fe;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            display: inline-flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 2px;
+        }
+        .daily-counter {
+            color: #2c7a4d;
+            font-weight: 600;
+        }
+        .daily-message {
+            color: #c45c00;
+            font-size: 0.7rem;
+            font-weight: normal;
+        }
         .settings-toggle {
             background: #f0f2f5;
             border: none;
@@ -314,6 +334,7 @@
             .settings-panel { flex-direction: column; align-items: stretch; }
             .setting-group { width: 100%; }
             .toast { white-space: normal; text-align: center; width: 90%; }
+            .daily-stats { align-items: flex-start; margin-top: 8px; }
         }
     </style>
 </head>
@@ -338,6 +359,10 @@
                 <div style="display: flex; align-items: center; gap: 12px;">
                     <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
                     <div id="completionBadge" class="completion-badge" style="display: none;">🏆 本章已完成</div>
+                    <div class="daily-stats" id="dailyStats">
+                        <span class="daily-counter" id="dailyCounter">📅 今日练习: 0</span>
+                        <span class="daily-message" id="dailyMessage"></span>
+                    </div>
                 </div>
             </div>
             <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
@@ -376,11 +401,84 @@
     </div>
 
     <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
-    <footer>✨ <strong>单选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目，用于日后集中复习。</footer>
+    <footer>✨ <strong>单选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目。📅 每日练习计数自动重置于午夜，并显示昨日战绩激励。</footer>
 </div>
 <div id="toastMessage" class="toast"></div>
 
 <script>
+    // ==================== 每日练习计数器（含历史记录） ====================
+    const DAILY_STORAGE_KEY = 'quiz_daily_history';
+    
+    function getTodayDate() {
+        const now = new Date();
+        return `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
+    }
+    
+    function getYesterdayDate() {
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        return `${yesterday.getFullYear()}-${String(yesterday.getMonth()+1).padStart(2,'0')}-${String(yesterday.getDate()).padStart(2,'0')}`;
+    }
+    
+    function loadDailyHistory() {
+        const stored = localStorage.getItem(DAILY_STORAGE_KEY);
+        if (stored) {
+            try {
+                return JSON.parse(stored);
+            } catch(e) {}
+        }
+        return {}; // { "2025-05-02": { count: 8, practicedIds: [...] }, "2025-05-03": { count: 3, practicedIds: [...] } }
+    }
+    
+    function saveDailyHistory(history) {
+        localStorage.setItem(DAILY_STORAGE_KEY, JSON.stringify(history));
+    }
+    
+    // 获取今天的统计对象（如果不存在则创建空记录）
+    function getTodayStats(history) {
+        const today = getTodayDate();
+        if (!history[today]) {
+            history[today] = { count: 0, practicedIds: [] };
+        }
+        return history[today];
+    }
+    
+    // 记录练习（仅记录今天的，且不去重）
+    function recordPractice(questionId) {
+        if (!questionId) return;
+        const history = loadDailyHistory();
+        const todayStats = getTodayStats(history);
+        if (!todayStats.practicedIds.includes(questionId)) {
+            todayStats.practicedIds.push(questionId);
+            todayStats.count = todayStats.practicedIds.length;
+            saveDailyHistory(history);
+        }
+        updateDailyDisplay();
+    }
+    
+    function getYesterdayCount(history) {
+        const yesterday = getYesterdayDate();
+        return history[yesterday] ? history[yesterday].count : 0;
+    }
+    
+    function updateDailyDisplay() {
+        const history = loadDailyHistory();
+        const todayStats = getTodayStats(history);
+        const yesterdayCount = getYesterdayCount(history);
+        const todayCount = todayStats.count;
+        
+        document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
+        const msgSpan = document.getElementById('dailyMessage');
+        if (yesterdayCount > 0) {
+            msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
+        } else if (todayCount === 0) {
+            msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
+        } else {
+            msgSpan.innerHTML = `💪 继续保持！`;
+        }
+    }
+    
+    // ==================== 原有Quiz逻辑（已整合每日计数） ====================
     function unescapeHtml(html) {
         const div = document.createElement('div');
         div.innerHTML = html;
@@ -735,6 +833,7 @@
                         } else {
                             currentUserAnswers[idx] = inp.value;
                             currentAnswerStatus[idx] = true;
+                            recordPractice(q.id); // record daily practice
                             syncFullFromCurrent();
                             renderQuiz();
                         }
@@ -746,9 +845,11 @@
                 btn.addEventListener('click', () => {
                     if (!currentAnswerStatus[idx]) {
                         currentAnswerStatus[idx] = true;
+                        recordPractice(currentQuestions[idx].id);
                         syncFullFromCurrent();
                         renderQuiz();
                     } else if (isMulti) {
+                        recordPractice(currentQuestions[idx].id);
                         syncFullFromCurrent();
                         renderQuiz();
                     }
@@ -825,6 +926,7 @@
                 document.getElementById('chapterTitle').innerHTML = `${displayName} <span class="source-badge">${src}</span>`;
                 let sub = data.parentCategory || data.originalData?.parentCategory || data.data?.chapterName || '';
                 document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
+                updateDailyDisplay();
             })
             .catch(err => {
                 document.getElementById('quizContainer').innerHTML = `<div class="error-box">❌ 加载失败: ${err.message}</div>`;
