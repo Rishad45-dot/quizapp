@@ -26,6 +26,19 @@
         }
         .logo { font-size: 20px; font-weight: 600; color: #2c7a4d; }
         .info { color: #5a6874; font-size: 14px; }
+        .daily-stats {
+            background: #e8f0fe;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            display: inline-flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 2px;
+        }
+        .daily-counter { color: #2c7a4d; font-weight: 600; }
+        .daily-message { color: #c45c00; font-size: 0.7rem; font-weight: normal; }
         .chapter-card {
             background: white;
             border-radius: 16px;
@@ -91,6 +104,9 @@
             font-weight: 500;
             border-bottom: 1px solid #e9eef3;
         }
+        @media (max-width: 700px) {
+            .daily-stats { align-items: flex-start; margin-top: 8px; }
+        }
     </style>
 </head>
 <body>
@@ -98,12 +114,64 @@
     <div class="header">
         <div class="logo">📚 RN/CGN 练习题库</div>
         <div class="info">章节导航 • 点击展开/折叠 • ✅ 已完成章节显示正确率</div>
+        <div class="daily-stats" id="dailyStats">
+            <span class="daily-counter" id="dailyCounter">📅 今日练习: 0</span>
+            <span class="daily-message" id="dailyMessage"></span>
+        </div>
     </div>
     <div id="chapterTree">加载中...</div>
 </div>
 
 <script>
-    // 将绝对路径转成相对路径（与 quiz_player 一致）
+    // ==================== 每日练习计数器 (与 quiz_player 共享) ====================
+    const DAILY_STORAGE_KEY = 'quiz_daily_history';
+    
+    function getTodayDate() {
+        const now = new Date();
+        return `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
+    }
+    
+    function getYesterdayDate() {
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        return `${yesterday.getFullYear()}-${String(yesterday.getMonth()+1).padStart(2,'0')}-${String(yesterday.getDate()).padStart(2,'0')}`;
+    }
+    
+    function loadDailyHistory() {
+        const stored = localStorage.getItem(DAILY_STORAGE_KEY);
+        if (stored) {
+            try { return JSON.parse(stored); } catch(e) {}
+        }
+        return {};
+    }
+    
+    function getTodayStats(history) {
+        const today = getTodayDate();
+        if (!history[today]) history[today] = { count: 0, practicedIds: [] };
+        return history[today];
+    }
+    
+    function getYesterdayCount(history) {
+        const yesterday = getYesterdayDate();
+        return history[yesterday] ? history[yesterday].count : 0;
+    }
+    
+    function updateDailyDisplay() {
+        const history = loadDailyHistory();
+        const todayCount = getTodayStats(history).count;
+        const yesterdayCount = getYesterdayCount(history);
+        document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
+        const msgSpan = document.getElementById('dailyMessage');
+        if (yesterdayCount > 0) {
+            msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
+        } else if (todayCount === 0) {
+            msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
+        } else {
+            msgSpan.innerHTML = `💪 继续保持！`;
+        }
+    }
+    
+    // ==================== 章节树逻辑 ====================
     function toRelativePath(absolutePath) {
         const knownFolders = ["Saunders", "Uworld", "医学术语", "患者需求"];
         for (const folder of knownFolders) {
@@ -117,7 +185,6 @@
         return parts[parts.length - 1];
     }
     
-    // 获取章节完成状态和详细统计
     function getChapterStats(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
         const keyCompleted = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
@@ -127,15 +194,15 @@
         if (completed) {
             const raw = localStorage.getItem(keyStats);
             if (raw) {
-                try {
-                    stats = JSON.parse(raw);
-                } catch(e) {}
+                try { stats = JSON.parse(raw); } catch(e) {}
             }
         }
         return { completed, stats };
     }
     
     function openQuiz(absolutePath) {
+        // Store last practiced chapter for auto‑expand
+        localStorage.setItem('last_practiced_chapter', absolutePath);
         const relativePath = toRelativePath(absolutePath);
         const quizUrl = `quiz_player.html?file=${encodeURIComponent(relativePath)}`;
         window.open(quizUrl, '_blank');
@@ -156,6 +223,8 @@
             }
             container.appendChild(sourceCard);
         }
+        // After rendering, expand the last practiced chapter if exists
+        expandLastPracticedChapter();
     }
     
     function createChapterElement(node, depth) {
@@ -197,7 +266,11 @@
         nameSpan.className = 'chapter-name';
         nameSpan.innerText = node.name;
         
-        // 添加完成标记（仅叶子节点且已完成）
+        // Store filePath on the wrapper for later expansion
+        if (isLeaf && node.filePath) {
+            wrapper.setAttribute('data-filepath', node.filePath);
+        }
+        
         if (isLeaf && node.filePath) {
             const { completed, stats } = getChapterStats(node.filePath);
             if (completed && stats && stats.total > 0) {
@@ -262,20 +335,66 @@
         return wrapper;
     }
     
-    // 加载 chapters_tree.json
+    function expandLastPracticedChapter() {
+        const lastPath = localStorage.getItem('last_practiced_chapter');
+        if (!lastPath) return;
+        // Normalize path to relative for matching
+        const relativeLast = toRelativePath(lastPath);
+        
+        // Find the leaf node with matching filePath
+        const allLeafNodes = document.querySelectorAll('.chapter-item[data-filepath]');
+        let targetNode = null;
+        for (let node of allLeafNodes) {
+            const path = node.getAttribute('data-filepath');
+            if (path && toRelativePath(path) === relativeLast) {
+                targetNode = node;
+                break;
+            }
+        }
+        if (!targetNode) return;
+        
+        // Traverse up and expand all parent .children containers
+        let current = targetNode.parentElement;
+        while (current) {
+            if (current.classList && current.classList.contains('children')) {
+                current.classList.add('open');
+                // Find the expand icon in the preceding sibling .chapter-header
+                const parentItem = current.previousElementSibling;
+                if (parentItem && parentItem.classList.contains('chapter-header')) {
+                    const expandIcon = parentItem.querySelector('.expand-icon');
+                    if (expandIcon && expandIcon.innerHTML === '▶') {
+                        expandIcon.innerHTML = '▼';
+                    }
+                }
+            }
+            current = current.parentElement;
+        }
+        // Scroll to the target node
+        targetNode.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+    
+    // Load chapters_tree.json
     fetch('chapters_tree.json')
         .then(response => {
             if (!response.ok) throw new Error('File not found');
             return response.json();
         })
-        .then(data => renderTree(data))
+        .then(data => {
+            renderTree(data);
+            updateDailyDisplay();
+        })
         .catch(err => {
             document.getElementById('chapterTree').innerHTML = `
                 <div style="background:white; padding:40px; border-radius:20px; text-align:center;">
                     ⚠️ 无法加载 chapters_tree.json。<br>
-                    请确保您在本地服务器中打开此页面 (http://localhost:8000/chapter_ui.html)。
+                    请确保您在本地服务器中打开此页面。
                 </div>`;
         });
+    
+    // Refresh daily display when page becomes visible (e.g., after returning from quiz)
+    document.addEventListener('visibilitychange', () => {
+        if (!document.hidden) updateDailyDisplay();
+    });
 </script>
 </body>
 </html>
