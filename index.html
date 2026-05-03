@@ -26,19 +26,6 @@
         }
         .logo { font-size: 20px; font-weight: 600; color: #2c7a4d; }
         .info { color: #5a6874; font-size: 14px; }
-        .btn {
-            border: none;
-            background: #ecf5ff;
-            padding: 6px 16px;
-            border-radius: 20px;
-            font-size: 13px;
-            cursor: pointer;
-            transition: 0.2s;
-            color: #2c7a4d;
-        }
-        .btn-primary { background: #2c7a4d; color: white; }
-        .btn-primary:hover { background: #236b42; }
-        .btn:hover { background: #e0e7f0; }
         .chapter-card {
             background: white;
             border-radius: 16px;
@@ -78,6 +65,19 @@
             gap: 5px;
         }
         .action-buttons { display: flex; gap: 12px; }
+        .btn {
+            border: none;
+            background: #ecf5ff;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: 0.2s;
+            color: #2c7a4d;
+        }
+        .btn-primary { background: #2c7a4d; color: white; }
+        .btn-primary:hover { background: #236b42; }
+        .btn:hover { background: #e0e7f0; }
         .children {
             padding-left: 48px;
             background: #fefefe;
@@ -91,7 +91,6 @@
             font-weight: 500;
             border-bottom: 1px solid #e9eef3;
         }
-        #syncStatus { font-size: 13px; font-weight: 500; }
     </style>
 </head>
 <body>
@@ -99,33 +98,11 @@
     <div class="header">
         <div class="logo">📚 RN/CGN 练习题库</div>
         <div class="info">章节导航 • 点击展开/折叠 • ✅ 已完成章节显示正确率</div>
-        <div style="display: flex; align-items: center; gap: 12px;">
-            <div id="syncStatus">⚪ 未同步</div>
-            <button id="showPasswordBtn" class="btn">🔐 设置同步密码</button>
-        </div>
     </div>
     <div id="chapterTree">加载中...</div>
 </div>
 
-<!-- Password Modal -->
-<div id="passwordModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000; justify-content: center; align-items: center;">
-    <div style="background: white; padding: 24px; border-radius: 20px; max-width: 350px; width: 90%;">
-        <h3 style="margin-top: 0;">🔐 同步密码</h3>
-        <p>输入密码后，同一密码在不同设备上自动同步学习进度。</p>
-        <input type="password" id="syncPasswordInput" placeholder="输入密码" style="width: 100%; padding: 10px; border-radius: 30px; border: 1px solid #ddd; margin-bottom: 12px;">
-        <div style="display: flex; gap: 12px; justify-content: flex-end;">
-            <button id="cancelPasswordBtn" class="btn">取消</button>
-            <button id="confirmPasswordBtn" class="btn btn-primary">确认同步</button>
-        </div>
-        <div style="margin-top: 12px; font-size: 12px; color: #888;">
-            <button id="clearSyncBtn" style="background: none; border: none; color: #d9534f; cursor: pointer;">清除本地同步设置</button>
-        </div>
-    </div>
-</div>
-
-<script type="module">
-    import { hashPassword, getStoredPasswordHash, setStoredPasswordHash, clearStoredPasswordHash, loadProgressFromCloud, saveProgressToCloud } from './feishu-sync.js';
-
+<script>
     // 将绝对路径转成相对路径（与 quiz_player 一致）
     function toRelativePath(absolutePath) {
         const knownFolders = ["Saunders", "Uworld", "医学术语", "患者需求"];
@@ -140,35 +117,23 @@
         return parts[parts.length - 1];
     }
     
-    // 获取章节统计的 key
-    function getCompletionKey(absolutePath) {
+    // 获取章节完成状态和详细统计
+    function getChapterStats(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
-        return `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
-    }
-    function getStatsKey(absolutePath) {
-        const relativePath = toRelativePath(absolutePath);
-        return `quiz_stats_${relativePath.replace(/[\\/]/g, '_')}`;
-    }
-    
-    // 从本地 localStorage 读取章节完成状态和正确率
-    function getLocalChapterStats(absolutePath) {
-        const completedKey = getCompletionKey(absolutePath);
-        const statsKey = getStatsKey(absolutePath);
-        const completed = localStorage.getItem(completedKey) === 'true';
+        const keyCompleted = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
+        const keyStats = `quiz_stats_${relativePath.replace(/[\\/]/g, '_')}`;
+        const completed = localStorage.getItem(keyCompleted) === 'true';
         let stats = null;
         if (completed) {
-            const raw = localStorage.getItem(statsKey);
+            const raw = localStorage.getItem(keyStats);
             if (raw) {
-                try { stats = JSON.parse(raw); } catch(e) {}
+                try {
+                    stats = JSON.parse(raw);
+                } catch(e) {}
             }
         }
         return { completed, stats };
     }
-    
-    // 从云端数据中获取某一章节的进度 (云端数据是全局的，需要知道章节路径)
-    // 云端保存的 progressData 应该包含一个对象，key 为章节路径，value 为完成状态
-    // 简化起见，我们这里展示本地存储的徽章，因为云端同步后本地 localStorage 也会更新。
-    // 实际上在 login 时我们已经将云端数据合并到本地 localStorage，所以直接读本地即可。
     
     function openQuiz(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
@@ -232,9 +197,9 @@
         nameSpan.className = 'chapter-name';
         nameSpan.innerText = node.name;
         
-        // 添加完成标记（仅叶子节点且已完成，从本地 localStorage 读取）
+        // 添加完成标记（仅叶子节点且已完成）
         if (isLeaf && node.filePath) {
-            const { completed, stats } = getLocalChapterStats(node.filePath);
+            const { completed, stats } = getChapterStats(node.filePath);
             if (completed && stats && stats.total > 0) {
                 const badgeSpan = document.createElement('span');
                 badgeSpan.className = 'completion-badge';
@@ -297,111 +262,20 @@
         return wrapper;
     }
     
-    // 密码同步逻辑
-    let currentPasswordHash = null;
-    
-    async function applyPasswordSync(passwordHash) {
-        currentPasswordHash = passwordHash;
-        setStoredPasswordHash(passwordHash);
-        document.getElementById('syncStatus').innerHTML = `✅ 已同步 (${passwordHash.substring(0,8)}...)`;
-        // 从云端加载所有进度数据 (是一个全局对象，包含所有章节和 quiz_player 的进度)
-        const cloudProgress = await loadProgressFromCloud(passwordHash);
-        if (cloudProgress && typeof cloudProgress === 'object') {
-            // 合并云端数据到 localStorage
-            for (const [key, value] of Object.entries(cloudProgress)) {
-                if (key.startsWith('quiz_completed_') || key.startsWith('quiz_stats_') || key.startsWith('full_progress_') || key.startsWith('saved_questions_')) {
-                    localStorage.setItem(key, value);
-                }
-            }
-            // 刷新树以显示新的徽章
-            fetchAndRenderTree();
-            alert('云端进度已同步到本机');
-        } else {
-            // 首次使用: 将当前本地所有相关数据上传到云端
-            const allProgress = {};
-            for (let i = 0; i < localStorage.length; i++) {
-                const key = localStorage.key(i);
-                if (key && (key.startsWith('quiz_') || key.startsWith('full_progress_') || key.startsWith('saved_questions_'))) {
-                    allProgress[key] = localStorage.getItem(key);
-                }
-            }
-            await saveProgressToCloud(passwordHash, allProgress);
-            alert('本地进度已备份到云端');
-        }
-    }
-    
-    async function handlePasswordSubmit() {
-        const password = document.getElementById('syncPasswordInput').value.trim();
-        if (!password) {
-            alert('请输入密码');
-            return;
-        }
-        const hash = await hashPassword(password);
-        await applyPasswordSync(hash);
-        document.getElementById('passwordModal').style.display = 'none';
-        document.getElementById('syncPasswordInput').value = '';
-    }
-    
-    async function autoLogin() {
-        const storedHash = getStoredPasswordHash();
-        if (storedHash) {
-            currentPasswordHash = storedHash;
-            document.getElementById('syncStatus').innerHTML = `✅ 已同步 (${storedHash.substring(0,8)}...)`;
-            // 可选: 后台静默同步最新云端数据
-            const cloudProgress = await loadProgressFromCloud(storedHash);
-            if (cloudProgress) {
-                for (const [key, value] of Object.entries(cloudProgress)) {
-                    if (key.startsWith('quiz_completed_') || key.startsWith('quiz_stats_') || key.startsWith('full_progress_') || key.startsWith('saved_questions_')) {
-                        localStorage.setItem(key, value);
-                    }
-                }
-                fetchAndRenderTree();
-            }
-        }
-    }
-    
-    function clearSync() {
-        clearStoredPasswordHash();
-        currentPasswordHash = null;
-        document.getElementById('syncStatus').innerHTML = '⚪ 未同步';
-        alert('已清除本地同步设置，但云端数据仍在。重新输入密码即可恢复。');
-        fetchAndRenderTree(); // 重新渲染（徽章可能消失）
-    }
-    
-    // 加载树并渲染
-    async function fetchAndRenderTree() {
-        try {
-            const response = await fetch('chapters_tree.json');
-            const data = await response.json();
-            renderTree(data);
-        } catch (err) {
+    // 加载 chapters_tree.json
+    fetch('chapters_tree.json')
+        .then(response => {
+            if (!response.ok) throw new Error('File not found');
+            return response.json();
+        })
+        .then(data => renderTree(data))
+        .catch(err => {
             document.getElementById('chapterTree').innerHTML = `
                 <div style="background:white; padding:40px; border-radius:20px; text-align:center;">
                     ⚠️ 无法加载 chapters_tree.json。<br>
-                    请确保您在本地服务器中打开此页面。
+                    请确保您在本地服务器中打开此页面 (http://localhost:8000/chapter_ui.html)。
                 </div>`;
-        }
-    }
-    
-    // 初始化 UI 和事件
-    document.getElementById('showPasswordBtn').addEventListener('click', () => {
-        document.getElementById('passwordModal').style.display = 'flex';
-    });
-    document.getElementById('cancelPasswordBtn').addEventListener('click', () => {
-        document.getElementById('passwordModal').style.display = 'none';
-        document.getElementById('syncPasswordInput').value = '';
-    });
-    document.getElementById('confirmPasswordBtn').addEventListener('click', handlePasswordSubmit);
-    document.getElementById('clearSyncBtn').addEventListener('click', clearSync);
-    // Close modal if click outside
-    window.addEventListener('click', (e) => {
-        const modal = document.getElementById('passwordModal');
-        if (e.target === modal) modal.style.display = 'none';
-    });
-    
-    // 启动
-    fetchAndRenderTree();
-    autoLogin();
+        });
 </script>
 </body>
 </html>
