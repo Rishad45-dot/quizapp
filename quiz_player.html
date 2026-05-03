@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <title>医学词汇测验 · 密码云同步</title>
+    <title>医学词汇测验 · 收藏复习 & 正确率统计</title>
     <style>
-        /* (Same styles as before – keep all existing CSS) */
         * { box-sizing: border-box; }
         body {
             background-color: #f0f2f5;
@@ -31,14 +30,14 @@
         .header-inner {
             max-width: 1300px;
             margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 12px;
         }
         .title-section {
-            flex: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 6px;
         }
         .chapter-title {
             font-size: 1.25rem;
@@ -123,7 +122,7 @@
             display: none;
             flex-wrap: wrap;
             gap: 16px;
-            align-items: flex-start;
+            align-items: flex-end;
             scroll-margin-top: 80px;
         }
         .settings-panel.open { display: flex; }
@@ -131,7 +130,7 @@
             display: flex;
             flex-direction: column;
             gap: 6px;
-            min-width: 160px;
+            min-width: 140px;
         }
         .setting-group label {
             font-size: 0.8rem;
@@ -163,19 +162,6 @@
             cursor: pointer;
             font-size: 0.8rem;
         }
-        .btn {
-            border: none;
-            background: #ecf5ff;
-            padding: 6px 16px;
-            border-radius: 20px;
-            font-size: 13px;
-            cursor: pointer;
-            transition: 0.2s;
-            color: #2c7a4d;
-        }
-        .btn-primary { background: #2c7a4d; color: white; }
-        .btn-primary:hover { background: #236b42; }
-        .btn:hover { background: #e0e7f0; }
         .toast {
             position: fixed;
             bottom: 30px;
@@ -329,7 +315,6 @@
             .setting-group { width: 100%; }
             .toast { white-space: normal; text-align: center; width: 90%; }
         }
-        #syncStatus { font-size: 13px; font-weight: 500; margin-left: 12px; }
     </style>
 </head>
 <body>
@@ -342,25 +327,20 @@
                     <div class="subtitle" id="subtitle"></div>
                 </div>
             </div>
-            <div style="display: flex; align-items: center; gap: 12px;">
-                <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
-                <div id="syncStatus">⚪ 未同步</div>
-                <button id="showPasswordBtn" class="btn">🔐 同步密码</button>
+            <div class="stats-summary" id="statsSummary">
+                <div class="stats-numbers">
+                    <span>📋 总题数: <strong id="totalCount">0</strong></span>
+                    <span class="stat-answered">✏️ 已答: <strong id="answeredCount">0</strong></span>
+                    <span class="stat-correct">✅ 正确: <strong id="correctCount">0</strong></span>
+                    <span class="stat-incorrect">❌ 错误: <strong id="incorrectCount">0</strong></span>
+                    <span class="stat-unanswered">⏳ 未答: <strong id="unansweredCount">0</strong></span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 12px;">
+                    <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
+                    <div id="completionBadge" class="completion-badge" style="display: none;">🏆 本章已完成</div>
+                </div>
             </div>
-        </div>
-    </div>
-
-    <div class="stats-summary" id="statsSummary">
-        <div class="stats-numbers">
-            <span>📋 总题数: <strong id="totalCount">0</strong></span>
-            <span class="stat-answered">✏️ 已答: <strong id="answeredCount">0</strong></span>
-            <span class="stat-correct">✅ 正确: <strong id="correctCount">0</strong></span>
-            <span class="stat-incorrect">❌ 错误: <strong id="incorrectCount">0</strong></span>
-            <span class="stat-unanswered">⏳ 未答: <strong id="unansweredCount">0</strong></span>
-        </div>
-        <div style="display: flex; align-items: center; gap: 12px;">
-            <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
-            <div id="completionBadge" class="completion-badge" style="display: none;">🏆 本章已完成</div>
+            <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
         </div>
     </div>
 
@@ -396,138 +376,470 @@
     </div>
 
     <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
-    <footer>✨ 单选：只有第一次选择计入正确率。⭐ 收藏题目。☁️ 设置同步密码后，同一密码在不同设备自动同步进度。</footer>
+    <footer>✨ <strong>单选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目，用于日后集中复习。</footer>
 </div>
 <div id="toastMessage" class="toast"></div>
 
-<!-- Password Modal -->
-<div id="passwordModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000; justify-content: center; align-items: center;">
-    <div style="background: white; padding: 24px; border-radius: 20px; max-width: 350px; width: 90%;">
-        <h3 style="margin-top: 0;">🔐 同步密码</h3>
-        <p>输入密码后，同一密码在不同设备上自动同步学习进度。</p>
-        <input type="password" id="syncPasswordInput" placeholder="输入密码" style="width: 100%; padding: 10px; border-radius: 30px; border: 1px solid #ddd; margin-bottom: 12px;">
-        <div style="display: flex; gap: 12px; justify-content: flex-end;">
-            <button id="cancelPasswordBtn" class="btn">取消</button>
-            <button id="confirmPasswordBtn" class="btn btn-primary">确认同步</button>
-        </div>
-        <div style="margin-top: 12px; font-size: 12px; color: #888;">
-            <button id="clearSyncBtn" style="background: none; border: none; color: #d9534f; cursor: pointer;">清除本地同步设置</button>
-        </div>
-    </div>
-</div>
+<script>
+    function unescapeHtml(html) {
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        return div.textContent || div.innerText || '';
+    }
+    function showToast(message, duration = 2000) {
+        const toast = document.getElementById('toastMessage');
+        toast.textContent = message;
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), duration);
+    }
+    function parseJsonContent(jsonObj) {
+        try {
+            let arr = null;
+            if (jsonObj.data?.record?.extJson?.studentQuestionArray) arr = jsonObj.data.record.extJson.studentQuestionArray;
+            else if (jsonObj.record?.extJson?.studentQuestionArray) arr = jsonObj.record.extJson.studentQuestionArray;
+            else if (jsonObj.extJson?.studentQuestionArray) arr = jsonObj.extJson.studentQuestionArray;
+            else if (jsonObj.studentQuestionArray) arr = jsonObj.studentQuestionArray;
+            return arr;
+        } catch(e) { return null; }
+    }
+    function getSourceFromPath(p) {
+        for (const src of ["Saunders","Uworld","医学术语","患者需求"]) if (p.includes(src)) return src;
+        return "";
+    }
+    function getDifficultyLabel(d) {
+        if (!d) return "通用";
+        if (d.includes("Analyzing")) return "分析 (Analyzing)";
+        if (d.includes("Applying")) return "应用 (Applying)";
+        if (d.includes("Understanding")) return "理解 (Understanding)";
+        if (d.includes("Evaluating")) return "评价 (Evaluating)";
+        if (d.includes("中级")) return "中级";
+        return d.split('-').pop() || d;
+    }
 
-<script type="module">
-    import { hashPassword, getStoredPasswordHash, setStoredPasswordHash, clearStoredPasswordHash, loadProgressFromCloud, saveProgressToCloud } from './feishu-sync.js';
-
-    // ==================== 现有 Quiz 逻辑 (保持不变) ====================
-    // ... (all the quiz functions: unescapeHtml, showToast, parseJsonContent, getSourceFromPath, getDifficultyLabel, etc.)
-    // To save space, I'm including the full quiz logic from the previous working version.
-    // Since this is lengthy, I'll assume you have the complete quiz code. 
-    // The key addition is the password sync integration.
-
-    // For brevity in this answer, I'll outline the integration points:
+    let fullQuestions = [];
+    let currentQuestions = [];
+    let fullUserAnswers = [];
+    let fullAnswerStatus = [];
+    let currentUserAnswers = [];
+    let currentAnswerStatus = [];
+    let currentFilePath = "";
     
-    // 1. At the bottom of the script, after defining all quiz functions, add:
-    
-    let currentPasswordHash = null;
-    let syncDebounceTimer = null;
-    
-    async function syncFullProgressToCloud() {
-        if (!currentPasswordHash) return;
-        // Build a complete progress object containing all localStorage quiz keys
-        const allProgress = {};
-        for (let i = 0; i < localStorage.length; i++) {
-            const key = localStorage.key(i);
-            if (key && (key.startsWith('quiz_') || key.startsWith('full_progress_') || key.startsWith('saved_questions_'))) {
-                allProgress[key] = localStorage.getItem(key);
-            }
+    // 收藏功能
+    function getSavedKey() { return `saved_questions_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function loadSavedQuestionIds() {
+        const saved = localStorage.getItem(getSavedKey());
+        if (saved) {
+            try { return JSON.parse(saved); } catch(e) { return []; }
         }
-        await saveProgressToCloud(currentPasswordHash, allProgress);
+        return [];
     }
-    
-    // Debounced sync for frequent changes
-    function debouncedCloudSync() {
-        if (!currentPasswordHash) return;
-        if (syncDebounceTimer) clearTimeout(syncDebounceTimer);
-        syncDebounceTimer = setTimeout(() => syncFullProgressToCloud(), 800);
-    }
-    
-    // Override the existing saveAllProgress function to also call debouncedCloudSync()
-    // (You'll need to modify the existing saveAllProgress to add debouncedCloudSync)
-    
-    // Password modal handlers
-    async function applyPasswordSync(passwordHash) {
-        currentPasswordHash = passwordHash;
-        setStoredPasswordHash(passwordHash);
-        document.getElementById('syncStatus').innerHTML = `✅ 已同步 (${passwordHash.substring(0,8)}...)`;
-        // Load cloud data and merge
-        const cloudProgress = await loadProgressFromCloud(passwordHash);
-        if (cloudProgress && typeof cloudProgress === 'object') {
-            for (const [key, value] of Object.entries(cloudProgress)) {
-                if (key.startsWith('quiz_') || key.startsWith('full_progress_') || key.startsWith('saved_questions_')) {
-                    localStorage.setItem(key, value);
-                }
-            }
-            showToast('云端进度已同步到本机', 2000);
-            location.reload(); // simply reload to reinitialize quiz state
+    function saveQuestionIds(ids) { localStorage.setItem(getSavedKey(), JSON.stringify(ids)); }
+    function isQuestionSaved(questionId) { return loadSavedQuestionIds().includes(questionId); }
+    function toggleSavedQuestion(questionId) {
+        let saved = loadSavedQuestionIds();
+        if (saved.includes(questionId)) {
+            saved = saved.filter(id => id !== questionId);
+            showToast(`⭐ 已从收藏中移除`, 1000);
         } else {
-            await syncFullProgressToCloud();
-            showToast('本地进度已备份到云端', 2000);
+            saved.push(questionId);
+            showToast(`📌 已添加到“仅练习收藏题目”列表`, 1500);
+        }
+        saveQuestionIds(saved);
+        const onlySaved = document.getElementById('onlySavedCheckbox').checked;
+        if (onlySaved) applyFilters();
+        else renderQuiz();
+    }
+    function clearAllSaved() {
+        saveQuestionIds([]);
+        showToast(`🗑️ 已清除所有收藏题目`, 1500);
+        const onlySaved = document.getElementById('onlySavedCheckbox').checked;
+        if (onlySaved) applyFilters();
+        else renderQuiz();
+    }
+    
+    // 进度存储
+    function getStorageKey() { return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function getFullProgressKey() { return `full_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    function getStatsKey() { return `quiz_stats_${currentFilePath.replace(/[\\/]/g, '_')}`; }
+    
+    function isQuestionCorrect(q, userAns, isChecked) {
+        if (!isChecked) return false;
+        const type = q.type;
+        const options = q.optionList || [];
+        const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
+        if (type === '3') return false;
+        if (type === '1') {
+            const selected = userAns || [];
+            if (!Array.isArray(selected)) return false;
+            if (selected.length !== correctIds.length) return false;
+            const sortedSelected = [...selected].sort();
+            const sortedCorrect = [...correctIds].sort();
+            return JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
+        } else {
+            const selectedId = userAns;
+            if (!selectedId) return false;
+            return correctIds.length === 1 && correctIds[0] === selectedId;
         }
     }
     
-    async function handlePasswordSubmit() {
-        const password = document.getElementById('syncPasswordInput').value.trim();
-        if (!password) { showToast('请输入密码', 1500); return; }
-        const hash = await hashPassword(password);
-        await applyPasswordSync(hash);
-        document.getElementById('passwordModal').style.display = 'none';
-        document.getElementById('syncPasswordInput').value = '';
+    function saveChapterStats() {
+        let total = 0, correct = 0;
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            if (q.type === '3') continue;
+            total++;
+            if (fullAnswerStatus[i] && isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+        }
+        const accuracy = total === 0 ? 0 : (correct/total)*100;
+        const chapterStats = { correct, total, accuracy };
+        localStorage.setItem(getStatsKey(), JSON.stringify(chapterStats));
     }
     
-    async function autoLogin() {
-        const storedHash = getStoredPasswordHash();
-        if (storedHash) {
-            currentPasswordHash = storedHash;
-            document.getElementById('syncStatus').innerHTML = `✅ 已同步 (${storedHash.substring(0,8)}...)`;
-            const cloudProgress = await loadProgressFromCloud(storedHash);
-            if (cloudProgress) {
-                for (const [key, value] of Object.entries(cloudProgress)) {
-                    if (key.startsWith('quiz_') || key.startsWith('full_progress_') || key.startsWith('saved_questions_')) {
-                        localStorage.setItem(key, value);
+    function saveAllProgress() {
+        if (!currentFilePath || !fullQuestions.length) return;
+        const fullData = { fullUserAnswers, fullAnswerStatus };
+        localStorage.setItem(getFullProgressKey(), JSON.stringify(fullData));
+        const indices = currentQuestions.map(q => fullQuestions.indexOf(q));
+        const viewData = { userAnswers: currentUserAnswers, answerStatus: currentAnswerStatus, currentQuestionsIndices: indices };
+        localStorage.setItem(getStorageKey(), JSON.stringify(viewData));
+        
+        let allCompleted = true;
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            if (q.type === '3') continue;
+            const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
+            const isChecked = fullAnswerStatus[i] === true;
+            if (!hasAnswer || !isChecked) { allCompleted = false; break; }
+        }
+        if (allCompleted && fullQuestions.length > 0) {
+            localStorage.setItem(getCompletionKey(), 'true');
+            saveChapterStats();
+        } else {
+            localStorage.removeItem(getCompletionKey());
+            localStorage.removeItem(getStatsKey());
+        }
+        updateCompletionUI();
+    }
+    
+    function loadFullProgress() {
+        const savedFull = localStorage.getItem(getFullProgressKey());
+        if (savedFull) {
+            try {
+                const data = JSON.parse(savedFull);
+                if (data.fullUserAnswers && data.fullUserAnswers.length === fullQuestions.length) {
+                    fullUserAnswers = data.fullUserAnswers;
+                    fullAnswerStatus = data.fullAnswerStatus;
+                    for (let i = 0; i < fullQuestions.length; i++) {
+                        if (fullQuestions[i].type === '1' && (!fullUserAnswers[i] || !Array.isArray(fullUserAnswers[i]))) fullUserAnswers[i] = [];
                     }
+                    return true;
                 }
-                location.reload();
+            } catch(e) {}
+        }
+        fullUserAnswers = new Array(fullQuestions.length).fill(null);
+        fullAnswerStatus = new Array(fullQuestions.length).fill(false);
+        for (let i = 0; i < fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+        return false;
+    }
+    
+    function syncCurrentFromFull() {
+        currentUserAnswers = new Array(currentQuestions.length).fill(null);
+        currentAnswerStatus = new Array(currentQuestions.length).fill(false);
+        for (let i = 0; i < currentQuestions.length; i++) {
+            const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
+            if (idxInFull !== -1) {
+                let ans = fullUserAnswers[idxInFull];
+                if (currentQuestions[i].type === '1') {
+                    if (!ans || !Array.isArray(ans)) ans = [];
+                    currentUserAnswers[i] = [...ans];
+                } else currentUserAnswers[i] = ans;
+                currentAnswerStatus[i] = fullAnswerStatus[idxInFull] || false;
+            } else {
+                if (currentQuestions[i].type === '1') currentUserAnswers[i] = [];
+                else currentUserAnswers[i] = null;
+                currentAnswerStatus[i] = false;
             }
         }
     }
     
-    function clearSync() {
-        clearStoredPasswordHash();
-        currentPasswordHash = null;
-        document.getElementById('syncStatus').innerHTML = '⚪ 未同步';
-        showToast('已清除本地同步设置', 1500);
+    function syncFullFromCurrent() {
+        for (let i = 0; i < currentQuestions.length; i++) {
+            const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
+            if (idxInFull !== -1) {
+                fullUserAnswers[idxInFull] = (currentQuestions[i].type === '1') ? [...(currentUserAnswers[i] || [])] : currentUserAnswers[i];
+                fullAnswerStatus[idxInFull] = currentAnswerStatus[i];
+            }
+        }
+        saveAllProgress();
     }
     
-    document.getElementById('showPasswordBtn').addEventListener('click', () => {
-        document.getElementById('passwordModal').style.display = 'flex';
-    });
-    document.getElementById('cancelPasswordBtn').addEventListener('click', () => {
-        document.getElementById('passwordModal').style.display = 'none';
-        document.getElementById('syncPasswordInput').value = '';
-    });
-    document.getElementById('confirmPasswordBtn').addEventListener('click', handlePasswordSubmit);
-    document.getElementById('clearSyncBtn').addEventListener('click', clearSync);
-    window.addEventListener('click', (e) => {
-        const modal = document.getElementById('passwordModal');
-        if (e.target === modal) modal.style.display = 'none';
-    });
+    function updateCompletionUI() {
+        const completed = localStorage.getItem(getCompletionKey()) === 'true';
+        const badge = document.getElementById('completionBadge');
+        if (completed && fullQuestions.length > 0) {
+            const statsRaw = localStorage.getItem(getStatsKey());
+            if (statsRaw) {
+                try {
+                    const stats = JSON.parse(statsRaw);
+                    const acc = Math.round(stats.accuracy);
+                    badge.innerHTML = `🏆 ${acc}% 已完成`;
+                } catch(e) { badge.innerHTML = `🏆 本章已完成`; }
+            } else {
+                badge.innerHTML = `🏆 本章已完成`;
+            }
+            badge.style.display = 'inline-flex';
+        } else {
+            badge.style.display = 'none';
+        }
+    }
     
-    // After loading the quiz data and initializing, call autoLogin()
-    // Also modify saveAllProgress to call debouncedCloudSync
+    function computeFullStatistics() {
+        let total = 0, answered = 0, correct = 0, incorrect = 0;
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            if (q.type === '3') continue;
+            total++;
+            const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
+            if (hasAnswer) answered++;
+            if (fullAnswerStatus[i] && hasAnswer) {
+                if (isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+                else incorrect++;
+            }
+        }
+        const unanswered = total - answered;
+        const rate = total === 0 ? 0 : (correct/total)*100;
+        return { total, answered, correct, incorrect, unanswered, rate };
+    }
     
-    // For the full working file, you need to integrate these calls into your existing quiz code.
-    // Since the complete file would exceed the response length, I've provided the skeleton.
+    function updateStatsDisplay() {
+        const stats = computeFullStatistics();
+        document.getElementById('totalCount').innerText = stats.total;
+        document.getElementById('answeredCount').innerText = stats.answered;
+        document.getElementById('correctCount').innerText = stats.correct;
+        document.getElementById('incorrectCount').innerText = stats.incorrect;
+        document.getElementById('unansweredCount').innerText = stats.unanswered;
+        document.getElementById('correctRate').innerHTML = `${Math.round(stats.rate)}%`;
+    }
+    
+    function renderQuiz() {
+        const container = document.getElementById('quizContainer');
+        if (!currentQuestions.length) {
+            container.innerHTML = '<div class="error-box">⚠️ 没有题目。请检查筛选条件或收藏夹是否为空。</div>';
+            updateStatsDisplay();
+            updateCompletionUI();
+            return;
+        }
+        let html = '';
+        currentQuestions.forEach((q, idx) => {
+            const qType = q.type;
+            const options = q.optionList || [];
+            const isMulti = (qType === '1');
+            const isRadio = (!isMulti && qType !== '3');
+            const userSel = currentUserAnswers[idx] || (isMulti ? [] : null);
+            const statusClass = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? 'answered' : '';
+            const statusText = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? '已回答' : '未答';
+            const isCorrectShown = currentAnswerStatus[idx] || false;
+            let selectedId = (!isMulti && userSel) ? userSel : null;
+            let selectedIds = (isMulti && Array.isArray(userSel)) ? userSel : [];
+            const difficultyLabel = getDifficultyLabel(q.difficulty);
+            const saved = isQuestionSaved(q.id);
+            
+            html += `<div class="card" data-qidx="${idx}"><div class="question-header">
+                        <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '排序题' : '单选题')}</span>
+                        <span class="difficulty-badge">📊 ${difficultyLabel}</span>
+                        <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
+                        <button class="save-btn ${saved ? 'saved' : ''}" data-id="${q.id}" data-savebtn="${idx}">${saved ? '★' : '☆'}</button>
+                        <span class="status ${statusClass}">${statusText}</span>
+                     </div><div class="options" id="options-${idx}">`;
+            if (qType === '3') {
+                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;"><strong>📌 排序题：</strong> 下面列出原有顺序，可参考解析。<br/><ul>`;
+                options.forEach((opt, i) => html += `<li>${i+1}. ${unescapeHtml(opt.content)}</li>`);
+                html += `</ul></div>`;
+                if (isCorrectShown) {
+                    let correctOrder = [...options].sort((a,b)=> parseInt(a.isRight)-parseInt(b.isRight)).map(o=>o.content).join(' → ');
+                    html += `<div class="analysis"><strong>正确顺序：</strong> ${correctOrder}<br/><strong>解析：</strong> ${unescapeHtml(q.textAnalysis || '无解析')}</div>`;
+                }
+            } else {
+                options.forEach((opt, optIdx) => {
+                    const letter = String.fromCharCode(65+optIdx);
+                    const isChecked = isMulti ? selectedIds.includes(opt.id) : (selectedId === opt.id);
+                    const inputType = isMulti ? 'checkbox' : 'radio';
+                    html += `<div class="option"><span class="prefix">${letter}.</span>
+                             <input type="${inputType}" name="q${idx}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
+                             <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label></div>`;
+                });
+                if (isMulti) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
+                else if (isRadio && !isCorrectShown) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
+                if (isCorrectShown) {
+                    const isAnswerCorrect = isQuestionCorrect(q, userSel, true);
+                    const correctClass = "correct-answer";
+                    const userAnswerClass = isAnswerCorrect ? "your-answer-correct" : "your-answer-incorrect";
+                    let correctText = options.filter(o=>o.isRight==="1").map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;}).join(' ;  ');
+                    let userText = '';
+                    if (isMulti) {
+                        let selOpts = options.filter(o=>selectedIds.includes(o.id)).map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;});
+                        userText = selOpts.length ? selOpts.join(' ; ') : '未选任何选项';
+                    } else {
+                        let selOpt = options.find(o=>o.id===selectedId);
+                        userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===selectedId))}. ${unescapeHtml(selOpt.content)}` : '未选';
+                    }
+                    html += `<div class="feedback">
+                                <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
+                                <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
+                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                            </div>`;
+                }
+            }
+            html += `</div></div>`;
+        });
+        container.innerHTML = html;
+        
+        document.querySelectorAll('.save-btn').forEach(btn => {
+            const qid = btn.getAttribute('data-id');
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                if (qid) toggleSavedQuestion(qid);
+            });
+        });
+        
+        currentQuestions.forEach((q, idx) => {
+            if (q.type === '3') return;
+            const div = document.getElementById(`options-${idx}`);
+            if (!div) return;
+            const inputs = div.querySelectorAll('input');
+            const isMulti = (q.type === '1');
+            const isRadio = (!isMulti && q.type !== '3');
+            inputs.forEach(inp => {
+                inp.addEventListener('change', () => {
+                    if (isMulti) {
+                        let cur = currentUserAnswers[idx] || [];
+                        if (inp.checked) { if (!cur.includes(inp.value)) cur.push(inp.value); }
+                        else { cur = cur.filter(v=>v!==inp.value); }
+                        currentUserAnswers[idx] = cur;
+                        if (currentAnswerStatus[idx]) currentAnswerStatus[idx] = false;
+                        const statusSpan = document.querySelector(`.card[data-qidx="${idx}"] .status`);
+                        if (statusSpan) {
+                            const has = (currentUserAnswers[idx]?.length > 0);
+                            statusSpan.innerText = has ? '已回答' : '未答';
+                            if (has) statusSpan.classList.add('answered'); else statusSpan.classList.remove('answered');
+                        }
+                        syncFullFromCurrent();
+                        renderQuiz();
+                    } else if (isRadio && inp.checked) {
+                        const idxInFull = fullQuestions.indexOf(q);
+                        if (idxInFull !== -1 && fullAnswerStatus[idxInFull] === true) {
+                            currentUserAnswers[idx] = inp.value;
+                            currentAnswerStatus[idx] = true;
+                            renderQuiz();
+                        } else {
+                            currentUserAnswers[idx] = inp.value;
+                            currentAnswerStatus[idx] = true;
+                            syncFullFromCurrent();
+                            renderQuiz();
+                        }
+                    }
+                });
+            });
+            const btn = document.querySelector(`.btn-check[data-idx="${idx}"]`);
+            if (btn) {
+                btn.addEventListener('click', () => {
+                    if (!currentAnswerStatus[idx]) {
+                        currentAnswerStatus[idx] = true;
+                        syncFullFromCurrent();
+                        renderQuiz();
+                    } else if (isMulti) {
+                        syncFullFromCurrent();
+                        renderQuiz();
+                    }
+                });
+            }
+        });
+        updateStatsDisplay();
+        updateCompletionUI();
+        saveAllProgress();
+    }
+    
+    function applyFilters() {
+        if (!fullQuestions.length) return;
+        let filtered = [...fullQuestions];
+        const onlySaved = document.getElementById('onlySavedCheckbox').checked;
+        if (onlySaved) {
+            const savedIds = loadSavedQuestionIds();
+            filtered = filtered.filter(q => savedIds.includes(q.id));
+            if (filtered.length === 0) showToast(`⭐ 暂无收藏题目，请先点击题目旁的星星收藏`, 2500);
+        }
+        const countVal = document.getElementById('questionCountSelect').value;
+        if (countVal !== 'all') {
+            const limit = parseInt(countVal);
+            if (filtered.length > limit) filtered = filtered.slice(0, limit);
+        }
+        if (document.getElementById('randomizeCheckbox').checked) {
+            for (let i=filtered.length-1; i>0; i--) {
+                const j = Math.floor(Math.random()*(i+1));
+                [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
+            }
+        }
+        currentQuestions = filtered;
+        syncCurrentFromFull();
+        renderQuiz();
+        document.getElementById('settingsPanel').classList.remove('open');
+        if (onlySaved && filtered.length) showToast(`📚 当前显示 ${filtered.length} 道收藏题目`, 1500);
+        else if (!onlySaved) showToast('✅ 筛选已应用');
+    }
+    
+    function resetProgress() {
+        if (!fullQuestions.length) return;
+        localStorage.removeItem(getFullProgressKey());
+        localStorage.removeItem(getStorageKey());
+        localStorage.removeItem(getCompletionKey());
+        localStorage.removeItem(getStatsKey());
+        fullUserAnswers = new Array(fullQuestions.length).fill(null);
+        fullAnswerStatus = new Array(fullQuestions.length).fill(false);
+        for (let i=0; i<fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+        syncCurrentFromFull();
+        renderQuiz();
+        document.getElementById('settingsPanel').classList.remove('open');
+        showToast('🔄 答题进度已重置，但收藏列表保留');
+    }
+    
+    // 主加载
+    const urlParams = new URLSearchParams(window.location.search);
+    const fileParam = urlParams.get('file');
+    if (!fileParam) {
+        document.getElementById('quizContainer').innerHTML = '<div class="error-box">❌ 未提供文件参数。</div>';
+        document.getElementById('chapterTitle').innerText = '错误';
+    } else {
+        currentFilePath = decodeURIComponent(fileParam);
+        fetch(currentFilePath)
+            .then(res => res.json())
+            .then(data => {
+                const qs = parseJsonContent(data);
+                if (!qs || !qs.length) throw new Error('无题目');
+                fullQuestions = qs;
+                loadFullProgress();
+                syncCurrentFromFull();
+                applyFilters();
+                const displayName = currentFilePath.replace(/\.json$/i,'').split('/').pop();
+                const src = getSourceFromPath(currentFilePath);
+                document.getElementById('chapterTitle').innerHTML = `${displayName} <span class="source-badge">${src}</span>`;
+                let sub = data.parentCategory || data.originalData?.parentCategory || data.data?.chapterName || '';
+                document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
+            })
+            .catch(err => {
+                document.getElementById('quizContainer').innerHTML = `<div class="error-box">❌ 加载失败: ${err.message}</div>`;
+                document.getElementById('chapterTitle').innerHTML = `加载失败`;
+            });
+    }
+    
+    document.getElementById('settingsToggle').addEventListener('click', ()=>{
+        const panel = document.getElementById('settingsPanel');
+        if (panel.classList.contains('open')) panel.classList.remove('open');
+        else { panel.classList.add('open'); setTimeout(()=>panel.scrollIntoView({behavior:'smooth',block:'start'}),50); }
+    });
+    document.getElementById('applySettingsBtn').addEventListener('click', applyFilters);
+    document.getElementById('resetProgressBtn').addEventListener('click', resetProgress);
+    document.getElementById('clearSavedBtn').addEventListener('click', clearAllSaved);
 </script>
 </body>
 </html>
