@@ -1,16 +1,15 @@
-
 // sync.js – cross‑device progress sync via Tencent COS (two users)
 const BUCKET_API = 'https://quiz-app-bucket-1428146716.cos.ap-hongkong.myqcloud.com';
 const SYNC_FOLDER = 'sync';
 
-// localStorage key prefixes (must match quiz_player & index)
+// localStorage key prefixes
 const KEY_PREFIX_FULL      = 'full_progress_';
 const KEY_PREFIX_STATS     = 'quiz_stats_';
 const KEY_PREFIX_COMPLETED = 'quiz_completed_';
 const KEY_PREFIX_SAVED     = 'saved_questions_';
 const KEY_DAILY            = 'quiz_daily_history';
-const KEY_LAST_CHAPTER     = 'last_practiced_chapter';
 const KEY_USER_ID          = 'quiz_user_id';
+// last_practiced_chapter is NOT synced – stays local only
 
 // ----- localStorage helpers -----
 function getMangledPaths() {
@@ -22,10 +21,9 @@ function getMangledPaths() {
   return [...set];
 }
 
-// ----- Build / apply local state -----
+// ----- Build / apply local state (without lastPracticedChapter) -----
 function buildLocalState() {
   const dailyHistory = JSON.parse(localStorage.getItem(KEY_DAILY) || '{}');
-  const lastPracticed = localStorage.getItem(KEY_LAST_CHAPTER) || '';
   const chapters = {};
   const paths = getMangledPaths();
   paths.forEach(mp => {
@@ -41,12 +39,12 @@ function buildLocalState() {
       lastModified: Date.now()
     };
   });
-  return { dailyHistory, lastPracticedChapter: lastPracticed, chapters, lastModified: Date.now() };
+  return { dailyHistory, chapters, lastModified: Date.now() };
 }
 
 function applyState(state) {
   localStorage.setItem(KEY_DAILY, JSON.stringify(state.dailyHistory));
-  if (state.lastPracticedChapter) localStorage.setItem(KEY_LAST_CHAPTER, state.lastPracticedChapter);
+  // last_practiced_chapter is left untouched
   Object.entries(state.chapters).forEach(([mp, chap]) => {
     if (chap.fullProgress) localStorage.setItem(`${KEY_PREFIX_FULL}${mp}`, JSON.stringify(chap.fullProgress));
     if (chap.completed) localStorage.setItem(`${KEY_PREFIX_COMPLETED}${mp}`, 'true');
@@ -59,7 +57,6 @@ function applyState(state) {
 
 // ----- Merge two states (local vs cloud) -----
 function mergeStates(localState, cloudState) {
-  // merge daily histories
   const mergedDaily = { ...localState.dailyHistory };
   Object.entries(cloudState.dailyHistory).forEach(([date, data]) => {
     if (!mergedDaily[date]) mergedDaily[date] = { count: 0, practicedIds: [] };
@@ -111,10 +108,10 @@ function mergeStates(localState, cloudState) {
 
   return {
     dailyHistory: mergedDaily,
-    lastPracticedChapter: cloudState.lastPracticedChapter || localState.lastPracticedChapter,
     chapters: mergedChapters,
     lastModified: Date.now()
   };
+  // lastPracticedChapter intentionally omitted
 }
 
 // ----- Upload with optimistic locking (ETag) -----
@@ -123,7 +120,6 @@ async function uploadWithLock(url, data, currentETag) {
   if (currentETag) headers['If-Match'] = currentETag;
   const resp = await fetch(url, { method: 'PUT', body: JSON.stringify(data), headers });
   if (resp.status === 412) {
-    // conflict – re‑fetch, merge, retry once
     const refetch = await fetch(url, { cache: 'no-store' });
     if (refetch.ok) {
       const remote = await refetch.json();
@@ -153,14 +149,13 @@ async function syncNow() {
       cloudState = await resp.json();
       etag = resp.headers.get('ETag');
     }
-  } catch (e) { return; } // offline – keep local
+  } catch (e) { return; }
 
   if (cloudState) {
     const merged = mergeStates(localState, cloudState);
     applyState(merged);
     await uploadWithLock(cloudUrl, merged, etag);
   } else {
-    // first upload
     await uploadWithLock(cloudUrl, localState, null);
   }
 
@@ -168,5 +163,5 @@ async function syncNow() {
   if (typeof updateDailyDisplay === 'function') updateDailyDisplay();
   if (typeof updateStatsDisplay === 'function') updateStatsDisplay();
   if (typeof renderQuiz === 'function') renderQuiz();
-  if (typeof expandLastPracticedChapter === 'function') expandLastPracticedChapter();
+  // no need to call expandLastPracticedChapter here – it's handled by page activation
 }
