@@ -61,9 +61,9 @@
             display: flex; 
             align-items: center; 
             gap: 12px; 
-            flex-wrap: wrap;  /* allows title to wrap on narrow screens */
+            flex-wrap: wrap;
             flex: 1;
-            min-width: 0;     /* helps with flex shrinking */
+            min-width: 0;
         }
         .expand-icon { font-size: 18px; color: #8c9aa8; width: 24px; text-align: center; flex-shrink: 0; }
         .chapter-name { 
@@ -129,7 +129,19 @@
             border-bottom: 1px solid #e9eef3;
         }
         
-        /* ========== 移动端优化：idea #2 按钮换行 ========== */
+        .chapter-item.flash-target .chapter-header {
+            background: #e9f7ef !important;
+            transition: background 0.5s ease;
+        }
+        .sync-indicator {
+            font-size: 0.75rem;
+            color: #2c7a4d;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            margin-left: 8px;
+        }
+        
         @media (max-width: 700px) {
             .chapter-header {
                 flex-direction: column;
@@ -137,48 +149,19 @@
                 gap: 12px;
                 padding: 14px 18px;
             }
-            .action-buttons {
-                width: 100%;
-                justify-content: flex-start;
-            }
-            .btn {
-                padding: 6px 14px;
-                font-size: 12px;
-            }
-            .chapter-title {
-                width: 100%;
-            }
-            .chapter-name {
-                font-size: 15px;
-            }
-            .expand-icon {
-                margin-right: 4px;
-            }
-            .children {
-                padding-left: 24px;
-            }
-            .daily-stats {
-                align-items: flex-start;
-                margin-top: 6px;
-            }
+            .action-buttons { width: 100%; justify-content: flex-start; }
+            .btn { padding: 6px 14px; font-size: 12px; }
+            .chapter-title { width: 100%; }
+            .chapter-name { font-size: 15px; }
+            .expand-icon { margin-right: 4px; }
+            .children { padding-left: 24px; }
+            .daily-stats { align-items: flex-start; margin-top: 6px; }
         }
-        
-        /* 对中等屏幕优化：适当缩小间距，防止挤压 */
         @media (max-width: 900px) and (min-width: 701px) {
-            .chapter-header {
-                padding: 14px 18px;
-                gap: 12px;
-            }
-            .action-buttons {
-                gap: 8px;
-            }
-            .btn {
-                padding: 5px 12px;
-                font-size: 12px;
-            }
-            .chapter-name {
-                font-size: 14px;
-            }
+            .chapter-header { padding: 14px 18px; gap: 12px; }
+            .action-buttons { gap: 8px; }
+            .btn { padding: 5px 12px; font-size: 12px; }
+            .chapter-name { font-size: 14px; }
         }
     </style>
 </head>
@@ -191,73 +174,62 @@
             <span class="daily-counter" id="dailyCounter">📅 今日练习: 0</span>
             <span class="daily-message" id="dailyMessage"></span>
         </div>
+        <div class="user-selector" style="display:flex; align-items:center; gap:6px; margin-left:12px;">
+            <label for="userSelect" style="font-size:0.8rem; color:#5a6874; white-space:nowrap;">👤 用户:</label>
+            <select id="userSelect" style="border-radius:20px; padding:4px 12px; border:1px solid #ddd;">
+                <option value="">-- 选择 --</option>
+                <option value="1">快乐女孩</option>
+                <option value="2">App Dev</option>
+            </select>
+        </div>
+        <span class="sync-indicator" id="syncIndicator" style="display:none;">☁️ 同步中...</span>
     </div>
     <div id="chapterTree">加载中...</div>
 </div>
 
 <script>
-    // ==================== 每日练习计数器 (与 quiz_player 共享) ====================
     const DAILY_STORAGE_KEY = 'quiz_daily_history';
-    
     function getTodayDate() {
         const now = new Date();
         return `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
     }
-    
     function getYesterdayDate() {
         const yesterday = new Date();
         yesterday.setDate(yesterday.getDate() - 1);
         return `${yesterday.getFullYear()}-${String(yesterday.getMonth()+1).padStart(2,'0')}-${String(yesterday.getDate()).padStart(2,'0')}`;
     }
-    
     function loadDailyHistory() {
-        const stored = localStorage.getItem(DAILY_STORAGE_KEY);
-        if (stored) {
-            try { return JSON.parse(stored); } catch(e) {}
-        }
-        return {};
+        return JSON.parse(localStorage.getItem(DAILY_STORAGE_KEY) || '{}');
     }
-    
     function getTodayStats(history) {
         const today = getTodayDate();
         if (!history[today]) history[today] = { count: 0, practicedIds: [] };
         return history[today];
     }
-    
     function getYesterdayCount(history) {
         const yesterday = getYesterdayDate();
         return history[yesterday] ? history[yesterday].count : 0;
     }
-    
     function updateDailyDisplay() {
         const history = loadDailyHistory();
         const todayCount = getTodayStats(history).count;
         const yesterdayCount = getYesterdayCount(history);
         document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
         const msgSpan = document.getElementById('dailyMessage');
-        if (yesterdayCount > 0) {
-            msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
-        } else if (todayCount === 0) {
-            msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
-        } else {
-            msgSpan.innerHTML = `💪 继续保持！`;
-        }
+        if (yesterdayCount > 0) msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
+        else if (todayCount === 0) msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
+        else msgSpan.innerHTML = `💪 继续保持！`;
     }
-    
-    // ==================== 章节树逻辑 ====================
+
     function toRelativePath(absolutePath) {
         const knownFolders = ["Saunders", "Uworld", "医学术语", "患者需求"];
         for (const folder of knownFolders) {
             const idx = absolutePath.indexOf(folder);
-            if (idx !== -1) {
-                let rel = absolutePath.substring(idx).replace(/\\/g, '/');
-                return rel;
-            }
+            if (idx !== -1) return absolutePath.substring(idx).replace(/\\/g, '/');
         }
         const parts = absolutePath.split(/[\\/]/);
         return parts[parts.length - 1];
     }
-    
     function getChapterStats(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
         const keyCompleted = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;
@@ -266,40 +238,33 @@
         let stats = null;
         if (completed) {
             const raw = localStorage.getItem(keyStats);
-            if (raw) {
-                try { stats = JSON.parse(raw); } catch(e) {}
-            }
+            if (raw) { try { stats = JSON.parse(raw); } catch(e) {} }
         }
         return { completed, stats };
     }
-    
     function openQuiz(absolutePath) {
-        // Store last practiced chapter for auto‑expand
-        localStorage.setItem('last_practiced_chapter', absolutePath);
         const relativePath = toRelativePath(absolutePath);
+        localStorage.setItem('last_practiced_chapter', relativePath);
         const quizUrl = `quiz_player.html?file=${encodeURIComponent(relativePath)}`;
         window.open(quizUrl, '_blank');
     }
-    
+
     function renderTree(rootNode) {
         const container = document.getElementById('chapterTree');
         container.innerHTML = '';
         for (const [sourceName, topChapters] of Object.entries(rootNode)) {
             const sourceCard = document.createElement('div');
             sourceCard.className = 'chapter-card';
-            const sourceHeader = document.createElement('div');
-            sourceHeader.className = 'sub-header';
-            sourceHeader.innerHTML = `<span style="font-size:18px; font-weight:600;">📂 ${sourceName}</span>`;
-            sourceCard.appendChild(sourceHeader);
+            sourceCard.innerHTML = `<div class="sub-header" style="font-size:18px; font-weight:600;">📂 ${sourceName}</div>`;
             for (const chapter of topChapters) {
                 sourceCard.appendChild(createChapterElement(chapter, 1));
             }
             container.appendChild(sourceCard);
         }
-        // After rendering, expand the last practiced chapter if exists
+        container.setAttribute('data-ready', 'true');
         expandLastPracticedChapter();
     }
-    
+
     function createChapterElement(node, depth) {
         const wrapper = document.createElement('div');
         wrapper.className = 'chapter-item';
@@ -308,7 +273,7 @@
         header.style.paddingLeft = `${24 + (depth-1)*20}px`;
         const hasChildren = node.children && node.children.length > 0;
         const isLeaf = node.isLeaf;
-        
+
         const leftDiv = document.createElement('div');
         leftDiv.className = 'chapter-title';
         const expandSpan = document.createElement('span');
@@ -321,109 +286,88 @@
                 const childDiv = wrapper.querySelector('.children');
                 if (childDiv) {
                     const isOpen = childDiv.classList.contains('open');
-                    if (isOpen) {
-                        childDiv.classList.remove('open');
-                        expandSpan.innerHTML = '▶';
-                    } else {
-                        childDiv.classList.add('open');
-                        expandSpan.innerHTML = '▼';
-                    }
+                    if (isOpen) { childDiv.classList.remove('open'); expandSpan.innerHTML = '▶'; }
+                    else { childDiv.classList.add('open'); expandSpan.innerHTML = '▼'; }
                 }
             };
         } else {
             expandSpan.innerHTML = '•';
         }
         leftDiv.appendChild(expandSpan);
-        
         const nameSpan = document.createElement('span');
         nameSpan.className = 'chapter-name';
         nameSpan.innerText = node.name;
-        
-        // Store filePath on the wrapper for later expansion
-        if (isLeaf && node.filePath) {
-            wrapper.setAttribute('data-filepath', node.filePath);
-        }
-        
+        if (isLeaf && node.filePath) wrapper.setAttribute('data-filepath', node.filePath);
         if (isLeaf && node.filePath) {
             const { completed, stats } = getChapterStats(node.filePath);
             if (completed && stats && stats.total > 0) {
-                const badgeSpan = document.createElement('span');
-                badgeSpan.className = 'completion-badge';
-                const correct = stats.correct;
-                const total = stats.total;
-                const percent = Math.round(stats.accuracy);
-                if (correct === total) {
-                    badgeSpan.innerHTML = `✅ ${correct}/${total} 正确 (100%)`;
-                } else {
-                    badgeSpan.innerHTML = `✅ ${correct}/${total} 正确 (${percent}%)`;
-                }
-                nameSpan.appendChild(badgeSpan);
+                const badge = document.createElement('span');
+                badge.className = 'completion-badge';
+                const correct = stats.correct, total = stats.total, percent = Math.round(stats.accuracy);
+                badge.innerHTML = correct === total ? `✅ ${correct}/${total} 正确 (100%)` : `✅ ${correct}/${total} 正确 (${percent}%)`;
+                nameSpan.appendChild(badge);
             } else if (completed) {
-                const badgeSpan = document.createElement('span');
-                badgeSpan.className = 'completion-badge';
-                badgeSpan.innerHTML = `✅ 已完成`;
-                nameSpan.appendChild(badgeSpan);
+                const badge = document.createElement('span');
+                badge.className = 'completion-badge';
+                badge.innerHTML = '✅ 已完成';
+                nameSpan.appendChild(badge);
             }
         }
         leftDiv.appendChild(nameSpan);
-        
         const countSpan = document.createElement('span');
         countSpan.className = 'question-count';
         countSpan.innerText = `${node.questionNumber} 道题`;
         leftDiv.appendChild(countSpan);
-        
+
         const actions = document.createElement('div');
         actions.className = 'action-buttons';
         if (isLeaf && node.filePath) {
             const orderBtn = document.createElement('button');
-            orderBtn.className = 'btn';
-            orderBtn.innerText = '顺序刷题';
+            orderBtn.className = 'btn'; orderBtn.innerText = '顺序刷题';
             orderBtn.onclick = (e) => { e.stopPropagation(); openQuiz(node.filePath); };
             const chapBtn = document.createElement('button');
-            chapBtn.className = 'btn btn-primary';
-            chapBtn.innerText = '章节练习';
+            chapBtn.className = 'btn btn-primary'; chapBtn.innerText = '章节练习';
             chapBtn.onclick = (e) => { e.stopPropagation(); openQuiz(node.filePath); };
             actions.appendChild(orderBtn);
             actions.appendChild(chapBtn);
         } else {
             const dummy = document.createElement('span');
-            dummy.style.fontSize = '12px';
-            dummy.style.color = '#8c9aa8';
-            dummy.innerText = '展开查看内容';
+            dummy.style.fontSize = '12px'; dummy.style.color = '#8c9aa8'; dummy.innerText = '展开查看内容';
             actions.appendChild(dummy);
         }
-        
         header.appendChild(leftDiv);
         header.appendChild(actions);
         wrapper.appendChild(header);
-        
         if (hasChildren) {
             const childrenDiv = document.createElement('div');
             childrenDiv.className = 'children';
-            for (const child of node.children) {
-                childrenDiv.appendChild(createChapterElement(child, depth + 1));
-            }
+            for (const child of node.children) childrenDiv.appendChild(createChapterElement(child, depth + 1));
             wrapper.appendChild(childrenDiv);
         }
         return wrapper;
     }
-    
+
     function expandLastPracticedChapter() {
         const lastPath = localStorage.getItem('last_practiced_chapter');
         if (!lastPath) return;
         const relativeLast = toRelativePath(lastPath);
-        
         const allLeafNodes = document.querySelectorAll('.chapter-item[data-filepath]');
         let targetNode = null;
         for (let node of allLeafNodes) {
-            const path = node.getAttribute('data-filepath');
-            if (path && toRelativePath(path) === relativeLast) {
-                targetNode = node;
-                break;
+            if (node.getAttribute('data-filepath') && toRelativePath(node.getAttribute('data-filepath')) === relativeLast) {
+                targetNode = node; break;
+            }
+        }
+        if (!targetNode) {
+            const fileName = relativeLast.split('/').pop();
+            for (let node of allLeafNodes) {
+                if (node.getAttribute('data-filepath') && toRelativePath(node.getAttribute('data-filepath')).endsWith(fileName)) {
+                    targetNode = node; break;
+                }
             }
         }
         if (!targetNode) return;
-        
+        // Open ancestors
         let current = targetNode.parentElement;
         while (current) {
             if (current.classList && current.classList.contains('children')) {
@@ -431,37 +375,93 @@
                 const parentItem = current.previousElementSibling;
                 if (parentItem && parentItem.classList.contains('chapter-header')) {
                     const expandIcon = parentItem.querySelector('.expand-icon');
-                    if (expandIcon && expandIcon.innerHTML === '▶') {
-                        expandIcon.innerHTML = '▼';
-                    }
+                    if (expandIcon && expandIcon.innerHTML === '▶') expandIcon.innerHTML = '▼';
                 }
             }
             current = current.parentElement;
         }
-        targetNode.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        // Flash and scroll
+        targetNode.classList.add('flash-target');
+        setTimeout(() => targetNode.classList.remove('flash-target'), 2000);
+        requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+                targetNode.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            });
+        });
     }
-    
+
+    function setSyncStatus(text) {
+        const el = document.getElementById('syncIndicator');
+        if (text) { el.style.display = 'inline-flex'; el.innerHTML = text; }
+        else el.style.display = 'none';
+    }
+
     // Load chapters_tree.json
     fetch('chapters_tree.json')
-        .then(response => {
-            if (!response.ok) throw new Error('File not found');
-            return response.json();
-        })
-        .then(data => {
-            renderTree(data);
-            updateDailyDisplay();
-        })
+        .then(res => res.json())
+        .then(data => { renderTree(data); updateDailyDisplay(); })
         .catch(err => {
-            document.getElementById('chapterTree').innerHTML = `
-                <div style="background:white; padding:40px; border-radius:20px; text-align:center;">
-                    ⚠️ 无法加载 chapters_tree.json。<br>
-                    请确保您在本地服务器中打开此页面。
-                </div>`;
+            document.getElementById('chapterTree').innerHTML = `<div style="background:white; padding:40px; border-radius:20px; text-align:center;">⚠️ 无法加载 chapters_tree.json。</div>`;
         });
-    
-    // Refresh daily display when page becomes visible (e.g., after returning from quiz)
+</script>
+
+<script src="sync.js"></script>
+<script>
+    // ---------- Lockable User Selector ----------
+    (function() {
+        const userSelect = document.getElementById('userSelect');
+        if (!userSelect) return;
+        const storedId = localStorage.getItem('quiz_user_id');
+        if (storedId) {
+            userSelect.value = storedId;
+            for (const opt of userSelect.options) {
+                if (opt.value !== storedId && opt.value !== '') opt.disabled = true;
+            }
+            userSelect.disabled = true;
+            userSelect.style.opacity = '0.7';
+            userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
+        }
+        userSelect.addEventListener('change', () => {
+            const val = userSelect.value;
+            if (!val) return;
+            localStorage.setItem('quiz_user_id', val);
+            for (const opt of userSelect.options) {
+                if (opt.value !== val && opt.value !== '') opt.disabled = true;
+            }
+            userSelect.disabled = true;
+            userSelect.style.opacity = '0.7';
+            userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
+            if (typeof syncNow === 'function') {
+                setSyncStatus('☁️ 同步中...');
+                syncNow().finally(() => setSyncStatus(''));
+            }
+        });
+    })();
+
+    // Sync after tree loaded
+    const origRenderTree = renderTree;
+    renderTree = function(rootNode) {
+        origRenderTree(rootNode);
+        if (localStorage.getItem('quiz_user_id')) {
+            setSyncStatus('☁️ 同步中...');
+            syncNow().finally(() => setSyncStatus(''));
+        }
+    };
+
+    // Page activation – always expand the chapter
+    function onPageActivated() {
+        updateDailyDisplay();
+        expandLastPracticedChapter();
+        if (localStorage.getItem('quiz_user_id')) {
+            setSyncStatus('☁️ 同步中...');
+            syncNow().finally(() => setSyncStatus(''));
+        }
+    }
     document.addEventListener('visibilitychange', () => {
-        if (!document.hidden) updateDailyDisplay();
+        if (!document.hidden) onPageActivated();
+    });
+    window.addEventListener('pageshow', function(event) {
+        if (event.persisted) onPageActivated();
     });
 </script>
 </body>
