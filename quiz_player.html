@@ -93,6 +93,19 @@
             letter-spacing: 0.3px;
             box-shadow: inset 0 0 0 1px rgba(44,122,77,0.2);
         }
+        .compact-daily {
+            background: #eaf4e8;
+            padding: 4px 12px;
+            border-radius: 40px;
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: #1e5a3a;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            letter-spacing: 0.2px;
+        }
         .stats-summary {
             background: #f8f9fc;
             border-radius: 20px;
@@ -399,6 +412,12 @@
                 gap: 6px;
                 flex-wrap: wrap;
             }
+            .header.compact .user-selector {
+                display: none !important;
+            }
+            .header.compact #compactDailyStats {
+                display: inline-flex !important;
+            }
             .header {
                 transition: all 0.22s cubic-bezier(0.2, 0.9, 0.4, 1.1);
             }
@@ -435,9 +454,7 @@
             </div>
             <div class="compact-stats" id="compactStats">📊 0%</div>
             <a href="index.html" class="back-button">← 返回章节列表</a>
-
-            <!-- ===== COS sync user selector (LOCKABLE) ===== -->
-            <div class="user-selector" style="display:flex; align-items:center; gap:6px; margin-left:auto;">
+            <div class="user-selector" style="display:flex; align-items:center; gap:6px;">
                 <label for="userSelect" style="font-size:0.8rem; color:#5a6874; white-space:nowrap;">👤 用户:</label>
                 <select id="userSelect" style="border-radius:20px; padding:4px 12px; border:1px solid #ddd;">
                     <option value="">-- 选择 --</option>
@@ -445,7 +462,7 @@
                     <option value="2">App Dev</option>
                 </select>
             </div>
-            <!-- ===== end user selector ===== -->
+            <div id="compactDailyStats" class="compact-daily" style="display: none;"></div>
         </div>
 
         <div class="stats-summary">
@@ -505,7 +522,7 @@
 <div id="toastMessage" class="toast"></div>
 
 <script>
-    // ==================== 每日练习计数器 (与 index.html 共享) ====================
+    // ==================== 每日练习计数器 ====================
     const DAILY_STORAGE_KEY = 'quiz_daily_history';
     
     function getTodayDate() {
@@ -542,6 +559,7 @@
         const history = loadDailyHistory();
         const todayCount = getTodayStats(history).count;
         const yesterdayCount = getYesterdayCount(history);
+        // update main daily stats
         document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
         const msgSpan = document.getElementById('dailyMessage');
         if (yesterdayCount > 0) {
@@ -550,6 +568,19 @@
             msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
         } else {
             msgSpan.innerHTML = `💪 继续保持！`;
+        }
+        // update compact daily stats (for scroll header)
+        const compactDiv = document.getElementById('compactDailyStats');
+        if (compactDiv) {
+            let compactText = '';
+            if (yesterdayCount > 0) {
+                compactText = `📅 今日: ${todayCount}  | 昨日: ${yesterdayCount}  | 加油超越!`;
+            } else if (todayCount === 0) {
+                compactText = `📅 今日: 0  | 开始练习吧!`;
+            } else {
+                compactText = `📅 今日: ${todayCount}  | 继续保持!`;
+            }
+            compactDiv.innerHTML = compactText;
         }
     }
     
