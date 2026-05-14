@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <meta name="referrer" content="no-referrer">
     <title>医学词汇测验 · 云端同步</title>
     <style>
         * { box-sizing: border-box; }
@@ -291,6 +292,12 @@
             flex: 1;
             min-width: 200px;
         }
+        .question-title img, .options img, .feedback img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
         .save-btn {
             background: none;
             border: none;
@@ -357,6 +364,15 @@
             background: #f0f2f5;
         }
         .status.answered { background: #e3f7ec; color: #2c7a4d; }
+        .type3-input {
+            width: 100%;
+            padding: 10px 12px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 12px;
+            margin-top: 4px;
+            background: white;
+        }
         .error-box {
             background: #f8d7da;
             color: #721c24;
@@ -374,7 +390,6 @@
             color: #8c9aa8;
             padding-bottom: 20px;
         }
-        /* mobile compact header */
         @media (max-width: 768px) {
             .header.compact {
                 padding: 4px 12px;
@@ -439,6 +454,7 @@
             .toast { white-space: normal; text-align: center; width: 90%; }
             .daily-stats, .sync-status { align-items: flex-start; margin-top: 8px; }
             .back-button { font-size: 0.7rem; padding: 4px 12px; }
+            .type3-input { font-size: 1rem; padding: 10px; }
         }
     </style>
 </head>
@@ -517,7 +533,7 @@
     </div>
 
     <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
-    <footer>✨ <strong>单选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目。📅 每日练习计数自动重置。<br>📱 滚动时头部自动收缩，阅读更舒适</footer>
+    <footer>✨ <strong>单选/填空/多选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目。📅 每日练习计数自动重置。<br>📱 滚动时头部自动收缩，阅读更舒适</footer>
 </div>
 <div id="toastMessage" class="toast"></div>
 
@@ -559,7 +575,6 @@
         const history = loadDailyHistory();
         const todayCount = getTodayStats(history).count;
         const yesterdayCount = getYesterdayCount(history);
-        // update main daily stats
         document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
         const msgSpan = document.getElementById('dailyMessage');
         if (yesterdayCount > 0) {
@@ -569,7 +584,6 @@
         } else {
             msgSpan.innerHTML = `💪 继续保持！`;
         }
-        // update compact daily stats (for scroll header)
         const compactDiv = document.getElementById('compactDailyStats');
         if (compactDiv) {
             let compactText = '';
@@ -596,18 +610,51 @@
         updateDailyDisplay();
     }
     
-    // ==================== 原有Quiz逻辑 ====================
-    function unescapeHtml(html) {
+    // ==================== HTML 处理工具 ====================
+    function renderHtml(html) {
+        if (!html) return '';
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        return div.innerHTML;
+    }
+    
+    function escapeHtml(str) {
+        if (!str) return '';
+        return str.replace(/[&<>]/g, function(m) {
+            if (m === '&') return '&amp;';
+            if (m === '<') return '&lt;';
+            if (m === '>') return '&gt;';
+            return m;
+        });
+    }
+    
+    function extractPlainText(html) {
+        if (!html) return '';
         const div = document.createElement('div');
         div.innerHTML = html;
         return div.textContent || div.innerText || '';
     }
+    
+    function compareAnswer(userInput, correctAnswerPlain) {
+        if (!userInput || userInput.trim() === "") return false;
+        const trimmedUser = userInput.trim();
+        const trimmedCorrect = correctAnswerPlain.trim();
+        
+        const userNum = parseFloat(trimmedUser);
+        const correctNum = parseFloat(trimmedCorrect);
+        if (!isNaN(userNum) && !isNaN(correctNum)) {
+            return Math.abs(userNum - correctNum) <= 0.05;
+        }
+        return trimmedUser.toLowerCase() === trimmedCorrect.toLowerCase();
+    }
+    
     function showToast(message, duration = 2000) {
         const toast = document.getElementById('toastMessage');
         toast.textContent = message;
         toast.classList.add('show');
         setTimeout(() => toast.classList.remove('show'), duration);
     }
+    
     function parseJsonContent(jsonObj) {
         try {
             let arr = null;
@@ -618,10 +665,12 @@
             return arr;
         } catch(e) { return null; }
     }
+    
     function getSourceFromPath(p) {
         for (const src of ["Saunders","Uworld","医学术语","患者需求"]) if (p.includes(src)) return src;
         return "";
     }
+    
     function getDifficultyLabel(d) {
         if (!d) return "通用";
         if (d.includes("Analyzing")) return "分析 (Analyzing)";
@@ -631,7 +680,7 @@
         if (d.includes("中级")) return "中级";
         return d.split('-').pop() || d;
     }
-
+    
     let fullQuestions = [];
     let currentQuestions = [];
     let fullUserAnswers = [];
@@ -640,7 +689,6 @@
     let currentAnswerStatus = [];
     let currentFilePath = "";
     
-    // 收藏功能
     function getSavedKey() { return `saved_questions_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function loadSavedQuestionIds() {
         const saved = localStorage.getItem(getSavedKey());
@@ -673,7 +721,6 @@
         else renderQuiz();
     }
     
-    // 进度存储
     function getStorageKey() { return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getFullProgressKey() { return `full_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
@@ -684,7 +731,12 @@
         const type = q.type;
         const options = q.optionList || [];
         const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
-        if (type === '3') return false;
+        if (type === '3') {
+            const correctHtml = correctIds.length ? correctIds[0] : null;
+            if (!correctHtml) return false;
+            const correctPlain = extractPlainText(correctHtml);
+            return compareAnswer(userAns, correctPlain);
+        }
         if (type === '1') {
             const selected = userAns || [];
             if (!Array.isArray(selected)) return false;
@@ -703,9 +755,13 @@
         let total = 0, correct = 0;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
-            if (q.type === '3') continue;
-            total++;
-            if (fullAnswerStatus[i] && isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+            if (q.type === '3') {
+                total++;
+                if (fullAnswerStatus[i] && isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+            } else if (q.type !== '3') {
+                total++;
+                if (fullAnswerStatus[i] && isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+            }
         }
         const accuracy = total === 0 ? 0 : (correct/total)*100;
         const chapterStats = { correct, total, accuracy };
@@ -723,10 +779,15 @@
         let allCompleted = true;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
-            if (q.type === '3') continue;
-            const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
-            const isChecked = fullAnswerStatus[i] === true;
-            if (!hasAnswer || !isChecked) { allCompleted = false; break; }
+            if (q.type === '3') {
+                const hasAnswer = (fullUserAnswers[i] != null && fullUserAnswers[i] !== '');
+                const isChecked = fullAnswerStatus[i] === true;
+                if (!hasAnswer || !isChecked) { allCompleted = false; break; }
+            } else if (q.type !== '3') {
+                const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
+                const isChecked = fullAnswerStatus[i] === true;
+                if (!hasAnswer || !isChecked) { allCompleted = false; break; }
+            }
         }
         if (allCompleted && fullQuestions.length > 0) {
             localStorage.setItem(getCompletionKey(), 'true');
@@ -748,6 +809,7 @@
                     fullAnswerStatus = data.fullAnswerStatus;
                     for (let i = 0; i < fullQuestions.length; i++) {
                         if (fullQuestions[i].type === '1' && (!fullUserAnswers[i] || !Array.isArray(fullUserAnswers[i]))) fullUserAnswers[i] = [];
+                        if (fullQuestions[i].type === '3' && fullUserAnswers[i] === undefined) fullUserAnswers[i] = '';
                     }
                     return true;
                 }
@@ -755,7 +817,10 @@
         }
         fullUserAnswers = new Array(fullQuestions.length).fill(null);
         fullAnswerStatus = new Array(fullQuestions.length).fill(false);
-        for (let i = 0; i < fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+        for (let i = 0; i < fullQuestions.length; i++) {
+            if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+            if (fullQuestions[i].type === '3') fullUserAnswers[i] = '';
+        }
         return false;
     }
     
@@ -769,10 +834,15 @@
                 if (currentQuestions[i].type === '1') {
                     if (!ans || !Array.isArray(ans)) ans = [];
                     currentUserAnswers[i] = [...ans];
-                } else currentUserAnswers[i] = ans;
+                } else if (currentQuestions[i].type === '3') {
+                    currentUserAnswers[i] = (ans === undefined || ans === null) ? '' : ans;
+                } else {
+                    currentUserAnswers[i] = ans;
+                }
                 currentAnswerStatus[i] = fullAnswerStatus[idxInFull] || false;
             } else {
                 if (currentQuestions[i].type === '1') currentUserAnswers[i] = [];
+                else if (currentQuestions[i].type === '3') currentUserAnswers[i] = '';
                 else currentUserAnswers[i] = null;
                 currentAnswerStatus[i] = false;
             }
@@ -783,7 +853,13 @@
         for (let i = 0; i < currentQuestions.length; i++) {
             const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
             if (idxInFull !== -1) {
-                fullUserAnswers[idxInFull] = (currentQuestions[i].type === '1') ? [...(currentUserAnswers[i] || [])] : currentUserAnswers[i];
+                if (currentQuestions[i].type === '1') {
+                    fullUserAnswers[idxInFull] = [...(currentUserAnswers[i] || [])];
+                } else if (currentQuestions[i].type === '3') {
+                    fullUserAnswers[idxInFull] = currentUserAnswers[i] || '';
+                } else {
+                    fullUserAnswers[idxInFull] = currentUserAnswers[i];
+                }
                 fullAnswerStatus[idxInFull] = currentAnswerStatus[i];
             }
         }
@@ -814,13 +890,22 @@
         let total = 0, answered = 0, correct = 0, incorrect = 0;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
-            if (q.type === '3') continue;
-            total++;
-            const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
-            if (hasAnswer) answered++;
-            if (fullAnswerStatus[i] && hasAnswer) {
-                if (isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
-                else incorrect++;
+            if (q.type === '3') {
+                total++;
+                const hasAnswer = (fullUserAnswers[i] != null && fullUserAnswers[i] !== '');
+                if (hasAnswer) answered++;
+                if (fullAnswerStatus[i] && hasAnswer) {
+                    if (isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+                    else incorrect++;
+                }
+            } else if (q.type !== '3') {
+                total++;
+                const hasAnswer = (q.type === '1') ? (fullUserAnswers[i] && fullUserAnswers[i].length > 0) : (fullUserAnswers[i] != null);
+                if (hasAnswer) answered++;
+                if (fullAnswerStatus[i] && hasAnswer) {
+                    if (isQuestionCorrect(q, fullUserAnswers[i], true)) correct++;
+                    else incorrect++;
+                }
             }
         }
         const unanswered = total - answered;
@@ -855,30 +940,48 @@
             const isMulti = (qType === '1');
             const isRadio = (!isMulti && qType !== '3');
             const userSel = currentUserAnswers[idx] || (isMulti ? [] : null);
-            const statusClass = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? 'answered' : '';
-            const statusText = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null)) ? '已回答' : '未答';
+            const statusClass = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null && userSel !== '')) ? 'answered' : '';
+            const statusText = (userSel && (Array.isArray(userSel) ? userSel.length > 0 : userSel !== null && userSel !== '')) ? '已回答' : '未答';
             const isCorrectShown = currentAnswerStatus[idx] || false;
-            let selectedId = (!isMulti && userSel) ? userSel : null;
+            let selectedId = (!isMulti && qType !== '3' && userSel) ? userSel : null;
             let selectedIds = (isMulti && Array.isArray(userSel)) ? userSel : [];
             const difficultyLabel = getDifficultyLabel(q.difficulty);
             const saved = isQuestionSaved(q.id);
             const questionNumber = idx + 1;
             
             html += `<div class="card" data-qidx="${idx}"><div class="question-header">
-                        <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '排序题' : '单选题')}</span>
+                        <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '填空题' : '单选题')}</span>
                         <span class="difficulty-badge">📊 ${difficultyLabel}</span>
                         <span class="question-number">${questionNumber}</span>
-                        <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
+                        <div class="question-title">${renderHtml(q.content) || '无题目'}</div>
                         <button class="save-btn ${saved ? 'saved' : ''}" data-id="${q.id}" data-savebtn="${idx}">${saved ? '★' : '☆'}</button>
                         <span class="status ${statusClass}">${statusText}</span>
                      </div><div class="options" id="options-${idx}">`;
+            
             if (qType === '3') {
-                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;"><strong>📌 排序题：</strong> 下面列出原有顺序，可参考解析。<br/><ul>`;
-                options.forEach((opt, i) => html += `<li>${i+1}. ${unescapeHtml(opt.content)}</li>`);
-                html += `</ul></div>`;
+                const userAnswerValue = (currentUserAnswers[idx] !== null && currentUserAnswers[idx] !== undefined) ? currentUserAnswers[idx] : '';
+                html += `<div class="answer-input" style="margin-bottom:12px;">
+                            <label style="font-weight:500;">✍️ 你的答案：</label>
+                            <input type="text" inputmode="text" class="type3-input" data-idx="${idx}"
+                                   value="${escapeHtml(String(userAnswerValue))}"
+                                   placeholder="请输入答案" style="width:100%; padding:10px; margin-top:4px; border-radius:8px; border:1px solid #ccc;">
+                        </div>
+                        <div style="margin-top:12px; text-align:right;">
+                            <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>
+                        </div>`;
                 if (isCorrectShown) {
-                    let correctOrder = [...options].sort((a,b)=> parseInt(a.isRight)-parseInt(b.isRight)).map(o=>o.content).join(' → ');
-                    html += `<div class="analysis"><strong>正确顺序：</strong> ${correctOrder}<br/><strong>解析：</strong> ${unescapeHtml(q.textAnalysis || '无解析')}</div>`;
+                    const userAnswer = currentUserAnswers[idx] || '';
+                    const correctAnswerObj = q.optionList[0];
+                    const correctHtml = correctAnswerObj ? correctAnswerObj.content : '';
+                    const correctPlain = extractPlainText(correctHtml);
+                    const isAnswerCorrect = compareAnswer(userAnswer, correctPlain);
+                    const correctClass = "correct-answer";
+                    const userAnswerClass = isAnswerCorrect ? "your-answer-correct" : "your-answer-incorrect";
+                    html += `<div class="feedback">
+                                <div class="${correctClass}">✅ 正确答案： ${escapeHtml(correctPlain)}</div>
+                                <div class="${userAnswerClass}">📝 你的答案： ${escapeHtml(userAnswer) || '未填'}</div>
+                                <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
+                             </div>`;
                 }
             } else {
                 options.forEach((opt, optIdx) => {
@@ -887,7 +990,7 @@
                     const inputType = isMulti ? 'checkbox' : 'radio';
                     html += `<div class="option"><span class="prefix">${letter}.</span>
                              <input type="${inputType}" name="q${idx}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
-                             <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label></div>`;
+                             <label for="opt_${idx}_${optIdx}">${renderHtml(opt.content)}</label></div>`;
                 });
                 if (isMulti) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
                 else if (isRadio && !isCorrectShown) html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
@@ -895,19 +998,19 @@
                     const isAnswerCorrect = isQuestionCorrect(q, userSel, true);
                     const correctClass = "correct-answer";
                     const userAnswerClass = isAnswerCorrect ? "your-answer-correct" : "your-answer-incorrect";
-                    let correctText = options.filter(o=>o.isRight==="1").map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;}).join(' ;  ');
+                    let correctText = options.filter(o=>o.isRight==="1").map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${renderHtml(o.content)}`;}).join(' ;  ');
                     let userText = '';
                     if (isMulti) {
-                        let selOpts = options.filter(o=>selectedIds.includes(o.id)).map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${unescapeHtml(o.content)}`;});
+                        let selOpts = options.filter(o=>selectedIds.includes(o.id)).map(o=>{let l=String.fromCharCode(65+options.findIndex(x=>x.id===o.id)); return `${l}. ${renderHtml(o.content)}`;});
                         userText = selOpts.length ? selOpts.join(' ; ') : '未选任何选项';
                     } else {
                         let selOpt = options.find(o=>o.id===selectedId);
-                        userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===selectedId))}. ${unescapeHtml(selOpt.content)}` : '未选';
+                        userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===selectedId))}. ${renderHtml(selOpt.content)}` : '未选';
                     }
                     html += `<div class="feedback">
                                 <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
                                 <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
-                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                                <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
                             </div>`;
                 }
             }
@@ -920,6 +1023,53 @@
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 if (qid) toggleSavedQuestion(qid);
+            });
+        });
+        
+        document.querySelectorAll('.type3-input').forEach(input => {
+            const idx = parseInt(input.dataset.idx);
+            input.addEventListener('input', (e) => {
+                currentUserAnswers[idx] = e.target.value;
+                syncFullFromCurrent();
+                const statusSpan = document.querySelector(`.card[data-qidx="${idx}"] .status`);
+                if (statusSpan) {
+                    const hasValue = e.target.value.trim() !== '';
+                    statusSpan.innerText = hasValue ? '已回答' : '未答';
+                    if (hasValue) statusSpan.classList.add('answered');
+                    else statusSpan.classList.remove('answered');
+                }
+            });
+        });
+        
+        document.querySelectorAll('.btn-check').forEach(btn => {
+            const idx = parseInt(btn.dataset.idx);
+            btn.addEventListener('click', () => {
+                const q = currentQuestions[idx];
+                if (!q) return;
+                if (q.type === '3') {
+                    if (!currentAnswerStatus[idx]) {
+                        const userAnswer = currentUserAnswers[idx] || '';
+                        const correctAnswerObj = q.optionList[0];
+                        const correctHtml = correctAnswerObj ? correctAnswerObj.content : '';
+                        const correctPlain = extractPlainText(correctHtml);
+                        const isCorrect = compareAnswer(userAnswer, correctPlain);
+                        currentAnswerStatus[idx] = true;
+                        if (isCorrect) recordPractice(q.id);
+                        syncFullFromCurrent();
+                        renderQuiz();
+                    }
+                    return;
+                }
+                if (!currentAnswerStatus[idx]) {
+                    currentAnswerStatus[idx] = true;
+                    recordPractice(currentQuestions[idx].id);
+                    syncFullFromCurrent();
+                    renderQuiz();
+                } else if (q.type === '1') {
+                    recordPractice(currentQuestions[idx].id);
+                    syncFullFromCurrent();
+                    renderQuiz();
+                }
             });
         });
         
@@ -962,21 +1112,6 @@
                     }
                 });
             });
-            const btn = document.querySelector(`.btn-check[data-idx="${idx}"]`);
-            if (btn) {
-                btn.addEventListener('click', () => {
-                    if (!currentAnswerStatus[idx]) {
-                        currentAnswerStatus[idx] = true;
-                        recordPractice(currentQuestions[idx].id);
-                        syncFullFromCurrent();
-                        renderQuiz();
-                    } else if (isMulti) {
-                        recordPractice(currentQuestions[idx].id);
-                        syncFullFromCurrent();
-                        renderQuiz();
-                    }
-                });
-            }
         });
         updateStatsDisplay();
         updateCompletionUI();
@@ -1019,14 +1154,16 @@
         localStorage.removeItem(getStatsKey());
         fullUserAnswers = new Array(fullQuestions.length).fill(null);
         fullAnswerStatus = new Array(fullQuestions.length).fill(false);
-        for (let i=0; i<fullQuestions.length; i++) if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+        for (let i=0; i<fullQuestions.length; i++) {
+            if (fullQuestions[i].type === '1') fullUserAnswers[i] = [];
+            if (fullQuestions[i].type === '3') fullUserAnswers[i] = '';
+        }
         syncCurrentFromFull();
         renderQuiz();
         document.getElementById('settingsPanel').classList.remove('open');
         showToast('🔄 答题进度已重置，但收藏列表保留');
     }
     
-    // 主加载
     const urlParams = new URLSearchParams(window.location.search);
     const fileParam = urlParams.get('file');
     if (!fileParam) {
@@ -1051,7 +1188,6 @@
                 let sub = data.parentCategory || data.originalData?.parentCategory || data.data?.chapterName || '';
                 document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
                 updateDailyDisplay();
-                // scroll compact header logic
                 initScrollCompact();
             })
             .catch(err => {
@@ -1090,7 +1226,7 @@
     }
 </script>
 
-<!-- ===== COS SYNC INTEGRATION ===== -->
+<!-- COS SYNC INTEGRATION -->
 <script src="sync.js"></script>
 <script>
     // ---------- Lockable User Selector ----------
