@@ -2,15 +2,15 @@
     "code": 1,
     "data": {
         "score": "--",
-        "createdDate": "2026-04-30 13:25:22",
+        "createdDate": "2026-05-05 14:29:26",
         "success": true,
         "typeText": "章节练习",
         "record": {
             "createdBy": "1c2399a9e00576675c85a30b57a03a51",
-            "createdDate": "2026-04-30 13:25:22",
+            "createdDate": "2026-05-05 14:29:26",
             "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
-            "lastModifiedDate": "2026-04-30 13:25:25",
-            "id": "b76c2a32fbee0ac3ee4e749b25f63803",
+            "lastModifiedDate": "2026-05-05 14:29:32",
+            "id": "b9346f1baa3f46cdc539d3e98034416e",
             "extJson": {
                 "studentQuestionArray": [
                     {
@@ -618,6 +618,82 @@
                         "difficulty": "中级",
                         "textAnalysis": "<p>Acute blood loss is a medical emergency, and the nurse needs to carry out interventions rapidly.  Lowering the head of the bed or placing the client in the supine position maintains blood perfusion to the brain and other vital organs.  This can be done quickly to help stabilize the client before performing other interventions.</p><p><br></p><p>(Option 1)  Assessing and recording vital signs is appropriate and should be reported to the health care provider, but this is not the priority.</p><p><br></p><p>(Option 2)  Monitoring hemoglobin and hematocrit levels is appropriate to assess the severity of blood loss and need for possible blood transfusion.  Blood loss typically takes a few hours to reflect on the client's laboratory report; therefore, this is not the priority.</p><p><br></p><p>(Option 4)  Ensuring IV access and continuing fluid administration is appropriate.  This maintains fluid volume due to blood loss and corrects or reduces potential for hypovolemic shock.  This can be done after lowering the head of the bed.</p><p><br></p><p>Educational objective:</p><p>A client with significant blood loss has a medical emergency, and interventions that will hemodynamically stabilize the client should take priority.</p>",
                         "id": "2fae4bfba7dc4d09bb3b4f2f1df68de7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eebbe777684608da9b028f182d5dfde7",
+                                "content": "450 kcal/day"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1003ab8df09dc17575268c82d8be5f5d",
+                                "content": "625 kcal/day"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6656569d234190498d946df6ee3df2ac",
+                                "content": "860 kcal/day"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95d0a4a068c6f3367d3dc342bb4e4897",
+                                "content": "1,000 kcal/day"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eebbe777684608da9b028f182d5dfde7",
+                                    "content": "450 kcal/day"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1003ab8df09dc17575268c82d8be5f5d",
+                                    "content": "625 kcal/day"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6656569d234190498d946df6ee3df2ac",
+                                    "content": "860 kcal/day"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95d0a4a068c6f3367d3dc342bb4e4897",
+                                    "content": "1,000 kcal/day"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client tells the nurse of wanting to lose 20 lb (9 kg) in time for the client's daughter's wedding, which is 16 weeks away.  How many calories (kcal) will the client have to eliminate from the diet each day to meet this goal?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "A reduction or energy expenditure of 3,500 calories (kcal) will result in a weight loss of 1 lb (0.45 kg).  To lose 20 lb (9 kg), the client needs to reduce intake by a total of 70,000 kcal (3500 kcal x 20 lb [9 kg] = 70,000 kcal).  Over a period of 16 weeks, this would require a daily reduction of:\n\n625 kcal (70,000 kcal / [16 weeks x 7 days] = 625 kcal/day)\nAdding an exercise regimen to the client's daily routine would facilitate additional weight loss and/or reduce the need for severe caloric restriction.\n\n(Option 1)  Reducing intake by 450 kcal/day over 16 weeks would result in a weight loss of 14.5 lb (6.5 kg).\n\n(Option 3)  Reducing intake by 860 kcal/day over 16 weeks would result in a weight loss of 27.5 lb (12.4 kg).\n\n(Option 4)  Reducing intake by 1000 kcal/day over 16 weeks would result in a weight loss of 32 lb (14.5 kg).\n\nEducational objective:\nA reduction or energy expenditure of 3500 calories (kcal) will result in a weight loss of 1 lb.",
+                        "id": "3077b8c53fed457dbc7132a819758a35",
                         "mark": "0",
                         "collectionState": "0"
                     },
@@ -1612,6 +1688,82 @@
                     {
                         "optionList": [
                             {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2382d1ec47c3169841737967ae690346",
+                                "content": "Blood pressure drop from 122/88 mm Hg to 106/72 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4872650ec899a4848bceeccaf5f326e",
+                                "content": "Gag reflex has not returned"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9bed01e5ee928decac5d11958a25eae",
+                                "content": "Sore throat when swallowing"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dcf1d7642d3680a6417350b2fae9d3d5",
+                                "content": "Temperature spike to 101.2 F (38.4 C)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2382d1ec47c3169841737967ae690346",
+                                    "content": "Blood pressure drop from 122/88 mm Hg to 106/72 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4872650ec899a4848bceeccaf5f326e",
+                                    "content": "Gag reflex has not returned"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9bed01e5ee928decac5d11958a25eae",
+                                    "content": "Sore throat when swallowing"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dcf1d7642d3680a6417350b2fae9d3d5",
+                                    "content": "Temperature spike to 101.2 F (38.4 C)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client who had an esophagogastroduodenoscopy (EGD) 2 hours ago.  Which finding requires an immediate report to the health care provider?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "A sudden temperature spike 1-2 hours after an esophagogastroduodenoscopy (EGD) could be a sign of perforation or a developing infection.  The nurse should notify the health care provider immediately.\n\n(Option 1)  This blood pressure drop could be due to several things (sedation, blood loss, sepsis), but without any other symptoms indicating an emergency condition, it is still within the normal range.\n\n(Option 2)  The gag reflex may take a few hours to return as the EGD involves applying a topical anesthetic to the throat.  Absent gag reflex after a prolonged period (6 hours) would require reporting to the health care provider.\n\n(Option 3)  A sore throat is expected after certain procedures (EGD, intubation) due to local irritation.  Warm saline gargles could provide some relief.\n\nEducational objective:\nFever after an esophagogastroduodenoscopy (EGD) or colonoscopy could be a sign of infection from perforation and should be reported.",
+                        "id": "57b03cbe3c1b490190f497cb3f49abb2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
                                 "isRight": "1",
                                 "userAnswer": "",
                                 "isSelected": "0",
@@ -1843,6 +1995,158 @@
                                 "isRight": "0",
                                 "userAnswer": "",
                                 "isSelected": "0",
+                                "id": "979f9715e7127c88a7c2c328608b81ab",
+                                "content": "&quot;I have had some visual disturbances while driving at night.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6008321eb24460a369a334ac6d4f0f5b",
+                                "content": "&quot;I have had trouble falling asleep over the past few months.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7c758ca7e672c6592b7571c681c3e56",
+                                "content": "&quot;Scaly patches of skin are developing on my elbows and knees.&quot; "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a28458c32491d495082303afa5abb14",
+                                "content": "&quot;Sometimes my hands and feet get a tingling sensation.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "979f9715e7127c88a7c2c328608b81ab",
+                                    "content": "&quot;I have had some visual disturbances while driving at night.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6008321eb24460a369a334ac6d4f0f5b",
+                                    "content": "&quot;I have had trouble falling asleep over the past few months.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7c758ca7e672c6592b7571c681c3e56",
+                                    "content": "&quot;Scaly patches of skin are developing on my elbows and knees.&quot; "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a28458c32491d495082303afa5abb14",
+                                    "content": "&quot;Sometimes my hands and feet get a tingling sensation.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse assesses a client who has followed a vegan diet for several years.  Which client statement would indicate a possible complication resulting from a vegan diet?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "People who follow a vegan diet eat only plant-based foods and omit animal proteins and byproducts such as milk and eggs.  They do not have an adequate intake of vitamin B12 (cobalamin) and are at risk for developing megaloblastic anemia and neurological manifestations.  Vitamin B12 deficiency affects the entire nervous system, from peripheral nerves to the spinal cord and brain.  Peripheral neuropathy manifests as tingling and numbness.  Spinal cord involvement can cause gait problems.  Brain involvement causes memory loss/dementia (late).\n\nVitamin B12 is obtained only from animal proteins, so clients who follow a vegan diet must be educated regarding supplementation.\n\n(Options 1, 2, and 3)  Visual disturbances, difficulty falling asleep, and scaly patches of skin are not complications of a vegan diet.\n\nEducational objective:\nClients who follow a vegan diet should be taught about vitamin B12 deficiency and the importance of supplementation.  Vitamin B12 deficiency affects the entire nervous system, from peripheral nerves to the spinal cord and brain.",
+                        "id": "667895a711ea4a4bb676f22887be6bd4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90a137fbeade2af0181718ba5333c0fa",
+                                "content": "Ciprofloxacin IV q12h"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ae5f63624f2b0bce5cbd26e86864615",
+                                "content": "Hydromorphone IV PRN q4h"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b31efa83529905f65924bfafcd498a59",
+                                "content": "Magnesium citrate PO once"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea78ec1aaa1121aeaf374baf6c623a48",
+                                "content": "Ondansetron sublingual PRN q8h"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90a137fbeade2af0181718ba5333c0fa",
+                                    "content": "Ciprofloxacin IV q12h"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ae5f63624f2b0bce5cbd26e86864615",
+                                    "content": "Hydromorphone IV PRN q4h"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b31efa83529905f65924bfafcd498a59",
+                                    "content": "Magnesium citrate PO once"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea78ec1aaa1121aeaf374baf6c623a48",
+                                    "content": "Ondansetron sublingual PRN q8h"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted with acute diverticulitis.  Which prescription should the nurse clarify with the health care provider?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Diverticulitis is an inflammation of diverticula and occurs when increased pressure in the colon and hardened fecal matter cause erosion of the diverticular wall.  In diverticulitis, the diverticula are fragile and create weak areas of the colon wall, which increases the risk of bowel perforation.  Nurses caring for clients with acute diverticulitis should avoid actions that increase the intraluminal pressure and peristaltic movement of the colon, such as administering laxatives (eg, magnesium citrate, bisacodyl) or enemas, which may strain and rupture fragile diverticula (Option 3).\n\n(Option 1)  Ciprofloxacin is an antibiotic commonly used to treat abdominal infections in acute diverticulitis.\n\n(Option 2)  Hydromorphone is an opioid analgesic used to manage severe pain in acute diverticulitis.\n\n(Option 4)  Ondansetron is an antiemetic.  Prevention of vomiting is critical, as it increases intra-abdominal pressure and puts the client at risk for bowel perforation from the rupture of fragile diverticula.",
+                        "id": "687f1333ecdd4403883da71681aa2314",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
                                 "id": "0f8696046a06d97bffe24404c5358fc5",
                                 "content": " Administer the prescribed as-needed milk of magnesia"
                             },
@@ -1910,6 +2214,82 @@
                         "difficulty": "中级",
                         "textAnalysis": "<p>Constipation may develop as a side effect of anesthesia, pain medication, physiological stress, and/or immobility.  The nurse's first priority is to assess the client.  The nurse can administer the as-needed laxative once it has been determined to be safe.  The HCP is contacted if the focused abdominal assessment indicates a potential complication, such as postoperative ileus.</p><p><br></p><p>(Option 1)  The nurse's first priority is assessment.  A laxative would not help if this client had intestinal obstruction (from adhesions).</p><p><br></p><p>(Option 2)  The client is taught to eat a high-fiber diet and increase fluid intake to promote normal bowel function.  The nurse would not change the diet until further assessment of the client is accomplished and the HCP has prescribed a new diet.</p><p><br></p><p>(Option 3)  The nurse should further assess the client before contacting the HCP.</p><p><br></p><p>Educational objective:</p><p>Constipation may be a side effect of anesthesia, pain medication, physiological stress, and/or immobility.  The nurse's first priority is to assess the client and then use measures that promote normal bowel function (eg, as-needed laxatives, stool softeners, bulk agents, high-fiber diet, increased fluids).</p>",
                         "id": "68f760bf30b2465ab02a84d58e73d622",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b914e96e9efd1ef1e46bbd666632bb16",
+                                "content": "Administer 5-325 mg hydrocodone/acetaminophen PO for pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "543af012184ddc710ce0ef87a4b1cc89",
+                                "content": "Draw blood for complete blood count and electrolyte levels "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91b11eedd58d44fdae88e50d931a1934",
+                                "content": "Obtain urine specimen for urinalysis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9b1286b2e817caecb426248aa1378b8",
+                                "content": "Start intravenous (IV) line with normal saline 100 mL/hr"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b914e96e9efd1ef1e46bbd666632bb16",
+                                    "content": "Administer 5-325 mg hydrocodone/acetaminophen PO for pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "543af012184ddc710ce0ef87a4b1cc89",
+                                    "content": "Draw blood for complete blood count and electrolyte levels "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91b11eedd58d44fdae88e50d931a1934",
+                                    "content": "Obtain urine specimen for urinalysis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9b1286b2e817caecb426248aa1378b8",
+                                    "content": "Start intravenous (IV) line with normal saline 100 mL/hr"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to the emergency room with right lower quadrant pain and suspected acute appendicitis.  Which health care provider prescription should the nurse implement first?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "When infected or obstructed by a foreign body or fecal material, the appendix becomes inflamed, causing acute appendicitis.  The appendix may rupture if left untreated, placing the client at risk for peritonitis, a potentially fatal infection of the peritoneum.\n\nWhen prioritizing multiple prescriptions, the nurse should first address issues of airway, breathing, circulation, and then vital signs.  Initial interventions for acute appendicitis may include the following:\n\nEnsure patent airway and administer oxygen if hypoxic\nObtain IV access and administer prescribed fluids (Option 4)\nDraw blood samples for complete blood count (CBC), electrolyte levels, clotting studies, and type and cross as prescribed (Option 2)\nInsert indwelling urinary catheter and obtain urine sample for urinalysis, if prescribed (Option 3)\nInsert a nasogastric (NG) tube if necessary\n(Option 1)  Clients with acute appendicitis are at risk for rupture of the appendix and may require emergency surgery.  Therefore, the nurse should ensure NPO status is maintained.  Pain medications will be administered intravenously.  In addition, circulation takes priority over the pain medication.\n\nEducational objective:\nThe nurse must prioritize issues of airway, breathing, circulation, and changes in vital signs above other prescriptions.  A client with acute appendicitis is at risk for a ruptured appendix.  This could result in peritonitis, which is a potentially fatal infection.",
+                        "id": "6a1377f76ee841d2ba83a3271ff07e79",
                         "mark": "0",
                         "collectionState": "0"
                     },
@@ -2994,6 +3374,92 @@
                                 "isRight": "0",
                                 "userAnswer": "",
                                 "isSelected": "0",
+                                "id": "26cb6fe6062b0f42d2888ff3ef58e9a3",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Administer 80 mg pantoprazole IVPB</span></p>"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8fcce71e25a7f6b33129f03ad9695cf7",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Infuse additional 2 L 0.9% sodium chloride IV bolus</span></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9cf0557545e496fc0ec825a3c88a66e0",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Initiate 50 mcg/hr octreotide IV continuous</span></p>"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1334e089b7443d21edc557a5b8221562",
+                                "videoIdContent": "",
+                                "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Transfuse two units of packed RBCs</span></p>"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "26cb6fe6062b0f42d2888ff3ef58e9a3",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Administer 80 mg pantoprazole IVPB</span></p>"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8fcce71e25a7f6b33129f03ad9695cf7",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Infuse additional 2 L 0.9% sodium chloride IV bolus</span></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9cf0557545e496fc0ec825a3c88a66e0",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Initiate 50 mcg/hr octreotide IV continuous</span></p>"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1334e089b7443d21edc557a5b8221562",
+                                    "videoIdContent": "",
+                                    "content": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;\nfont-size:10.5000pt;mso-font-kerning:0.0000pt;\">Transfuse two units of packed RBCs</span></p>"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>This question has been deactivated. Please do not rely on the content/concept discussed in this question as it might be outdated or inaccurate. Due to the volume of feedback, it is not possible for us to discuss the reason for deactivation in detail.</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1741847522436.png\"></p><p>The emergency department nurse is caring for a client with a history of liver disease and acute upper gastrointestinal bleed.&nbsp; The nurse has established large-bore IV access and administered 2 L 0.9% sodium chloride IV bolus.&nbsp; Based on the clinical data, which prescription should the nurse question?&nbsp; <strong>Click the exhibit button for additional information</strong>.</p>",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "videoIdAnalysis": "",
+                        "textAnalysis": "<p><strong>Upper gastrointestinal bleeding</strong>&nbsp;(UGIB) occurs in the upper gastrointestinal tract (ie, esophagus, stomach, duodenum) and is commonly associated with gastroesophageal varices or peptic ulcers.&nbsp; Emergency management of UGIB includes establishing large-bore IV access and administering <strong>IV fluid resuscitation</strong>&nbsp;and/or <strong>blood</strong>, depending on the severity of the bleeding and hemodynamic compromise (eg, hypotension, tachycardia).<img src=\"https://class.nursingonline.cn/static/file/img/1741847596659.png\"></p><p>For a hypotensive client, the anticipated outcome of IV fluid resuscitation is improved cardiovascular stability.&nbsp; Clients who do not respond to initial IV fluid bolus or those who have indicators of worsened oxygen delivery due to hemorrhage (eg, hypoxemia, tachypnea) should receive blood promptly.&nbsp; <strong>Additional IV fluid bolus</strong>&nbsp;is initially <strong>avoided to prevent</strong>&nbsp;respiratory distress due to <strong>fluid volume overload</strong>&nbsp;and <strong>pulmonary edema (Option 2)</strong>.</p><p><strong>(Option 1)</strong>&nbsp; Pantoprazole is a proton pump inhibitor that is administered to decrease stomach acid, which decreases inflammation in the stomach and esophagus and promotes healing.</p><p><strong>(Option 3)</strong>&nbsp; Octreotide is a somatostatin that may be administered for suspected bleeding esophageal varices because it decreases pressure and blood flow through the portal vein.</p><p><strong>(Option 4)</strong>&nbsp; The client's hemoglobin level dropped from 11 g/dL (110 g/L) to 7.8 g/dL (78 g/L), and infusion of packed RBCs may prevent a further drop in hemoglobin.</p><p><strong>Educational objective:</strong></p><p>For hypotensive clients who do not respond to initial IV fluid bolus or those who have indicators of worsened oxygen delivery due to blood loss (eg, hypoxemia, tachypnea), the nurse should prioritize blood administration and avoid an additional IV fluid bolus to prevent fluid volume overload and pulmonary edema.</p><p>Reduction of Risk Potential</p><p>NCSBN Client Need</p>",
+                        "id": "a4fcaea441bbfdbf25c329723b304888",
+                        "videoIdContent": "",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
                                 "id": "c07fbd2836cd6213de283dffe1ad3c1a",
                                 "content": "&quot;After the test, you may notice your stools are tarry black for a few days.&quot;"
                             },
@@ -3982,6 +4448,82 @@
                                 "isRight": "0",
                                 "userAnswer": "",
                                 "isSelected": "0",
+                                "id": "b6de8668659fdd28938f5718b6239f9a",
+                                "content": "Check serum blood glucose"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8678dd3fa0358a3db232267e416c64bd",
+                                "content": "Encourage dry foods with a low carbohydrate content"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b24c8ad86889b3121ea1f298990cbc64",
+                                "content": "Take vital signs lying and standing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c02d14d5eda9f86394d329197b2dc98",
+                                "content": "Teach the client to sit up after eating"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b6de8668659fdd28938f5718b6239f9a",
+                                    "content": "Check serum blood glucose"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8678dd3fa0358a3db232267e416c64bd",
+                                    "content": "Encourage dry foods with a low carbohydrate content"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b24c8ad86889b3121ea1f298990cbc64",
+                                    "content": "Take vital signs lying and standing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c02d14d5eda9f86394d329197b2dc98",
+                                    "content": "Teach the client to sit up after eating"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client comes to the clinic for a follow up visit following a Billroth II surgery (gastrojejunostomy). &nbsp;The client reports occasionally experiencing sweating, palpitations, and dizziness 30 minutes after eating. &nbsp;What action should the nurse take?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "The Billroth II surgery （gastrojejunostomy） removes the distal two-thirds of the stomach.  Dumping syndrome is a complication of the surgically reduced gastric capacity.  Dumping syndrome is the rapid emptying of hypertonic gastric contents into the duodenum and small intestine.  This process leads to fluid shift from the intravascular space to the small intestine, leading to hypotension and activation of the sympathetic nervous system.  Symptoms include abdominal pain, diarrhea, nausea and vomiting, dizziness, generalized sweating, and palpitations （tachycardia）.  The symptoms usually diminish over time, and dietary changes are helpful in controlling the symptoms.\r\n\r\nDietary recommendations to promote delayed gastric emptying:\r\n\r\nSmall, frequent meals – reduces the amount of food in the stomach at any one time\r\nFoods high in protein and fat – these take longer to digest and will remain in the stomach longer than carbohydrates\r\nDrink fluids between meals （at least 30-45 min before or after meals） – fluids with meals would promote passage of stomach contents into the jejunum easily and worsen symptoms\r\nAvoid meals high in carbohydrates – may trigger dumping syndrome as the carbohydrates are broken down into simple sugars （Option 2）\r\nDiets high in fiber  – delay the emptying of the stomach and prevent rapid absorption of simple sugars\r\nEat slowly in a relaxed environment\r\nAvoid sitting up after a meal.  Gravity increases gastric emptying.  Lying down after meals would slow down gastric emptying and is preferred （Option 4）.\r\n（Option 1）  Sweating, palpitations, and dizziness can result from hypoglycemia, which are not likely to occur 30 minutes after a meal and are not the cause of this client＇s symptoms.\r\n\r\n（Option 3）  Checking vital signs lying and standing assess for orthostatic hypotension, which occurs with dehydration.  There is no indication that the client is presently dehydrated, and this assessment would not be helpful.\r\n\r\nEducational objective:\r\nSurgical reduction of gastric capacity can be complicated by dumping syndrome, in which rapid emptying of stomach contents causes fluid shifts and hypotension.  Dietary recommendations to prevent dumping syndrome include decreased fluid intake with meals, decreased carbohydrates, and moderate fat and protein intake.",
+                        "id": "d5b119670c0f4848bee61ebb85233183",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
                                 "id": "913c15a04b8f91cd74c6bc740fd7563f",
                                 "content": "Serum albumin level and body weight"
                             },
@@ -4524,6 +5066,158 @@
                                 "isRight": "0",
                                 "userAnswer": "",
                                 "isSelected": "0",
+                                "id": "a1252656d8107968f903897693d44530",
+                                "content": "Apply anti-thromboembolism stockings"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9dd624599c08114b6f5828cb7523e08",
+                                "content": "Assist with ambulation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea956374296565bce0a79fa0c101f2dd",
+                                "content": " Place client in the Sims' position"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0aa188d015863107bde7540f99a7d2f2",
+                                "content": "Teach about the importance of a low-fat diet"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1252656d8107968f903897693d44530",
+                                    "content": "Apply anti-thromboembolism stockings"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9dd624599c08114b6f5828cb7523e08",
+                                    "content": "Assist with ambulation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea956374296565bce0a79fa0c101f2dd",
+                                    "content": " Place client in the Sims' position"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0aa188d015863107bde7540f99a7d2f2",
+                                    "content": "Teach about the importance of a low-fat diet"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "When caring for a client immediately after a laparoscopic cholecystectomy, which nursing intervention has the highest priority?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Postoperative nursing care after laparoscopic cholecystectomy focuses on prevention of respiratory complications.  The client is placed in the Sims' position to facilitate movement of carbon dioxide (CO2) utilized during surgery to fill the abdominal cavity.  CO2 can irritate the phrenic nerve and diaphragm, potentially causing breathing difficulty.  Other nursing interventions are essential but are not as important as promoting adequate ventilation.\n\n(Options 1 and 2)  Anti-thromboembolism stockings and early ambulation promote circulation and are used to prevent the development of deep vein thrombosis.\n\n(Option 4)  If indicated, postoperative diet management should include teaching related to weight reduction and maintaining a low-fat diet.\n\nEducational objective:\nThe highest postoperative priority after a laparoscopic cholecystectomy is prevention of any respiratory complications potentiated by carbon dioxide administration during surgery.",
+                        "id": "f25f005ab87f4350a5851e5e7b923a7c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f0207f18bc2600f5364d7f52ba5826a",
+                                "content": "Begin a sugar-free, clear liquid diet"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f96d7d84de11b8900a1f9eef4bbd1e0c",
+                                "content": "Insert nasogastric tube for uncontrolled nausea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3862dbfb5d83b39c4e75b611565275ec",
+                                "content": "Place client in low Fowler position during mealtimes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4dab5018d2a0cd8bd720b44362f57b8c",
+                                "content": "Start morphine via patient-controlled analgesia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f0207f18bc2600f5364d7f52ba5826a",
+                                    "content": "Begin a sugar-free, clear liquid diet"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f96d7d84de11b8900a1f9eef4bbd1e0c",
+                                    "content": "Insert nasogastric tube for uncontrolled nausea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3862dbfb5d83b39c4e75b611565275ec",
+                                    "content": "Place client in low Fowler position during mealtimes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4dab5018d2a0cd8bd720b44362f57b8c",
+                                    "content": "Start morphine via patient-controlled analgesia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse admits a postoperative client following weight loss surgery.  Which prescription should the nurse question?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Bariatric surgery for weight loss involves a surgical modification of the client's stomach and/or small intestine to restrict the client's intake.  Postoperative nursing care focuses on managing pain and nausea and monitoring for complications (eg, infection, fluid and electrolyte imbalance, dumping syndrome, anastomotic leak).  Nasogastric tubes are contraindicated after gastric surgery due to potential disruption of the surgical site, which can cause hemorrhage and anastomotic leak (Option 2).  Postoperative nausea would be controlled using IV antiemetics.\n\n(Option 1)  Clients are placed on a clear liquid diet for the first 48-72 hours after bariatric surgery to promote healing.  The diet is restricted to low-carbohydrate (eg, sugar-free) liquids to decrease the risk of dumping syndrome, rapid emptying into the small intestines that causes unpleasant vasomotor symptoms (eg, sweating, dizziness, cramping, diarrhea).\n\n(Option 3)  After bariatric surgery, low Fowler position is preferred during mealtimes as it slows gastric emptying, reducing the risk of dumping syndrome.\n\n(Option 4)  Morphine and patient-controlled analgesia pumps are commonly used to manage pain after bariatric surgery.\n\nEducational objective:\nNasogastric tube placement is contraindicated after gastric surgery due to the potential for disturbing the surgical site, which can result in hemorrhage and anastomotic leak.",
+                        "id": "f2d6cc33f63a4c6983ea86174fcd0a21",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
                                 "id": "5be64f81251d2bb3f0baae8da1be877e",
                                 "content": "Crackers and cheddar cheese"
                             },
@@ -4677,6 +5371,82 @@
                         "textAnalysis": "<p><br></p><p>Peritonitis is a common but serious complication of peritoneal dialysis that typically occurs as a result of contamination during infusion connections or disconnections.&nbsp; Typically, the earliest indication of peritonitis is the presence of cloudy peritoneal effluent.&nbsp; Later manifestations include low-grade fever, chills, generalized abdominal pain, and rebound tenderness.&nbsp; To detect rebound tenderness, one hand is pressed firmly into the abdominal wall and quickly withdrawn.&nbsp; Rebound tenderness is present when there is pain on removal, indicating inflammation of the peritoneal cavity.</p><p>&nbsp;</p><p>The nurse should collect peritoneal effluent from the drainage bag for culture and sensitivity (Option 1).&nbsp; Treatment of peritonitis is antibiotic therapy based on the culture results.&nbsp; Antibiotics may be added to dialysate, given orally, or administered intravenously.</p><p>&nbsp;</p><p>(Option 2)&nbsp; The client's chills and rebound tenderness are signs of infection that require further assessment.&nbsp; Dialysate is typically warmed to body temperature before instillation to prevent abdominal discomfort and increase urea clearance through vessel dilation.&nbsp; Dry heating with a heating cabinet or incubator rather than a microwave is recommended to reduce the danger of burning the peritoneum. The dwell time is based on the prescribed dialysis method and should not be extended without a prescription.</p><p>&nbsp;</p><p>(Option 3)&nbsp; High Fowler's position can help reduce shortness of breath if the client has volume overload, but it may worsen abdominal pain.</p><p>&nbsp;</p><p>(Option 4)&nbsp; Glucose (dextrose) is the osmotic agent in dialysate.&nbsp; Therefore, glucose levels must be monitored closely, particularly in clients with diabetes.&nbsp; However, a glucose level of 210 mg/dL (11.65 mmol/L) does not necessitate IV administration of regular insulin.&nbsp; Regular insulin can be added to the dialysate before the solution is instilled, or it can be administered subcutaneously to control glucose levels.</p><p>&nbsp;</p><p>Educational objective:</p><p>Peritonitis is a common but serious complication of peritoneal dialysis.&nbsp; Manifestations include cloudy effluent, fever, abdominal pain, and rebound tenderness.&nbsp; Treatment is based on culture of the peritoneal fluid.</p>",
                         "id": "fb1a33c9ff6da8da2006e8c31c756767",
                         "videoIdContent": "",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22fce073b588aa41fc79c11465deb975",
+                                "content": "&quot;I will avoid eating foods such as broccoli and cauliflower.&quot; "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e52472ff7f845c39e25a0a41a5e5c2e",
+                                "content": "&quot;I will empty the pouch when it is one-half full of stool.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf153ed73db33468ac767cd31e78ef33",
+                                "content": " &quot;I will irrigate the colostomy to promote regular bowel movements.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbac24a85eda616821db16878bad51c5",
+                                "content": "&quot;I will restrict my fluid intake to 2,000 milliliters of fluid a day.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22fce073b588aa41fc79c11465deb975",
+                                    "content": "&quot;I will avoid eating foods such as broccoli and cauliflower.&quot; "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e52472ff7f845c39e25a0a41a5e5c2e",
+                                    "content": "&quot;I will empty the pouch when it is one-half full of stool.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf153ed73db33468ac767cd31e78ef33",
+                                    "content": " &quot;I will irrigate the colostomy to promote regular bowel movements.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbac24a85eda616821db16878bad51c5",
+                                    "content": "&quot;I will restrict my fluid intake to 2,000 milliliters of fluid a day.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement made by the client demonstrates a correct understanding of the home care of an ascending colostomy?",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "A colostomy is a surgical procedure that creates an opening (stoma) in the abdominal wall for the passage of stool to bypass an obstructed or diseased portion of the colon.  Stool drains through the intestinal stoma into a pouch device secured to the skin.  Colostomies can be performed on any part of the colon (ascending, transverse, descending, and sigmoid).  Depending on the location of the colostomy, characteristics of the stool will vary, with the stool becoming more solid as it passes through the colon.\n\nProper care of the stoma and pouch appliance that should be taught to the client or caregiver includes the following:\n\nEnsure sufficient fluid intake (at least 3,000 mL/day unless contraindicated) to prevent dehydration; identify times to increase fluid requirements (hot weather, increased perspiration, diarrhea) (Option 4).\nIdentify and eliminate foods that cause gas and odor (broccoli, cauliflower, dried beans, brussels sprouts) (Option 1).\nEmpty the pouch when it becomes one-third full to prevent leaks due to increasing pouch weight (Option 2).\n(Option 3)  Stool produced in the ascending and transverse colon is semiliquid, which eliminates the need for irrigation.  Irrigation to promote a bowel regimen may be useful for descending or sigmoid colostomies as the stool is more formed.\n\nEducational objective:\nThe stool changes from liquid to more solid as it passes through the colon.  Proper care of the ostomy and pouching device in clients with a colostomy includes ensuring sufficient fluid intake, preventing gas and odor, and changing the pouching system when it becomes one-third full to prevent leaks.",
+                        "id": "ffcbb891c816496eb959f61894faa1d5",
                         "mark": "0",
                         "collectionState": "0"
                     },
@@ -4858,6 +5628,96 @@
                         "difficulty": "中级",
                         "textAnalysis": "<p>Clients with lactase deficiency (lactose intolerance) experience varying degrees of gastrointestinal symptoms after ingesting milk products, including flatulence, diarrhea, bloating, and cramping.  This is due to a deficiency of the enzyme lactase, which is required for digestion of lactose.  Treatment includes restricting lactose-containing foods in the diet.  These clients may also take lactase enzyme replacements (eg, Lactaid) to decrease symptoms (Option 4).  Supplementation of calcium and vitamin D is recommended due to insufficient intake of fortified milk (Option 2).</p><p><br></p><p>Milk and ice cream contain the highest amounts of lactose and should be restricted depending on the client's individual tolerance (Option 3).  Some dairy products, including aged cheeses and live-culture yogurts, contain little to no lactose and can be tolerated by most clients with lactase deficiency (Option 1).</p><p><br></p><p>(Option 5)  Lactase deficiency is not an immune reaction (allergy) to milk products.  Rather, the gastrointestinal symptoms are due to a deficiency of the enzyme lactase and the resultant inability to digest lactose.</p><p><br></p><p>Educational objective:</p><p>Clients with lactase deficiency can prevent unpleasant gastrointestinal symptoms by avoiding lactose-containing dairy products (eg, milk, ice cream), eating cheese or yogurt in moderation, and supplementing with lactase enzymes.  Vitamin D and calcium supplementation is also recommended.</p>",
                         "id": "14834b5599414e82a41c181841fbe101",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "45cfcee7ad8bca77579be765993ef652",
+                                "content": "Applying a sequential compression device and antiembolism stockings"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f41601b18669b1429c58fd66a3bf6092",
+                                "content": "Encouraging turn, cough, and deep-breathing exercises every 2 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e4d2b9943372b022d2905ca8b5af87bb",
+                                "content": "Keeping the head of the bed raised and positioned at a 45-degree angle"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32c87a597cc4ae541ad336693eb087ec",
+                                "content": "Repositioning and irrigating a clogged nasogastric tube as needed"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1057b7e7ff6e35680d2f7554e2f7111e",
+                                "content": "Teaching the importance of small, frequent, high-carbohydrate meals"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "45cfcee7ad8bca77579be765993ef652",
+                                    "content": "Applying a sequential compression device and antiembolism stockings"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f41601b18669b1429c58fd66a3bf6092",
+                                    "content": "Encouraging turn, cough, and deep-breathing exercises every 2 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e4d2b9943372b022d2905ca8b5af87bb",
+                                    "content": "Keeping the head of the bed raised and positioned at a 45-degree angle"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32c87a597cc4ae541ad336693eb087ec",
+                                    "content": "Repositioning and irrigating a clogged nasogastric tube as needed"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1057b7e7ff6e35680d2f7554e2f7111e",
+                                    "content": "Teaching the importance of small, frequent, high-carbohydrate meals"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is caring for a client following a gastroduodenostomy.  Which interventions are contraindicated in the immediate postoperative period?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "A gastroduodenostomy (Billroth I) involves removing the distal two-thirds of the stomach with anastomosis of the remaining stomach to the duodenum.  Following a gastroduodenostomy, clients require education regarding dietary modifications to prevent complications.  Small, frequent meals consisting of low carbohydrate, moderate protein, and moderate fat levels should be consumed without drinks to prevent occurrence of dumping syndrome (ie, rapid emptying of stomach contents into the small intestine) (Option 5).\n\nClients may have a nasogastric tube postoperatively for gastric decompression.  Clogged nasogastric tubes should be reported to the surgeon.  Attempting to manipulate or flush the device may disrupt the surgical site, causing hemorrhage or gastric perforation (Option 4).\n\n(Option 1)  Postoperative clients are at risk for development of venous thromboembolism (VTE) due to reduced mobility levels.  VTE prophylaxis (eg, sequential compression device, compression hose) should be initiated promptly.\n\n(Options 2 and 3)  Clients who have abdominal surgery are at risk for respiratory compromise due to sedation, pain, and immobility, all of which promote hypoventilation.  Elevate the head of the bed to improve ventilation and reduce the risk of aspiration.  Educate clients to turn, cough, and deep breathe while splinting the surgical site to prevent development of atelectasis.\n\nEducational objective:\nPostoperative care of a client with gastroduodenostomy includes initiation of thromboembolism prophylaxis; turning, coughing, and deep breathing; and aspiration precautions (eg, elevating the head of the bed).  Clients should eat small, frequent, low-carbohydrate meals to prevent dumping syndrome.",
+                        "id": "1a97dc2edbb5430b9a66b8b755852a7e",
                         "mark": "0",
                         "collectionState": "0"
                     },
@@ -5128,6 +5988,96 @@
                         "difficulty": "中级",
                         "textAnalysis": "<p>Colonoscopy evaluates colonic mucosa.  Therefore, clients should follow instructions to keep the colon clean with no stool left for better visualization during the procedure.  These instructions include:</p><p><br></p><p>Clear liquid diet the day before</p><p>Nothing by mouth 8–12 hours prior to the examination</p><p>The health care provider prescribes a bowel-cleansing agent such as a cathartic, enema, or polyethylene glycol (GoLYTELY) the day before the test.  The type of prep depends on the health care provider's preference and client health status.</p><p>(Option 2)  Healthy clients screened for colon disease do not require antibiotics prior to the procedure.</p><p><br></p><p>(Option 3)  The instructions prior to a nuclear gastric emptying scan include teaching the client to avoid smoking the day of the examination as delay of gastric emptying occurs with tobacco use.  Smoking cessation per se has no role in colonoscopy, but it is good for general health.</p><p><br></p><p>Educational objective:</p><p>Instructions for clients scheduled for a colonoscopy include a clear liquid diet the day before the procedure, avoiding any food or liquids (nothing by mouth) 8–12 hours prior to the examination, and taking the bowel-cleansing agent as prescribed.</p>",
                         "id": "3385e45d1ec4432ab65cfc38c96a9936",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5efa5d36754b06c9758746a08856f2d",
+                                "content": "Administration of morphine sulfate 2 mg via intravenous (IV) push"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c77029acd3e4034d4ddda4de5a69832f",
+                                "content": " Instructions to avoid straining"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a7c5eeeb631618f971a5fc538685747",
+                                "content": " Maintenance of nothing-by-mouth (NPO) status"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f63bd5278339fac7d8e4f69759a0e6e",
+                                "content": "Placement of an IV line and infusion of normal saline 75 mL/hr"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8f43007713056eb92ab843e30593235",
+                                "content": "Protection of the skin from diarrhea by insertion of a rectal tube"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5efa5d36754b06c9758746a08856f2d",
+                                    "content": "Administration of morphine sulfate 2 mg via intravenous (IV) push"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c77029acd3e4034d4ddda4de5a69832f",
+                                    "content": " Instructions to avoid straining"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a7c5eeeb631618f971a5fc538685747",
+                                    "content": " Maintenance of nothing-by-mouth (NPO) status"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f63bd5278339fac7d8e4f69759a0e6e",
+                                    "content": "Placement of an IV line and infusion of normal saline 75 mL/hr"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8f43007713056eb92ab843e30593235",
+                                    "content": "Protection of the skin from diarrhea by insertion of a rectal tube"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "Which interventions would the nurse expect to be included in the care plan for a client with acute diverticulitis who has acute pain rated 8/10, nausea and vomiting, blood pressure 126/64 mm Hg, apical pulse 102/min, respirations 20/min, and temperature 101.2 F (38.4 C)?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Diverticular disease of the colon is a condition in which sac-like protrusions in the large intestine are caused by chronic increased intraabdominal pressure (eg, straining, lifting, tight clothing) and/or chronic constipation.  When diverticula become infected and inflamed, the individual has diverticulitis.\n\nAcute care for diverticulitis focuses on allowing the colon to rest and the inflammation to resolve.  This includes:\n\nNPO status – more acute cases require complete rest of the bowel.  Less severe cases may be handled at home, and clients may tolerate a low-fiber or clear liquid diet (Option 3).\nIV fluids to prevent dehydration when NPO (Option 4)\nPain relief via IV medications to maintain NPO status (Option 1)\nPreventing increased intraabdominal pressure to avoid perforation and rupture (Option 2)\nPreventing increased intestinal motility – avoid laxatives and enemas\n(Option 5)  The most common area for diverticula to form is the sigmoid colon.  Inserting a rectal tube/colonoscope/sigmoidoscope may cause further damage or perforation of the inflamed diverticula by increasing pressure and stimulating the rectum.\n\nEducational objective:\nManagement of acute diverticulitis focuses on bowel rest (NPO status, bed rest) and drug therapy (IV antibiotics, analgesics).  Any procedure or treatment that increases intraabdominal pressure or may cause rupture of the inflamed diverticula should be avoided.",
+                        "id": "33964117ca1a4843872bc2ccfe02440a",
                         "mark": "0",
                         "collectionState": "0"
                     },
@@ -6705,6 +7655,96 @@
                                 "isRight": "1",
                                 "userAnswer": "",
                                 "isSelected": "0",
+                                "id": "612dbcd7f614a9c927b22d631a24d6c9",
+                                "content": "Acute pain"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0d2b61c74a8a504903931f6777cc386",
+                                "content": "Altered nutritional status"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f1f642e37842eda9665eef05d83222d",
+                                "content": " Hopelessness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e59279eebc7dc6ffa93defb72e53abcd",
+                                "content": "Noncompliance"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa6808b4cc4bebb766f807c351956406",
+                                "content": "Risk for deficient fluid volume"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "612dbcd7f614a9c927b22d631a24d6c9",
+                                    "content": "Acute pain"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0d2b61c74a8a504903931f6777cc386",
+                                    "content": "Altered nutritional status"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f1f642e37842eda9665eef05d83222d",
+                                    "content": " Hopelessness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e59279eebc7dc6ffa93defb72e53abcd",
+                                    "content": "Noncompliance"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa6808b4cc4bebb766f807c351956406",
+                                    "content": "Risk for deficient fluid volume"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A client with ulcerative colitis (UC) reports abdominal pain, 10 bloody stools per day, and decreased appetite.  The client states, \"What's the point of taking medication?  It doesn't help anyway.\"  Which nursing diagnoses (NDs) are appropriate to include in the client's plan of care?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "UC is a chronic disease characterized by inflammation and ulcerations in the large intestines resulting in urgent, frequent, bloody diarrhea; abdominal pain; anorexia; and anemia.  Appropriate NDs for a client with UC include:\n\nAcute pain related to an intestinal inflammatory process as evidenced by the client's verbal reports of abdominal pain and self-focusing (Option 1)\nAltered nutritional status related to decreased appetite and intestinal malabsorption (Option 2).\nHopelessness related to chronic illness and prolonged treatments with no positive results as evidenced by the client asking, \"What's the point of taking medication?  It doesn't help anyway\" (Option 3).\nRisk for deficient fluid volume related to active fluid losses secondary to frequent diarrhea; blood loss secondary to an inflamed bowel; and poor oral intake (Option 5).\n(Option 4)  Noncompliance is failure to follow the prescribed treatment plan.  This client has taken the medication but it did not help.  Based on the assessment data, this is not an appropriate ND for the client at this time.\n\nEducational objective:\nUC is a chronic disease characterized by inflammation and ulcerations in the large intestines resulting in urgent, frequent, bloody diarrhea; abdominal pain; anorexia; and anemia.  Acute pain, altered nutritional status, hopelessness, and risk for deficient fluid volume are appropriate NDs for a client with UC.",
+                        "id": "91793d990f74415aacac3a0908fa94b7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
                                 "id": "a01499ffd5095d17428f3c7548bdffb5",
                                 "content": "&quot;A few years ago, I switched from smoking cigarettes to smoking cigars 1 or 2 times a week.&quot;"
                             },
@@ -7451,6 +8491,96 @@
                     {
                         "optionList": [
                             {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b26b5cdfd2315e12fb4f44f9fb7399f",
+                                "content": "Avoid high-fiber foods"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a0ddcd3a4b52485b8a9ce458d871cf8",
+                                "content": "Avoid intake of fluids with meals"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "40d3c004e9ecf8bba41b390a0f568ae7",
+                                "content": "Consume low-carbohydrate meals"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cfd046cabcf125f73f7ee0e15373ec7",
+                                "content": "Decrease intake of fat"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "033eb73896049209a09e07baa7feb085",
+                                "content": "Eat small, frequent meals"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b26b5cdfd2315e12fb4f44f9fb7399f",
+                                    "content": "Avoid high-fiber foods"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a0ddcd3a4b52485b8a9ce458d871cf8",
+                                    "content": "Avoid intake of fluids with meals"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "40d3c004e9ecf8bba41b390a0f568ae7",
+                                    "content": "Consume low-carbohydrate meals"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cfd046cabcf125f73f7ee0e15373ec7",
+                                    "content": "Decrease intake of fat"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "033eb73896049209a09e07baa7feb085",
+                                    "content": "Eat small, frequent meals"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A client is being discharged today following a partial gastrectomy.  Which instructions for recuperating at home should be included?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Approximately 20% of clients with partial gastrectomy experience dumping syndrome, which occurs when gastric contents are emptied too rapidly into the duodenum, causing a fluid shift into the small intestine.  This fluid shift results in hypotension, abdominal pain, diarrhea, nausea, vomiting, dizziness, generalized sweating, and tachycardia.  The symptoms usually diminish over time.\n\nDietary recommendations aimed at delaying gastric emptying include the following:\n\nConsume small, frequent meals to reduce the amount of food in the stomach at any one time (Option 5).\nEat slowly in a relaxed environment.\nAvoid meals high in simple carbohydrates (eg, sugar, syrup) as these may trigger dumping syndrome when carbohydrates are broken down into simple sugars (Option 3).\nConsume meals high in protein, fat, and fiber, which take longer to digest and remain in the stomach longer than carbohydrates (Options 1 and 4).\nSeparate fluids from meals.  If fluids are taken with meals, stomach contents pass more easily into the jejunum and worsen symptoms.  Fluid intake should occur only after or between meals, separated from solid intake by at least 30 minutes (Option 2).\nAvoid sitting up after a meal.  Gravity increases gastric emptying.  Lying down after meals slows down the gastric emptying and is preferred.\nEducational objective:\nDumping syndrome is a complication of gastrectomy.  Measures that delay gastric emptying and reduce the risk of dumping syndrome include consuming meals low in carbohydrates and high in fiber, proteins, and fats; avoiding fluids during meals; and eating small, frequent meals.",
+                        "id": "ae36a3f2d0c74d3bb39109be36621b37",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
                                 "isRight": "1",
                                 "userAnswer": "",
                                 "isSelected": "0",
@@ -7811,6 +8941,96 @@
                     {
                         "optionList": [
                             {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09b6bb9f4d00e9e253acdb19bf351aa6",
+                                "content": "Consume only clear liquids with severe symptoms"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27c2e2dfcb6b8bf25360b7df31a70347",
+                                "content": "-Keep a record of symptoms, diet, and stress levels"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db78521794b056c41fb2e16ce9b034ee",
+                                "content": "Limit dietary intake of gas-producing foods like legumes"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4aef569d7006f2b1d21d676f14480c59",
+                                "content": "Perform aerobic exercise at least three times weekly"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4aec3f02f351a4c88ee4bed748165575",
+                                "content": "Reduce the amount of caffeine consumed each day"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09b6bb9f4d00e9e253acdb19bf351aa6",
+                                    "content": "Consume only clear liquids with severe symptoms"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27c2e2dfcb6b8bf25360b7df31a70347",
+                                    "content": "-Keep a record of symptoms, diet, and stress levels"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db78521794b056c41fb2e16ce9b034ee",
+                                    "content": "Limit dietary intake of gas-producing foods like legumes"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4aef569d7006f2b1d21d676f14480c59",
+                                    "content": "Perform aerobic exercise at least three times weekly"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4aec3f02f351a4c88ee4bed748165575",
+                                    "content": "Reduce the amount of caffeine consumed each day"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is reinforcing strategies to manage symptoms for a client with irritable bowel syndrome.&nbsp; Which of the following instructions should the nurse include?&nbsp; Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Irritable bowel syndrome （IBS） is a chronic gastrointestinal disorder characterized by abdominal pain and altered bowel motility （constipation, diarrhea, or a combination of both）.  Clients with IBS also commonly experience bloating, nausea, urgency, and flatulence.  Symptoms of IBS are often managed through lifestyle and diet modifications.  Appropriate management strategies include:\r\n\r\nKeep a daily record of symptoms, dietary intake, and stress level to help identify IBS triggers （Option 2）.\r\n\r\nLimit intake of gas-producing foods:  legumes （eg, beans）, cruciferous vegetables （eg, cabbage, broccoli）, and foods containing fructose （eg, honey, apples） （Option 3）.\r\n\r\nPractice stress reduction techniques （eg, meditation, yoga） and perform regular exercise （Option 4）.  Anxiety and stress are associated with increased IBS symptoms.  Physical exercise improves bloating, constipation, and may help further reduce stress.  Reduce daily caffeine intake, as caffeine can affect bowel motility and trigger symptoms （Option 5）.\r\n\r\n（Option 1）  To prevent malnutrition, clients with IBS should not fast or otherwise drastically reduce their oral intake （eg, clear liquid diet）, even during periods of moderate or severe symptoms.  Clients experiencing increased symptoms should talk with the health care provider, as pharmacologic intervention may be required.\r\n\r\nEducational objective:\r\nIrritable bowel syndrome （IBS） is a chronic disorder characterized by abdominal pain and altered bowel motility （constipation, diarrhea, or a combination of both）.  IBS is managed primarily through lifestyle and diet modifications, including exercise, stress reduction, and reduced intake of gas-producing foods and caffeine.",
+                        "id": "d4e2cb9b369845cda1ab392f046f7957",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
                                 "isRight": "1",
                                 "userAnswer": "",
                                 "isSelected": "0",
@@ -7997,6 +9217,96 @@
                         "difficulty": "中级",
                         "textAnalysis": "<p><img src=\"https://class.nursingonline.cn/static/file/img/1741837851193.png\"></p><p>Continuous suction can be applied to decompress the stomach if a double lumen Salem sump tube is in place.  The larger lumen is attached to suction and the smaller lumen (within the larger one) is open to the atmosphere.</p><p><br></p><p>Checking for residual volume is not an appropriate intervention because the Salem sump is attached to continuous suction for decompression and is not being used to administer enteral feeding (Option 1).</p><p><br></p><p>The air vent (blue pigtail) must remain open as it provides a continuous flow of atmospheric air through the drainage tube at its distal end (to prevent excessive suction force).  This prevents damage to the gastric mucosa.  If gastric content refluxes, 10-20 mL of air can be injected into the air vent.  However, the air vent is kept above the level of the client's stomach to prevent reflux (Option 3).</p><p><br></p><p>General interventions to maintain gastric suction using a Salem sump tube include:</p><p><br></p><p>Place the client in semi-Fowler's position to help keep the tube from lying against the stomach wall; this is done to help prevent gastric reflux (Option 2).</p><p>Provide mouth care every 4 hours as this helps to maintain moisture of oral mucosa and promote client comfort (Option 4).</p><p>Turn off suction briefly during auscultation as the suction sound can be mistaken for bowel sounds (Option 5).</p><p>Inspect the drainage system for patency (eg, tubing kink or blockage).</p><p>Educational objective:</p><p>General interventions to maintain gastric suction when using a Salem sump tube include:</p><p><br></p><p>Maintaining client in semi-Fowler's position</p><p>Accurate assessment of bowel sounds</p><p>Keeping the air vent (blue pigtail) open and above the level of the client's stomach</p><p>Providing mouth care every 4 hours to maintain moisture of oral mucosa and promote comfort</p><p>Inspecting the drainage system for patency</p>",
                         "id": "e48f914bd19d4bbc9480859ae6136192",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ebf503deded74e60de15a2ddcac0ada6",
+                                "content": "&quot;I will go to the restroom when I have the urge to have a bowel movement.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0201282196e89ccc00d9274e7ecb91a",
+                                "content": "&quot;I will increase my exercise to at least 3 times a week.&quot;"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "18a08c6ed20c2902dc742c520117037c",
+                                "content": "&quot;I will increase my intake of fruits and vegetables.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b2b33ad170ff359ccae2fa9799a749d8",
+                                "content": "&quot;I will increase tea or coffee consumption to stimulate the bowel.&quot;"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fdbd6d5d19869837b6b7a3a8778c77e",
+                                "content": "&quot;I will use a laxative every other day if needed.&quot;"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ebf503deded74e60de15a2ddcac0ada6",
+                                    "content": "&quot;I will go to the restroom when I have the urge to have a bowel movement.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0201282196e89ccc00d9274e7ecb91a",
+                                    "content": "&quot;I will increase my exercise to at least 3 times a week.&quot;"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "18a08c6ed20c2902dc742c520117037c",
+                                    "content": "&quot;I will increase my intake of fruits and vegetables.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b2b33ad170ff359ccae2fa9799a749d8",
+                                    "content": "&quot;I will increase tea or coffee consumption to stimulate the bowel.&quot;"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fdbd6d5d19869837b6b7a3a8778c77e",
+                                    "content": "&quot;I will use a laxative every other day if needed.&quot;"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse determines that further teaching is needed if a client with constipation makes which statement?  Select all that apply.",
+                        "subjectId": "446840e8de0941d8b254b3268d719a5d",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "Constipation is a symptom of many different disease processes (eg, Parkinson's disease, diabetic neuropathy, depression), procedures (eg, abdominal surgery, bowel manipulation), and medications (eg, anticholinergics, diuretics, opioids, antacids, antihypertensives).  Immobility, low-fiber diets, decreased fluid intake, and irregular bowel habits increase the likelihood of constipation.\n\nTeach the client and/or caregiver the following to prevent constipation:\n\nConsume 20-30 g of fiber a day (unless contraindicated); fiber softens stool and increases bulk, stimulating defecation.  High-fiber foods include fruits, vegetables, whole grains, nuts, seeds, and legumes (Option 3).\nDrink 2-3 L of fluids a day (unless contraindicated); avoid caffeinated beverages (eg, coffee, tea, cola) that promote diuresis.\nExercise at least 3 times a week; movement stimulates peristalsis and defecation (Option 2)\nMaintain a healthy bowel regimen – avoid delaying defecation when the urge is felt, defecate at the same time each day, and track bowel movements to identify if there is a change in bowel patterns (Option 1)\nAvoid laxatives and enemas unless prescribed by a health care provider; overuse can cause dependency\n(Option 4)  Consuming 8 glasses of water and fruit juices is recommended.  Clients should avoid caffeinated beverages (eg, tea, cola, coffee) as they promote diuresis, which may lead to dehydration and worsening of constipation.\n\n(Option 5)  Overuse of laxatives or enemas can lead to dependency and fluid and electrolyte imbalances.\n\nEducational objective:\nHealthy eating habits (consuming 20-30 g of fiber a day, drinking 2-3 L of fluids a day), exercise, and creating a bowel regimen (avoiding delay of defecation, defecating at the same time each day) are important practices that prevent constipation.  Clients should avoid the regular use of laxatives and enemas as dependency may result.",
+                        "id": "ea0f908d746b413faa6fa31a194fe201",
                         "mark": "0",
                         "collectionState": "0"
                     },
@@ -8238,17 +9548,17 @@
             "subjectId": "446840e8de0941d8b254b3268d719a5d",
             "userId": "1c2399a9e00576675c85a30b57a03a51",
             "chapterId": "fb87f9956bcf4bea90c033633d07744f",
-            "useTime": 1000,
+            "useTime": 3000,
             "state": "1",
             "mode": "0",
             "type": "1",
-            "questionNumber": 100,
+            "questionNumber": 116,
             "correctQuestionNumber": 0,
             "mistakeQuestionNumber": 0,
-            "notAnswerQuestionNumber": 100,
+            "notAnswerQuestionNumber": 116,
             "answerQuestionNumber": 0,
-            "submitDate": "2026-04-30 13:25:26",
-            "correctRate": 0.00,
+            "submitDate": "2026-05-05 14:29:32",
+            "correctRate": 0.0,
             "isLastRecord": "1"
         },
         "chapterName": "Gastrointestinal/Nutrition ",
@@ -8256,7 +9566,7 @@
         "answerQuestionNumber": 0,
         "questionBaseId": "c43f570476114203439b78e9fdbc5301",
         "subjectName": "Uworld",
-        "questionNumber": 100
+        "questionNumber": 116
     },
     "message": ""
 }
