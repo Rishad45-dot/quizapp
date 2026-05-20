@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:23:55",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:23:55",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:28:03",
+            "id": "a368b7165e13c3d0ff5ed5c386a0871a",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca1a28f38b0243e799eac755482a8d90",
+                                "content": "\"A full-term newborn has decreased brown fat stores.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38d58bcd00a547d3898d38ab2952b3df",
+                                "content": "\"A preterm newborn's skin appears more translucent due to decreased amounts of subcutaneous fat.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2c3964268524ae895c3862f0fe98222",
+                                "content": "\"A preterm baby has additional subcutaneous fat beneath the skin that is lost between 38 to 40 weeks.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "354ad5aeb8eb49afa26a256c3652e258",
+                                "content": "\"The full-term newborn has produced much more soft, downy hair, giving the skin a more fuzzy appearance.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca1a28f38b0243e799eac755482a8d90",
+                                    "content": "\"A full-term newborn has decreased brown fat stores.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38d58bcd00a547d3898d38ab2952b3df",
+                                    "content": "\"A preterm newborn's skin appears more translucent due to decreased amounts of subcutaneous fat.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2c3964268524ae895c3862f0fe98222",
+                                    "content": "\"A preterm baby has additional subcutaneous fat beneath the skin that is lost between 38 to 40 weeks.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "354ad5aeb8eb49afa26a256c3652e258",
+                                    "content": "\"The full-term newborn has produced much more soft, downy hair, giving the skin a more fuzzy appearance.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The parent of a preterm newborn is comparing the appearance of the preterm baby to the nearby full-term babies. The parent asks why the baby's skin appears so different. What is the best response for the nurse to provide?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe skin of a newborn infant plays a significant role in thermoregulation and as a barrier against infection. The skin of a preterm newborn infant is immature in comparison with that of a term newborn infant. The skin of a preterm newborn is thin and gelatinous, with decreased amounts of subcutaneous fat, brown fat, and glycogen stores. In addition, preterm newborn infants lose heat because of their large body surface area in relation to their weight and because their posture is more relaxed with less flexion. Therefore, preterm newborn infants are less able to generate heat, which places them at risk for increased heat loss and increased fluid requirements.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Newborn\nHealth Problem: Newborn: Preterm and Post-Term Newborn\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Tissue Integrity, Development\nStrategies: Strategic Words, Subject\n  Test-Taking Strategy:\nFocus on the subject, the preterm newborn's skin, and note the strategic word, best. Realize that the preterm baby has not had sufficient time to develop adequate fat stores.\n \n  ",
+                        "id": "09da1e0099c5482dae2b1fc2c65a3ee5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7127a35b3d884a7fa9c3170b50d4e03a",
+                                "content": "Bring the infant to the clinic."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d082c5f27b4401f978079905a6b1b03",
+                                "content": "This is a normal occurrence and no further action is needed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72b2b17266ce4a45befa1aff92aa7a1d",
+                                "content": "Increase the number of times that the cord is cleaned per day."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5016fd528df847c9880226382e628eb5",
+                                "content": "Monitor the cord for another 24 to 48 hours, and call the clinic if the discharge continues.\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7127a35b3d884a7fa9c3170b50d4e03a",
+                                    "content": "Bring the infant to the clinic."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d082c5f27b4401f978079905a6b1b03",
+                                    "content": "This is a normal occurrence and no further action is needed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72b2b17266ce4a45befa1aff92aa7a1d",
+                                    "content": "Increase the number of times that the cord is cleaned per day."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5016fd528df847c9880226382e628eb5",
+                                    "content": "Monitor the cord for another 24 to 48 hours, and call the clinic if the discharge continues.\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The parent of a newborn calls the clinic and reports that when cleaning the umbilical cord, it was noted that the cord was moist and that discharge was present. What is the most appropriate nursing instruction for this parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSigns of umbilical cord infection are moistness, oozing, discharge, and a reddened base around the cord. If signs of infection occur, the client needs to be instructed to notify the primary health care provider (PHCP). If these symptoms occur, antibiotics may be necessary. Options 2, 3, and 4 are not the most appropriate nursing interventions for an umbilical cord infection as described in the question.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Newborn\nHealth Problem: Adult Health: Immune: Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Infection\nStrategies: Strategic Words\n Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the clinical manifestations provided in the question to assist in answering. Noting the word discharge in the question will assist in directing you to the option that indicates that the newborn needs to be seen by the PHCP.\n \n ",
+                        "id": "0d30c7287315457ba214a3b14c8643df",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cbe1136247c742e28d23db1176212e5a",
+                                "content": "Finding two vessels is the expected finding."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea1c177109e6406d9be3f9f2cfa61866",
+                                "content": "Finding two vessels is correlated to a high incidence of Down's syndrome."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "92562e28eaa8498dbc918a5d3c7d91a3",
+                                "content": "Finding two vessels may indicate an increased risk for other congenital anomalies."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2c68a20ccda462f8f921266b685cfb4",
+                                "content": "Finding two vessels means the newborn has been stressed previously with fetal hypoxia."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cbe1136247c742e28d23db1176212e5a",
+                                    "content": "Finding two vessels is the expected finding."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea1c177109e6406d9be3f9f2cfa61866",
+                                    "content": "Finding two vessels is correlated to a high incidence of Down's syndrome."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "92562e28eaa8498dbc918a5d3c7d91a3",
+                                    "content": "Finding two vessels may indicate an increased risk for other congenital anomalies."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2c68a20ccda462f8f921266b685cfb4",
+                                    "content": "Finding two vessels means the newborn has been stressed previously with fetal hypoxia."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the delivery room is performing an initial assessment on a newborn infant. When examining the umbilical cord, the nurse observes only two vessels. How would the nurse interpret this finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe umbilical cord is made up of two arteries to carry blood from the embryo to the chorionic villi and one vein that returns blood to the embryo. Whenever a congenital anomaly occurs in a newborn, there is an increased risk for other congenital anomalies. Finding two vessels is not what is expected. There is not a direct correlation between two umbilical vessels and Down's syndrome. Fetal hypoxia in utero will not cause the absence of an umbilical vessel.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Newborn\nHealth Problem: Pediatric-Specific: Disorders of Prenatal Development\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Perfusion, Reproduction\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, the anatomy of the umbilical cord. Recalling that the umbilical cord is made up of two arteries and one vein will assist you in selecting the correct option, assessing for additional congenital anomalies.\n \n ",
+                        "id": "0eb51964e40e4eb288576836030257a3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff75a7810e824fbb939a1de8a9069ba2",
+                                "content": "A term infant with a history of a forceps-assisted delivery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c0b44e42ab6486c89d81a1f3c35a3b0",
+                                "content": "A term infant delivered via primary cesarean section for malpresentation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4719b24f90f04d07ac4f6c0d8daf6a54",
+                                "content": "A large for gestational age infant with a history of shoulder dystocia at delivery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "997b523024194d88aa67327aa09479c3",
+                                "content": "A 36-week preterm infant delivered vaginally after preterm rupture of membranes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff75a7810e824fbb939a1de8a9069ba2",
+                                    "content": "A term infant with a history of a forceps-assisted delivery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c0b44e42ab6486c89d81a1f3c35a3b0",
+                                    "content": "A term infant delivered via primary cesarean section for malpresentation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4719b24f90f04d07ac4f6c0d8daf6a54",
+                                    "content": "A large for gestational age infant with a history of shoulder dystocia at delivery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "997b523024194d88aa67327aa09479c3",
+                                    "content": "A 36-week preterm infant delivered vaginally after preterm rupture of membranes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which newborn is most at risk for a brachial plexus injury?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nBrachial plexus injuries, a fractured clavicle, or a fractured humerus are all possible risks during the delivery of an infant with shoulder dystocia and must be considered during the immediate newborn assessment. Stretching or pulling away of the shoulder from the head may occur during a difficult delivery such as one involving shoulder dystocia. This positioning may cause damage to the upper plexus. Larger infants are more likely to be involved in a delivery in which inadequate space is a concern.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Newborn\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Reproduction, Safety\nStrategies: Strategic Words, Subject\n  Test-Taking Strategy:\nNote the strategic word, most. Focus on the subject, risk for a brachial plexus injury. Eliminate option 4 first because in most cases this scenario would result in an infant of smaller size, so shoulder dystocia would not be a priority risk. Shoulder dystocia does not occur during cesarean section, which eliminates option 2. Option 3 is the only option that relates to the area of the body where the brachial plexus is located.\n \n  ",
+                        "id": "12953c61de844df590f4d00ec8f9cf33",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86a347e2d5a5468aa371b9c4ae91bb76",
+                                "content": "Feed the newborn less frequently."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1882491d404a4fabb2188a67e42dc342",
+                                "content": "Continue to breast-feed every 2 to 3 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c7ba225ad174be3afdfd3e67e2d1e2b",
+                                "content": "Switch to bottle-feeding the infant for 2 weeks."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7e9a612615649d68d34735f5da21a14",
+                                "content": "Stop breast-feeding and switch to bottle-feeding permanently."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86a347e2d5a5468aa371b9c4ae91bb76",
+                                    "content": "Feed the newborn less frequently."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1882491d404a4fabb2188a67e42dc342",
+                                    "content": "Continue to breast-feed every 2 to 3 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c7ba225ad174be3afdfd3e67e2d1e2b",
+                                    "content": "Switch to bottle-feeding the infant for 2 weeks."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7e9a612615649d68d34735f5da21a14",
+                                    "content": "Stop breast-feeding and switch to bottle-feeding permanently."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The postpartum nurse is providing instructions to the parent of a newborn with hyperbilirubinemia who is being breast-fed. The nurse would provide which instruction to the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHyperbilirubinemia is an elevated serum bilirubin level. At any serum bilirubin level, the appearance of jaundice during the first day of life indicates a pathological process. Early and frequent feeding hastens the excretion of bilirubin. Breast-feeding needs to be initiated within 2 hours after birth and every 2 to 3 hours thereafter. The infant would not be fed less frequently. Switching to bottle-feeding for 2 weeks or stopping breast-feeding permanently is unnecessary.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Newborn\nHealth Problem: Newborn: Hyperbilirubinemia\nIntegrated Process: Teaching and Learning\nPriority Concepts: Cellular Regulation, Patient Education\nStrategies: Comparable or Alike Options\n Test-Taking Strategy:\nEliminate options 3 and 4 as they are comparable or alike. These options discourage the continuation of breast-feeding and would be eliminated. From the remaining options, recalling the pathophysiology associated with hyperbilirubinemia will assist you in eliminating option 1.\n \n ",
+                        "id": "1a323d640e5b4f5ab4f5a4a6915d23dc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4460aece4431475ab4cda1974c2c8d3e",
+                                "content": "Applying lotions to exposed newborn skin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b101200974b642428362b6d276fff8da",
+                                "content": "Assessing skin integrity and fluid status of the newborn"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee71ffbf0cbb4f85be9a3df7488c229f",
+                                "content": "Having minimal contact with the newborn to prevent stimulation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5c3df3e758e4345b8d948c0d3d936f9",
+                                "content": "Advising the parent to limit the newborn's oral intake during phototherapy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4460aece4431475ab4cda1974c2c8d3e",
+                                    "content": "Applying lotions to exposed newborn skin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b101200974b642428362b6d276fff8da",
+                                    "content": "Assessing skin integrity and fluid status of the newborn"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee71ffbf0cbb4f85be9a3df7488c229f",
+                                    "content": "Having minimal contact with the newborn to prevent stimulation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5c3df3e758e4345b8d948c0d3d936f9",
+                                    "content": "Advising the parent to limit the newborn's oral intake during phototherapy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A 4-day-old newborn is receiving phototherapy at home for a bilirubin level of 14 mg/dL (238 mcmol/L). The nurse would plan to include which instruction in the teaching plan of care during the home visit to the parent of the newborn?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPhototherapy is the use of intense fluorescent lights to reduce serum bilirubin levels in the newborn. Assessing skin integrity and fluid status of the newborn infant is an essential component of phototherapy. Lotions are not used to ensure the therapeutic effect of light exposure in subcutaneous tissue. Contact with the newborn infant is important. Adequate oral fluids are essential to prevent dehydration because diarrhea is a common side effect of therapy. In addition, safe care for the newborn infant during phototherapy requires shielding the eyes with a soft eye shield to prevent retinal damage, keeping the newborn's skin exposed except for the wearing of a diaper, and changing the newborn's position frequently.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Newborn\nHealth Problem: Newborn: Hyperbilirubinemia\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Fluid and Electrolytes, Patient Education\nStrategies: Steps of the Nursing Process, Subject\n  Test-Taking Strategy:\nFocus on the subject, home care instructions regarding phototherapy. Use the steps of the nursing process, and note that the correct option addresses the first step of the nursing process, assessment.\n \n  ",
+                        "id": "1e324cd3016444569cc0c35d78f6e7e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f8531b772d764ba2a2be6dd024cf0c19",
+                                "content": "\"Your newborn needs the medicine to develop immunity.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2f95a6b7f5141dd8d42ba671224a5fa",
+                                "content": "\"The medicine will protect your newborn from being jaundiced.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e872f1b6a40457cb88dcd1cc5cfa8b1",
+                                "content": "\"Newborns have sterile bowels, and the medicine promotes the growth of bacteria in the bowel.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2cd3957bf56644868c17172943c3d141",
+                                "content": "\"Newborns are deficient in vitamin K, and this injection prevents your newborn from bleeding.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f8531b772d764ba2a2be6dd024cf0c19",
+                                    "content": "\"Your newborn needs the medicine to develop immunity.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2f95a6b7f5141dd8d42ba671224a5fa",
+                                    "content": "\"The medicine will protect your newborn from being jaundiced.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e872f1b6a40457cb88dcd1cc5cfa8b1",
+                                    "content": "\"Newborns have sterile bowels, and the medicine promotes the growth of bacteria in the bowel.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2cd3957bf56644868c17172943c3d141",
+                                    "content": "\"Newborns are deficient in vitamin K, and this injection prevents your newborn from bleeding.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse prepares to administer a phytonadione (vitamin K) injection to a newborn, and the birthing parent asks the nurse why the infant needs the injection. What best response would the nurse provide?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPhytonadione is necessary for the body to synthesize coagulation factors. It is administered to the newborn to prevent bleeding disorders. It also promotes liver formation of the clotting factors II, VII, IX, and X. Newborns are vitamin K deficient because the bowel does not have the bacteria necessary to synthesize fat-soluble vitamin K. The normal flora in the intestinal tract produces vitamin K. The newborn's bowel does not support the normal production of vitamin K until bacteria adequately colonize it. The bowel becomes colonized by bacteria as food is ingested. Vitamin K does not promote the development of immunity or prevent the infant from becoming jaundiced.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Newborn\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic word, best. Because immunity and jaundice are unrelated to the action of vitamin K, eliminate options 1 and 2. From the remaining options, recall the action of vitamin K to direct you to the correct option. Remember that vitamin K does not promote the growth of bacteria but is administered to prevent bleeding.\n \n  ",
+                        "id": "253c169b840b4e738e701a6b92030226",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b291f944f4346749b5aa3d4e2edb3c8",
+                                "content": "Monitoring the newborn's vital signs routinely"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3613855fa12f403388d738ade004303c",
+                                "content": "Maintaining standard precautions at all times while caring for the newborn"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f66138bc0b34df9bb11bd40cf443428",
+                                "content": "Initiating referral to evaluate for blindness, deafness, learning problems, or behavioral problems"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3deb13c04cde414aad3daac76058b090",
+                                "content": "Instructing the breast-feeding parent regarding the treatment of the nipples with nystatin ointment"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b291f944f4346749b5aa3d4e2edb3c8",
+                                    "content": "Monitoring the newborn's vital signs routinely"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3613855fa12f403388d738ade004303c",
+                                    "content": "Maintaining standard precautions at all times while caring for the newborn"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f66138bc0b34df9bb11bd40cf443428",
+                                    "content": "Initiating referral to evaluate for blindness, deafness, learning problems, or behavioral problems"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3deb13c04cde414aad3daac76058b090",
+                                    "content": "Instructing the breast-feeding parent regarding the treatment of the nipples with nystatin ointment"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse creates a plan of care for a client with human immunodeficiency virus (HIV) infection and the client's newborn. The nurse would include which intervention in the plan of care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "49d86bb4d5071eb7de614d6c79f7abfb",
+                        "difficulty": "考试范围-Creating创新",
+                        "textAnalysis": "Rationale:\nAn infant born to a client infected with HIV must be cared for with strict attention to standard precautions. This prevents the transmission of HIV from the newborn, if infected, to others and prevents transmission of other infectious agents to the possibly immunocompromised newborn. Options 1 and 3 are not associated specifically with the care of a potentially HIV-infected newborn. Parents infected with HIV would not breast-feed.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Creating\nContent Area: Maternity: Newborn\nHealth Problem: Newborn: Newborn of a Birthing Parent With HIV/AIDS\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Infection, Safety\nStrategies: Comparable or Alike Options\n Test-Taking Strategy:\nEliminate options 1 and 3 first because they are comparable or alike and are not associated specifically with the care of a potentially HIV-infected newborn. Recalling that HIV-infected parents would not breast-feed will direct you to the correct option.\n \n ",
+                        "id": "2577bb9d6d104ea8a4e8602c1d7ae584",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7fecf74413404e50b89c74817bbc74a5",
+                                "content": "The parent bathes the newborn infant after a feeding."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f09aec8596614adca8456fb27d7b67ae",
+                                "content": "The parent states the need to gather all supplies before the bath is started."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3dc7360a4fe4b4c8c69c3727db11520",
+                                "content": "The parent relates the importance of never leaving the newborn infant in the tub of water alone."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9dd70f1d37254cc28e91a1111f5ea966",
+                                "content": "The parent fills a clean basin or sink with 2 to 3 inches (5 to 7.5 cm) of water and then checks the temperature with the wrist."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7fecf74413404e50b89c74817bbc74a5",
+                                    "content": "The parent bathes the newborn infant after a feeding."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f09aec8596614adca8456fb27d7b67ae",
+                                    "content": "The parent states the need to gather all supplies before the bath is started."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3dc7360a4fe4b4c8c69c3727db11520",
+                                    "content": "The parent relates the importance of never leaving the newborn infant in the tub of water alone."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9dd70f1d37254cc28e91a1111f5ea966",
+                                    "content": "The parent fills a clean basin or sink with 2 to 3 inches (5 to 7.5 cm) of water and then checks the temperature with the wrist."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The postpartum nurse teaches a parent how to give a bath to the newborn infant and observes the parent performing the procedure. Which observation indicates a lack of understanding of the instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIt is inadvisable to bathe a newborn infant after a feeding because handling may cause regurgitation. Because bathing is thought to be relaxing to the infant, bathing before feeding may be the best time. All other options are appropriate interventions in teaching the parent how to bathe a newborn.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Newborn\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Negative Event Query, Strategic Words\n Test-Taking Strategy:\nNote the strategic words, lack of understanding of the instructions. These words indicate a negative event query and the need to select the incorrect action. Recalling that handling the baby after a feeding may cause regurgitation will assist in directing you to the correct option.\n \n ",
+                        "id": "27e53ba5d0aa43069683664a4d422eb8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7a5c1a7eb134d7b827f3ccb036b7d9b",
+                                "content": "At 1 minute after birth and 5 minutes after birth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdc26afe0b274ee990f1d10aba21af83",
+                                "content": "Immediately at birth, 3 minutes after birth, and 10 minutes after birth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa7f2621e59741a6a382778073b81e71",
+                                "content": "At 1 minute after birth, 5 minutes after birth, and 15 minutes after birth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77d42a73042743c887a35c1de0e7d42e",
+                                "content": "Immediately at birth, after the cord is cut, and after the client delivers the placenta\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7a5c1a7eb134d7b827f3ccb036b7d9b",
+                                    "content": "At 1 minute after birth and 5 minutes after birth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdc26afe0b274ee990f1d10aba21af83",
+                                    "content": "Immediately at birth, 3 minutes after birth, and 10 minutes after birth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa7f2621e59741a6a382778073b81e71",
+                                    "content": "At 1 minute after birth, 5 minutes after birth, and 15 minutes after birth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77d42a73042743c887a35c1de0e7d42e",
+                                    "content": "Immediately at birth, after the cord is cut, and after the client delivers the placenta\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "On delivery of a newborn, the nurse performs an initial assessment. When would the nurse determine the Apgar score?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nOne of the earliest indicators of successful adaptation of the newborn is the Apgar score. This test is performed 1 minute after birth and again 5 minutes after birth. If the Apgar is still a very low score, a protocol to repeat again every 5 minutes until 20 minutes of age is typically employed.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Newborn\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Development, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the Apgar score. Recalling that the Apgar score is the earliest indicator of successful adaptation of the newborn will direct you to the correct option.\n \n   ",
+                        "id": "2df7cc2f26964677878e5f2ecdfa98db",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "c2755aa83a36a49e3a7a770bf5fcc376",
+            "lessonItemId": "486aea3f131f163a2b62c8dbebd60765",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 132000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:28:03",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Care of the Newbor",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

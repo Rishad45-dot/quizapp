@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-08 15:00:23",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-08 15:00:23",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:43:10",
+            "id": "2e819fa8c5f38e956ceb199b440811e3",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0aa28fc9328344cbaa02b5602109f611",
+                                "content": "\"The health care system services a client population that presents particular challenges. The changes made will enhance client safety and reduce errors.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fcb0b9e1a12e4da4a427ae20ab4041e4",
+                                "content": "\"If you don't follow the new policy and procedure, I'll have no choice but to give you a notice about poor performance, which could lead to termination of your employment.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d0d19f3b9814eb99686ac24727701be",
+                                "content": "\"Every manager has the responsibility to see that these new policies and procedures are followed 100% of the time. Please join me in this organization's effort to continue to improve quality care.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c66e82b47e5641148d753d6ddf31b059",
+                                "content": "\"You're just going to have to trust me on this one. I was a member of the committee that wrote the policy and procedure, and there are good reasons why the specific nursing actions need to be done this new way.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0aa28fc9328344cbaa02b5602109f611",
+                                    "content": "\"The health care system services a client population that presents particular challenges. The changes made will enhance client safety and reduce errors.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fcb0b9e1a12e4da4a427ae20ab4041e4",
+                                    "content": "\"If you don't follow the new policy and procedure, I'll have no choice but to give you a notice about poor performance, which could lead to termination of your employment.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d0d19f3b9814eb99686ac24727701be",
+                                    "content": "\"Every manager has the responsibility to see that these new policies and procedures are followed 100% of the time. Please join me in this organization's effort to continue to improve quality care.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c66e82b47e5641148d753d6ddf31b059",
+                                    "content": "\"You're just going to have to trust me on this one. I was a member of the committee that wrote the policy and procedure, and there are good reasons why the specific nursing actions need to be done this new way.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse manager meets with the staff nurses and announces that management has developed a new policy and procedure that is significantly different from old practices. Which statement by the nurse manager reflects the manager's use of legitimate power?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nOption 3 describes legitimate power. Legitimate power is based on a person's position within an organization or society. The organizational leadership has mandated performance outcomes, and management has the responsibility to see that the mandate is met. Option 1 demonstrates informational power. The manager is using data to drive compliance with the mandate. Option 2 reflects an example of coercive power. Coercive power is a \"do this or else\" type of approach. Option 4 reflects expert power. The manager is asking the staff nurses to comply with the mandate because the manager possesses expert knowledge and skill levels. In addition to coercive, informational, expert, and legitimate power, the manager has referent, reward, and personal power.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Communication and Documentation\nPriority Concepts: Communication, Health Care Organizations\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, legitimate power. Option 3 best reflects this type of power. Remember that with the authority that is delegated to management comes power, and remember that the manager must recognize the types of power available to the manager and apply them effectively. The strategy to successful management is application of the type of power most effective in meeting workplace challenges.",
+                        "id": "02f5f714ad7546178dac79157ba07c1f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46da32aded184d9093cd70013baadd16",
+                                "content": "A client scheduled to receive parenteral nutrition"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f8a0f757a9cb429683e54dd92af4e3d7",
+                                "content": "A client who requires assistance with ambulation every 4 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95516f1ffbda471781608675528dc2a2",
+                                "content": "A client scheduled for discharge who needs teaching about medications"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15a5e350daa948d382119ebbb63f48f5",
+                                "content": "A client with bladder cancer who is scheduled for a cardiac catheterization"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46da32aded184d9093cd70013baadd16",
+                                    "content": "A client scheduled to receive parenteral nutrition"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f8a0f757a9cb429683e54dd92af4e3d7",
+                                    "content": "A client who requires assistance with ambulation every 4 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95516f1ffbda471781608675528dc2a2",
+                                    "content": "A client scheduled for discharge who needs teaching about medications"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15a5e350daa948d382119ebbb63f48f5",
+                                    "content": "A client with bladder cancer who is scheduled for a cardiac catheterization"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The registered nurse is planning the client assignments for the day. Which is the most appropriate assignment for the assistive personnel (AP)?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse must determine the most appropriate assignment based on the skills of the staff member and the needs of the client. In this case, the most appropriate assignment for an AP would be to care for a client on bed rest who requires assistance with ambulation every 4 hours. The AP is trained in this procedure. The client receiving parenteral nutrition and the client scheduled for a cardiac catheterization require the assessment skills that a licensed nurse can perform. Teaching needs to be done by the licensed nurse. The AP does not have the education to teach a client about medications.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Safety, Care Coordination\nStrategies: Strategic Words, Subject                          Test-Taking Strategy:\nNote the strategic words, most appropriate, and focus on the subject, the appropriate client to assign to the AP. Think about the needs of each client in the options, and select the one who will not require the skills of a licensed nurse for care. The AP has been trained to meet the needs of the client in the correct option.",
+                        "id": "09be8bfcc02a440788af884f2fbe1656",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db7db9bab10f4580bf87a29f0b5a295a",
+                                "content": "A client requiring frequent temperature checks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67f01205e61e42d6975f70869c367118",
+                                "content": "A client requiring assistance with ambulation every 4 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be2d1c57738b4c5991aff5f78ede0665",
+                                "content": "A client on a mechanical ventilator requiring frequent assessment and suctioning"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2c605f583ad4914bc3b3160541b2de6",
+                                "content": "A client with a spinal cord injury requiring urinary catheterization every 6 hours"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db7db9bab10f4580bf87a29f0b5a295a",
+                                    "content": "A client requiring frequent temperature checks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67f01205e61e42d6975f70869c367118",
+                                    "content": "A client requiring assistance with ambulation every 4 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be2d1c57738b4c5991aff5f78ede0665",
+                                    "content": "A client on a mechanical ventilator requiring frequent assessment and suctioning"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2c605f583ad4914bc3b3160541b2de6",
+                                    "content": "A client with a spinal cord injury requiring urinary catheterization every 6 hours"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "When creating an assignment for a team consisting of a registered nurse (RN), a licensed practical nurse (LPN), and two assistive personnel (APs), which is the best client for the LPN?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "49d86bb4d5071eb7de614d6c79f7abfb",
+                        "difficulty": "考试范围-Creating创新",
+                        "textAnalysis": "Rationale:\nWhen creating nursing assignments, the nurse needs to consider the skills and educational level of the nursing staff. Frequent temperature checks and ambulation can most appropriately be provided by the APs, considering the clients identified in each option. The client on the mechanical ventilator requiring frequent assessment and suctioning would most appropriately be cared for by the RN. The LPN is skilled in urinary catheterization, so the client in option 4 would be assigned to this staff member.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Creating\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Safety, Care Coordination\nStrategies: Strategic Words, Subject                         Test-Taking Strategy:\nNote the strategic word, best; focus on the subject, the principles related to delegation and assignments; and consider the education and job position as described by the Nurse Practice Act and employee guidelines. Note the word assessment in option 3. This would alert you that this client needs to be assigned to the RN. Options 1 and 2 can be eliminated because an AP can perform these tasks.",
+                        "id": "0e745f1ced864bb8a27ad864b2ebc2a0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7506c33ca60148bda35fe801f870d230",
+                                "content": "Ambulate the client frequently."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f93f33f07d464172b901b21bc5df92c0",
+                                "content": "Encourage a diet that is high in protein."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "01d46de2d6dc4b4cb40ab8bb0db820bf",
+                                "content": "Remove the water pitcher from the bedside."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d172fcc89ac148f390db6ae795ef8114",
+                                "content": "Monitor the client's temperature every 2 hours."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7506c33ca60148bda35fe801f870d230",
+                                    "content": "Ambulate the client frequently."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f93f33f07d464172b901b21bc5df92c0",
+                                    "content": "Encourage a diet that is high in protein."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "01d46de2d6dc4b4cb40ab8bb0db820bf",
+                                    "content": "Remove the water pitcher from the bedside."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d172fcc89ac148f390db6ae795ef8114",
+                                    "content": "Monitor the client's temperature every 2 hours."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with acute glomerulonephritis. The nurse instructs the assistive personnel (AP) to implement which action when caring for the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client with acute glomerulonephritis commonly experiences an excess of fluid volume and fatigue. Interventions include fluid restriction and monitoring weight, intake, and output. The diet is high in calories but low in protein. The client is placed on bed rest, or at least encouraged to rest, because there is a direct correlation between proteinuria and hematuria and increased activity levels. It is unnecessary to monitor the temperature as frequently as every 2 hours.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nHealth Problem: Adult Health: Renal and Urinary: Acute Kidney Injury/Chronic Kidney Disease\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, caring for a client with acute glomerulonephritis. Thinking about the pathophysiology associated with this disorder and recalling that the client experiences a fluid volume excess will direct you to the correct option.",
+                        "id": "144d4ffee9c84345b591548bafae5b80",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3bc5fa21faa41f5b1b131a223d44cb4",
+                                "content": "The client who requires a 24-hour urine collection"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32cdb31ca72f444792e63c53595f3488",
+                                "content": "The client with an abdominal wound requiring frequent wound irrigations"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fa182ad38994e0d96665270b063e5e3",
+                                "content": "The older client requiring assistance with a bed bath and frequent ambulation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "80ecc2fd3d61456b88d5137d17b7c8a6",
+                                "content": "The client on a mechanical ventilator requiring frequent assessment and suctioning"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3bc5fa21faa41f5b1b131a223d44cb4",
+                                    "content": "The client who requires a 24-hour urine collection"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32cdb31ca72f444792e63c53595f3488",
+                                    "content": "The client with an abdominal wound requiring frequent wound irrigations"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fa182ad38994e0d96665270b063e5e3",
+                                    "content": "The older client requiring assistance with a bed bath and frequent ambulation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "80ecc2fd3d61456b88d5137d17b7c8a6",
+                                    "content": "The client on a mechanical ventilator requiring frequent assessment and suctioning"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The registered nurse (RN) is planning assignments for the clients on a nursing unit. The RN needs to assign four clients and has one RN, one licensed practical nurse, and two assistive personnel (APs) on a nursing team. Which client would the nurse most appropriately assign to the licensed practical nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen delegating nursing assignments, the nurse must consider the skills and educational level of the nursing staff. The licensed practical nurse is skilled in wound irrigation and dressing changes, so this client would be assigned to this staff member. Collecting 24-hour urine and helping with a bed bath and frequent ambulation can most appropriately be assigned to the APs. The client on the mechanical ventilator requiring frequent assessment and suctioning would most appropriately be cared for by the RN.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Leadership, Care Coordination\nStrategies: Strategic Words   Test-Taking Strategy:\nNote the strategic words, most appropriately. Use the principles related to delegation and assignment making, and consider the education of each employee. Note the word assessment in option 4. This would alert you that this client needs to be assigned to the RN. Options 1 and 3 can be eliminated because an AP can easily perform these tasks. This would assist in directing you to the correct choice.",
+                        "id": "276e2c7307dd45b58e27c307d28381ff",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc8b586abc3d44a9b9d21503c2fb0170",
+                                "content": "Determine what skills can be delegated."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6debe6d7b51443828151051ab214f1f3",
+                                "content": "Determine the years of experience of each AP."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d7769fd52604912a6ff323fd23b1a94",
+                                "content": "Determine how much supervision is required for each client assigned."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98f177e53acf43579ffc1b970369c0ac",
+                                "content": "Determine how many clients the agency allows to be delegated to each AP."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc8b586abc3d44a9b9d21503c2fb0170",
+                                    "content": "Determine what skills can be delegated."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6debe6d7b51443828151051ab214f1f3",
+                                    "content": "Determine the years of experience of each AP."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d7769fd52604912a6ff323fd23b1a94",
+                                    "content": "Determine how much supervision is required for each client assigned."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98f177e53acf43579ffc1b970369c0ac",
+                                    "content": "Determine how many clients the agency allows to be delegated to each AP."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing client care assignments for a group of assistive personnel (APs). What is the nurse's first step in planning and assigning clients?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nKnowing what skills can be delegated is essential when nurses assign client care to other health care personnel. Nurses must be familiar with their state's nurse practice act, institutional policies and procedures, and the institution's job description for APs. Information from these sources is necessary to define the level of competency of APs. Determining how many clients to delegate is not the first step; in fact, most agencies do not state a specific number of clients that may be assigned. Determining years of experience is also not a first step, although an AP's experience could affect the type of client assigned. How much supervision will be required is also important, but, again, not the first step the nurse takes when delegating client assignments to the APs.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Safety, Care Coordination\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, first. Eliminate option 4 because client numbers do not address client acuity. Next, think about delegation principles. Eliminate options 2 and 3 because they are not the first steps to consider when developing an AP assignment.",
+                        "id": "2eeb38b837ad407e8dc856903bb66736",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "61f9b555404843d0afbf51164102844e",
+                                "content": "Every 2 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3c97d4d97984d4b9c36e6619b742f50",
+                                "content": "Every 3 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb8c68fcd27f4bc58c0a53114dc94661",
+                                "content": "Every 4 hours"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a57435af6ce9482f8b484587f36251a0",
+                                "content": "Every 30 minutes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "61f9b555404843d0afbf51164102844e",
+                                    "content": "Every 2 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3c97d4d97984d4b9c36e6619b742f50",
+                                    "content": "Every 3 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb8c68fcd27f4bc58c0a53114dc94661",
+                                    "content": "Every 4 hours"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a57435af6ce9482f8b484587f36251a0",
+                                    "content": "Every 30 minutes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is giving a report to an assistive personnel (AP) who will be caring for a client who has hand restraints (safety devices). The nurse instructs the AP to check the skin integrity of the restrained hands how frequently?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse would instruct the AP to check safety devices and skin integrity every 30 minutes. The neurovascular and circulatory status of the extremity would also be checked every 30 minutes. In addition, the safety device needs to be removed at least every 2 hours to permit muscle exercise and to promote circulation. Agency guidelines regarding the use of safety devices would always be followed.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Teaching and Learning\nPriority Concepts: Health Care Quality, Safety\nStrategies: Subject                    Test-Taking Strategy:\nFocus on the subject, checking skin integrity of a client with safety devices. In this situation, selecting the option that identifies the most frequent time frame is best.",
+                        "id": "3e3570dd2ee841b29d15e70f9bf0b827",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "005b8fe26ab04fa3b3250340d92a8fcb",
+                                "content": "A client requiring frequent ambulation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ccf78533a6db4ce28afac2c65b8aa6ab",
+                                "content": "A client scheduled for a cardiac catheterization"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "daef2b60f4b74613b16278943d4106d9",
+                                "content": "A client requiring range-of-motion (ROM) exercises"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6480a2c7883242648384ddfbe9c83846",
+                                "content": "A client with a 24-hour urine collection who is on strict bed rest"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "005b8fe26ab04fa3b3250340d92a8fcb",
+                                    "content": "A client requiring frequent ambulation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ccf78533a6db4ce28afac2c65b8aa6ab",
+                                    "content": "A client scheduled for a cardiac catheterization"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "daef2b60f4b74613b16278943d4106d9",
+                                    "content": "A client requiring range-of-motion (ROM) exercises"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6480a2c7883242648384ddfbe9c83846",
+                                    "content": "A client with a 24-hour urine collection who is on strict bed rest"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The registered nurse (RN) is planning client assignments and cannot take a client assignment today. Two assistive personnel (AP) and a licensed practical nurse (LPN) also are assigned to the unit. Which client would the RN most appropriately assign to the LPN?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe RN is legally responsible for client assignments and must assign tasks according to the guidelines of the Nurse Practice Act and the job description of the employing agency. A client scheduled for a cardiac catheterization requires physiological needs and frequent nursing assessments; this is the most appropriate assignment for the LPN. The RN can work with the LPN and supervise care. The AP has been trained to care for a client on bed rest and on urine collection, to provide assistance with ambulation, and to perform ROM exercises. The RN would provide instructions to the AP regarding the tasks, but the tasks required for these clients are within the role description of an AP.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Leadership, Care Coordination\nStrategies: Strategic Words, Subject                         Test-Taking Strategy:\nNote the strategic words, most appropriately. Focus on the subject, LPN assignment. Note that the question asks for the assignment to be delegated to the LPN. When asked questions related to delegation, think about the role description of the employee and the needs of the client. This will direct you to the correct option.",
+                        "id": "49f26da2013a479fa276a4411519faf5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "40d791a5297f4a8089b6e751fa5bd69e",
+                                "content": "Place the client in a side-lying position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "266458923b104edeb48e54e3554edab9",
+                                "content": "Initiate wound care protocol for standardized ulcer care."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db19ca62378a4a9dbe8b0420ff54ea46",
+                                "content": "Meet with the wound specialist to identify measures to improve healing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7dff5e9ce6a643d1b828906e87597040",
+                                "content": "Determine which treatments would best meet the healing needs of the client."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "40d791a5297f4a8089b6e751fa5bd69e",
+                                    "content": "Place the client in a side-lying position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "266458923b104edeb48e54e3554edab9",
+                                    "content": "Initiate wound care protocol for standardized ulcer care."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db19ca62378a4a9dbe8b0420ff54ea46",
+                                    "content": "Meet with the wound specialist to identify measures to improve healing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7dff5e9ce6a643d1b828906e87597040",
+                                    "content": "Determine which treatments would best meet the healing needs of the client."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The registered nurse (RN) directs the licensed practical nurse (LPN) to assist with the care of a client who has a sacral pressure injury. Which is the most appropriate activity for the RN to delegate to the LPN?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe best task for the LPN is to place the client in the side-lying position. Proper positioning requires nursing skills and is within the LPN's abilities and scope of practice. Initiating a wound care protocol, meeting with the wound specialist to identify measures to improve healing, and determining which treatments would best meet the healing needs of the client are outside the LPN's scope of practice, even though the LPN may assist the RN in determining the plan of care. These activities are the RN's responsibilities.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Leadership/Management: Delegating/Supervising\nHealth Problem: Adult Health: Integumentary: Wounds\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Leadership, Care Coordination\nStrategies: Strategic Words, Subject                         Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, the best task for the LPN. Thinking about the roles and responsibilities of the LPN will direct you to the correct option. The activities in options 2, 3, and 4 are the responsibility of the RN.",
+                        "id": "522fee94e585423cb92901991cc25f52",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30b989491d2245858ad8be0979db2670",
+                                "content": "The LPN keeps the client's knee at the hinged joint of the machine."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11f7a992ce9d4c4b8350f7b84c2cfec6",
+                                "content": "The LPN assesses the client for pressure areas at the knee and the groin."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "faaa0f06888243898109774fc019ceb7",
+                                "content": "The LPN places the client's knee in a slightly externally rotated position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75ecdf280c0d4211a9c71dc647239834",
+                                "content": "The LPN checks the degree of extension and flexion and the speed of the CPM machine according to the primary health care provider's (PHCP's) prescriptions."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30b989491d2245858ad8be0979db2670",
+                                    "content": "The LPN keeps the client's knee at the hinged joint of the machine."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11f7a992ce9d4c4b8350f7b84c2cfec6",
+                                    "content": "The LPN assesses the client for pressure areas at the knee and the groin."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "faaa0f06888243898109774fc019ceb7",
+                                    "content": "The LPN places the client's knee in a slightly externally rotated position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75ecdf280c0d4211a9c71dc647239834",
+                                    "content": "The LPN checks the degree of extension and flexion and the speed of the CPM machine according to the primary health care provider's (PHCP's) prescriptions."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A registered nurse (RN) is observing a licensed practical nurse (LPN) preparing a client for treatment with a continuous passive motion (CPM) machine. Which action by the LPN requires follow-up by the RN?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIn the use of a CPM machine, the leg needs to be kept in a neutral position and not rotated either internally or externally. The knee needs to be positioned at the hinge joint of the machine. The nurse would monitor for pressure areas at the knee and the groin and would follow the PHCP's prescriptions and institutional protocol regarding extension and flexion and the speed of the CPM machine.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: 1-5\nContent Area: Leadership/Management: Management of Care\nHealth Problem: Adult Health: Musculoskeletal: Skeletal Injury\nIntegrated Process: Teaching and Learning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Negative Event Query, Strategic Words, Subject                               Test-Taking Strategy:\nNote the strategic words, requires follow-up. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Focus on the subject, CPM machine. Use of general principles related to nursing care will assist in eliminating options 2 and 4. Regarding the remaining choices, visualizing this procedure will direct you to the incorrect action by the LPN.",
+                        "id": "52f8de43c979435989ea70fe88b0a465",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "d68a7e49cd19d7b5378b2797d0f3d5ce",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 654000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:43:10",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Delegation and Assignments,Interprofessional Collaboratio",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

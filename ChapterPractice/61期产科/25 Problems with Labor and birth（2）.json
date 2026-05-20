@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:24:10",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:24:10",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:29:01",
+            "id": "53fc72d2e42222e37e0dc5776ebb4f74",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "04cd48e944564954854bdfd07825b720",
+                                "content": "Continue to monitor the fetal heart rate."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a48dae51b9a44688d5c759321954e71",
+                                "content": "Notify the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3dd106a1b7c0448fbb21ad1ce1c9d4f7",
+                                "content": "Encourage the client to continue pushing with each contraction."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9085cf13fa724634b54a4955c9545379",
+                                "content": "Instruct the client's coach to continue to encourage breathing techniques."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "04cd48e944564954854bdfd07825b720",
+                                    "content": "Continue to monitor the fetal heart rate."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a48dae51b9a44688d5c759321954e71",
+                                    "content": "Notify the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3dd106a1b7c0448fbb21ad1ce1c9d4f7",
+                                    "content": "Encourage the client to continue pushing with each contraction."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9085cf13fa724634b54a4955c9545379",
+                                    "content": "Instruct the client's coach to continue to encourage breathing techniques."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client in active labor and notes that the client is having contractions every 3 minutes that last 45 seconds. The nurse notes that the fetal heart rate between contractions is 100 beats/minute. Which nursing action is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA normal fetal heart rate is 110 to 160 beats/minute, and the fetal heart rate needs to be within this range between contractions. Fetal bradycardia between contractions may indicate the need for immediate medical management, and the PHCP or nurse-midwife needs to be notified. Options 1, 3, and 4 are inappropriate nursing actions in this situation and delay necessary intervention.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Data in the Question, Strategic Words\n  Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the data in the question. Knowledge that the normal fetal heart rate is 110 to 160 beats/minute will assist you to recognize that fetal bradycardia is present.\n \n  ",
+                        "id": "069acccf48104eeba648d2e4796abfcd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f4d9d72a1f842d480933d2c23529068",
+                                "content": "Prepare the client for a cesarean delivery."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16e9f189f1a746589254f82eb7d97d7f",
+                                "content": "Monitor the FHR every 30 minutes."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b663463252ee4dd6a004c8b92d0f70c9",
+                                "content": "Encourage an upright or side-lying maternal position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "816f635f890b4c4d84600931e9a972fe",
+                                "content": "Increase the rate of the oxytocin infusion every 10 minutes."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f4d9d72a1f842d480933d2c23529068",
+                                    "content": "Prepare the client for a cesarean delivery."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16e9f189f1a746589254f82eb7d97d7f",
+                                    "content": "Monitor the FHR every 30 minutes."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b663463252ee4dd6a004c8b92d0f70c9",
+                                    "content": "Encourage an upright or side-lying maternal position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "816f635f890b4c4d84600931e9a972fe",
+                                    "content": "Increase the rate of the oxytocin infusion every 10 minutes."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client in active labor. Which nursing intervention would be the best method to prevent fetal heart rate (FHR) decelerations?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSide-lying and upright positions such as walking, standing, and squatting can improve venous return and encourage effective uterine activity. Many nursing actions are available to prevent FHR decelerations without necessitating surgical intervention. Monitoring the FHR every 30 minutes will not prevent FHR decelerations. The nurse should discontinue an oxytocin infusion in the presence of FHR decelerations, thereby reducing uterine activity and increasing uteroplacental perfusion.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Reproduction\nStrategies: Strategic Words, Subject\n Test-Taking Strategy:\nNote the strategic word, best. Focus on the subject, nursing intervention for preventing FHR decelerations. Options 1, 2, and 4 will not accomplish this goal. Side-lying and upright positions will encourage effective uterine activity.\n \n ",
+                        "id": "07c1bc699fc44147872b1ce6a03e02c6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c503082a9b04ccca3ab2d446be7d394",
+                                "content": "The client's fear"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "373d455de6bb4877b059aa2cc8babdd9",
+                                "content": "The client's fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2efe59c114c84953bb2e6141583e2fcb",
+                                "content": "The client's inability to control the situation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75fd517d40da43e1a019559edf0e1e95",
+                                "content": "The client's inability to cope with the situation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c503082a9b04ccca3ab2d446be7d394",
+                                    "content": "The client's fear"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "373d455de6bb4877b059aa2cc8babdd9",
+                                    "content": "The client's fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2efe59c114c84953bb2e6141583e2fcb",
+                                    "content": "The client's inability to control the situation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75fd517d40da43e1a019559edf0e1e95",
+                                    "content": "The client's inability to cope with the situation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing emergency measures to a client in labor who has been diagnosed with a prolapsed cord. The client becomes anxious and frightened and says to the nurse, \"Why are all of these people in here? Is my baby going to be all right?\" Which client problem is most appropriate to address at this time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe client is anxious and frightened, and the most appropriate problem to address for the client at this time is fear. There are no data in the question to support a client problem with fatigue, inability to control the situation, or inability to cope with the situation. These problems may be considered for this client at some point during the hospitalization experience.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Prolapsed Umbilical Cord\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Anxiety, Perfusion\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic words, most appropriate. When answering questions related to a client problem, focus specifically on the data provided in the question. Note the relationship between the word frightened in the question and fear in the correct option.",
+                        "id": "0a8998f309e7430c992527f66a148851",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16f12f2c45bf4e4baff269b820a37e24",
+                                "content": "Bear down."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1fdf3bbe53f2456d9f02d59ba851c641",
+                                "content": "Breathe rapidly."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34fc96c2dd09444fb74610d46b643f54",
+                                "content": "Hold your breath."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9d221aec1084682b6e9c5c0ca065a73",
+                                "content": "Push with each contraction."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16f12f2c45bf4e4baff269b820a37e24",
+                                    "content": "Bear down."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1fdf3bbe53f2456d9f02d59ba851c641",
+                                    "content": "Breathe rapidly."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34fc96c2dd09444fb74610d46b643f54",
+                                    "content": "Hold your breath."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9d221aec1084682b6e9c5c0ca065a73",
+                                    "content": "Push with each contraction."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is experiencing a precipitous labor and is waiting for the primary health care provider to arrive. When the infant's head crowns, what instruction would the nurse give the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDuring a precipitous labor, when the infant's head crowns, the nurse instructs the client to breathe rapidly to decrease the urge to push. The client is not instructed to push or bear down. Holding the breath decreases the amount of oxygen to the birthing parent and the fetus.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Precipitous Labor and Delivery\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Caregiving\nStrategies: Comparable or Alike Options, Subject\n  Test-Taking Strategy:\nNote the subject, precipitous labor. Hold your breath can be eliminated first because this action decreases the amount of oxygen to the client and to the fetus. Next, eliminate options 1 and 4 because they are comparable or alike.\n \n  ",
+                        "id": "0d20bc1d3b774074b11e3543d51eea71",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46f9f2801cce4cc6b95ed6ac1feeee0b",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6da52e875934760a422500302862436",
+                                "content": "Coordinated uterine contractions"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6b76c6c61aeb42d299345c6d8da2168c",
+                                "content": "Progressive changes in the cervix"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3695198fed8f49da8cd04778b39c6ec5",
+                                "content": "Persistent nonreassuring fetal heart rate\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46f9f2801cce4cc6b95ed6ac1feeee0b",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6da52e875934760a422500302862436",
+                                    "content": "Coordinated uterine contractions"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6b76c6c61aeb42d299345c6d8da2168c",
+                                    "content": "Progressive changes in the cervix"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3695198fed8f49da8cd04778b39c6ec5",
+                                    "content": "Persistent nonreassuring fetal heart rate\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in a birthing room is monitoring a client with dystocia for signs of clinical compromise. Which assessment finding would alert the nurse to a compromise?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSigns of clinical compromise include a persistent, nonreassuring fetal heart rate, fetal acidosis, and the passage of meconium. Fatigue and infection can occur if the labor is prolonged but do not indicate clinical compromise. Coordinated uterine contractions and progressive changes in the cervix are a reassuring pattern in labor.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Dystocia\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Perfusion\nStrategies: Comparable or Alike Options, Subject\n  Test-Taking Strategy:\nFocus on the subject, signs of clinical compromise. Eliminate options 1, 2, and 3 because they are comparable or alike and are normal expectations during labor.\n \n  ",
+                        "id": "123e48faaa10463fa06487ea321d49ea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d55bbe3f02d94c089f78858f9f47ecf4",
+                                "content": "Variability"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f157f82fb7ee489cb1487601f3979c9b",
+                                "content": "Accelerations"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69a57925444a4365893edcca78e6503a",
+                                "content": "Early decelerations"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15cd22cc27544c73a98a71b9e9a5e79d",
+                                "content": "Variable decelerations"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d55bbe3f02d94c089f78858f9f47ecf4",
+                                    "content": "Variability"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f157f82fb7ee489cb1487601f3979c9b",
+                                    "content": "Accelerations"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69a57925444a4365893edcca78e6503a",
+                                    "content": "Early decelerations"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15cd22cc27544c73a98a71b9e9a5e79d",
+                                    "content": "Variable decelerations"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client in labor. The nurse suspects umbilical cord compression if which is noted on the external monitor tracing during a contraction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nVariable decelerations occur if the umbilical cord becomes compressed, reducing blood flow between the placenta and the fetus. Variability refers to fluctuations in the baseline fetal heart rate. Accelerations are a reassuring sign and usually occur with fetal movement. Early decelerations result from pressure on the fetal head during a contraction.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, umbilical cord compression. Recalling that variable decelerations occur if the umbilical cord becomes compressed will direct you to the correct option.\n \n ",
+                        "id": "15678d443cba4dda9ec1dc04391325a8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc1cf03da078462abdcd95d70e10910c",
+                                "content": "Document the finding."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b670efa5d5e4501abbbcf500dc97d48",
+                                "content": "Notify the obstetrician (OB)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9822b35330ef4bba82740bec859cffc2",
+                                "content": "Check the mother's heart rate."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3a42276392e41cfba28a2f83f18a6b5",
+                                "content": "Tell the client that the fetal heart rate is normal."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc1cf03da078462abdcd95d70e10910c",
+                                    "content": "Document the finding."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b670efa5d5e4501abbbcf500dc97d48",
+                                    "content": "Notify the obstetrician (OB)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9822b35330ef4bba82740bec859cffc2",
+                                    "content": "Check the mother's heart rate."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3a42276392e41cfba28a2f83f18a6b5",
+                                    "content": "Tell the client that the fetal heart rate is normal."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client who is at 38 weeks' gestation and notes that the fetal heart rate (FHR) is 174 beats per minute. On the basis of this finding, what is the priority nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe FHR depends on gestational age and ranges from 160 to 170 beats per minute in the first trimester but slows with fetal growth to 110 to 160 beats per minute. If the FHR is less than 110 beats per minute or more than 160 beats per minute with the uterus at rest, the fetus may be in distress. Because the FHR is increased from the reference range, the nurse would notify the OB. Options 3 and 4 are inappropriate actions based on the information in the question. Although the nurse documents the findings, based on the information in the question, the OB needs to be notified.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Perfusion\nStrategies: Data in the Question, Strategic Words\n   Test-Taking Strategy:\nFocus on the data in the question and note the strategic word, priority. Then, note if an abnormality exists. Also note the FHR and that the client is at 38 weeks of gestation. Remember that the normal FHR is 110 to 160 beats per minute.\n \n   ",
+                        "id": "16bed93e29a148b59839a54332297494",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56c057974a164cc2bae279fa4045f27d",
+                                "content": "Gently push the cord into the vagina."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a644e77393941dcb0c78f5f9c8e0b66",
+                                "content": "Place the client in Trendelenburg's position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53fc1288368a427abb98a43e48e9875a",
+                                "content": "Find the closest telephone and page the primary health care provider (PHCP) stat."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0451f82bd6d14f9d97d8c877a0daeb18",
+                                "content": "Call the delivery room to notify the staff that the client will be transported immediately."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56c057974a164cc2bae279fa4045f27d",
+                                    "content": "Gently push the cord into the vagina."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a644e77393941dcb0c78f5f9c8e0b66",
+                                    "content": "Place the client in Trendelenburg's position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53fc1288368a427abb98a43e48e9875a",
+                                    "content": "Find the closest telephone and page the primary health care provider (PHCP) stat."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0451f82bd6d14f9d97d8c877a0daeb18",
+                                    "content": "Call the delivery room to notify the staff that the client will be transported immediately."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse performs a vaginal assessment on a pregnant client in labor. On assessment, the nurse notes the presence of the umbilical cord protruding from the vagina. Which is the initial nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen cord prolapse occurs, prompt actions are taken to relieve cord compression and increase fetal oxygenation. The client would be positioned with the hips higher than the head to shift the fetal presenting part toward the diaphragm. The nurse would push the call light to summon help, and other staff members need to call the PHCP and notify the delivery room. If the cord is protruding from the vagina, no attempt would be made to replace it because that could traumatize it and further reduce blood flow. Oxygen at 8 to 10 L/min by face mask is administered to the client to increase fetal oxygenation.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Prolapsed Umbilical Cord\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Safety\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic word, initial, and the words umbilical cord protruding from the vagina. Options 3 and 4 can be eliminated first because these actions delay necessary and immediate treatment. Knowledge that the cord would not be pushed back into the vagina will easily direct you to the correct option.\n \n  ",
+                        "id": "273fdaa3b8a84372bfa5842ae9729d01",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d97265d545440509367611b4c5c67b6",
+                                "content": "Increased urinary output"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c578c8094c5e405281b7a7f6d7d88e26",
+                                "content": "A fetal heart rate of 180 beats/min"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ea560e929be458ca65c35b3dfc53f6b",
+                                "content": "Three contractions occurring in a 10-minute period"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c33bc941fca2438c9fefc2f98b06e376",
+                                "content": "Adequate resting tone of the uterus palpated between contractions"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d97265d545440509367611b4c5c67b6",
+                                    "content": "Increased urinary output"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c578c8094c5e405281b7a7f6d7d88e26",
+                                    "content": "A fetal heart rate of 180 beats/min"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ea560e929be458ca65c35b3dfc53f6b",
+                                    "content": "Three contractions occurring in a 10-minute period"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c33bc941fca2438c9fefc2f98b06e376",
+                                    "content": "Adequate resting tone of the uterus palpated between contractions"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client in labor is receiving oxytocin by intravenous infusion to stimulate uterine contractions. Which finding indicates that the rate of infusion needs to be decreased?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA normal fetal heart rate is 110 to 160 beats/min. Acute hypoxia is a common cause of fetal tachycardia. The dosage of oxytocin would be decreased in the presence of fetal tachycardia, which can occur from excessive uterine activity. The goal of labor augmentation is to achieve three good-quality contractions (appropriate intensity and duration) in a 10-minute period. The uterus would return to resting tone between contractions, and there would be no evidence of fetal distress. Increased urinary output is unrelated to the use of oxytocin.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Safety\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, the need to decrease the infusion rate of oxytocin. Use specific knowledge of the nursing considerations related to the use of oxytocin to answer this question. Eliminate option 1 because it is unrelated to the use of oxytocin. Eliminate options 3 and 4 because these are normal and expected findings.\n \n  ",
+                        "id": "2fcc2e92d2e74e2595a3aa5622c2fca9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17093e026efd4041867188e3b806b355",
+                                "content": "Notify the primary health care provider."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cabb914fcea4535afc90eb7ae6db041",
+                                "content": "Discontinue the infusion of oxytocin."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8f45a16f0354284bb293e30892eda05",
+                                "content": "Place oxygen on at 8 to 10 L/minute via face mask."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cd190c2f934d43188b51e378968632ec",
+                                "content": "Contact the client's primary support person(s) if not currently present."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17093e026efd4041867188e3b806b355",
+                                    "content": "Notify the primary health care provider."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cabb914fcea4535afc90eb7ae6db041",
+                                    "content": "Discontinue the infusion of oxytocin."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8f45a16f0354284bb293e30892eda05",
+                                    "content": "Place oxygen on at 8 to 10 L/minute via face mask."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cd190c2f934d43188b51e378968632ec",
+                                    "content": "Contact the client's primary support person(s) if not currently present."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assisting a client undergoing induction of labor at 41 weeks of gestation. The client's contractions are moderate and occurring every 2 to 3 minutes, with a duration of 60 seconds. An internal fetal heart rate monitor is in place. The baseline fetal heart rate has been 120 to 122 beats/minute for the past hour. What is the priority nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe priority nursing action is to stop the infusion of oxytocin. Oxytocin can cause forceful uterine contractions and decrease oxygenation to the placenta, resulting in decreased variability. After stopping the oxytocin, the nurse would reposition the laboring client. Notifying the primary health care provider, applying oxygen, and increasing the rate of the intravenous (IV) fluid (the solution without the oxytocin) are also actions that are indicated in this situation but not the priority action. Contacting the client's primary support person(s) is not the priority action at this time.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Data in the Question, Strategic Words\n   Test-Taking Strategy:\nFocus on the strategic word, priority. Focus on the data in the question and note the relationship of the words undergoing induction and the correct option. Also recall that physiological needs are prioritized over psychosocial needs.\n \n   ",
+                        "id": "4de42e66dfa54e3eb4cb7edb9d16f2a2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "c2755aa83a36a49e3a7a770bf5fcc376",
+            "lessonItemId": "de6c33ede3fc733eddd036b67465ea9c",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 287000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:29:01",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Problems with Labor and Birt",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

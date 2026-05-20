@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:29:02",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:29:02",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:36:32",
+            "id": "165614b95ed3224c1a07eb38e0f880e1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e4bda9d751f945bfa66e73b133bbb7c7",
+                                "content": "Metabolic acidosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eee18efa86a14140b7f396bea384c4bc",
+                                "content": "Metabolic alkalosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "433ba8909d974059a6495b8aa1f30ab7",
+                                "content": "Respiratory acidosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "39ddf8273a8c4c2f9e8e5a3fd2bb5216",
+                                "content": "Respiratory alkalosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e4bda9d751f945bfa66e73b133bbb7c7",
+                                    "content": "Metabolic acidosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eee18efa86a14140b7f396bea384c4bc",
+                                    "content": "Metabolic alkalosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "433ba8909d974059a6495b8aa1f30ab7",
+                                    "content": "Respiratory acidosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "39ddf8273a8c4c2f9e8e5a3fd2bb5216",
+                                    "content": "Respiratory alkalosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the arterial blood gas values of a client and notes that the pH is 7.31, Paco2 is 50 mm Hg, and the bicarbonate (HCO3) level is 26 mEq/L. The nurse concludes that which acid-base disturbance is present in this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn respiratory acidosis, the pH is decreased and the Paco2 level is increased. Options 1, 2, and 4 are incorrect. In respiratory alkalosis, the pH is elevated with a decrease in Paco2. In metabolic acidosis, both the pH and the HCO3 are decreased. In metabolic alkalosis, the pH and HCO3 are increased.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, interpretation of ABG values. Recalling that in acidosis the pH is decreased will assist in eliminating options 2 and 4. Regarding the remaining options, recalling that in metabolic conditions the pH and the HCO3 move in the same direction will direct you to the correct option.\n \n   ",
+                        "id": "02ebc847e8c04ea393a99e5d398a79c4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "394412939f3e45ca9e60ae2186c0a766",
+                                "content": "Respiratory acidosis from inadequate ventilation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c9078a5ab444f6c846ad6b5f9730d35",
+                                "content": "Respiratory alkalosis from anxiety and hyperventilation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b789126cc71e49a1b3d8c190e78dff51",
+                                "content": "Metabolic acidosis from calcium loss due to broken bones"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdba97dd0b1c4d498b604c068702392e",
+                                "content": "Metabolic alkalosis from taking analgesics containing base products"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "394412939f3e45ca9e60ae2186c0a766",
+                                    "content": "Respiratory acidosis from inadequate ventilation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c9078a5ab444f6c846ad6b5f9730d35",
+                                    "content": "Respiratory alkalosis from anxiety and hyperventilation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b789126cc71e49a1b3d8c190e78dff51",
+                                    "content": "Metabolic acidosis from calcium loss due to broken bones"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdba97dd0b1c4d498b604c068702392e",
+                                    "content": "Metabolic alkalosis from taking analgesics containing base products"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with several broken ribs. The client is most likely to experience what type of acid-base imbalance?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nRespiratory acidosis is most often caused by hypoventilation. The client with broken ribs will have difficulty with breathing adequately and is at risk for hypoventilation and resultant respiratory acidosis. The remaining options are incorrect. Respiratory alkalosis is associated with hyperventilation. There are no data in the question that indicate calcium loss or that the client is taking analgesics containing base products.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nHealth Problem: Adult Health: Respiratory: Chest Injuries\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Data in the Question, Strategic Words\n   Test-Taking Strategy:\nNote the strategic words, most likely. Focus on the data in the question. Think about the location of the ribs to determine that the client will have difficulty breathing adequately. This will assist in directing you to the correct option. Remembering that hypoventilation results in respiratory acidosis will direct you to the correct option.\n \n   ",
+                        "id": "0830be69d00849ed913f15a9039e328f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "847a974ebb9141b78a89f845e90bdd9a",
+                                "content": "pH 7.25, Paco2 50 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a61484a0ceb049ae93ffc3d8367ebfb4",
+                                "content": "pH 7.35, Paco2 40 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0dcad73a804f4691b69558c233064687",
+                                "content": "pH 7.50, Paco2 52 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63e550ccfc924a8793744886c5fb04fc",
+                                "content": "pH 7.52, Paco2 28 mm Hg"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "847a974ebb9141b78a89f845e90bdd9a",
+                                    "content": "pH 7.25, Paco2 50 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a61484a0ceb049ae93ffc3d8367ebfb4",
+                                    "content": "pH 7.35, Paco2 40 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0dcad73a804f4691b69558c233064687",
+                                    "content": "pH 7.50, Paco2 52 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63e550ccfc924a8793744886c5fb04fc",
+                                    "content": "pH 7.52, Paco2 28 mm Hg"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reviews the blood gas results of a client with atelectasis. The nurse analyzes the results and determines that the client is experiencing respiratory acidosis. Which result validates the nurse's findings?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAtelectasis is a condition characterized by the collapse of alveoli, preventing the respiratory exchange of oxygen and carbon dioxide in a part of the lungs. The normal pH is 7.35 to 7.45. The normal Paco2 is 35 to 45 mm Hg. In respiratory acidosis, the pH is decreased and the Paco2 is elevated. Option 2 identifies normal values. Option 3 identifies an alkalotic condition, and option 4 identifies respiratory alkalosis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the arterial blood gas results in a client with atelectasis. Remember that in a respiratory imbalance you will find an opposite response between the pH and the Paco2. Also, remember that the pH is decreased in an acidotic condition. First eliminate option 2 because it reflects a normal blood gas result. Options 3 and 4 identify an elevated pH, indicating an alkalotic condition. The correct option is the only one that reflects an acidotic condition.\n \n   ",
+                        "id": "13f4f24ca9cc4531ad13847997803a40",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "01c52778ae1541818d5ad4e35572e347",
+                                "content": "Metabolic acidosis with compensation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95a7e2343ca34b63a32956bb02f3cf05",
+                                "content": "Respiratory acidosis with compensation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31e809528aee42dd8245eeaea66e4eac",
+                                "content": "Metabolic acidosis without compensation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10e92a885cea49229f2ab5546c904053",
+                                "content": "Respiratory acidosis without compensation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "01c52778ae1541818d5ad4e35572e347",
+                                    "content": "Metabolic acidosis with compensation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95a7e2343ca34b63a32956bb02f3cf05",
+                                    "content": "Respiratory acidosis with compensation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31e809528aee42dd8245eeaea66e4eac",
+                                    "content": "Metabolic acidosis without compensation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10e92a885cea49229f2ab5546c904053",
+                                    "content": "Respiratory acidosis without compensation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who is found unresponsive has arterial blood gases drawn and the results indicate the following: pH is 7.12, Paco2 is 90 mm Hg, and HCO3– is 22 mEq/L. The nurse interprets the results as indicating which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe acid-base disturbance is respiratory acidosis without compensation. The normal pH is 7.35 to 7.45. The normal Paco2 is 35 to 45 mm. In respiratory acidosis, the pH is decreased and the Paco2 is elevated. The normal bicarbonate (HCO3–) level is 21 to 28 mEq/L. Because the bicarbonate is still within normal limits, the kidneys have not had time to adjust for this acid-base disturbance. In addition, the pH is not within normal limits. Therefore, the condition is without compensation. The remaining options are incorrect interpretations.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, interpretation of arterial blood gas results. Remember that in a respiratory imbalance you will find an opposite response between the pH and the Paco2. Also, remember that the pH is decreased in an acidotic condition and that compensation is reflected by a normal pH.\n \n   ",
+                        "id": "14ba3b3976a647d7bf0caacbf59cfc28",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d70caa124d545e7b0f3c74a73a5132c",
+                                "content": "Remove the nasal cannula for 15 minutes; then have the ABG samples drawn."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69a08fb00db54857858f425b7d5b141c",
+                                "content": "Change the nasal cannula to a shovel face mask; then have the ABG samples drawn."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bbaf02cb4fc448caad1a673cc2000db",
+                                "content": "Leave the nasal cannula in place and have the ABG samples drawn."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d978af4ee0ba4470aa8960c732f0b9af",
+                                "content": "Change the nasal cannula to a Venturi face mask; then have the ABG samples drawn."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d70caa124d545e7b0f3c74a73a5132c",
+                                    "content": "Remove the nasal cannula for 15 minutes; then have the ABG samples drawn."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69a08fb00db54857858f425b7d5b141c",
+                                    "content": "Change the nasal cannula to a shovel face mask; then have the ABG samples drawn."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bbaf02cb4fc448caad1a673cc2000db",
+                                    "content": "Leave the nasal cannula in place and have the ABG samples drawn."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d978af4ee0ba4470aa8960c732f0b9af",
+                                    "content": "Change the nasal cannula to a Venturi face mask; then have the ABG samples drawn."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with coronavirus-2019 (COVID-19) has a prescription for a set of arterial blood gas (ABG) samples to be drawn on room air. The client currently is receiving oxygen by nasal cannula at a delivery rate of 3 L/min. After reading the prescription, the nurse would take which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client would have oxygen supplementation removed for at least 15 minutes before ABGs are drawn if the client has a prescription for the ABGs to be drawn on room air. This allows time for the client's system to equilibrate so that the ABG results will accurately reflect ventilatory status without the supplemental oxygen. This prescription may be given when the primary health care provider is trying to decide whether to discontinue oxygen therapy, and it allows staff to observe how the client tolerates oxygen removal. Therefore, the remaining options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Acid-Base\nHealth Problem: Adult Health: Respiratory: COVID\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Acid-Base Balance, Gas Exchange\nStrategies: Comparable or Alike Options, Subject\n   Test-Taking Strategy:\nNote the subject, room air. Also, note that options 2, 3, and 4 are comparable or alike. All these options indicate continuing oxygen supplementation for the client.\n \n   ",
+                        "id": "16eeb5c66be942ef830c9f19cb20bebe",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84b5a7a56dcd4a99a75a192259ec2dc8",
+                                "content": "Headache and tachypnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9fe7ca0dd463489d846f276a598cb60a",
+                                "content": "Hyperactivity and dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4cf97a943814fd1a8d0735b3522d060",
+                                "content": "Muscle twitches and cyanosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29ccf8695506453ba833d79a18b544a4",
+                                "content": "Light-headedness and paresthesias"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84b5a7a56dcd4a99a75a192259ec2dc8",
+                                    "content": "Headache and tachypnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9fe7ca0dd463489d846f276a598cb60a",
+                                    "content": "Hyperactivity and dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4cf97a943814fd1a8d0735b3522d060",
+                                    "content": "Muscle twitches and cyanosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29ccf8695506453ba833d79a18b544a4",
+                                    "content": "Light-headedness and paresthesias"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An anxious preoperative client is at risk for developing respiratory alkalosis. The nurse would assess the client for which signs and symptoms characteristic of this disorder?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nClinical manifestations of respiratory alkalosis include a decrease in the respiratory rate and depth, headache, light-headedness, vertigo, mental status changes, paresthesias such as tingling of the fingers and toes, hypokalemia, hypocalcemia, tetany, and convulsions. The remaining three options are not clinical manifestations of respiratory alkalosis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nHealth Problem: Mental Health: Anxiety Disorder\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Acid-Base Balance, Gas Exchange\nStrategies: Subject\n   Test-Taking Strategy:\nNote the subject, respiratory alkalosis, and apply knowledge of the signs and symptoms of respiratory alkalosis to answer the question. It is necessary to recall that paresthesias are a feature of respiratory alkalosis to assist in directing you to the correct option.\n ",
+                        "id": "20673eea6726432993e4c52d370372a8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d01e527910340a793319a622e379a6a",
+                                "content": "Metabolic acidosis, uncompensated"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1eb0a4fbb04a4c648fae2a9100497341",
+                                "content": "Respiratory acidosis, uncompensated"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "821f824b37dd4fc0b9fe269583da768e",
+                                "content": "Respiratory alkalosis, uncompensated"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23e61a8943cd47a6a05f9b671d1ff1b6",
+                                "content": "Metabolic acidosis, partially compensated"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d01e527910340a793319a622e379a6a",
+                                    "content": "Metabolic acidosis, uncompensated"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1eb0a4fbb04a4c648fae2a9100497341",
+                                    "content": "Respiratory acidosis, uncompensated"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "821f824b37dd4fc0b9fe269583da768e",
+                                    "content": "Respiratory alkalosis, uncompensated"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23e61a8943cd47a6a05f9b671d1ff1b6",
+                                    "content": "Metabolic acidosis, partially compensated"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reviews a client's arterial blood gas values and notes a pH of 7.50 (7.50), a Paco2 of 30 mm Hg (30 mm Hg), and an HCO3 of 25 mEq/L (25 mmol/L). The nurse would interpret these values as an indication of which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn respiratory alkalosis, the pH will be higher than normal, and the Paco2 will be low. The normal pH is 7.35 to 7.45. The normal Paco2 is 35 to 45 mm Hg. The correct option is the only one that reflects these conditions.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, interpreting arterial blood gas values. Remember that when an alkalotic condition exists, the pH will be high. Next recall that in a respiratory alkalotic condition, the Paco2 will move in the opposite direction from the pH. The correct option is the only one that represents these conditions. Compensation can be identified if the pH is within normal limits.\n \n   ",
+                        "id": "24316955541a431092daa408e386e272",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "654d04efdb384bb0ad75dafd4121adca",
+                                "content": "Metabolic acidosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85e668d55aa74682b57eea2e0da542b5",
+                                "content": "Metabolic alkalosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5f311279ca7449db94e48415bdac652",
+                                "content": "Respiratory acidosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb19014048fd492ab0046311feaf0b39",
+                                "content": "Respiratory alkalosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "654d04efdb384bb0ad75dafd4121adca",
+                                    "content": "Metabolic acidosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85e668d55aa74682b57eea2e0da542b5",
+                                    "content": "Metabolic alkalosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5f311279ca7449db94e48415bdac652",
+                                    "content": "Respiratory acidosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb19014048fd492ab0046311feaf0b39",
+                                    "content": "Respiratory alkalosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reviews the arterial blood gas results of a client with emphysema and notes that the laboratory report indicates a pH of 7.30, Paco2 of 58 mm Hg, Pao2 of 80 mm Hg, and Hco3 of 27 mEq/L. The nurse interprets that the client has which acid–base disturbance?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe normal pH is 7.35 to 7.45. Normal Paco2 is 35 to 45 mm Hg. In respiratory acidosis, the pH is low and Paco2 is elevated. Options 1, 2, and 4 are incorrect interpretations of the values identified in the question.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nHealth Problem: Adult Health: Respiratory: Chronic Obstructive Pulmonary Disease\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, interpretation of arterial blood gas levels. Remember that in a respiratory imbalance you will find an opposite response between the pH and Paco2. Also, remember that the pH is low in an acidotic condition. Recalling this information will allow you to eliminate each of the incorrect options.",
+                        "id": "34275d8503044e6e886a5061eca34a87",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "13e326dd5ac64cb88ca438adfe25eaea",
+                                "content": "Disorientation and dyspnea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0158e89e4a244140aaff3682f6415ac7",
+                                "content": "Decreased respiratory rate and depth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c78006ee96cf424abc3ac49af0bdc97d",
+                                "content": "Drowsiness, headache, and tachypnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35e2cb9ea18149f68c24922495a2b232",
+                                "content": "Tachypnea, dizziness, and paresthesias"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "13e326dd5ac64cb88ca438adfe25eaea",
+                                    "content": "Disorientation and dyspnea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0158e89e4a244140aaff3682f6415ac7",
+                                    "content": "Decreased respiratory rate and depth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c78006ee96cf424abc3ac49af0bdc97d",
+                                    "content": "Drowsiness, headache, and tachypnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35e2cb9ea18149f68c24922495a2b232",
+                                    "content": "Tachypnea, dizziness, and paresthesias"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has been diagnosed with metabolic alkalosis as a result of excessive antacid use. The nurse monitoring this client would expect to note which signs/symptoms?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA client with metabolic alkalosis is likely to exhibit decreased respiratory rate and depth as a compensatory mechanism. A client with metabolic acidosis would display the symptoms noted in option 3. The client with respiratory acidosis and the client with respiratory alkalosis would display the symptoms noted in options 1 and 4, respectively.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Acid-Base\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Acid-Base Balance, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, manifestations of metabolic alkalosis. To answer this question accurately, you must be familiar with the signs and symptoms exhibited by the client with metabolic alkalosis. Think about the manifestations associated with this acid-base disturbance. Remember that decreased respiratory rate and depth occur in metabolic acidosis.\n \n   ",
+                        "id": "360b9b62704348d9b410687925c39594",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1308fbf454ec44c4a7924ece5c2a460b",
+                                "content": "Sodium"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db105b2946b645f2945970e37a4b31d8",
+                                "content": "Potassium"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94c607b714ed4ef18c73faca5f8048ed",
+                                "content": "Magnesium"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eca7be2bf27f4b2498a1747cc35c2e2d",
+                                "content": "Phosphorus"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1308fbf454ec44c4a7924ece5c2a460b",
+                                    "content": "Sodium"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db105b2946b645f2945970e37a4b31d8",
+                                    "content": "Potassium"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94c607b714ed4ef18c73faca5f8048ed",
+                                    "content": "Magnesium"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eca7be2bf27f4b2498a1747cc35c2e2d",
+                                    "content": "Phosphorus"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is being treated for metabolic acidosis with medication therapy and other measures. The nurse would plan to monitor the results of which electrolyte, which could dramatically decline with effective treatment of the acidosis?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe serum potassium level tends to rise with metabolic acidosis. This is because potassium moves out of the cells and into the bloodstream. When acidosis is corrected with treatment, the potassium will shift back into the cellular compartment. This can cause a rapid drop in the serum potassium level. Because of the effects of potassium on the heart, this electrolyte needs to be monitored closely while the client is treated.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Foundations of Care: Acid-Base\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Acid-Base Balance, Fluid and Electrolytes\nStrategies: Strategic Words\n   Test-Taking Strategy:\nSpecific knowledge about electrolyte changes that accompany acid-base disturbances is needed to answer the question. Note the strategic word, effective. Recall the roles of the various electrolytes in the body to select the correct option. Remember that the serum potassium level tends to rise with metabolic acidosis.\n ",
+                        "id": "38b97720ff334fa89d9d38ebd4dabc02",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "439c4eff1055d1192424ee22b8856ccf",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 315000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:36:33",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Acid-Base Balanc",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:07:40",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:07:40",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:22:23",
+            "id": "d442d4a9859ec110126c4cc70e8a24e0",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19432d665b6f4614a739e78bac44fc30",
+                                "content": "Decreased heartburn"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbfafbe1a89c408b911fb820205b9d06",
+                                "content": "Decrease in fatty stools"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c05b84840bed449d98c106fcaa6d7e4f",
+                                "content": "Relief of sharp abdominal pain"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "316a467034f74d5192bfad0387ea2a76",
+                                "content": "Bowel movement with soft, formed stool"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19432d665b6f4614a739e78bac44fc30",
+                                    "content": "Decreased heartburn"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbfafbe1a89c408b911fb820205b9d06",
+                                    "content": "Decrease in fatty stools"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c05b84840bed449d98c106fcaa6d7e4f",
+                                    "content": "Relief of sharp abdominal pain"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "316a467034f74d5192bfad0387ea2a76",
+                                    "content": "Bowel movement with soft, formed stool"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has administered a dose of docusate. The nurse evaluates that the medication has been effective if the client experiences which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDocusate is a stool softener that relieves constipation because it promotes absorption of water into the stool, producing a softer consistency of stool. The other options are not effects of this medication.",
+                        "id": "00a6d0261e8f4086a1d05cb4ba64cfb3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e6ed213a4cf4380968c8a6548611c8f",
+                                "content": "I can stop the medication if my pain is relieved."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd5f8403ec414e72a516c1e485a91dc2",
+                                "content": "I may get terrible diarrhea from the medication, and if I do I need to stop taking it."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59bd56acd1974adbad32caebf725f39b",
+                                "content": "Side effects are minimal, and I need to take it an hour before meals and at bedtime."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87b6fc874dde440b977e74507d07b17d",
+                                "content": "I need to take the medication halfway between meals and at bedtime on an empty stomach."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e6ed213a4cf4380968c8a6548611c8f",
+                                    "content": "I can stop the medication if my pain is relieved."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd5f8403ec414e72a516c1e485a91dc2",
+                                    "content": "I may get terrible diarrhea from the medication, and if I do I need to stop taking it."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59bd56acd1974adbad32caebf725f39b",
+                                    "content": "Side effects are minimal, and I need to take it an hour before meals and at bedtime."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87b6fc874dde440b977e74507d07b17d",
+                                    "content": "I need to take the medication halfway between meals and at bedtime on an empty stomach."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides medication instructions to a client who has a prescription for sucralfate to be taken 4 times daily. Which statement by the client indicates teaching was effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSucralfate is a gastric protectant. The medication should be scheduled for administration 1 hour before meals and at bedtime. The medication is scheduled so that it has time to bind to the base of ulcers and erosions and form a protective coating before food intake stimulates chemical and mechanical irritation in the stomach. Medication should not be stopped. Side effects are minimal, and diarrhea is not associated with the medication.",
+                        "id": "086bcfdd36294b83a95ec592218499a5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a3827f5718f24718af55d15c2e44da4c",
+                                "content": "At bedtime"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dde5bf5951fc4be38eeec74c95442fbd",
+                                "content": "With breakfast"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23c904ce44df49cd815e1ba3fbcfcd99",
+                                "content": "With the noon meal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63e07a5f8b95451aa9474411d1b04d54",
+                                "content": "On an empty stomach"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a3827f5718f24718af55d15c2e44da4c",
+                                    "content": "At bedtime"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dde5bf5951fc4be38eeec74c95442fbd",
+                                    "content": "With breakfast"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23c904ce44df49cd815e1ba3fbcfcd99",
+                                    "content": "With the noon meal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63e07a5f8b95451aa9474411d1b04d54",
+                                    "content": "On an empty stomach"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client taking an oral laxative wants to obtain a rapid effect from the medication. How would the nurse instruct the client to take the medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMost rapid results from an oral laxative occur when it is taken on an empty stomach. If taken at bedtime, the client will have a bowel movement in the morning. It will not have a rapid effect if taken with a meal.",
+                        "id": "08bbb3518cca4630b477229bff7dca11",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3a4988c5a5d42d69a28a961cc28d25c",
+                                "content": "Relief of heartburn"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4be688897053411da0c3dd6fe3702516",
+                                "content": "Elimination of abdominal pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1a90fed50544bc38c2b3d43116f8ea3",
+                                "content": "Stabilization of blood glucose levels"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d6d7568aa084f8daaa7bbb3972631fe",
+                                "content": "A decrease in the amount of fat in the stools"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3a4988c5a5d42d69a28a961cc28d25c",
+                                    "content": "Relief of heartburn"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4be688897053411da0c3dd6fe3702516",
+                                    "content": "Elimination of abdominal pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1a90fed50544bc38c2b3d43116f8ea3",
+                                    "content": "Stabilization of blood glucose levels"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d6d7568aa084f8daaa7bbb3972631fe",
+                                    "content": "A decrease in the amount of fat in the stools"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has begun medication therapy with pancrelipase. Which finding indicates that the medication has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nPancrelipase is a pancreatic enzyme used as a digestive aid for clients with pancreatitis. It would reduce the amount of fatty stools (steatorrhea). Another recognized beneficial effect is improved nutritional status. It is not used to treat heartburn or abdominal pain and does not regulate blood glucose.",
+                        "id": "1810109efcdf43c8a03b34db463bbdc5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34b3e745459a47ed8663fea43ff7ba59",
+                                "content": "I will take it at bedtime."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0f0447b17d54f67b034ff536bf84cc2",
+                                "content": "I will take it with a large meal."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c59aa0803ae2487eb1bb7fa641256e78",
+                                "content": "I will take it on an empty stomach."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6eceecbe4194e6f907bc2bf147324ce",
+                                "content": "I will drink two glasses of milk when I take it."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34b3e745459a47ed8663fea43ff7ba59",
+                                    "content": "I will take it at bedtime."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0f0447b17d54f67b034ff536bf84cc2",
+                                    "content": "I will take it with a large meal."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c59aa0803ae2487eb1bb7fa641256e78",
+                                    "content": "I will take it on an empty stomach."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6eceecbe4194e6f907bc2bf147324ce",
+                                    "content": "I will drink two glasses of milk when I take it."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with constipation has been directed to take oral bisacodyl. The nurse instructs the client on how to receive the most rapid effect from the medication. The client demonstrates understanding of use of this medication by stating that which method will produce the most rapid effect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe most rapid results from bisacodyl occur when it is taken on an empty stomach. If it is taken at bedtime, the client will have a bowel movement in the morning. It will not have a rapid effect if taken with a large meal or with two glasses of milk.",
+                        "id": "18eb576343a043bf8c8393d4f452936a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1748ea0afa6e4f40b285eaf87dbe1943",
+                                "content": "It's best to take this medication with a laxative."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c7953b4217446de8ef0159f4500e40f",
+                                "content": "This medication contains a habit-forming ingredient."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "462c24b8430e495ba5ef57a9ef4c44b9",
+                                "content": "I might drool frequently from taking this medication."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2736f68daad545c4bb4b5ea5de8dee69",
+                                "content": "I will probably become irritable from taking this medication."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1748ea0afa6e4f40b285eaf87dbe1943",
+                                    "content": "It's best to take this medication with a laxative."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c7953b4217446de8ef0159f4500e40f",
+                                    "content": "This medication contains a habit-forming ingredient."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "462c24b8430e495ba5ef57a9ef4c44b9",
+                                    "content": "I might drool frequently from taking this medication."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2736f68daad545c4bb4b5ea5de8dee69",
+                                    "content": "I will probably become irritable from taking this medication."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has just been given a prescription for diphenoxylate with atropine. The nurse determines that the client understands important information about this medication if the client makes what statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client would understand that an adverse effect of this medication is that it may be habit forming, so careful adherence to proper dose is important. The medication is an antidiarrheal and therefore would not be taken with a laxative. Side effects of the medication include dry mouth and drowsiness. Drooling and irritability are not associated with the use of this medication.",
+                        "id": "1e28e5844db4486b834db0e7bb40ab52",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9f542d739b8e4323baeea77bb1927e12",
+                                "content": "Droperidol"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b575188ee1f450695cf4f61214cd57b",
+                                "content": "Simethicone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ba705544d34481f9f5dd58b84407e0b",
+                                "content": "Acetaminophen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a95618f5e9834d5fa55e954d683a3432",
+                                "content": "Magnesium hydroxide"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9f542d739b8e4323baeea77bb1927e12",
+                                    "content": "Droperidol"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b575188ee1f450695cf4f61214cd57b",
+                                    "content": "Simethicone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ba705544d34481f9f5dd58b84407e0b",
+                                    "content": "Acetaminophen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a95618f5e9834d5fa55e954d683a3432",
+                                    "content": "Magnesium hydroxide"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client rings the call bell and asks for medication to relieve postoperative gas pains. The nurse selects which medication to be given as prescribed on the medication sheet?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSimethicone is an antiflatulent used in the relief of pain caused by excessive gas in the gastrointestinal tract. Droperidol relieves postoperative nausea and vomiting. Acetaminophen is a nonopioid analgesic. Magnesium hydroxide is an antacid and laxative.",
+                        "id": "25f2ba1662584c8981e89d6333aceaa8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6962b5d6b1d145abb2ae006d7dc3ca3e",
+                                "content": "Just before each meal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7140d3480004eefb63d18fea89b5b58",
+                                "content": "An hour before breakfast"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2b45dabd10f4d22ada92bc780cc474d",
+                                "content": "1 and 3 hours after meals"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc3367168c424cfab420dcc0d977d645",
+                                "content": "Immediately after each meal"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6962b5d6b1d145abb2ae006d7dc3ca3e",
+                                    "content": "Just before each meal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7140d3480004eefb63d18fea89b5b58",
+                                    "content": "An hour before breakfast"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2b45dabd10f4d22ada92bc780cc474d",
+                                    "content": "1 and 3 hours after meals"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc3367168c424cfab420dcc0d977d645",
+                                    "content": "Immediately after each meal"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client diagnosed with peptic ulcer disease is prescribed an over-the-counter antacid suspension containing aluminum hydroxide, magnesium hydroxide, and simethicone. What would the nurse include in the client instructions for time of administration of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAntacids are alkaline compounds that neutralize stomach acid. The objective of peptic ulcer therapy is to promote healing in addition to relieving pain. Consequently, antacids would be taken on a regular schedule, not just in response to discomfort. In the usual dosing schedule, antacids are administered 7 times a day: 1 and 3 hours after each meal and at bedtime. Thus, option 3 is the correct option. Options 1, 2, and 4 are incorrect because they are either not the correct timing or not often enough as recommended.",
+                        "id": "27271ec2349842828e810bdeb69712d5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d060f1ee82fb4f2da811d592177e49ff",
+                                "content": "Weight loss"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d1c85e5be674eaba8ed2fa4ab38d024",
+                                "content": "Relief of heartburn"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "abbb722dfb7d4523a050a2752379c9de",
+                                "content": "Reduction of steatorrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f5e1f81d8084b479030e6595f27cf14",
+                                "content": "Absence of abdominal pain"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d060f1ee82fb4f2da811d592177e49ff",
+                                    "content": "Weight loss"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d1c85e5be674eaba8ed2fa4ab38d024",
+                                    "content": "Relief of heartburn"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "abbb722dfb7d4523a050a2752379c9de",
+                                    "content": "Reduction of steatorrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f5e1f81d8084b479030e6595f27cf14",
+                                    "content": "Absence of abdominal pain"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with chronic pancreatitis has begun medication therapy with pancrelipase. The nurse evaluates that the medication is having the optimal intended benefit if which effect is observed?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nPancrelipase is a pancreatic enzyme used in clients with pancreatitis as a digestive aid. The medication would reduce the amount of fatty stools (steatorrhea). Another intended effect could be improved nutritional status. It is not used to treat abdominal pain or heartburn. Its use could result in weight gain but would not result in weight loss if it is aiding in digestion.",
+                        "id": "2bac51bc9ac34433834edfeb5e23fbec",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fb4c5969ea446f88b4e3b1057da3923",
+                                "content": "It is used as a prophylactic measure."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82be6d0eb09c43d8961020522ecaab80",
+                                "content": "It is inaccurate and needs to be questioned."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f5896bb251d427d86317c3cc0529054",
+                                "content": "It is likely that the client has a new gastrointestinal disorder."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1397ec9890dc4bce85872b2877b47d05",
+                                "content": "It is used before surgery, so the client will probably require surgery."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fb4c5969ea446f88b4e3b1057da3923",
+                                    "content": "It is used as a prophylactic measure."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82be6d0eb09c43d8961020522ecaab80",
+                                    "content": "It is inaccurate and needs to be questioned."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f5896bb251d427d86317c3cc0529054",
+                                    "content": "It is likely that the client has a new gastrointestinal disorder."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1397ec9890dc4bce85872b2877b47d05",
+                                    "content": "It is used before surgery, so the client will probably require surgery."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the prescriptions for a newly admitted client. The nurse sees a prescription for intravenous pantoprazole but does not see any gastrointestinal conditions in the medical record. How would the nurse interpret this prescription?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPantoprazole is a proton pump inhibitor and is commonly used as a gastrointestinal prophylactic measure to prevent stress ulcers. The other options are incorrect.",
+                        "id": "2c54206f56cc40d9832dfdfdff571dac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "faa552191ecbbc5960a2e6009b06f5d8",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 318000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:22:24",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Pancreatic Enzyme Replacements,Prokinetic Agent,Antiemetics,Medications to Control Diarrhea,Antacids,others,Gastric Protectants,Laxatives,Proton Pump Inhibitors,Histamine-Receptor Antagonist",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

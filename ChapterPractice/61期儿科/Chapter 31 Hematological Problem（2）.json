@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:14:19",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:14:19",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:15:01",
+            "id": "5810db1576b9c4e96f86986c4ff1da35",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd9e5f30acf144dfaaaa362faf8ebbdc",
+                                "content": "Stress"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "854c308dd3414e58a4174d5c29701a90",
+                                "content": "Trauma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e139b211dc99415c8bdd44807ff4ba23",
+                                "content": "Infection"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bdb759ae7cb3479eabca8f327826803e",
+                                "content": "Fluid overload"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd9e5f30acf144dfaaaa362faf8ebbdc",
+                                    "content": "Stress"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "854c308dd3414e58a4174d5c29701a90",
+                                    "content": "Trauma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e139b211dc99415c8bdd44807ff4ba23",
+                                    "content": "Infection"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bdb759ae7cb3479eabca8f327826803e",
+                                    "content": "Fluid overload"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse instructs parents of a child with sickle cell anemia about the precipitating factors related to sickle cell crisis. Which, if identified by the parents as a precipitating factor, indicates the need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSickle cell crises are acute exacerbations of the disease, which vary considerably in severity and frequency; these include vaso-occlusive crisis, splenic sequestration, hyperhemolytic crisis, and aplastic crisis. Sickle cell crisis may be precipitated by infection, dehydration, hypoxia, trauma, or physical or emotional stress. The parent of a child with sickle cell disease would encourage fluid intake of 1½ to 2 times the daily requirement to prevent dehydration.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Sickle Cell\nIntegrated Process: Teaching and Learning\nPriority Concepts: Gas Exchange, Patient Education\nStrategies: Negative Event Query, Strategic Words               Test-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Recalling that fluids are a main component of treatment in sickle cell anemia to prevent crisis will direct you to the correct option. Remember that fluids are required to prevent dehydration.",
+                        "id": "130a420ee8bc44b38d18b5c0edb03d2c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3835506df1346a2904d376c2dd0c987",
+                                "content": "Splenectomy, correction of acidosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a1289a63b32427fb49d91eff7f87535",
+                                "content": "Adequate hydration, pain management"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "39d8a567e34e48a68a3ba5a8af1d4be0",
+                                "content": "Frequent ambulation, oxygen administration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2b5937ec593f4077bff25d79a86834df",
+                                "content": "Passive range-of-motion exercises, adequate hydration"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3835506df1346a2904d376c2dd0c987",
+                                    "content": "Splenectomy, correction of acidosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a1289a63b32427fb49d91eff7f87535",
+                                    "content": "Adequate hydration, pain management"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "39d8a567e34e48a68a3ba5a8af1d4be0",
+                                    "content": "Frequent ambulation, oxygen administration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2b5937ec593f4077bff25d79a86834df",
+                                    "content": "Passive range-of-motion exercises, adequate hydration"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An 11-year-old child is admitted to the hospital in vaso-occlusive sickle cell crisis. The nurse plans for which priority treatments in the care of the child?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDuring vaso-occlusive sickle cell crisis, the care focuses on adequate hydration and pain management. Adequate hydration with intravenous normal saline and oral fluids maintains blood flow and decreases the severity of the vaso-occlusive crisis. Analgesics for pain management are necessary during a vaso-occlusive crisis. Splenectomy would not be done with a vaso-occlusive crisis. Acidosis is not present. Oxygen can be administered to increase tissue perfusion but is not the priority treatment for a vaso-occlusive crisis. Passive range of motion is not recommended; bed rest is prescribed initially.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Sickle Cell\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Gas Exchange, Clinical Judgment\nStrategies: Strategic Words      Test-Taking Strategy:\nNote the strategic word, priority. First eliminate options 1 and 4 because neither splenectomy nor passive range-of-motion exercises would be recommended. Eliminate option 3 because it would not be effective in managing the pain associated with vaso-occlusive crisis.",
+                        "id": "19afd23fbfca49909aa98b776439340c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1f02ac2ea87465aaa61ba52cf71afe2",
+                                "content": "Range-of-motion exercises to the affected joint"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9242eace2edb4398a90fa3dc11344fed",
+                                "content": "Application of a heating pad to the affected joint"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "794dcaf208094353bd0a6aea51e872c6",
+                                "content": "Nonsteroidal anti-inflammatory drugs for the pain"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d2ff1a8c6674620a4ecf79dd57ec7c7",
+                                "content": "Application of a bivalved cast for joint immobilization"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1f02ac2ea87465aaa61ba52cf71afe2",
+                                    "content": "Range-of-motion exercises to the affected joint"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9242eace2edb4398a90fa3dc11344fed",
+                                    "content": "Application of a heating pad to the affected joint"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "794dcaf208094353bd0a6aea51e872c6",
+                                    "content": "Nonsteroidal anti-inflammatory drugs for the pain"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d2ff1a8c6674620a4ecf79dd57ec7c7",
+                                    "content": "Application of a bivalved cast for joint immobilization"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a child with a diagnosis of hemophilia, and hemarthrosis is suspected because the child is complaining of pain in the joints. Which measure would the nurse expect to be prescribed for the child?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn an acute period, immobilization of the joint would be prescribed. Range-of-motion exercise during the acute period can increase the bleeding and would be avoided at this time. Heat will increase blood flow to the area, so it would promote increased bleeding to the area. Nonsteroidal anti-inflammatory drugs (NSAIDs) can prolong bleeding time and would not be prescribed for the child.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Bleeding Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject                   Test-Taking Strategy:\nFocus on the subject, treatment for joint bleeding. Knowing the principles related to the effects of heat will assist you in eliminating option 2. Recalling that NSAIDs can prolong bleeding time will assist in eliminating option 3. Remembering that range-of-motion exercises increase bleeding will direct you to the correct option.",
+                        "id": "26d2af78616842cdbde29ddc695a6aba",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2eb2cc6d516b40c1a34e54c6330b361c",
+                                "content": "NPO status"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "360ed59fc02c4166830075dbece8733f",
+                                "content": "Intravenous fluids"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4a9ad1c5f5e488fb7488d0221a30986",
+                                "content": "Meperidine for pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86ee6af55d66499f996f983a78b4cb3d",
+                                "content": "Intubation to administer oxygen"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2eb2cc6d516b40c1a34e54c6330b361c",
+                                    "content": "NPO status"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "360ed59fc02c4166830075dbece8733f",
+                                    "content": "Intravenous fluids"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4a9ad1c5f5e488fb7488d0221a30986",
+                                    "content": "Meperidine for pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86ee6af55d66499f996f983a78b4cb3d",
+                                    "content": "Intubation to administer oxygen"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child with a diagnosis of sickle cell disease is being admitted for the treatment of vaso-occlusive crisis. The nurse prepares for the admission, anticipating which prescription for the child?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIntravenous fluid and increased oral fluids are a component of the treatment plan for the child with vaso-occlusive crisis. Management of the severe pain that occurs with vaso-occlusive crisis includes the use of opioid analgesics, such as morphine sulfate and hydromorphone. Meperidine is contraindicated because of its side effects and the increased risk of seizures with its use. Oxygen is administered when hypoxia is present and the oxygen saturation level is less than 95%. Intubation is not necessary to treat vaso-occlusive crisis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Sickle Cell\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Fluid and Electrolytes, Gas Exchange\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, treatment for vaso-occlusive pain crisis. Option 4 can be easily eliminated first, knowing that intubation is not necessary. Knowing about pain management and knowing that hydration is necessary will assist in eliminating options 1 and 3 and will direct you to the correct option.",
+                        "id": "29124e4aec2446698e9db4a326ed9f30",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a706a2651959417aa1861b384612b8df",
+                                "content": "We will supervise our child closely."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "61ae5a3458904beb82e4aa2586ddf8f2",
+                                "content": "We will pad corners of the furniture."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d16d8f4c00884cb1ad66be60bb5925c1",
+                                "content": "We will avoid having our child receive immunizations."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cd1aaf03a2bd4919afe6a01dd553b6b2",
+                                "content": "We will remove household items that can easily fall over."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a706a2651959417aa1861b384612b8df",
+                                    "content": "We will supervise our child closely."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "61ae5a3458904beb82e4aa2586ddf8f2",
+                                    "content": "We will pad corners of the furniture."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d16d8f4c00884cb1ad66be60bb5925c1",
+                                    "content": "We will avoid having our child receive immunizations."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cd1aaf03a2bd4919afe6a01dd553b6b2",
+                                    "content": "We will remove household items that can easily fall over."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides instructions regarding home care to the parents of a 3-year-old child hospitalized with hemophilia. Which statement, if made by the parent, indicates a need for further instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe nurse needs to stress the importance of immunizations, dental hygiene, and routine well-child care. The remaining options are appropriate. The parents also are instructed in the measures to implement in the event of blunt trauma, especially trauma involving the joints, and taught to apply prolonged pressure to superficial wounds until the bleeding has stopped.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Bleeding Disorders\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic words, need for further instructions. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Knowledge that bleeding is a concern in this disorder will assist in eliminating options 1, 2, and 4, which include measures of protection and safety for the child.         ",
+                        "id": "367c17d6372a4586b438828ced2794c2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e48b97c99a4486e85497ecb38b9606d",
+                                "content": "Acetylsalicylic acid is given for pain control."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02d820a7a3394e78873fe50d4addd6cc",
+                                "content": "Hemarthrosis is the result of synovial cavity aspiration."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc1ca3579d7149c9806fc1b8298200b3",
+                                "content": "Total joint rest along with ice pack application continues for 72 hours after factor VIII is administered."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31dec8e01b3f430fa57f73a073fd9db0",
+                                "content": "Affected prepubescent girls need to be counseled concerning menorrhagia, which may be life-threatening."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e48b97c99a4486e85497ecb38b9606d",
+                                    "content": "Acetylsalicylic acid is given for pain control."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02d820a7a3394e78873fe50d4addd6cc",
+                                    "content": "Hemarthrosis is the result of synovial cavity aspiration."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc1ca3579d7149c9806fc1b8298200b3",
+                                    "content": "Total joint rest along with ice pack application continues for 72 hours after factor VIII is administered."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31dec8e01b3f430fa57f73a073fd9db0",
+                                    "content": "Affected prepubescent girls need to be counseled concerning menorrhagia, which may be life-threatening."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The pediatric nurse educator is providing a teaching session to nursing staff about hemophilia. Which statement would the nurse educator include?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe female offspring of an affected male and a carrier female is at risk for hemorrhage once puberty is attained and menstrual cycles begin, and depending on the severity of the hemophilia, a hysterectomy or ablation may be performed. The remaining options are incorrect statements. Aspirin is not routinely given to young children and would not be given to a child with a bleeding disorder because of its effects on platelet aggregation. Hemarthrosis is the result of bleeding into the joint cavity, not of aspiration. Seventy-two hours is too long for the joint to be rested because maintenance of mobility is a primary concern once the bleeding episode has been arrested.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Bleeding Disorders\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: Subject                 Test-Taking Strategy:\nNote the subject, a hemophilia-related concern. Recalling that the concern in hemophilia is bleeding will direct you to the correct option.",
+                        "id": "37a876a81600423f89914b4c3f2ff685",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6b14f3328824bf2a7761d02c3459ac9",
+                                "content": "Administer the iron at mealtimes."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cff1925f6e484ac5b4a6cc9ba09fd315",
+                                "content": "Administer the iron through a straw."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "993293c9cfda4ff7af67d68be2d247ae",
+                                "content": "Mix the iron with cereal to administer."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "219045c0f5ea467d85611a475cc1a189",
+                                "content": "Add the iron to milk for easy administration."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6b14f3328824bf2a7761d02c3459ac9",
+                                    "content": "Administer the iron at mealtimes."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cff1925f6e484ac5b4a6cc9ba09fd315",
+                                    "content": "Administer the iron through a straw."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "993293c9cfda4ff7af67d68be2d247ae",
+                                    "content": "Mix the iron with cereal to administer."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "219045c0f5ea467d85611a475cc1a189",
+                                    "content": "Add the iron to milk for easy administration."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is instructing the parents of a child with iron-deficiency anemia regarding the administration of a liquid oral iron supplement. Which instruction would the nurse tell the parents?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn iron-deficiency anemia, iron stores are depleted, resulting in a decreased supply of iron for the manufacture of hemoglobin in red blood cells. An oral iron supplement would be administered through a straw or medicine dropper placed at the back of the mouth because the iron stains the teeth. The parents would be instructed to brush or wipe the child's teeth or have the child brush the teeth after administration. Iron is administered between meals because absorption is decreased if there is food in the stomach. Iron requires an acid environment to facilitate its absorption in the duodenum. Iron is not added to milk or mixed with cereal or other food items.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Anemias\nIntegrated Process: Teaching and Learning\nPriority Concepts: Health Promotion, Patient Education\nStrategies: Comparable or Alike Options                          Test-Taking Strategy:\nEliminate options 3 and 4 first because they are comparable or alike and because medication would not be added to formula and food. Next, note the word liquid in the question. This would assist you in recalling that iron in liquid form stains teeth.",
+                        "id": "3ad6948414d942b1bd5ad2e3919bfd65",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52ec2b6139b64f3a99e470b8c29263f9",
+                                "content": "Milk"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fb4a7c605374abcbe9b74fab4ac7211",
+                                "content": "Water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "affb82757b88487aa0eb3f3bfb7843c8",
+                                "content": "Apple juice"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f6e417db5754123b2f1df6d6b55995a",
+                                "content": "Orange juice"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52ec2b6139b64f3a99e470b8c29263f9",
+                                    "content": "Milk"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fb4a7c605374abcbe9b74fab4ac7211",
+                                    "content": "Water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "affb82757b88487aa0eb3f3bfb7843c8",
+                                    "content": "Apple juice"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f6e417db5754123b2f1df6d6b55995a",
+                                    "content": "Orange juice"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Oral iron supplements are prescribed for a 6-year-old child with iron-deficiency anemia. Which beverage is the best option to recommend with iron administration?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nVitamin C (ascorbic acid) increases the absorption of iron by the body. The parent would be instructed to administer the medication with a citrus fruit or juice high in vitamin C. From the options presented, the correct option is the only one that identifies the food highest in vitamin C.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Anemias\nIntegrated Process: Teaching and Learning\nPriority Concepts: Health Promotion, Patient Education\nStrategies: Strategic Words, Subject                        Test-Taking Strategy:\nNote the strategic word, best. Focus on the subject, foods high in vitamin C. Recalling that vitamin C increases the absorption of iron will assist in eliminating water and milk. From the remaining options, select orange juice because this food item contains the highest amount of vitamin C.",
+                        "id": "3dc4983b170e483fa2ba63539d940f12",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef1b1c755195440f912b9d068947c505",
+                                "content": "The child maintains affected joints in an immobilized position and denies pain at this time."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "612758574ee74799905295265d9dea8b",
+                                "content": "The child's urine is noted to be clear and light yellow and is negative for red blood cells."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "76b9260511a042619be7a4dda6a12f01",
+                                "content": "The child maintains bruised joints in an elevated position; the bruises noted are beginning to turn yellow."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0c64be12ab8147a190c57dcb736795d2",
+                                "content": "The child is drowsy and difficult to arouse; previously the child was able to respond to questions effectively.\nSubmit"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef1b1c755195440f912b9d068947c505",
+                                    "content": "The child maintains affected joints in an immobilized position and denies pain at this time."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "612758574ee74799905295265d9dea8b",
+                                    "content": "The child's urine is noted to be clear and light yellow and is negative for red blood cells."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "76b9260511a042619be7a4dda6a12f01",
+                                    "content": "The child maintains bruised joints in an elevated position; the bruises noted are beginning to turn yellow."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0c64be12ab8147a190c57dcb736795d2",
+                                    "content": "The child is drowsy and difficult to arouse; previously the child was able to respond to questions effectively.\nSubmit"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse on the pediatric unit is caring for a child with hemophilia who has been in a motor vehicle crash. Which assessment finding, if noted in the child, indicates the need for follow-up?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWhen caring for a child with hemophilia who has sustained injuries, the nurse would monitor for signs of internal bleeding. One sign of internal bleeding is change in level of consciousness, which could indicate intracranial hemorrhage. Additional signs of bleeding include pain, tenderness, and bruising of the affected area and hematuria. Denial of pain of affected joints, clear and light yellow urine that is negative for red blood cells, and bruises that are beginning to turn yellow are not signs of internal or external bleeding.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Bleeding Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Strategic Words        Test-Taking Strategy:\nNote the strategic words, need for follow-up. These words indicate the need to select an option that is abnormal and requires further attention. This will direct you to the correct option.",
+                        "id": "3e1267fdae064c2ab4427e4231ad5f38",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a09142c63c4941b7892a53daf7edfc89",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1158061aded64bfc82220e6b359e87d9",
+                                "content": "Hypoxia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0879e5af449748d4809e942a6b853dd0",
+                                "content": "Delayed growth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5aefeea8ff7a402cb373eb422e68803a",
+                                "content": "Avascular necrosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a09142c63c4941b7892a53daf7edfc89",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1158061aded64bfc82220e6b359e87d9",
+                                    "content": "Hypoxia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0879e5af449748d4809e942a6b853dd0",
+                                    "content": "Delayed growth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5aefeea8ff7a402cb373eb422e68803a",
+                                    "content": "Avascular necrosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The pediatric nursing instructor asks a nursing student to prioritize care for a child diagnosed with sickle cell disease. Which student response correctly identifies the priority of care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSickle cell disease is a group of diseases termed hemoglobinopathies, in which hemoglobin A is partly or completely replaced by abnormal sickle hemoglobin S. It is caused by the inheritance of a gene for a structurally abnormal portion of the hemoglobin chain. Hemoglobin S is sensitive to changes in the oxygen content of the red blood cell. Hypoxia causes the cells to assume a sickle shape, and the cells become rigid and clumped together, obstructing capillary blood flow and leading to a vaso-occlusive crisis. All the clinical manifestations of sickle cell anemia result from the sickled cells being unable to flow easily through the microvasculature, and their clumping obstructs blood flow. With reoxygenation, most of the sickled red blood cells resume their normal shape. Fatigue is a result of hypoxia; hypoxia needs to be addressed first. Avascular necrosis of the hips and shoulders and delayed growth are general manifestations of sickle cell disease.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Hematological\nHealth Problem: Pediatric-Specific: Sickle Cell\nIntegrated Process: Teaching and Learning\nPriority Concepts: Cellular Regulation, Gas Exchange\nStrategies: Strategic Words, Subject                       Test-Taking Strategy:\nNote the strategic word, priority. Focus on the subject, the cause of the manifestations in sickle cell disease, and think about the pathophysiology that occurs. Recalling that sickled cells clump will direct you to the correct option.",
+                        "id": "3ed2e07c531343b5915d0db40fba524f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "c9481d3be3909c826d734e931daaed9c",
+            "lessonItemId": "a8df84333a57c230f9179f8300d3ba70",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 40000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:15:01",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Hematological Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

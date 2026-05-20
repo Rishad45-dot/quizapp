@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:13:51",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:13:51",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:20:15",
+            "id": "cdae57ce4e5da7ded4b35b8bd7bcaea6",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5918e096a8444b2ea90e5803706f0341",
+                                "content": "Fear of the complicated treatment regimen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59101220c8ac4cdf986b8ca180ee9883",
+                                "content": "Anger at the child for requiring hospitalization"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f73bf81d65f461c98c110cdf652f5e0",
+                                "content": "Guilt that they did not seek treatment more quickly"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46d9ca24038349d0b639fd3f9e119595",
+                                "content": "Depression that the child may not be able to play sports"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5918e096a8444b2ea90e5803706f0341",
+                                    "content": "Fear of the complicated treatment regimen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59101220c8ac4cdf986b8ca180ee9883",
+                                    "content": "Anger at the child for requiring hospitalization"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f73bf81d65f461c98c110cdf652f5e0",
+                                    "content": "Guilt that they did not seek treatment more quickly"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46d9ca24038349d0b639fd3f9e119595",
+                                    "content": "Depression that the child may not be able to play sports"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a 7-year-old child with glomerulonephritis and is preparing to discuss the plan of care with the parents. In anticipating this encounter, the nurse recognizes that which is a common reaction of parents to the diagnosis of glomerulonephritis?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nGuilt is a common reaction of the parents of a child diagnosed with glomerulonephritis. Parents blame themselves for not responding more quickly to the child's initial symptoms, or they may believe they could have prevented the development of glomerular damage. The remaining options may be associated with the parents' reaction to the diagnosis, but they are not common parental reactions.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Mental Health: Coping\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Stress and Coping, Elimination\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, glomerulonephritis and parental reaction to the disease, and note the word common. Also, thinking about the pathophysiology associated with this disorder will direct you to the correct option.",
+                        "id": "03df677b97fb42c784989331bf3b98fe",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19d1bd426bf648b0a2c752bf638f0dde",
+                                "content": "\"Caution needs to be used when straddling the infant on a hip.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3aab0b619acc4e2eb34e476846d2bc53",
+                                "content": "\"Vital signs need to be taken daily to check for bladder infection.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72231ef626a940a181f57a66a4fac64f",
+                                "content": "\"Catheterization will be necessary when the infant does not void.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b29f1670da3e42569c32b701b2ee7f23",
+                                "content": "\"Circumcision has been delayed to save tissue for surgical repair.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19d1bd426bf648b0a2c752bf638f0dde",
+                                    "content": "\"Caution needs to be used when straddling the infant on a hip.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3aab0b619acc4e2eb34e476846d2bc53",
+                                    "content": "\"Vital signs need to be taken daily to check for bladder infection.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72231ef626a940a181f57a66a4fac64f",
+                                    "content": "\"Catheterization will be necessary when the infant does not void.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b29f1670da3e42569c32b701b2ee7f23",
+                                    "content": "\"Circumcision has been delayed to save tissue for surgical repair.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing a treatment plan with the parents of a newborn with hypospadias. Which statement by the parents indicates their understanding of the plan?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nHypospadias is a congenital defect involving abnormal placement of the urethral orifice of the penis. In hypospadias, the urethral orifice is located below the glans penis along the ventral surface. The infant would not be circumcised because the dorsal foreskin tissue will be used for surgical repair of the hypospadias. Options 1, 2, and 3 are unrelated to this disorder.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Pediatric-Specific: Urologic Structural Abnormalities\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Elimination, Patient Education\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, treatment for hypospadias. Note the words indicates their understanding. Recalling that hypospadias is a congenital defect involving abnormal placement of the urethral orifice of the penis will direct you to the correct option.",
+                        "id": "05362611dbd443918b9c3e1b391e2346",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c41fd2a1de104822aa74f409845e8b38",
+                                "content": "I need to be cautious when straddling my infant on a hip."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a2dbf513e5b49789e8851e0c279533a",
+                                "content": "Vital signs need to be taken daily to check for bladder infection."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3934dae31e0c46868fe12a4774051b39",
+                                "content": "Catheterization will be necessary when my infant does not void."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9447e65d79c44fea92f0eeabe9b4a5c8",
+                                "content": "Circumcision has been delayed to save tissue for surgical repair."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c41fd2a1de104822aa74f409845e8b38",
+                                    "content": "I need to be cautious when straddling my infant on a hip."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a2dbf513e5b49789e8851e0c279533a",
+                                    "content": "Vital signs need to be taken daily to check for bladder infection."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3934dae31e0c46868fe12a4774051b39",
+                                    "content": "Catheterization will be necessary when my infant does not void."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9447e65d79c44fea92f0eeabe9b4a5c8",
+                                    "content": "Circumcision has been delayed to save tissue for surgical repair."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing a treatment plan with the parents of a newborn with hypospadias. Which statement by the parents indicates their understanding of the plan?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nHypospadias is a congenital defect involving abnormal placement of the urethral orifice of the penis. In hypospadias, the urethral orifice is located below the glans penis along the ventral surface. The infant would not be circumcised, because the dorsal foreskin tissue will be used for surgical repair of the hypospadias. Options 1, 2, and 3 are unrelated to this disorder.",
+                        "id": "076a976391f942f898e38d7d2a587186",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d725341741f94780838b9afe1b5ce93d",
+                                "content": "Leave the diapers off to allow the site to heal."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f62351671b945528a5e0a5e4c954802",
+                                "content": "Avoid tub baths until the stent has been removed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ceff030ffee432290b5cf4f2cb91ce6",
+                                "content": "Encourage toilet training to ensure that flow of urine is normal."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2b0ee836706449c88dcc77f23b8beeee",
+                                "content": "Restrict fluid intake to reduce urinary output for the first few days."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d725341741f94780838b9afe1b5ce93d",
+                                    "content": "Leave the diapers off to allow the site to heal."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f62351671b945528a5e0a5e4c954802",
+                                    "content": "Avoid tub baths until the stent has been removed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ceff030ffee432290b5cf4f2cb91ce6",
+                                    "content": "Encourage toilet training to ensure that flow of urine is normal."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2b0ee836706449c88dcc77f23b8beeee",
+                                    "content": "Restrict fluid intake to reduce urinary output for the first few days."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An 18-month-old child is being discharged after surgical repair of hypospadias. Which postoperative nursing care measure would the nurse stress to the parents as they prepare to take their child home?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter hypospadias repair, the parents are instructed to avoid giving the child a tub bath until the stent has been removed in order to prevent infection. Diapers are placed on the child to prevent contamination of the surgical site. Toilet training would not be an issue during this stressful period. Fluids would be encouraged to maintain hydration.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Pediatric-Specific: Urologic Structural Abnormalities\nIntegrated Process: Teaching and Learning\nPriority Concepts: Tissue Integrity, Patient Education\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, care of the child following surgical repair of hypospadias. Eliminate option 1 because this action can cause contamination of the surgical site. Option 3 is eliminated first because toilet training would not be initiated during times of stress, such as after surgery. Option 4 is inappropriate because fluids would be encouraged rather than restricted.",
+                        "id": "0b742772f2ef4210998cff8894ad7868",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bb0242f9172448c8ea8f3a020a88fcb",
+                                "content": "Hematuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d84cc71a49e8498a942ceccbe554a583",
+                                "content": "Glucosuria"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca6a371affaf49a78d6b4bdb65ed1271",
+                                "content": "Bacteriuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2cf23d9c503a4f9eaeeb089b9184bb8c",
+                                "content": "Proteinuria"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bb0242f9172448c8ea8f3a020a88fcb",
+                                    "content": "Hematuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d84cc71a49e8498a942ceccbe554a583",
+                                    "content": "Glucosuria"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca6a371affaf49a78d6b4bdb65ed1271",
+                                    "content": "Bacteriuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2cf23d9c503a4f9eaeeb089b9184bb8c",
+                                    "content": "Proteinuria"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse collects a urine specimen preoperatively from a child with epispadias who is scheduled for surgical repair. When analyzing the results of the urinalysis, which would the nurse most likely expect to note?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nEpispadias is a congenital defect involving abnormal placement of the urethral orifice of the penis. The urethral opening is located anywhere on the dorsum of the penis. This anatomical characteristic facilitates entry of bacteria into the urine. Hematuria, proteinuria, and glucosuria are not characteristically noted in this condition.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Pediatric-Specific: Urologic Structural Abnormalities\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Elimination, Clinical Judgment\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic words, most likely. Visualize the anatomical characteristics of epispadias to answer the question. Options 1, 2, and 4 do not relate to the potential for infection, which can be associated with epispadias.",
+                        "id": "184864a746774f959b3bc6737264ab39",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19c4d689629a492c9a3ab0d9f8e7cff0",
+                                "content": "Cover the bladder with petroleum jelly gauze."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3469a3f85fc14a62a9307397cd017579",
+                                "content": "Cover the bladder with a nonadhering plastic wrap."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7174cdfac50544e49ca255dfb3fc400e",
+                                "content": "Apply sterile distilled water dressings over the bladder mucosa."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67d9fce20ef8487b937b7b034fd1952f",
+                                "content": "Keep the bladder tissue dry by covering it with dry sterile gauze."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19c4d689629a492c9a3ab0d9f8e7cff0",
+                                    "content": "Cover the bladder with petroleum jelly gauze."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3469a3f85fc14a62a9307397cd017579",
+                                    "content": "Cover the bladder with a nonadhering plastic wrap."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7174cdfac50544e49ca255dfb3fc400e",
+                                    "content": "Apply sterile distilled water dressings over the bladder mucosa."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67d9fce20ef8487b937b7b034fd1952f",
+                                    "content": "Keep the bladder tissue dry by covering it with dry sterile gauze."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for an infant with a diagnosis of bladder exstrophy. To protect the exposed bladder tissue, the nurse would plan which intervention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn bladder exstrophy, the bladder is exposed and external to the body. In this disorder, one must take care to protect the exposed bladder tissue from drying, while allowing the drainage of urine. This is accomplished best by covering the bladder with a nonadhering plastic wrap. The use of petroleum jelly gauze needs to be avoided, because this type of dressing can dry out, adhere to the mucosa, and damage the delicate tissue when removed. Dry sterile dressings and dressings soaked in solutions (that can dry out) also damage the mucosa when removed.",
+                        "id": "2948f313d3dc40559afe43227efdda46",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1c2dccf43044041b12f9c28babae554",
+                                "content": "Hematuria, bacteriuria, weight gain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "80258688a2ca43728035726452d5d7f5",
+                                "content": "Gross hematuria, albuminuria, fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b7c1d6e1f4341d8868d045c7ac4afde",
+                                "content": "Hypertension, weight loss, proteinuria"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbf4a06c45614568ba57be30291628dd",
+                                "content": "Massive proteinuria, hypoalbuminemia, edema"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1c2dccf43044041b12f9c28babae554",
+                                    "content": "Hematuria, bacteriuria, weight gain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "80258688a2ca43728035726452d5d7f5",
+                                    "content": "Gross hematuria, albuminuria, fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b7c1d6e1f4341d8868d045c7ac4afde",
+                                    "content": "Hypertension, weight loss, proteinuria"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbf4a06c45614568ba57be30291628dd",
+                                    "content": "Massive proteinuria, hypoalbuminemia, edema"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse recognizes that clinical manifestations of nephrotic syndrome include which findings?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nNephrotic syndrome is a kidney disorder. Clinical manifestations of nephrotic syndrome include edema, proteinuria, hypoalbuminemia, and hypercholesterolemia in the absence of hematuria and hypertension. No fever, bacteriuria, or weight loss would be noted with this syndrome.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Pediatric-Specific: Nephrotic Syndrome\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Elimination, Clinical Judgment\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, clinical manifestations associated with nephrotic syndrome. Focus on the child's diagnosis. Remember that nephrotic syndrome is characterized by massive proteinuria, hypoalbuminemia, and edema. This will direct you to the correct option.",
+                        "id": "297ed0667ac442259612a4735bcc6137",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62aff369df284f9ea0b8bde9d051dd8a",
+                                "content": "Polyuria"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "888f1214d0664ffa9688085b01f581d2",
+                                "content": "Weight gain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e29e3d25f77f437fb75666c0a1dae0cc",
+                                "content": "Hypotension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f137c7c429941ec80c1d06897ed65ef",
+                                "content": "Grossly bloody urine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62aff369df284f9ea0b8bde9d051dd8a",
+                                    "content": "Polyuria"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "888f1214d0664ffa9688085b01f581d2",
+                                    "content": "Weight gain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e29e3d25f77f437fb75666c0a1dae0cc",
+                                    "content": "Hypotension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f137c7c429941ec80c1d06897ed65ef",
+                                    "content": "Grossly bloody urine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the record of a child diagnosed with nephrotic syndrome. The nurse would expect to note which finding documented in the child's record?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMassive edema resulting in dramatic weight gain is a characteristic finding in nephrotic syndrome. Urine is dark, foamy, and frothy, but only microscopic hematuria is present; frank bleeding does not occur. Urine output is decreased, and hypertension is likely to be present.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Pediatric-Specific: Nephrotic Syndrome\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Elimination, Inflammation\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, the characteristics of nephrotic syndrome. Think about the pathophysiology associated with this disorder. Eliminate options 1 and 3 first because urine output is most likely to be decreased in a renal disorder and hypertension is more likely to be present. For the remaining options, associate the generalized edema that occurs in nephrotic syndrome with resultant weight gain.",
+                        "id": "2a348a05fa624046b25486d56eaa8324",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96aab9cac6a547e68e35621fee69bd18",
+                                "content": "Hypertension"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "458ebf9a978b419a9c7f224f81f414bd",
+                                "content": "Generalized edema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9cb6e2dbc3f047eabe53f1c28d7bfdc1",
+                                "content": "Increased urinary output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6347a9eb592848b6b7d1263cf97b08df",
+                                "content": "Frank, bright red blood in the urine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96aab9cac6a547e68e35621fee69bd18",
+                                    "content": "Hypertension"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "458ebf9a978b419a9c7f224f81f414bd",
+                                    "content": "Generalized edema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9cb6e2dbc3f047eabe53f1c28d7bfdc1",
+                                    "content": "Increased urinary output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6347a9eb592848b6b7d1263cf97b08df",
+                                    "content": "Frank, bright red blood in the urine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse performing an admission assessment on a 2-year-old child who has been diagnosed with nephrotic syndrome notes that which most common characteristic is associated with this syndrome?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nNephrotic syndrome is defined as massive proteinuria, hypoalbuminemia, hyperlipemia, and edema. Other manifestations include weight gain; periorbital and facial edema that is most prominent in the morning; leg, ankle, labial, or scrotal edema; decreased urine output and urine that is dark and frothy; abdominal swelling; and blood pressure that is normal or slightly decreased.",
+                        "id": "31a936a45d7445b48c92deb675b6fb81",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f761d70dc70b455682ce7cd92eea0b68",
+                                "content": "Hypertension"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "205692edc2204efaa0fd5a36608649e8",
+                                "content": "Generalized edema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "354c6133d5e14ec69fd4b4eefce7ef0e",
+                                "content": "Increased urinary output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b76b488771c4fdca60c8d09d7618920",
+                                "content": "Frank, bright red blood in the urine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f761d70dc70b455682ce7cd92eea0b68",
+                                    "content": "Hypertension"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "205692edc2204efaa0fd5a36608649e8",
+                                    "content": "Generalized edema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "354c6133d5e14ec69fd4b4eefce7ef0e",
+                                    "content": "Increased urinary output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b76b488771c4fdca60c8d09d7618920",
+                                    "content": "Frank, bright red blood in the urine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse performing an admission assessment on a 2-year-old child who has been diagnosed with nephrotic syndrome notes that which most common characteristic is associated with this syndrome?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nNephrotic syndrome is defined as massive proteinuria, hypoalbuminemia, hyperlipemia, and edema. Other manifestations include weight gain; periorbital and facial edema that is most prominent in the morning; leg, ankle, labial, or scrotal edema; decreased urine output and urine that is dark and frothy; abdominal swelling; and blood pressure that is normal or slightly decreased.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Renal and Urinary\nHealth Problem: Pediatric-Specific: Nephrotic Syndrome\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Elimination, Clinical Judgment\nStrategies: Strategic Words      Test-Taking Strategy:\nNote the strategic word, most. Recall the pathophysiology associated with nephrotic syndrome. Associate edema with nephrotic syndrome. This will help you to answer questions similar to this one.",
+                        "id": "3bb5ce147b224228a51225afd7224a0a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "c9481d3be3909c826d734e931daaed9c",
+            "lessonItemId": "34745ac56f9dcbfcd5502ebbf334111c",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 313000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:20:15",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Renal and Genitourinary Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

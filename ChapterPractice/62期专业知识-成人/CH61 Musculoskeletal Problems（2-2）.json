@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:09:29",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:09:29",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:11:34",
+            "id": "5412d0c11a7bc15d123f5ec0eb15af0a",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c97cdb51a6664e7aa8666c4a9ea95621",
+                                "content": "The need for sensory stimulation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "182656ef488446929928cf48ae659bcd",
+                                "content": "The amount of home care support available"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c764a1c8eb05420cb37918bc5298d845",
+                                "content": "The ability to perform activities of daily living"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da765220cdc74d5f81479da4eef5150b",
+                                "content": "The type of transportation available for follow-up care"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c97cdb51a6664e7aa8666c4a9ea95621",
+                                    "content": "The need for sensory stimulation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "182656ef488446929928cf48ae659bcd",
+                                    "content": "The amount of home care support available"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c764a1c8eb05420cb37918bc5298d845",
+                                    "content": "The ability to perform activities of daily living"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da765220cdc74d5f81479da4eef5150b",
+                                    "content": "The type of transportation available for follow-up care"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home care nurse is visiting a client who is in a body cast. While performing an assessment, the nurse plans to evaluate the psychosocial adjustment of the client to the cast. What is the most appropriate assessment for this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nA psychosocial assessment of a client who is immobilized would most appropriately include the need for sensory stimulation. This assessment would also include such factors as body image, past and present coping skills, and coping methods used during the period of immobilization. Although home care support, the ability to perform activities of daily living, and transportation are components of an assessment, they are not as specifically related to psychosocial adjustment as is the need for sensory stimulation.\n\nTest-Taking Strategy:\nFocus on the strategic words, most appropriate, and note the subject, psychosocial adjustment. Option 3 can be eliminated first because it relates to physiological integrity rather than psychosocial integrity. Next, eliminate options 2 and 4 because they are most closely related to physical supports, rather than psychosocial needs of the client.",
+                        "id": "0199ffa656524f1a8e3116779344b4e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "554c00ea7ab4489480eef9ac3e366339",
+                                "content": "Intact skin surfaces"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7cf81f1524854bb2b5cfa6a817ee729e",
+                                "content": "Bowel movement every 4 days"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10570617877d427996215dd719e609c9",
+                                "content": "Active range of motion of uninvolved joints"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42c0d09e479d43a180a7165c46a34aef",
+                                "content": "Absence of redness and swelling in the affected extremity"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "554c00ea7ab4489480eef9ac3e366339",
+                                    "content": "Intact skin surfaces"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7cf81f1524854bb2b5cfa6a817ee729e",
+                                    "content": "Bowel movement every 4 days"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10570617877d427996215dd719e609c9",
+                                    "content": "Active range of motion of uninvolved joints"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42c0d09e479d43a180a7165c46a34aef",
+                                    "content": "Absence of redness and swelling in the affected extremity"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is evaluating goal achievement for a client in traction with impaired physical mobility. The nurse determines that the plan of care needs to be revised if which outcome is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nA bowel movement every 4 days is insufficient. The client would be having a bowel movement a minimum of every other day. Expected outcomes for impaired physical mobility for the client in traction include absence of thrombophlebitis (redness and swelling in the affected extremity), active range of motion to uninvolved joints, clear lung sounds, intact skin, and bowel movement every other day.\n\nTest-Taking Strategy:\nFocus on the subject, care of the client in traction. Note the word revised. This question can be answered by evaluating the degree of normalcy of each option. The only abnormal option is expressed in the correct answer. A bowel movement every 4 days is insufficient. Also, constipation is a known complication of immobility.",
+                        "id": "0374f5cdff7e43088d95e00fbeac462a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f2d9a12ae40428ea339d7069744a002",
+                                "content": "How to petal the edges of the cast to prevent crumbling of these edges"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "486fc000a7e84f179e8683f1aee25ab5",
+                                "content": "The need to notify the nurse if the plaster cast becomes warm during the first 24 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4211cfccdb346b1948a99915b0bd08c",
+                                "content": "The correct method of using a thin object when the client needs to scratch the area beneath the cast"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2b1e3d6855b2400eb729e8957b5e13f1",
+                                "content": "The need to notify the primary health care provider immediately if the client notices numbness or swelling or if the foot becomes cold and pale"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f2d9a12ae40428ea339d7069744a002",
+                                    "content": "How to petal the edges of the cast to prevent crumbling of these edges"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "486fc000a7e84f179e8683f1aee25ab5",
+                                    "content": "The need to notify the nurse if the plaster cast becomes warm during the first 24 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4211cfccdb346b1948a99915b0bd08c",
+                                    "content": "The correct method of using a thin object when the client needs to scratch the area beneath the cast"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2b1e3d6855b2400eb729e8957b5e13f1",
+                                    "content": "The need to notify the primary health care provider immediately if the client notices numbness or swelling or if the foot becomes cold and pale"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is having a plaster cast placed on the lower extremity that will extend from mid-thigh to the center of the foot. Which instruction would be given to the client before hospital discharge?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nNumbness, swelling, and cool, pale skin are findings that indicate a state of neurovascular compromise. This can lead to significant problems and potential loss of the limb. Although teaching the client how to petal the edge of a cast is commonly done to keep the edges from crumbling, this is not the priority at this time. Chemical reaction occurs while a plaster cast dries, causing the cast to be warm. This effect can last from 24 to 48 hours, depending on how long it takes for the cast to dry. It is inappropriate to place any objects under the edge of the cast because such maneuvers can result in tissue injury and consequent infection.\n\nTest-Taking Strategy:\nFocus on the subject, instructions for a client with a new plaster cast. Use the ABCs—airway, breathing, and circulation—to direct you to the correct option.",
+                        "id": "051778f19d6446b3a2f01e76e66e29c1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54566be432234727b509356905dbf6ad",
+                                "content": "Take a set of vital signs."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d81e0f10d7044f1ea52ad06248f77d35",
+                                "content": "Call the radiology department."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac034aa1949d4913b7f177645e20e892",
+                                "content": "Reassure the client that everything will be fine."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c350d332f9574952ba66e5b69a53ccf8",
+                                "content": "Immobilize the right leg before moving the client."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54566be432234727b509356905dbf6ad",
+                                    "content": "Take a set of vital signs."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d81e0f10d7044f1ea52ad06248f77d35",
+                                    "content": "Call the radiology department."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac034aa1949d4913b7f177645e20e892",
+                                    "content": "Reassure the client that everything will be fine."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c350d332f9574952ba66e5b69a53ccf8",
+                                    "content": "Immobilize the right leg before moving the client."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse witnesses a client sustain a fall and suspects that the right leg may be broken. The nurse would take which priority action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen a fracture is suspected, it is imperative that the area be splinted before the client is moved. Emergency help needs to be called for if the client is not hospitalized, and a primary health care provider is called for the hospitalized client. The nurse would remain with the client and provide realistic reassurance. The nurse does not prescribe radiographs. Telling the client that everything will be fine is nontherapeutic. Although vital signs will be taken, the priority is to immobilize the leg.\n\nTest-Taking Strategy:\nNote the strategic word, priority. Focus on the subject, care of the client with a fracture. In this situation, eliminate \"call the radiology department\" because the nurse does not prescribe radiographs. The nurse cannot ensure that \"everything will be fine.\" This option provides false reassurance. Regarding the remaining options, immobilizing the limb is imperative for the client's safety, which makes it a better choice than taking vital signs.",
+                        "id": "055f4aea09d74477b96805bd9d0b99e5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f1e17a9f9b540b6978c25f5b21f893e",
+                                "content": "\"A bone fragment has injured the nerve supply in the area.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e49c74d8a2964540abce6c9216072673",
+                                "content": "\"An injured artery caused impaired arterial perfusion through the compartment.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28ccb3bf61b54f13bc1cf21e4903f3e9",
+                                "content": "\"Bleeding and swelling caused increased pressure in an area that couldn't expand.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59d38728d02947a093fa7231a010176f",
+                                "content": "\"The fascia expanded with injury, causing pressure on underlying nerves and muscles.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f1e17a9f9b540b6978c25f5b21f893e",
+                                    "content": "\"A bone fragment has injured the nerve supply in the area.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e49c74d8a2964540abce6c9216072673",
+                                    "content": "\"An injured artery caused impaired arterial perfusion through the compartment.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28ccb3bf61b54f13bc1cf21e4903f3e9",
+                                    "content": "\"Bleeding and swelling caused increased pressure in an area that couldn't expand.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59d38728d02947a093fa7231a010176f",
+                                    "content": "\"The fascia expanded with injury, causing pressure on underlying nerves and muscles.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is planning discharge teaching for a client diagnosed and treated for compartment syndrome. Which information would the nurse include in the teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCompartment syndrome is caused by bleeding and swelling within a tissue compartment that is lined by fascia, which does not expand. The bleeding and swelling put pressure on the nerves, muscles, and blood vessels in the compartment, triggering the symptoms. The remaining options are inaccurate descriptions of compartment syndrome.\n\nTest-Taking Strategy:\nFocus on the subject, pathophysiology associated with compartment syndrome. Note the name of the syndrome and the relationship of the name to the description in the correct option.",
+                        "id": "08fc6aa6e0f84eeabed64339391b55ce",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e27abbd74f1c4f5e8fd92e6224768769",
+                                "content": "Carrots"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02d53b37cf4645a694cfd7c4e66ecce1",
+                                "content": "Tapioca"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e13f241fd2ae4926abdabc2ff0c33923",
+                                "content": "Chocolate"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6f832844aee4d209cea87d58ca9ee7c",
+                                "content": "Chicken liver"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e27abbd74f1c4f5e8fd92e6224768769",
+                                    "content": "Carrots"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02d53b37cf4645a694cfd7c4e66ecce1",
+                                    "content": "Tapioca"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e13f241fd2ae4926abdabc2ff0c33923",
+                                    "content": "Chocolate"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6f832844aee4d209cea87d58ca9ee7c",
+                                    "content": "Chicken liver"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has been diagnosed with gout, and the nurse provides dietary instructions. The nurse determines that the client needs additional teaching if the client states that it is acceptable to eat which food?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nLiver and other organ meats would be omitted from the diet of a client who has gout because of their high purine content. Purines are a form of protein. The food items identified in the other options contain negligible amounts of purines and may be consumed freely by the client with gout.\n\nTest-Taking Strategy:\nNote the strategic words, needs additional teaching. These words indicate a negative event query and the need to select the incorrect statement. Focus on the pathophysiology of the client's diagnosis and on the foods high in purine. Remember that organ meats are high in purines.",
+                        "id": "0c31ce9c67b14301a9b906b0ead32a44",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28b29304703f4b7d9ad5b8a88c501879",
+                                "content": "Make sure that the knots are at the pulleys."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ce94cf2ece14267bab6ec612f7214a9",
+                                "content": "Inspect the skin under the boot at least every 8 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "532d6c2a016c43db8f9d9eef0055bf09",
+                                "content": "Make sure the head of the bed is kept at a 45- to 90-degree angle."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4db9d62043ce4885be9508f77899b50d",
+                                "content": "Monitor the weights to be sure that they are resting on a firm surface."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28b29304703f4b7d9ad5b8a88c501879",
+                                    "content": "Make sure that the knots are at the pulleys."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ce94cf2ece14267bab6ec612f7214a9",
+                                    "content": "Inspect the skin under the boot at least every 8 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "532d6c2a016c43db8f9d9eef0055bf09",
+                                    "content": "Make sure the head of the bed is kept at a 45- to 90-degree angle."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4db9d62043ce4885be9508f77899b50d",
+                                    "content": "Monitor the weights to be sure that they are resting on a firm surface."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assigned to care for a client who is in Buck's traction. The nurse prepares a plan of care for the client and includes which nursing action in the plan?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen possible, remove the belt or boot that is used for skin traction every 8 hours to inspect under the device for skin irritation and breakdown. To achieve proper traction, weights need to be free-hanging, with knots kept away from the pulleys. Weights are not to be kept resting on a firm surface. The head of the bed is usually kept low to provide countertraction.\n\nTest-Taking Strategy:\nFocus on the subject, care to the client in Buck's traction. Attempt to visualize the traction, recalling that there must be weight to exert the pull from the traction setup. This concept will assist you in eliminating options 1 and 4. Recall that countertraction is needed. This will assist you in eliminating option 3, which indicates to keep the head of the bed at a 45- to 90-degree angle.",
+                        "id": "0da7e4a676b946a391d622864c745845",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec26f67654a0425c98653b076c2e72f0",
+                                "content": "The brace needs to be applied directly next to the skin."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cda7fb92e1da4ec997644e1f120980cf",
+                                "content": "The device is applied before getting out of bed in the morning."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca17fc2ae6da461d9aca6d9fda781369",
+                                "content": "The self-adhering closures need to be fairly loose to avoid constriction."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "776b129174b84996a59d1e2a7d62988a",
+                                "content": "Areas of skin redness at the edges of the brace indicate a good, snug fit."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec26f67654a0425c98653b076c2e72f0",
+                                    "content": "The brace needs to be applied directly next to the skin."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cda7fb92e1da4ec997644e1f120980cf",
+                                    "content": "The device is applied before getting out of bed in the morning."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca17fc2ae6da461d9aca6d9fda781369",
+                                    "content": "The self-adhering closures need to be fairly loose to avoid constriction."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "776b129174b84996a59d1e2a7d62988a",
+                                    "content": "Areas of skin redness at the edges of the brace indicate a good, snug fit."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is planning to teach proper use of a thoracolumbosacral orthosis to a client who has had spinal fusion with instrumentation. The nurse would include which teaching point in the discussion with the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter spinal surgery, a brace or corset may be required temporarily to support the spine. Clients who have lumbar or thoracic spinal fusions wear a fiberglass brace, which resembles a shell. Initially, back braces or corsets may be worn constantly, whether the client is in or out of bed. If not required constantly, the brace is applied in the morning before getting out of bed. As the client's muscles strengthen, the use of braces or corsets is usually decreased. A back brace or thoracolumbosacral orthosis is individually fitted to the client. A layer of clothing is worn between the orthosis and the skin. The closures needs to be secure but not overly loose or tight. The brace would not irritate the skin with proper fitting. Always follow the primary health care provider's activity prescriptions.\n\nTest-Taking Strategy:\nFocus on the subject, care of the client following spinal fusion. Skin irritation (option 4) is not likely to be a good sign and would be eliminated first. Loose connections also are not likely to indicate proper fit, so option 3 would be eliminated next. From the remaining options, eliminate option 1 because the orthosis is likely to become soiled with perspiration or cause skin irritation if worn directly next to the skin.",
+                        "id": "0e78117cd1814bb78c80fb2ff6740ada",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38da8ed217d746768673ba22354fa2c1",
+                                "content": "Limit caffeine intake."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb0269b63dfc4fd7aba92d31b9d3e970",
+                                "content": "Limit intake of vitamin D."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f24779d542ca499bb7d7fcb50df867b6",
+                                "content": "Limit participation in activities such as walking and swimming."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5a092b141604e18bb3a9931a8495040",
+                                "content": "Limit protein in the diet because it contributes to the incidence of bone demineralization."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38da8ed217d746768673ba22354fa2c1",
+                                    "content": "Limit caffeine intake."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb0269b63dfc4fd7aba92d31b9d3e970",
+                                    "content": "Limit intake of vitamin D."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f24779d542ca499bb7d7fcb50df867b6",
+                                    "content": "Limit participation in activities such as walking and swimming."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5a092b141604e18bb3a9931a8495040",
+                                    "content": "Limit protein in the diet because it contributes to the incidence of bone demineralization."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is lecturing to a group of clients who are at high risk for osteoporosis. The nurse would inform the clients about which most important measure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nExcessive caffeine intake can increase calcium loss in the urine. Protein deficiency may contribute to the incidence of bone demineralization. Activities such as walking and swimming may be beneficial and are appropriate to reduce the risk of fracture. Adequate vitamin D intake is necessary for the metabolism of calcium.\n\nTest-Taking Strategy:\nNote the strategic words, most important. Vitamin D is essential for calcium metabolism and would not be limited, so this option can be eliminated. Exercise, particularly walking, is encouraged, so limiting activities can also be eliminated. Protein is necessary to prevent bone demineralization, so limiting protein is also eliminated. The remaining option is the correct answer.",
+                        "id": "10ed7efa3b99445aae43796ab5caf1aa",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c82a3b1f548c473592a72a8ce0058f37",
+                                "content": "Telling the client that the saw makes a frightening noise"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c5f9c95028a41eda87178f8fd9d53ff",
+                                "content": "Reassuring the client that no one has had an arm lacerated yet"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c856ed0ad7e34287bed564b11ceda1bf",
+                                "content": "Stating that the hot cutting blades cause burns only very rarely"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fba326dee18d46c1a042706d4e23c59d",
+                                "content": "Showing the client the cast cutter and explaining how it works"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c82a3b1f548c473592a72a8ce0058f37",
+                                    "content": "Telling the client that the saw makes a frightening noise"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c5f9c95028a41eda87178f8fd9d53ff",
+                                    "content": "Reassuring the client that no one has had an arm lacerated yet"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c856ed0ad7e34287bed564b11ceda1bf",
+                                    "content": "Stating that the hot cutting blades cause burns only very rarely"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fba326dee18d46c1a042706d4e23c59d",
+                                    "content": "Showing the client the cast cutter and explaining how it works"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is fearful about having an arm cast removed. Which action by the nurse would be the most helpful?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIndividuals may be fearful of having a cast removed because of misconceptions about the cast-cutting blade. The nurse would show the cast cutter to the client before it is used and explain that they may feel heat, vibration, and pressure. The cast cutter resembles a small electric saw with a circular blade. The nurse needs to reassure the client that the blade does not cut like a saw but instead cuts the cast by vibrating side to side. The remaining options will increase the client's fear about the procedure.\n\nTest-Taking Strategy:\nNote the strategic word, most. The correct option provides the client the most reassurance because it best prepares the client for what will occur when the cast is removed.",
+                        "id": "11a9ebc3d2f84478b3aa65d6c6169d4d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "b6b40d8934baaf485061933b5863d7c0",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 123000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:11:34",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Amputation,others,Gout,Rheumatoid Arthritis & Osteoarthritis,Fractures,Osteoporosi",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

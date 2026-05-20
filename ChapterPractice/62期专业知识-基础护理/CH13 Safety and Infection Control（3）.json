@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:44:56",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:44:56",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:49:01",
+            "id": "26105d962bc7eda0762c6162f096ed9f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17fecdb9ecdb4602a140de371f80675a",
+                                "content": "Warm the irrigating solution to 98.6° F (37.0° C)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a19717d550f463a93c849b483ed48a2",
+                                "content": "Position the client with the affected side up following the irrigation."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "514a87828c37488f820654cbf0af1704",
+                                "content": "Direct a slow, steady stream of irrigation solution toward the eardrum."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0a1cf59fe6640c3a457518fc83ae122",
+                                "content": "Assist the client to turn their head so that the ear to be irrigated is facing upward."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17fecdb9ecdb4602a140de371f80675a",
+                                    "content": "Warm the irrigating solution to 98.6° F (37.0° C)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a19717d550f463a93c849b483ed48a2",
+                                    "content": "Position the client with the affected side up following the irrigation."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "514a87828c37488f820654cbf0af1704",
+                                    "content": "Direct a slow, steady stream of irrigation solution toward the eardrum."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0a1cf59fe6640c3a457518fc83ae122",
+                                    "content": "Assist the client to turn their head so that the ear to be irrigated is facing upward."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse prepares a client for ear irrigation as prescribed by the primary health care provider. Which action would the nurse take when performing the procedure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBefore ear irrigation, the nurse would inspect the tympanic membrane to ensure that it is intact. The irrigating solution needs to be warmed to 98.6° F (37.0° C), because a solution temperature that is not close to the client's body temperature will cause ear injury, nausea, and vertigo. The nurse would check the temperature of the solution on the inner forearm. The affected side needs to be down following the irrigation to assist in drainage of the fluid. When irrigating, a direct and slow steady stream of irrigation solution is directed toward the wall of the canal, not toward the eardrum. The client is positioned sitting, facing forward with the head in a natural position; if the ear is faced upward, the nurse would not be able to visualize the canal.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Safety\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Safety, Sensory Perception\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the procedure for performing ear irrigation. Think about the purpose of this procedure and keep safety in mind. Visualizing each step and the information in the options will assist in eliminating the incorrect ones.",
+                        "id": "0155dde868214752b5d0b430fab1d451",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ba11d6094c5435d9b1f70613760b5ee",
+                                "content": "Restraints"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5367864ec5904cda847082996878e763",
+                                "content": "Nasal cannula"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c724b8a73e9a4a5b8451545abfef9006",
+                                "content": "Suction catheter"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6516bc7fda794dce98167bfe385f89fb",
+                                "content": "Padding for side rails"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ba11d6094c5435d9b1f70613760b5ee",
+                                    "content": "Restraints"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5367864ec5904cda847082996878e763",
+                                    "content": "Nasal cannula"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c724b8a73e9a4a5b8451545abfef9006",
+                                    "content": "Suction catheter"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6516bc7fda794dce98167bfe385f89fb",
+                                    "content": "Padding for side rails"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A registered nurse (RN) asks a licensed practical nurse (LPN) to set up a hospital room for a client who is being admitted with a diagnosis of tonic-clonic seizures and asks the LPN to institute seizure precautions. The RN checks the client's room before the arrival of the client and determines that which item placed in the room by the LPN is unsafe?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSeizure precautions include keeping side rails up and padded if the client has tonic-clonic seizures, ensuring that suction and oxygen equipment is available, and disabling the locks on the bathroom and room doors. Restraints are not used and can result in client injury.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Safety\nHealth Problem: Adult Health: Neurological: Seizure Disorder/Epilepsy\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Leadership, Safety\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the unsafe item for use for a client with a seizure disorder. Evaluate the items in the options from the perspective of causing possible harm. No harm can come to the client from any of the options except the restraints.\n \n   ",
+                        "id": "02195831e989422781284398f66c5eb5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "92fe263607ea4e0c845a4a8865da64b5",
+                                "content": "Raw oysters"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70bea8f27e6c4f319ac85bd5a2e17a84",
+                                "content": "Bottled water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "068e50d242ef471daef93ca905ea3a9c",
+                                "content": "Pasteurized milk"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bb11292b9cf42d0866abacdde5b8ea9",
+                                "content": "Products with sorbitol"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "92fe263607ea4e0c845a4a8865da64b5",
+                                    "content": "Raw oysters"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70bea8f27e6c4f319ac85bd5a2e17a84",
+                                    "content": "Bottled water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "068e50d242ef471daef93ca905ea3a9c",
+                                    "content": "Pasteurized milk"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bb11292b9cf42d0866abacdde5b8ea9",
+                                    "content": "Products with sorbitol"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is teaching a client with acquired immunodeficiency syndrome (AIDS) how to avoid food-borne illnesses. The nurse would instruct the client that which food can cause a food-borne illness?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client is taught to avoid raw or undercooked seafood, meat, poultry, and eggs. The client also would avoid unpasteurized milk and dairy products. Fruits that the client peels are safe, as are bottled beverages. The client may be taught to avoid sorbitol, but this is to diminish diarrhea and has nothing to do with food-borne infections.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Infection Control\nHealth Problem: Adult Health: Immune: Immunodeficiency Syndrome\nIntegrated Process: Teaching and Learning\nPriority Concepts: Infection, Patient Education\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, food-borne illness. Sorbitol causes diarrhea but is unrelated to food-borne illness, so option 4 is eliminated first. Eliminate option 3 because products that are pasteurized are free of microbes. Regarding the remaining options, noting the word raw in the correct option will direct you to this one.\n \n  ",
+                        "id": "04857b4ed4f84433b8b1ee5b40ff24d1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3011057342b340d09a08447c4bfc0474",
+                                "content": "Promptly pick up the pill and put it into the medicine cup."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db3c38ba722946449988502189c32279",
+                                "content": "Promptly pick up the pill, blow off the dust, and then put it into the medicine cup."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "015f6ff32c12426689876dd6625ff9f9",
+                                "content": "Promptly pick up the pill, dispose of it properly, and obtain a new one from the pharmacy."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cef24a3df89443abadb349816b11707a",
+                                "content": "Promptly pick up the pill, use an alcohol swab to clean it off, and put it into the medicine cup."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3011057342b340d09a08447c4bfc0474",
+                                    "content": "Promptly pick up the pill and put it into the medicine cup."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db3c38ba722946449988502189c32279",
+                                    "content": "Promptly pick up the pill, blow off the dust, and then put it into the medicine cup."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "015f6ff32c12426689876dd6625ff9f9",
+                                    "content": "Promptly pick up the pill, dispose of it properly, and obtain a new one from the pharmacy."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cef24a3df89443abadb349816b11707a",
+                                    "content": "Promptly pick up the pill, use an alcohol swab to clean it off, and put it into the medicine cup."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing medications when a pill pops out of the medication container and falls onto the countertop. What action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMedication that is dropped on any surface is considered contaminated and would not be administered; therefore, the remaining options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Safety\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options\n  Test-Taking Strategy:\nEliminate options 1, 2, and 4 because they are comparable or alike in that they suggest administering a contaminated medication.\n \n  ",
+                        "id": "05ff333b663640e58e013fab9e998c43",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af0643c508c343f1bcb7f8d08a9984aa",
+                                "content": "Check for medication interactions."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03e8449a4eda429a9897c929a586323b",
+                                "content": "Determine whether there are medication duplications."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2b84cc3d07634739976a90a65974c08f",
+                                "content": "Call the prescribing primary health care provider (PHCP) and report polypharmacy."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77a254a28ff24ba6b38a23821a01c871",
+                                "content": "Determine whether a family member supervises medication administration."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af0643c508c343f1bcb7f8d08a9984aa",
+                                    "content": "Check for medication interactions."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03e8449a4eda429a9897c929a586323b",
+                                    "content": "Determine whether there are medication duplications."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2b84cc3d07634739976a90a65974c08f",
+                                    "content": "Call the prescribing primary health care provider (PHCP) and report polypharmacy."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77a254a28ff24ba6b38a23821a01c871",
+                                    "content": "Determine whether a family member supervises medication administration."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home health nurse is visiting a client for the first time. While assessing the client's medication history, it is noted that there are 19 prescriptions and several over-the-counter medications that the client has been taking. Which action would the nurse take first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPolypharmacy is a concern in the older client. Duplication of medications needs to be identified before medication interactions can be determined because the nurse needs to know what the client is taking. Asking about medication administration supervision may be part of the assessment but is not a first action. The phone call to the PHCP is the intervention after all other information has been collected.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Safety\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic word, first. Also note that the nurse is visiting the client for the first time. Options 1, 3, and 4 would be done after possible medication duplication has been identified.\n \n  ",
+                        "id": "08835a0496a5467a81d31f9575036e4d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bc519992560c4e48b36db096eabca1ff",
+                                "content": "Setting the heating pad on a low setting"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d3825b90d5645b0b41b05c1f4370a92",
+                                "content": "Assessing the skin frequently for burns"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53f4c357c02d4fbb9f269ac57e85b84b",
+                                "content": "Placing the heating pad under the client"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68ddd2f9c9cc4be3b4bfa49517b51f52",
+                                "content": "Using tape to hold heating pad in place"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bc519992560c4e48b36db096eabca1ff",
+                                    "content": "Setting the heating pad on a low setting"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d3825b90d5645b0b41b05c1f4370a92",
+                                    "content": "Assessing the skin frequently for burns"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53f4c357c02d4fbb9f269ac57e85b84b",
+                                    "content": "Placing the heating pad under the client"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68ddd2f9c9cc4be3b4bfa49517b51f52",
+                                    "content": "Using tape to hold heating pad in place"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The primary health care provider writes a prescription to apply a heating pad to a client's back. The nurse plans care, knowing that which intervention is contraindicated and is unsafe?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe heating pad would never be placed under the client, but it needs to be placed lightly against or on top of the involved area. Burns to the skin can occur when the client lies on the pad. Options 1, 2, and 4 are appropriate measures for the use of a heating pad.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Understanding\nContent Area: Foundations of Care: Safety\nHealth Problem: Adult Health: Integumentary: Burns\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Tissue Integrity, Safety\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, a contraindicated and unsafe action. Use knowledge of safety measures with the use of a heating pad to answer the question. Think about the possible hazards or risks to the client as you read each option. This will direct you to option 3.\n \n   ",
+                        "id": "08ec83eb4095482592b3315ac33cdd82",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8961718c4a0846be966a384090d1dcf2",
+                                "content": "\"A client with tuberculosis will be placed on airborne precautions.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1610c79110264524bed5024394d5619f",
+                                "content": "\"I will wear a mask when working with an isolated client who has a tracheostomy.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ede2d779dd5d4f338a875bc3b637f500",
+                                "content": "\"I can reuse a gown if it's not dirty, as long as I hang it up inside the client's room.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3a216a4b10b4ce5951b26e49a6e7ba1",
+                                "content": "\"I will remove the gown and gloves and wash my hands before leaving the client's room.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8961718c4a0846be966a384090d1dcf2",
+                                    "content": "\"A client with tuberculosis will be placed on airborne precautions.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1610c79110264524bed5024394d5619f",
+                                    "content": "\"I will wear a mask when working with an isolated client who has a tracheostomy.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ede2d779dd5d4f338a875bc3b637f500",
+                                    "content": "\"I can reuse a gown if it's not dirty, as long as I hang it up inside the client's room.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3a216a4b10b4ce5951b26e49a6e7ba1",
+                                    "content": "\"I will remove the gown and gloves and wash my hands before leaving the client's room.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing orientation to a newly graduated nurse. During a discussion of isolation procedures, which statement by the graduate nurse indicates a need for further review of isolation guidelines?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nGuidelines from the Centers for Disease Control and Prevention (CDC) require that gowns used in isolation rooms be discarded after each use and not reused, even for the same client. The other options reflect correct isolation guidelines.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Infection Control\nIntegrated Process: Teaching and Learning\nPriority Concepts: Infection, Safety\nStrategies: Negative Event Query, Strategic Words\n   Test-Taking Strategy:\nNote the strategic words, need for further review. These words indicate a negative event query and ask you to select an option that is an incorrect statement. It is important to review the CDC isolation guidelines so that you can recognize the proper guidelines. Isolation gowns are never to be reused, even for the same client.\n \n   ",
+                        "id": "09b9aa77b1c244b382d641a32d78a442",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b1448fd05da466399b3be62e82cc2ac",
+                                "content": "Small dog as a house pet"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ac55fdf37a84af889f255bed5728ab5",
+                                "content": "Hot water heater set above 120° F"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1b19ec36056c44d1981832a7ccaa412a",
+                                "content": "Gate placed at the stairs of the second floor"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "831b2f75d0384cf99bc5efcbb2977ca0",
+                                "content": "Toys with small loose parts in the playroom\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b1448fd05da466399b3be62e82cc2ac",
+                                    "content": "Small dog as a house pet"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ac55fdf37a84af889f255bed5728ab5",
+                                    "content": "Hot water heater set above 120° F"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1b19ec36056c44d1981832a7ccaa412a",
+                                    "content": "Gate placed at the stairs of the second floor"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "831b2f75d0384cf99bc5efcbb2977ca0",
+                                    "content": "Toys with small loose parts in the playroom\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The community health nurse is performing a safety assessment in the home of a parent with two children, ages 1 and 3 years. Which, if noted during the assessment, presents the greatest hazard to the children?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nToys with small loose parts would be the priority concern. Children at this age are likely to place the small toy parts in their mouths, which could lead to aspiration and choking. A small dog as a house pet is not necessarily a hazard. The water temperature of the hot water heater is a concern but is not the greatest hazard. The mother needs to be aware of and taught safety measures related to safe water temperatures for bathing the children. A gate placed at the stairs of the second floor is a safety measure.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Safety\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Development, Safety\nStrategies: ABCs—Airway, Breathing, Circulation, Subject\n  Test-Taking Strategy:\nFocus on the subject, the ages of the children, the home, and items that would present a safety hazard. Also, note the word greatest. Use the ABCs—airway, breathing, and circulation—to assist in answering the question. The correct option specifically relates to airway.\n \n    ",
+                        "id": "0ba74a86bd254a3f95eb854e410c4668",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c25ed16cc9284d0a93cd380bda8ec130",
+                                "content": "\"I need to avoid getting the cast wet.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d530a92305cc43c6a7e2c0b257dffa45",
+                                "content": "\"I will use my fingertips to lift and move the leg.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2091225f934d4f97bc35548532de7557",
+                                "content": "\"I can use a padded coat hanger end to scratch under the cast.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "089887f4502e4a0c834ef5bdc3e69750",
+                                "content": "\"I need to cover the casted leg with warm blankets for the next few days.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c25ed16cc9284d0a93cd380bda8ec130",
+                                    "content": "\"I need to avoid getting the cast wet.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d530a92305cc43c6a7e2c0b257dffa45",
+                                    "content": "\"I will use my fingertips to lift and move the leg.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2091225f934d4f97bc35548532de7557",
+                                    "content": "\"I can use a padded coat hanger end to scratch under the cast.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "089887f4502e4a0c834ef5bdc3e69750",
+                                    "content": "\"I need to cover the casted leg with warm blankets for the next few days.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is being discharged to home after application of a plaster leg cast to treat a fracture. Which statement indicates to the nurse that the teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nA plaster cast must remain dry to keep its strength. The cast needs to be handled using the palms of the hands, not the fingertips, until fully dry. The client should never scratch under the cast. A hair dryer set at a cool setting may be used to relieve an itch. Air would circulate freely around the cast to help it dry. Also, the cast gives off heat as it dries.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Safety\nHealth Problem: Adult Health: Musculoskeletal: Skeletal Injury\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Strategic Words, Subject\n  Test-Taking Strategy:\nNote the strategic word, effective. Focus on the subject, care of a plaster cast. Option 3 is dangerous to skin integrity and is eliminated first. Knowing that a wet cast can be dented with the fingertips, causing pressure underneath, helps to eliminate option 2. Recalling that the cast needs to dry eliminates option 4. Remember that plaster casts, once they have dried after application, should not become wet.\n \n  ",
+                        "id": "0cbb88cf5bf944cba17d4e10ca600ff7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53d44ecb70834263bb79e0b7774f250a",
+                                "content": "Induce vomiting."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb6e4bdcfb1541f3a8b8b074277e385d",
+                                "content": "Call an ambulance."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3c7003268d44d63931954ed71cfd2d6",
+                                "content": "Call the Poison Control Center."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e71420bc0aff43b8b7d9e3540aecd72d",
+                                "content": "Bring the child to the emergency department."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53d44ecb70834263bb79e0b7774f250a",
+                                    "content": "Induce vomiting."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb6e4bdcfb1541f3a8b8b074277e385d",
+                                    "content": "Call an ambulance."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3c7003268d44d63931954ed71cfd2d6",
+                                    "content": "Call the Poison Control Center."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e71420bc0aff43b8b7d9e3540aecd72d",
+                                    "content": "Bring the child to the emergency department."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A parent calls a neighbor who is a nurse and tells the nurse that their 3-year-old child has just ingested liquid furniture polish. The nurse would direct the parent to take which immediate action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf a poisoning occurs, the Poison Control Center needs to be contacted immediately. Vomiting would not be induced if the victim is unconscious or if the substance ingested is a strong corrosive or petroleum product. Bringing the child to the emergency department or calling an ambulance would not be the initial action because this would delay treatment. The Poison Control Center may advise the parent to bring the child to the emergency department; if this is the case, the parent needs to call an ambulance.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Safety\nHealth Problem: Pediatric-Specific: Poisoning\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic word, immediate. Calling the Poison Control Center is the first action, since it will direct the parent on the next step to take based on the type of poisoning. The other options are unsafe or could cause a delay in treatment.\n \n  ",
+                        "id": "0df880b24c2346d9baf3052281070a3e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "93366487aa108f3f364304224dd45c48",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 240000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:49:02",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Standard Precautions,Environmental Safet",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

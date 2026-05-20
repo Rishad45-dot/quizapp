@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:32",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:32",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:22:07",
+            "id": "06700914bbbdabe67c5dbac727802195",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9edea31f087747eb8bf0427c7a70434e",
+                                "content": "neo-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4cdfd4a65864338b7f15fda6ccfe165",
+                                "content": "paleo-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a252b5360c44c4d81f629d2a85a3d42",
+                                "content": "archaeo-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7639ba46145c4c99be92445d5d24c598",
+                                "content": "chrono-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9edea31f087747eb8bf0427c7a70434e",
+                                    "content": "neo-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4cdfd4a65864338b7f15fda6ccfe165",
+                                    "content": "paleo-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a252b5360c44c4d81f629d2a85a3d42",
+                                    "content": "archaeo-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7639ba46145c4c99be92445d5d24c598",
+                                    "content": "chrono-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which prefix indicates \"new\" or \"fresh\"?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"neo-\" is derived from the Greek word meaning \"new.\" It is used in English words like \"neonate\" (a newborn), \"neonatal\" (relating to the first month of life after birth), and \"neolithic\" (relating to the last period in the Stone Age).",
+                        "id": "1018b2ca11f14a869fe02db1fa444262",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d050787b8ac4ff0a8d7e994e9010d38",
+                                "content": "Within"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1e4710f51f64ed6b8c175731ee033dd",
+                                "content": "Without"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad2c3cfb1ca94597a9811375778f3c7b",
+                                "content": "Beyond"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c51febdfeac544b2816bda3bc8932563",
+                                "content": "Around"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d050787b8ac4ff0a8d7e994e9010d38",
+                                    "content": "Within"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1e4710f51f64ed6b8c175731ee033dd",
+                                    "content": "Without"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad2c3cfb1ca94597a9811375778f3c7b",
+                                    "content": "Beyond"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c51febdfeac544b2816bda3bc8932563",
+                                    "content": "Around"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What does the prefix \"extra-\" mean?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"extra-\" comes from the Latin word for \"outside of\" or \"beyond.\" It is used to indicate something that is beyond what is normal or expected, as in \"extraordinary\" (beyond ordinary) or \"extraterrestrial\" (from beyond the Earth).",
+                        "id": "18bdde185ac04503b63d4ecae8e9817c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa03fc4ae2204ebe8009c4cf84b67b22",
+                                "content": "Chlorophyll"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71db79b74e2f46898710cc9787d40996",
+                                "content": "Cyanide"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dd6206211ed4a6490a62a00c9e12999",
+                                "content": "Glucose"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77ea20f727b14a60b7d9085409b6343a",
+                                "content": "Hemoglobin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa03fc4ae2204ebe8009c4cf84b67b22",
+                                    "content": "Chlorophyll"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71db79b74e2f46898710cc9787d40996",
+                                    "content": "Cyanide"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dd6206211ed4a6490a62a00c9e12999",
+                                    "content": "Glucose"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77ea20f727b14a60b7d9085409b6343a",
+                                    "content": "Hemoglobin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词包含的前缀与\"chlorine\"（氯）中的\"chlor\"相同？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Chloro-\"是\"chlor\"的变体，两者都来源于希腊语词根\"chloros\"，意为“绿色”或“淡绿色”，故\"chlorine\"和\"chlorophyll\"（叶绿素）有关联。",
+                        "id": "19f1195f2ce74d509b6a1425270bce8a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d678ea4f931043e18ad2bd1b76ff534e",
+                                "content": "Polymer"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79993077e5e149b29d7f88ca4e53f255",
+                                "content": "Monochrome"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34ec3a0b68e84b1d93f010d3ba7950cb",
+                                "content": "Biology"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6ffe866a35541e68b432e4d71b2b3ab",
+                                "content": "Triangle"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d678ea4f931043e18ad2bd1b76ff534e",
+                                    "content": "Polymer"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79993077e5e149b29d7f88ca4e53f255",
+                                    "content": "Monochrome"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34ec3a0b68e84b1d93f010d3ba7950cb",
+                                    "content": "Biology"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6ffe866a35541e68b432e4d71b2b3ab",
+                                    "content": "Triangle"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词的前缀表示“多”或“许多”？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Poly-\"前缀来源于希腊语，意为“多”或“许多”，用于形成表示多个单位或多种成分的名词，如\"polymer\"（聚合物）。",
+                        "id": "25f1046fa1394932863246bb741193ba",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9dfa1d53f1d47fcac371aaae9e017cd",
+                                "content": "auto-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82ef0dfd51d949e895cb43b8030cc3a2",
+                                "content": "bio-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8fae687f01444e694b1c29874782237",
+                                "content": "socio-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49777f277afa4149be45ff30c6b4863e",
+                                "content": "geo-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9dfa1d53f1d47fcac371aaae9e017cd",
+                                    "content": "auto-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82ef0dfd51d949e895cb43b8030cc3a2",
+                                    "content": "bio-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8fae687f01444e694b1c29874782237",
+                                    "content": "socio-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49777f277afa4149be45ff30c6b4863e",
+                                    "content": "geo-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which prefix indicates \"auto-\" or self?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"auto-\" is derived from the Greek word for \"self.\" It is used in English words like \"automatic\" (operating by itself), \"autobiography\" (self-written life story), and \"autograph\" (self-written signature).",
+                        "id": "27c2c43fe6d743f6a15e8b90f3d02fc8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ad16a757da6444faee8824e9e06d1b6",
+                                "content": "Under"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9eb7fc593d3a4fbaa375efc6083f2ef4",
+                                "content": "Over"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bebe8dbd20c4dc483dccf41b1e2b31d",
+                                "content": "Around"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b703e1db403d4e9ebc6d24719a28650d",
+                                "content": "Between"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ad16a757da6444faee8824e9e06d1b6",
+                                    "content": "Under"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9eb7fc593d3a4fbaa375efc6083f2ef4",
+                                    "content": "Over"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bebe8dbd20c4dc483dccf41b1e2b31d",
+                                    "content": "Around"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b703e1db403d4e9ebc6d24719a28650d",
+                                    "content": "Between"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What does the prefix \"super-\" mean?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"super-\" comes from the Latin word meaning \"over,\" \"above,\" or \"excessive.\" It is used in English words like \"supermarket\" (a market that is above others in size), \"supernatural\" (beyond natural), and \"supervise\" (to oversee or be above in management).",
+                        "id": "2d712d89b8f348bda970ec6f1ba82dc7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "45c56fbbbae5496ea7f0d8088aacd3c6",
+                                "content": "生命、生物"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a41de7624f64b7593db5bfd25deea14",
+                                "content": "双的、二"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43e940db378748c7bc140da60523dbcb",
+                                "content": "化学物品"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c00a0b3c4754efeb9a37d410172b154",
+                                "content": "重力"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "45c56fbbbae5496ea7f0d8088aacd3c6",
+                                    "content": "生命、生物"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a41de7624f64b7593db5bfd25deea14",
+                                    "content": "双的、二"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43e940db378748c7bc140da60523dbcb",
+                                    "content": "化学物品"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c00a0b3c4754efeb9a37d410172b154",
+                                    "content": "重力"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "前缀\"bio-\"通常指的是什么含义？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"bio-\"来源于希腊语，通常表示与生命、生物学相关的概念。",
+                        "id": "2ea37a829d944756b8d086d453154ba7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0e1e72c49af144ba89a22b3d8416cfc2",
+                                "content": "ana-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4fcacf9818546fab1302512e8a9b26f",
+                                "content": "anti-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "674d6cc5d0dd43c7be17f88d01d196bf",
+                                "content": "con-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2df62912d7264c2f9196bb8655885532",
+                                "content": "contra-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0e1e72c49af144ba89a22b3d8416cfc2",
+                                    "content": "ana-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4fcacf9818546fab1302512e8a9b26f",
+                                    "content": "anti-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "674d6cc5d0dd43c7be17f88d01d196bf",
+                                    "content": "con-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2df62912d7264c2f9196bb8655885532",
+                                    "content": "contra-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which prefix denotes \"opposite of\" or \"against\"?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"anti-\" comes from the Greek word meaning \"against\" or \"opposite of.\" It is used in English to indicate opposition or resistance, as in \"antibiotic\" (against bacteria), \"antibody\" (defending against disease), and \"antivenom\" (counteracting poison).",
+                        "id": "304bbc3cfc5d4472a6caa794ef15c055",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f41aab4790849118ba4ac855a9b5898",
+                                "content": "Between"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16e214169f2f47c6be1952d21bb641d9",
+                                "content": "Through"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7691b30d2b1480aa1e6ed78bf89eace",
+                                "content": "Across"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84dfd737fd43446ebfbbc757c4706776",
+                                "content": "Apart"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f41aab4790849118ba4ac855a9b5898",
+                                    "content": "Between"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16e214169f2f47c6be1952d21bb641d9",
+                                    "content": "Through"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7691b30d2b1480aa1e6ed78bf89eace",
+                                    "content": "Across"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84dfd737fd43446ebfbbc757c4706776",
+                                    "content": "Apart"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What does the prefix \"dia-\" suggest?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"dia-\" is derived from the Greek word meaning \"apart\" or \"through,\" but in English, it often indicates something that is between or apart, as in \"diagonal\" (a line between corners) or \"diagnosis\" (identifying a condition between symptoms).",
+                        "id": "31d81fb97fb1404893d20c4772f2bbf3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e9b0a8ad65e403b8c8ad0869f0ec179",
+                                "content": "Life"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4482ae5af8fb478ba15778e7b7ffe4a0",
+                                "content": "Death"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21bd1615ca524f0f95a7afe496981787",
+                                "content": "Nature"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e4f3e30d07e044b1b4726d4c99fe2358",
+                                "content": "Plant"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e9b0a8ad65e403b8c8ad0869f0ec179",
+                                    "content": "Life"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4482ae5af8fb478ba15778e7b7ffe4a0",
+                                    "content": "Death"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21bd1615ca524f0f95a7afe496981787",
+                                    "content": "Nature"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e4f3e30d07e044b1b4726d4c99fe2358",
+                                    "content": "Plant"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What does the prefix \"bio-\" mean?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Explanation: The prefix \"bio-\" comes from the Greek word for \"life.\" It is used in English words like \"biology\" (the study of life), \"biography\" (a written account of someone's life), and \"biome\" (a large ecosystem).",
+                        "id": "43712aa587f54157a78ed111da002a35",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "f28cb373093f578a0470aeec8d8d8150",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 93000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:22:08",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "前",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

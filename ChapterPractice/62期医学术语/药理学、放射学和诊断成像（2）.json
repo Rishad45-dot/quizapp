@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:07:15",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:07:15",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:16:43",
+            "id": "057160187edae6e0d3957f844c5107ff",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f78c5ea98c44c9ba123227f43915d53",
+                                "content": "抗炎药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea62b403ece04657b2d8f6c078bf1a61",
+                                "content": "抗感染药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "338df5e67aa646728ecdc651045edbef",
+                                "content": "抗病毒药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57c4a25477934cbe901647ee2b005612",
+                                "content": "抗生素"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f78c5ea98c44c9ba123227f43915d53",
+                                    "content": "抗炎药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea62b403ece04657b2d8f6c078bf1a61",
+                                    "content": "抗感染药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "338df5e67aa646728ecdc651045edbef",
+                                    "content": "抗病毒药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57c4a25477934cbe901647ee2b005612",
+                                    "content": "抗生素"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " anti-inflammatory ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " anti-inflammatory - 抗炎药",
+                        "id": "05ab9911ea9448afa7ed3e477dc582d4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d2d8b7b80d548e6aa4f13c424876ae6",
+                                "content": "局部效应"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd8d9c4cbd4a47769f0fd7248d51a961",
+                                "content": "全身效应"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "acac4ea5296a42feb15f1c1133eeda61",
+                                "content": "副作用"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d199499eb3144208938f1383ee9c5a6d",
+                                "content": "首剂效应"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d2d8b7b80d548e6aa4f13c424876ae6",
+                                    "content": "局部效应"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd8d9c4cbd4a47769f0fd7248d51a961",
+                                    "content": "全身效应"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "acac4ea5296a42feb15f1c1133eeda61",
+                                    "content": "副作用"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d199499eb3144208938f1383ee9c5a6d",
+                                    "content": "首剂效应"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " systemic effect   ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " systemic effect - 全身作用",
+                        "id": "10dbbc0e80c947029553fbb6fa99c060",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ec478c3a0574fd791a6e487d502232e",
+                                "content": "初始剂量"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "748bd0aafb8a4c0c90b3761be2bba521",
+                                "content": "治疗剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "333b4700cc51408daa77c1f7f0bd4282",
+                                "content": "维持剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4a05cc40afa64a4ebd98c84fd32f150f",
+                                "content": "叠加剂量"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ec478c3a0574fd791a6e487d502232e",
+                                    "content": "初始剂量"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "748bd0aafb8a4c0c90b3761be2bba521",
+                                    "content": "治疗剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "333b4700cc51408daa77c1f7f0bd4282",
+                                    "content": "维持剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4a05cc40afa64a4ebd98c84fd32f150f",
+                                    "content": "叠加剂量"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " therapeutic dose   ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " therapeutic dose - 治疗剂量",
+                        "id": "1e44ed8195db47a39c0d09c8bae0a0cb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be43a19f66bf42f6bc4ca07ce24e87b5",
+                                "content": "肌肉注射"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "999d7564023d4958b16365c774827891",
+                                "content": "皮下注射"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63fe3917708b4bf4afea004b56e14843",
+                                "content": "皮内注射"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7f8801532664899bdaca17fdb385a73",
+                                "content": "静脉注射"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be43a19f66bf42f6bc4ca07ce24e87b5",
+                                    "content": "肌肉注射"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "999d7564023d4958b16365c774827891",
+                                    "content": "皮下注射"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63fe3917708b4bf4afea004b56e14843",
+                                    "content": "皮内注射"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7f8801532664899bdaca17fdb385a73",
+                                    "content": "静脉注射"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " intradermal injection ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " intradermal injection - 皮内注射",
+                        "id": "331fbf2720254b1d84207755a23b065c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b71ead3fc7a4f76bdc1d19b09219b6c",
+                                "content": "初始剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a27fc7804b4246f189cc278f87e960ec",
+                                "content": "治疗剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cd8f97d38a46410abd63b014ec123b92",
+                                "content": "维持剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "259ba200033846d4bbdd6b008565f8b3",
+                                "content": "叠加剂量"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b71ead3fc7a4f76bdc1d19b09219b6c",
+                                    "content": "初始剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a27fc7804b4246f189cc278f87e960ec",
+                                    "content": "治疗剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cd8f97d38a46410abd63b014ec123b92",
+                                    "content": "维持剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "259ba200033846d4bbdd6b008565f8b3",
+                                    "content": "叠加剂量"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " initial dose      ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " initial dose - 初剂量",
+                        "id": "39d21d87a56444dbb73cf0e1600eecce",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "174e151a60ca487d9aec8865cf0dbd94",
+                                "content": "治糖尿病药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "89d4fca9f6d24b0c828775d04d564754",
+                                "content": "抗炎药"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de189befc5044efd89a48e61672d7f2d",
+                                "content": "麻醉剂"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54fd90200cc0450494fadc2d1ac56088",
+                                "content": "镇痛剂"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "174e151a60ca487d9aec8865cf0dbd94",
+                                    "content": "治糖尿病药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "89d4fca9f6d24b0c828775d04d564754",
+                                    "content": "抗炎药"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de189befc5044efd89a48e61672d7f2d",
+                                    "content": "麻醉剂"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54fd90200cc0450494fadc2d1ac56088",
+                                    "content": "镇痛剂"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " anesthetic        ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " anesthetic - 麻醉药",
+                        "id": "415a61825a504379887b1c96bacf7fd5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bdf0f25da2124e8da6b61c4521dd1341",
+                                "content": "初始剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0813415426fe49618c0ab7e1bc416194",
+                                "content": "治疗剂量"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50f903925383411f844d3f71905c34f8",
+                                "content": "维持剂量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e6a8787b7404058838f0491c6b86f2b",
+                                "content": "叠加剂量"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bdf0f25da2124e8da6b61c4521dd1341",
+                                    "content": "初始剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0813415426fe49618c0ab7e1bc416194",
+                                    "content": "治疗剂量"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50f903925383411f844d3f71905c34f8",
+                                    "content": "维持剂量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e6a8787b7404058838f0491c6b86f2b",
+                                    "content": "叠加剂量"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " maintenance dose   ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " maintenance dose - 维持量",
+                        "id": "4335481da0d6493a93ed0890c64d3c61",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4244d28da344e15b204b3585cce76a6",
+                                "content": "药物反应"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47785d60060a4be69df75ac1d98389db",
+                                "content": "药物积聚"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48f7312adaa044fc836c4121d9f79f17",
+                                "content": "药物耐受量"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3af8a65d9ba6459eb454500cbd8794d7",
+                                "content": "药物成瘾"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4244d28da344e15b204b3585cce76a6",
+                                    "content": "药物反应"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47785d60060a4be69df75ac1d98389db",
+                                    "content": "药物积聚"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48f7312adaa044fc836c4121d9f79f17",
+                                    "content": "药物耐受量"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3af8a65d9ba6459eb454500cbd8794d7",
+                                    "content": "药物成瘾"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " drug addiction    ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " drug addiction - 药物成瘾",
+                        "id": "435540b7e7344863953f4c10982e47f2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "adeb3e7e67a04a36bb11fb366929d055",
+                                "content": "抗利尿剂"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e54a9475b056454b8ef4609e8f6930ba",
+                                "content": "催吐药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "387f9b3830b24c25a2ee42c011ad0d9c",
+                                "content": "止吐药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19dda47b390040c89d86d7c0d4e33288",
+                                "content": "镇静剂"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "adeb3e7e67a04a36bb11fb366929d055",
+                                    "content": "抗利尿剂"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e54a9475b056454b8ef4609e8f6930ba",
+                                    "content": "催吐药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "387f9b3830b24c25a2ee42c011ad0d9c",
+                                    "content": "止吐药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19dda47b390040c89d86d7c0d4e33288",
+                                    "content": "镇静剂"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " antidiuretic      ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " antidiuretic - 抗利尿药",
+                        "id": "49087d9f1993416b8577bd47d06b5c03",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d9c90bc2f814bfc9c0e495aa14418a5",
+                                "content": "特异性反应"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bcc7472c3b5a482386c3c82211ef1bc6",
+                                "content": "禁忌症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c400813028dd4dc6979c373513e4c602",
+                                "content": "积聚"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2118ed0732e24b4b8d8667546f5442c0",
+                                "content": "增强作用"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d9c90bc2f814bfc9c0e495aa14418a5",
+                                    "content": "特异性反应"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bcc7472c3b5a482386c3c82211ef1bc6",
+                                    "content": "禁忌症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c400813028dd4dc6979c373513e4c602",
+                                    "content": "积聚"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2118ed0732e24b4b8d8667546f5442c0",
+                                    "content": "增强作用"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " idiosyncrasy      ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": " idiosyncrasy - 特异质反应",
+                        "id": "4eca7c6c75d146a3898f611e4aaaa86d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "4a10717f42a8e414185d6dbf8217484b",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 338000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:16:43",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

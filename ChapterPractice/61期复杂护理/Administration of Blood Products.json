@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 12:23:54",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 12:23:54",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 12:26:37",
+            "id": "3969f6641888b66bd40a9d21615702e1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e555dedafe14ee6955951f0d6a8f418",
+                                "content": "1330"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ee58821ac0f42a898cb277d4aba3b54",
+                                "content": "1400"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9538f9268ca94895b6ccbcb026a4a685",
+                                "content": "1430"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8bc38c64ff2045b4a5076233d80c81fe",
+                                "content": "1500"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e555dedafe14ee6955951f0d6a8f418",
+                                    "content": "1330"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ee58821ac0f42a898cb277d4aba3b54",
+                                    "content": "1400"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9538f9268ca94895b6ccbcb026a4a685",
+                                    "content": "1430"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8bc38c64ff2045b4a5076233d80c81fe",
+                                    "content": "1500"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " The nurse is picking up a unit of packed red blood cells at the hospital blood bank. After putting the pen down, the nurse glances at the clock, which reads 1300. The nurse calculates that the transfusion must be started by which time? ",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBlood must be hung as soon as possible (within 30 minutes) after it is obtained from the blood bank. After that time, the blood temperature will be higher than 50° F (10° C), and the blood could be unsafe for use. If blood will not be used within 30 minutes, it needs to be returned to the blood bank. For this reason, the remaining options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Complex Care: Blood Administration\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                          Test-Taking Strategy:\nFocus on the subject, the procedure for administering blood. To answer this question correctly, you must know that blood must be hung within 30 minutes after it is obtained from the blood bank.",
+                        "id": "06fa9240ffdb4c39931c328c0b09f81e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "443047d34c31465e9af90a115adeebeb",
+                                "content": "Septicemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd3be01e1fa641218de079798cb5bae5",
+                                "content": "Hyperkalemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "edd62650a6734594acf83e9ee2a055b7",
+                                "content": "Circulatory overload"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31e5c0a813a24331813df3f937c69756",
+                                "content": "Delayed transfusion reaction"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "443047d34c31465e9af90a115adeebeb",
+                                    "content": "Septicemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd3be01e1fa641218de079798cb5bae5",
+                                    "content": "Hyperkalemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "edd62650a6734594acf83e9ee2a055b7",
+                                    "content": "Circulatory overload"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31e5c0a813a24331813df3f937c69756",
+                                    "content": "Delayed transfusion reaction"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with anemia who is receiving a transfusion of packed red blood cells (PRBCs) begins to vomit. The client's blood pressure is 90/50 mm Hg from a baseline of 125/78 mm Hg. The client's temperature is 100.8° F (38.2° C) orally from a baseline of 99.2° F (37.3° C) orally. The nurse determines that the client may be experiencing which complication of a blood transfusion?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSepticemia occurs with the transfusion of blood contaminated with microorganisms. Signs include chills, fever, vomiting, diarrhea, hypotension, and the development of shock. Hyperkalemia causes weakness, paresthesias, abdominal cramps, diarrhea, and dysrhythmias. Circulatory overload causes cough, dyspnea, chest pain, wheezing, tachycardia, and hypertension. A delayed transfusion reaction can occur days to years after a transfusion. Signs include fever, mild jaundice, and a decreased hematocrit level.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Anemias\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Infection, Clinical Judgment\nStrategies: Subject                   Test-Taking Strategy:\nFocus on the subject, a complication of a blood transfusion. Noting that the client's temperature is elevated will direct you to the correct option.",
+                        "id": "1e1f71041aff4b718a0e6e476436fffb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a73409cf43c441019763b38aa2485f21",
+                                "content": "Increased hematocrit level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b83246b9dd34b5abfc5b6297adb18d4",
+                                "content": "Increased hemoglobin level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e55fe109a2249a895d386552b5ce6fd",
+                                "content": "Decline of elevated temperature to normal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d400473455f4523983be241b450a750",
+                                "content": "Decreased oozing of blood from puncture sites and gums"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a73409cf43c441019763b38aa2485f21",
+                                    "content": "Increased hematocrit level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b83246b9dd34b5abfc5b6297adb18d4",
+                                    "content": "Increased hemoglobin level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e55fe109a2249a895d386552b5ce6fd",
+                                    "content": "Decline of elevated temperature to normal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d400473455f4523983be241b450a750",
+                                    "content": "Decreased oozing of blood from puncture sites and gums"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has received a transfusion of platelets. The nurse evaluates that the client is benefiting most from this therapy if the client exhibits which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nPlatelets are necessary for proper blood clotting. The client with insufficient platelets may exhibit frank bleeding or oozing of blood from puncture sites, wounds, and mucous membranes. Increased hemoglobin and hematocrit levels would occur when the client has received a transfusion of red blood cells. An elevated temperature would decline to normal after infusion of granulocytes because these cells are instrumental in fighting infection in the body.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words                               Test-Taking Strategy:\nNote the strategic word, most. Use knowledge regarding the potential uses and benefits of the various types of blood product transfusions. Eliminate increased hematocrit and increased hemoglobin first because they are comparable or alike. From the remaining options, recalling that platelets are necessary for proper blood clotting will direct you to the correct option.",
+                        "id": "1e7b2ed1d9d54b129db944d50ab56c7f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "056ae580920648b083baaf7f8a6eed44",
+                                "content": "Furosemide"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d28e873d2b334d0199b5a88ca470aab2",
+                                "content": "Acetaminophen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05c1b4e8c454447b8eadf113e30fb694",
+                                "content": "Diphenhydramine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "425e1294b78547ff9e02bbd426d0f5a4",
+                                "content": "Acetylsalicylic acid"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "056ae580920648b083baaf7f8a6eed44",
+                                    "content": "Furosemide"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d28e873d2b334d0199b5a88ca470aab2",
+                                    "content": "Acetaminophen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05c1b4e8c454447b8eadf113e30fb694",
+                                    "content": "Diphenhydramine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "425e1294b78547ff9e02bbd426d0f5a4",
+                                    "content": "Acetylsalicylic acid"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has experienced high blood pressure and crackles in the lungs during previous blood transfusions. The client asks the nurse whether it is safe to receive another transfusion. The nurse explains that which medication most likely will be prescribed before the transfusion is begun?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nFluid overload is one of the potential complications of a blood transfusion and is characterized by a variety of signs, including high blood pressure, fluid in the lungs manifesting as crackles, and distended jugular veins. This type of transfusion reaction is prevented by pretreating the client with a diuretic such as furosemide. Acetaminophen and acetylsalicylic acid (aspirin) are analgesics. These medications may reduce fever as well but do not treat fluid overload.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Blood Administration\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options, Strategic Words                               Test-Taking Strategy:\nNote the strategic words, most likely. Recall the classifications of the medications noted in each option. Eliminate options 2 and 4 because they are comparable or alike and are analgesics. Recalling that furosemide is a diuretic will direct you to the correct option.",
+                        "id": "213765b7b30043f897e95280edae4532",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a351dee7d2246229b3fc7b0cbe1dd50",
+                                "content": "Bacteremia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d1523815c4343cbafe3d2be0a2f9eea",
+                                "content": "Hypovolemia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f23a896b96a4516bc30c0c43e81acc0",
+                                "content": "Circulatory overload"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b5bf0eab1c74e97b68af7ccefaa2acf",
+                                "content": "Transfusion reaction"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a351dee7d2246229b3fc7b0cbe1dd50",
+                                    "content": "Bacteremia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d1523815c4343cbafe3d2be0a2f9eea",
+                                    "content": "Hypovolemia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f23a896b96a4516bc30c0c43e81acc0",
+                                    "content": "Circulatory overload"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b5bf0eab1c74e97b68af7ccefaa2acf",
+                                    "content": "Transfusion reaction"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse enters a client's room to assess the client, who began receiving a blood transfusion 45 minutes earlier, and notes that the client is flushed and dyspneic. On assessment, the nurse auscultates the presence of crackles in the lung bases. The nurse determines that this client most likely is experiencing which complication of blood transfusion therapy?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCirculatory overload is caused by the infusion of blood at a rate too rapid for the client to tolerate. With circulatory overload, crackles are present in addition to dyspnea. An allergic reaction, which is one type of blood transfusion reaction, would produce symptoms such as flushing, dyspnea, itching, and a generalized rash. Hypovolemia is an unlikely complication of a blood transfusion. With bacteremia, the client would have a fever, which is not part of the clinical picture presented.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Fluid and Electrolytes, Safety\nStrategies: Data in the Question, Strategic Words                 Test-Taking Strategy:\nNote the strategic words, most likely. Read the question carefully, and focus on the data in the question. Eliminate hypovolemia first because it is not a complication of blood transfusion. Next, eliminate bacteremia because no information in the question indicates that the client has an elevated temperature. From the remaining choices, focusing on the words crackles in the lung bases will direct you to circulatory overload.",
+                        "id": "28f235029c2b4aec9a3644c58ec411b2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81fe21f31f7048349c3ff087830852b0",
+                                "content": "Albumin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "889ef3178afa4cc98cfd58ec7e4bf55a",
+                                "content": "Platelets"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ebc9b505331d49bc9850f4a5a1bacf89",
+                                "content": "Cryoprecipitate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "324c8eb58a54457481532c19a31e424b",
+                                "content": "Packed red blood cells"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81fe21f31f7048349c3ff087830852b0",
+                                    "content": "Albumin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "889ef3178afa4cc98cfd58ec7e4bf55a",
+                                    "content": "Platelets"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ebc9b505331d49bc9850f4a5a1bacf89",
+                                    "content": "Cryoprecipitate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "324c8eb58a54457481532c19a31e424b",
+                                    "content": "Packed red blood cells"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse overhears a primary health care provider (PHCP) stating that a client diagnosed with disseminated intravascular coagulation (DIC) requires a transfusion. Which blood product would the nurse anticipate that the PHCP will write a prescription for?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCryoprecipitate is useful in treating bleeding from hemophilia or DIC because it is rich in clotting factors. Albumin may be used as a plasma expander in hypovolemia with or without shock. Platelets are used when the client's platelet count is low. Packed red blood cells replace erythrocytes, not fibrinogen.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Perfusion, Collaboration\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, a blood product to treat DIC. Specific knowledge of the benefits and uses of various blood products is needed to answer this question. Think about the pathophysiology of DIC and the physiology of blood components, and review each item in the options to assist in answering.",
+                        "id": "2aa3f1e622024155b968675b2ebc7a6a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a27efc65489c453fb5942908e941ab67",
+                                "content": "Check a set of vital signs."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64dd18bff47c4bb490194d769946f74b",
+                                "content": "Order the blood from the blood bank."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "800f9cbd3d924155bafea19efcc858e2",
+                                "content": "Obtain Y-site blood administration tubing."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a1a68ac67d8647d1adc9efec520aafe1",
+                                "content": "Check to be sure that consent for the transfusion has been signed."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a27efc65489c453fb5942908e941ab67",
+                                    "content": "Check a set of vital signs."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64dd18bff47c4bb490194d769946f74b",
+                                    "content": "Order the blood from the blood bank."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "800f9cbd3d924155bafea19efcc858e2",
+                                    "content": "Obtain Y-site blood administration tubing."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1a68ac67d8647d1adc9efec520aafe1",
+                                    "content": "Check to be sure that consent for the transfusion has been signed."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has just received a prescription to transfuse a unit of packed red blood cells for an assigned client. What action would the nurse take next?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter receiving a prescription for a blood transfusion, the first action the nurse would take would be to check to be sure that consent for the transfusion has been signed by the client. If the client has consented, the nurse would then check a set of vital signs to be sure there is no contraindication for a transfusion at that time, such as an elevation in temperature. If the vital signs are acceptable, the nurse can then gather supplies to administer the transfusion and order the blood from the blood bank.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Care Coordination, Health Care Law\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, next. This word tells you that all options may be partially or totally correct, and you need to choose the best next choice. The nurse would not take any procedural steps until the client has consented to the blood transfusion.",
+                        "id": "2b538076e87845258ed4151bd4c1cfd9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "20217c2974b4417d9529eea5f211a904",
+                                "content": "Infusion pump"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0655d1dced84270863a05629dc1d625",
+                                "content": "Pulse oximeter"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4629c66a379849a493b452c50340276b",
+                                "content": "Cardiac monitor"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c469abefa2b40fa9f0c9fa3ad406374",
+                                "content": "Blood-warming device"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "20217c2974b4417d9529eea5f211a904",
+                                    "content": "Infusion pump"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0655d1dced84270863a05629dc1d625",
+                                    "content": "Pulse oximeter"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4629c66a379849a493b452c50340276b",
+                                    "content": "Cardiac monitor"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c469abefa2b40fa9f0c9fa3ad406374",
+                                    "content": "Blood-warming device"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with severe blood loss resulting from multiple trauma requires rapid transfusion of several units of blood. The nurse asks another health team member to obtain which device for use during the transfusion procedure to help reduce the risk of cardiac dysrhythmias?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf several units of blood are to be administered rapidly, a blood warmer would be used. Rapid transfusion of cool blood places the client at risk for cardiac dysrhythmias. To prevent this, the nurse warms the blood with a blood-warming device. Pulse oximetry and cardiac monitoring equipment are useful for the early assessment of complications but do not reduce the occurrence of cardiac dysrhythmias. Electronic infusion devices are not helpful in this case because the infusion must be rapid, and infusion devices generally are used to control the flow rate. In addition, not all infusion devices are made to handle blood or blood products.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Thermoregulation, Perfusion\nStrategies: Comparable or Alike Options                                                     Test-Taking Strategy:\nNote the words rapid and reduce the risk. These words tell you that the blood will infuse quickly and that the correct option is the one that will minimize the risk of cardiac dysrhythmias. Eliminate the pulse oximeter and cardiac monitor first because these items are comparable or alike and are used to assess rather than reduce the risk of complications. From the remaining options, use knowledge related to the complications of transfusion therapy and note the relationship between the words several units of blood in the question and blood-warming device in the correct option.",
+                        "id": "2d0f83f9d5e54918a0f9a5af60bc1658",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0a60defc01d4a7888bbb7e11264a472",
+                                "content": "Collect a urine sample for analysis."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d6574608e1514386ae61ac48cf821958",
+                                "content": "Place the client in an upright position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94b528e249df4ddb8d1184f46e483ec8",
+                                "content": "Slow the rate of the blood transfusion."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f226025a4dde4860be988c31a4db7c09",
+                                "content": "Compare current data to baseline data."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0a60defc01d4a7888bbb7e11264a472",
+                                    "content": "Collect a urine sample for analysis."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d6574608e1514386ae61ac48cf821958",
+                                    "content": "Place the client in an upright position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94b528e249df4ddb8d1184f46e483ec8",
+                                    "content": "Slow the rate of the blood transfusion."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f226025a4dde4860be988c31a4db7c09",
+                                    "content": "Compare current data to baseline data."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is receiving a blood transfusion and is complaining of a cough. The nurse checks the client's vital signs, which include a temperature of 97.2° F (36.2° C), pulse of 108 beats per minute, blood pressure of 152/76 mm Hg, respiratory rate of 24 breaths per minute, and an oxygen saturation level of 95% on room air. The client denies pain at this time. Based on this information, what initial action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nFor the client receiving a blood transfusion, the nurse would monitor for potential complications of a transfusion. One of the complications is circulatory overload. Signs and symptoms of circulatory overload include cough, dyspnea, chest pain, wheezing on auscultation of the lungs, headache, hypertension, tachycardia and a bounding pulse, and distended neck veins. Based on the data in the question, the nurse would compare current data to baseline data. The nurse would also further assess the client for other signs and symptoms of circulatory overload. If the nurse still suspects this complication after comparing to baseline data, the nurse would then place the client in an upright position with the feet in a dependent position and slow the rate of the infusion. Collection of a urine sample would occur if the nurse suspects a transfusion reaction, such as a hemolytic reaction.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Abnormality Exists, Strategic Words             Test-Taking Strategy:\nNote the strategic word, initial. This word indicates that some or all of the options may be partially or totally correct, but the nurse needs to prioritize. Also, determine whether an abnormality exists. Noting that the client is complaining of cough and that the vital signs are slightly abnormal would help you to determine that further assessment is needed at this time.",
+                        "id": "36ffd231c67d45f19b6ee8f6b18eb244",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24ef4d0d502c43eeae27cfed79b93632",
+                                "content": "Phlebotomist                                                                  "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b1889883e044324a1095c894b33c5ca",
+                                "content": " Medical student"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03aab99bb81344ab87a848208ae1c017",
+                                "content": "Registered nurse (RN)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d4c1857f0bb4178bb2c9ea48022b62c",
+                                "content": "Blood bank technician"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24ef4d0d502c43eeae27cfed79b93632",
+                                    "content": "Phlebotomist                                                                  "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b1889883e044324a1095c894b33c5ca",
+                                    "content": " Medical student"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03aab99bb81344ab87a848208ae1c017",
+                                    "content": "Registered nurse (RN)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d4c1857f0bb4178bb2c9ea48022b62c",
+                                    "content": "Blood bank technician"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has just obtained a unit of blood from the blood bank to transfuse into a client as prescribed. Before preparing the blood for transfusion, the nurse looks for which member of the health care team to assist in checking the unit of blood?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDepending on agency policy, two RNs or one RN and one licensed practical nurse (LPN) must check the label on the blood product together against the client's identification number, blood group, and complete name. This minimizes the risk of error in checking information on the blood bag and thereby minimizes the risk of harm or injury to the client. A blood bank technician verifies data with the nurse when the blood is obtained from the blood bank but does not verify information on the nursing unit or at the client's bedside. The other options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Blood Administration\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject               Test-Taking Strategy:\nFocus on the subject, blood administration methods and techniques. Think about the blood transfusion procedures. Remember that two RNs or one RN and one LPN (depending on agency policy) must check the blood product together.",
+                        "id": "43877f6421f8494aa4c3c4afe4af9463",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "a82d730b082149cdbddfc4397db86648",
+            "lessonItemId": "7142c644ba716b32b487789d51e8f169",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 162000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 12:26:37",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Administration of Blood Product",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:08:05",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:08:05",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:13:22",
+            "id": "531d64990b4844e4dc061ebe425a3780",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f24c24996780481c962d68b29d17d93c",
+                                "content": "Myopia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ac44b59a833425d932e89030ac05cb4",
+                                "content": "Hyperopia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ea316e0e57748e0a080ee5fb94ab2a4",
+                                "content": "Color blindness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c9ddf74517bb47d987cd0ce43ba7596c",
+                                "content": "Presbyopia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f24c24996780481c962d68b29d17d93c",
+                                    "content": "Myopia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ac44b59a833425d932e89030ac05cb4",
+                                    "content": "Hyperopia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ea316e0e57748e0a080ee5fb94ab2a4",
+                                    "content": "Color blindness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c9ddf74517bb47d987cd0ce43ba7596c",
+                                    "content": "Presbyopia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在眼科中，哪种情况是指眼睛无法正确感知颜色？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Color blindness（色盲）是指眼睛无法正确感知颜色的状况。",
+                        "id": "0af7eb45038f4019940529b5732213e2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4768e5dc6dee4feda0a75f4f64a942d3",
+                                "content": "Lacrimal sac"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9163325074944eb9a79c6b8a88d157d0",
+                                "content": "Nasolacrimal duct"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f48c7fd459844fcfa879cc40cf47499a",
+                                "content": "Punctum"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d60eb56df52946e485b21f9a91464234",
+                                "content": "Canaliculi"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4768e5dc6dee4feda0a75f4f64a942d3",
+                                    "content": "Lacrimal sac"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9163325074944eb9a79c6b8a88d157d0",
+                                    "content": "Nasolacrimal duct"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f48c7fd459844fcfa879cc40cf47499a",
+                                    "content": "Punctum"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d60eb56df52946e485b21f9a91464234",
+                                    "content": "Canaliculi"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "眼泪通过哪个结构被排入鼻腔？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Nasolacrimal duct（鼻泪管）是将眼泪从眼部排入鼻腔的结构。",
+                        "id": "0bac153e675c4949901ef80b27aa1974",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3e600b0321b44302aab7ed6a52848fcb",
+                                "content": "Glaucoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5506482f96cf4a38a2735eda6edeff42",
+                                "content": "Amblyopia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "386d0ef0cd8f44e8a9e538e69e26af20",
+                                "content": "Cataract"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b38f4d8f60bd4b25a7e2a878c8d503c7",
+                                "content": "Astigmatism"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3e600b0321b44302aab7ed6a52848fcb",
+                                    "content": "Glaucoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5506482f96cf4a38a2735eda6edeff42",
+                                    "content": "Amblyopia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "386d0ef0cd8f44e8a9e538e69e26af20",
+                                    "content": "Cataract"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b38f4d8f60bd4b25a7e2a878c8d503c7",
+                                    "content": "Astigmatism"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "当眼睛的晶状体变得不透明，导致视力模糊，这种情况被称为？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Cataract（白内障）是指眼睛的晶状体变得不透明，导致视力模糊的情况。",
+                        "id": "0fc7fecd8ffc4d479fc94e2636a2e2fa",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ffe7e883b98b40c3892315a46d669abb",
+                                "content": "Blepharitis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e97da8961ce64c42ba9785cfc3c3e7e4",
+                                "content": "Conjunctivitis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4cee020d3df44c53b9d9fb5f64eb5e63",
+                                "content": "Cataract"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af5ac2459e6c40a1a25b571296e7d247",
+                                "content": "Color blindness"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ffe7e883b98b40c3892315a46d669abb",
+                                    "content": "Blepharitis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e97da8961ce64c42ba9785cfc3c3e7e4",
+                                    "content": "Conjunctivitis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4cee020d3df44c53b9d9fb5f64eb5e63",
+                                    "content": "Cataract"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af5ac2459e6c40a1a25b571296e7d247",
+                                    "content": "Color blindness"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "眼球内部的感染或炎症称为？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Conjunctivitis（结膜炎）是眼球内部粘膜的感染或炎症。",
+                        "id": "1d721fe71b0d4c9980c517b099aafe57",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3af1543e0e44c0384250779bcb75c64",
+                                "content": "Cornea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82f2624a7d384134871ddae15bb26a7a",
+                                "content": "Sclera"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b6da22cb912471f93407ef5f46ffbeb",
+                                "content": "Choroid"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e2224189d6a4a7b86490a5db3cb293f",
+                                "content": "Retina"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3af1543e0e44c0384250779bcb75c64",
+                                    "content": "Cornea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82f2624a7d384134871ddae15bb26a7a",
+                                    "content": "Sclera"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b6da22cb912471f93407ef5f46ffbeb",
+                                    "content": "Choroid"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e2224189d6a4a7b86490a5db3cb293f",
+                                    "content": "Retina"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "眼睛最外层的透明保护层是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Cornea（角膜）是眼睛最外层的透明保护层，帮助聚焦进入眼睛的光线。",
+                        "id": "1db3d263920842268e3c9286644d5342",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7a595d702084ea199618d20780d4197",
+                                "content": "Glaucoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2a6ee92e3eb54eccb47566befecd4766",
+                                "content": "Cataract"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2f45442d70f4698bb8cf2c26c032471",
+                                "content": "Myopia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a2f73c37fc843479599fc253eb8aa51",
+                                "content": "Hyperopia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7a595d702084ea199618d20780d4197",
+                                    "content": "Glaucoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2a6ee92e3eb54eccb47566befecd4766",
+                                    "content": "Cataract"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2f45442d70f4698bb8cf2c26c032471",
+                                    "content": "Myopia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a2f73c37fc843479599fc253eb8aa51",
+                                    "content": "Hyperopia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "眼内压力增高，可能损害视神经导致视力丧失的疾病是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Glaucoma（青光眼）是眼内压力增高，可能损害视神经导致视力丧失的疾病。",
+                        "id": "231dd59b078d46f1b934463a50ee1dd7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49f45aeb4e1a439eb5209ef5bd0b1382",
+                                "content": "Ciliary body"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95dec115bd9e4ba3b81cea1f483bc6bc",
+                                "content": "Iris"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a995bd9e57e47fbb15403ce6d5570cd",
+                                "content": "Lens"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b07f8fc830b344afab6d17e9a1fa04b8",
+                                "content": "Vitreous body"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49f45aeb4e1a439eb5209ef5bd0b1382",
+                                    "content": "Ciliary body"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95dec115bd9e4ba3b81cea1f483bc6bc",
+                                    "content": "Iris"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a995bd9e57e47fbb15403ce6d5570cd",
+                                    "content": "Lens"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b07f8fc830b344afab6d17e9a1fa04b8",
+                                    "content": "Vitreous body"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "眼睛中控制对焦的肌肉组织是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Ciliary body（睫状体）包含控制晶状体对焦的肌肉。",
+                        "id": "3079c39aa6624f8890662c74a5a51945",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f3c333cea9146e197608a80cba294b8",
+                                "content": "Vitreous body"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "825b6ceb99a24b85873d900a13ea4de1",
+                                "content": "Retina"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "081c33c8186d439d83ae21d347cb6ea1",
+                                "content": "Aqueous humor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "067711cd707f4ccea2fc9f2e225d712f",
+                                "content": "Sclerotic layer"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f3c333cea9146e197608a80cba294b8",
+                                    "content": "Vitreous body"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "825b6ceb99a24b85873d900a13ea4de1",
+                                    "content": "Retina"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "081c33c8186d439d83ae21d347cb6ea1",
+                                    "content": "Aqueous humor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "067711cd707f4ccea2fc9f2e225d712f",
+                                    "content": "Sclerotic layer"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "眼睛中，含有能感受光线的细胞的是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Retina（视网膜）含有能感受光线的细胞。",
+                        "id": "3cc14c3f8a0c40ec9dbcb66735724166",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6f39430beb7418ea00aca47c2f95716",
+                                "content": "Tympanic"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "78a11ce1834f4fc3b0638378269ce289",
+                                "content": "Cochlea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "284849cc57f143b7a143b3bb6bdc969f",
+                                "content": "External auditory canal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87a437296afc41fba2619117e162c5b6",
+                                "content": "Labyrinth"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6f39430beb7418ea00aca47c2f95716",
+                                    "content": "Tympanic"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "78a11ce1834f4fc3b0638378269ce289",
+                                    "content": "Cochlea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "284849cc57f143b7a143b3bb6bdc969f",
+                                    "content": "External auditory canal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87a437296afc41fba2619117e162c5b6",
+                                    "content": "Labyrinth"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "耳朵中与听力有关的部分是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Cochlea（耳蜗）是内耳的一部分，对听力至关重要，它包含感觉声音的细胞。",
+                        "id": "47d233fa69b1420fbf3a7e30cfcee15c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "273a934ece8840c6beea1aff56d66824",
+                                "content": "Refractive errors"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "deb090d494b245b8a15260165abcf219",
+                                "content": "Accommodation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "125a279b27ee437fb786866628d34396",
+                                "content": "Emmetropia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7dcb8da403544d63938e8aec2c6f4f5d",
+                                "content": "Optical system of the eye"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "273a934ece8840c6beea1aff56d66824",
+                                    "content": "Refractive errors"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "deb090d494b245b8a15260165abcf219",
+                                    "content": "Accommodation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "125a279b27ee437fb786866628d34396",
+                                    "content": "Emmetropia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7dcb8da403544d63938e8aec2c6f4f5d",
+                                    "content": "Optical system of the eye"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在眼科学中，哪个术语用来描述眼球的光学系统？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Optical system of the eye（眼球的光学系统）是眼科学中用来描述眼球中的透镜和其他结构的术语。",
+                        "id": "4bd0dc630e6b431abb520947ed79fdea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "204da1a72bf60ef8d7007a456aaf5e63",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 314000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:13:23",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

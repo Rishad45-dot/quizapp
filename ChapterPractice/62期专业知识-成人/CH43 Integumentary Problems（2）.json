@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:06:52",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:06:52",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:27:18",
+            "id": "d846bff1505145bc530d90a73a1f5b23",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "222ef12eb3dc4adebf700a993e08519f",
+                                "content": "Pillow"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17e17af16dff4d7bb20074fcc2474f10",
+                                "content": "Foam pad"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c389566c24ab4305aba488a813faba77",
+                                "content": "Folded blankets"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "518878137cdd4179802a5078c02314b9",
+                                "content": "Plastic-lined absorbent pad"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "222ef12eb3dc4adebf700a993e08519f",
+                                    "content": "Pillow"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17e17af16dff4d7bb20074fcc2474f10",
+                                    "content": "Foam pad"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c389566c24ab4305aba488a813faba77",
+                                    "content": "Folded blankets"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "518878137cdd4179802a5078c02314b9",
+                                    "content": "Plastic-lined absorbent pad"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has a prescription to get a client who is paraplegic out of bed and into a chair. The nurse determines which item would be best to put in the chair under the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe client who cannot shift weight unassisted would have a pressure relief pad in place under the buttocks to prevent skin breakdown. The best products for this purpose are those that have a tendency to equalize the client's weight on the pad. These include foam, water, gel, and alternating air products. A pillow provides cushion but does not distribute weight equally. A plastic-lined pad and folded blankets provide no pressure relief.\n\nTest-Taking Strategy:\nNote the strategic word, best. Use nursing knowledge about skin breakdown and preventive measures to direct you to the correct option.\n",
+                        "id": "003749a1ba92466993e2a61c9f30394a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6bfeb610bf74511b64e50d66d3de927",
+                                "content": "Monitor temperature every 4 hours."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ed2e1fe5bf54580abfcde0bfae7c778",
+                                "content": "Leave the dressing intact for 3 to 5 days."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11cf2b90f5e24f52b18768409b8e1e97",
+                                "content": "Apply an ice pack to the site to decrease edema formation."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b904e3a0fd9f4ca7a355df2de4aca62d",
+                                "content": "Maintain the right lower extremity in a dependent position."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6bfeb610bf74511b64e50d66d3de927",
+                                    "content": "Monitor temperature every 4 hours."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ed2e1fe5bf54580abfcde0bfae7c778",
+                                    "content": "Leave the dressing intact for 3 to 5 days."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11cf2b90f5e24f52b18768409b8e1e97",
+                                    "content": "Apply an ice pack to the site to decrease edema formation."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b904e3a0fd9f4ca7a355df2de4aca62d",
+                                    "content": "Maintain the right lower extremity in a dependent position."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is planning care for a client returning from the operating room after having an autograft applied to the right lower extremity. Which nursing intervention is focused on promoting graft \"take\"?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter surgery, graft sites are immobilized with a bulky cotton pressure dressing for 3 to 5 days to allow vascularization, or \"take,\" of the newly grafted skin. Dressings would not be disturbed. Elevation and complete rest of the grafted area is required to allow blood vessels to connect the graft with the wound bed. Any activity that might cause movement of the dressing against the body and separation of the graft from the wound is prohibited, such as application of an ice pack. Additionally, cold promotes vasoconstriction.\n\nTest-Taking Strategy:\nNote the subject, promotion of graft \"take\" in a client with an autograft. Also, note the data in the question—the location of the autograft. Next, eliminate option 1 because it is not an action that will promote graft \"take.\" Recall that cold causes vasoconstriction and that an ice pack would put pressure on the graft site. Eliminate option 4 next because the extremity needs to be elevated. The remaining option is the correct option.",
+                        "id": "057d039a38ea4b0996596011e4aeb4b1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "facaa43e9fc6491caa9c362bda099c32",
+                                "content": "Clustered skin vesicles"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bface27b2224b429f507d5e6d82bc2d",
+                                "content": "A generalized body rash"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6734cf6f20fe49dc9953ad2db258b184",
+                                "content": "Small blue-white spots with a red base"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca751f6e31c94a98bad6464c389ca994",
+                                "content": "A fiery-red edematous rash on the cheeks"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "facaa43e9fc6491caa9c362bda099c32",
+                                    "content": "Clustered skin vesicles"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bface27b2224b429f507d5e6d82bc2d",
+                                    "content": "A generalized body rash"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6734cf6f20fe49dc9953ad2db258b184",
+                                    "content": "Small blue-white spots with a red base"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca751f6e31c94a98bad6464c389ca994",
+                                    "content": "A fiery-red edematous rash on the cheeks"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client suspected of having herpes zoster. The nurse would expect to note which types of lesions on inspection of the client's skin?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe primary lesion of herpes zoster is a vesicle. The classic presentation is grouped vesicles on an erythematous base along a dermatome. Because they follow nerve pathways, the lesions do not cross the body's midline. Options 2, 3, and 4 are incorrect descriptions.\n\nTest-Taking Strategy:\nFocus on the subject, characteristics of herpes zoster lesions. Think about the pathophysiology associated with this disorder, and recall that these lesions occur as grouped vesicles along a nerve pathway. This will direct you to the correct option.",
+                        "id": "072f9353eacd4aa89d905a8b7c6aa66f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "579696f723654df88a498cfc31782ac4",
+                                "content": "\"I need to soak the skin and wash it gently.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e8f53b879b34ef7843c3eca3fc22bff",
+                                "content": "\"I need to scrub the skin vigorously with soap and water.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65cb20568e5e4fc0a586ad766e6786b9",
+                                "content": "\"I need to apply an emollient lotion to enhance softening.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a82e568a515c431ca90df474644682f7",
+                                "content": "\"I need to use a sunscreen on the skin if exposed to the sun for a period of time.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "579696f723654df88a498cfc31782ac4",
+                                    "content": "\"I need to soak the skin and wash it gently.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e8f53b879b34ef7843c3eca3fc22bff",
+                                    "content": "\"I need to scrub the skin vigorously with soap and water.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65cb20568e5e4fc0a586ad766e6786b9",
+                                    "content": "\"I need to apply an emollient lotion to enhance softening.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a82e568a515c431ca90df474644682f7",
+                                    "content": "\"I need to use a sunscreen on the skin if exposed to the sun for a period of time.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has just had a cast removed, and the underlying skin is yellow-brown and crusted. The nurse gives the client instructions for skin care. The nurse determines that the client needs further teaching of the directions if which statement is made?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe skin under a casted area may be discolored and crusted with dead skin layers. The client needs to gently soak and wash the skin for the first few days. The skin needs to be patted dry, and a lubricating lotion would be applied. People often want to scrub the dead skin away, but scrubbing irritates the skin. The client would avoid overexposing the skin to the sunlight.\n\nTest-Taking Strategy:\nNote the strategic words, needs further teaching. These words indicate a negative event query and the need to select the incorrect client statement. The word vigorously in the correct option would direct you to this choice as the answer to this question.",
+                        "id": "0ba4761455754f6599af7f6efe134adb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1788e51f386a4e91a13e5c9b31080836",
+                                "content": "Rub the application into the skin."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc01020d85344bff8eed47cd36c6cc91",
+                                "content": "Place the area under a heat lamp for 20 minutes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "322d85897cfb4f808f0b71dc246d2918",
+                                "content": "Apply a dry sterile dressing over the affected area."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4173311263e4ebcba0f43d5acc53221",
+                                "content": "Cover the application with a warm, moist dressing and an occlusive outer wrap."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1788e51f386a4e91a13e5c9b31080836",
+                                    "content": "Rub the application into the skin."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc01020d85344bff8eed47cd36c6cc91",
+                                    "content": "Place the area under a heat lamp for 20 minutes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "322d85897cfb4f808f0b71dc246d2918",
+                                    "content": "Apply a dry sterile dressing over the affected area."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4173311263e4ebcba0f43d5acc53221",
+                                    "content": "Cover the application with a warm, moist dressing and an occlusive outer wrap."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is receiving topical corticosteroid therapy for the treatment of psoriasis. What would the nurse include in client teaching to maximize the effects of the treatment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPenetration of topical corticosteroid therapy can be enhanced by applying warm, moist heat and an occlusive outer wrap. The wrap may consist of a plastic film, glove, bootie, or similar item. If large surface areas of skin are involved, the occlusive therapy may be limited to 12 hours per day to minimize local and systemic adverse effects. The medication is applied but not rubbed into the skin. Dry sterile dressings are not used. A heat lamp can cause a burn injury.\n\nTest-Taking Strategy:\nFocus on the subject, topical corticosteroid therapy. Note the word maximize. Focusing on the client's diagnosis and using principles related to heat therapy will direct you to the correct option.",
+                        "id": "1066bdd1a46b44c39f8738363a59fc58",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c97ff28bea7e47388eb69e47d43df20c",
+                                "content": "\"Treatments are limited to 2 or 3 times a week.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b8ab61e5e9ba47b3b33564f47192ffe5",
+                                "content": "\"The UV light treatments are given on consecutive days.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f2f981e34574c288ba0369a8844cc17",
+                                "content": "\"Eye goggles need to be worn to prevent exposure to UV light.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "081bf62dbf8a4adc8020def1d9d1758e",
+                                "content": "\"Just the area requiring treatment should be exposed to the UV light.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c97ff28bea7e47388eb69e47d43df20c",
+                                    "content": "\"Treatments are limited to 2 or 3 times a week.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b8ab61e5e9ba47b3b33564f47192ffe5",
+                                    "content": "\"The UV light treatments are given on consecutive days.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f2f981e34574c288ba0369a8844cc17",
+                                    "content": "\"Eye goggles need to be worn to prevent exposure to UV light.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "081bf62dbf8a4adc8020def1d9d1758e",
+                                    "content": "\"Just the area requiring treatment should be exposed to the UV light.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Ultraviolet (UV) light therapy is prescribed as a component of the treatment plan for a client with psoriasis, and the nurse provides instructions to the client regarding the treatment. Which statement by the client indicates a need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nUV light treatments are limited to 2 or 3 times a week and are not given on consecutive days. Safety precautions are required during UV light therapy. It is best to expose only those areas requiring treatment to the UV light. Protective wraparound goggles prevent exposure of the eyes to UV light. The face needs to be shielded with a loosely applied pillowcase if it is unaffected. Direct contact with the light bulbs of the treatment unit needs to be avoided to prevent burning of the skin.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Recalling that safety precautions are necessary for this treatment and noting the words given on consecutive days will direct you to option 2.",
+                        "id": "19dd6f43a3ac46d4b53c99c110309cae",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "515471c42c7d4778a9b49f429a825c0e",
+                                "content": "\"I will inspect my skin daily.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cfffc59a188649fd8eef3bcc111b077f",
+                                "content": "\"I can sit in my favorite chair all day.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c601e399eca848fb9ed00486be3db32d",
+                                "content": "\"I need to drink at least 2 liters of fluid daily.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64a2832d8c824b9bb01c08f779b7520f",
+                                "content": "\"I will make sure that my skin is clean and well moisturized.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "515471c42c7d4778a9b49f429a825c0e",
+                                    "content": "\"I will inspect my skin daily.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cfffc59a188649fd8eef3bcc111b077f",
+                                    "content": "\"I can sit in my favorite chair all day.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c601e399eca848fb9ed00486be3db32d",
+                                    "content": "\"I need to drink at least 2 liters of fluid daily.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64a2832d8c824b9bb01c08f779b7520f",
+                                    "content": "\"I will make sure that my skin is clean and well moisturized.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is teaching a client who is preparing for discharge from the hospital after having a stroke about the prevention of pressure injuries while the client has limited mobility. Which statement by the client indicates the need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSitting in one position all day can be a risk factor for pressure injury development. Options 1, 3, and 4 are preventative measures for pressure injury development.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query, asking you to select an incorrect statement. Focus on the subject, preventative measures for pressure injury development, such as positioning, nutrition, skin care, and skin cleaning.",
+                        "id": "1f3045a005f0476ba9606a8ceeb81502",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbc6e563931b430aa628aac451f9b573",
+                                "content": "\"Come to the emergency department.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "608fb12e6b7647199f1c6d44e6924110",
+                                "content": "\"Apply calamine lotion immediately to the exposed skin areas.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "959bb71eb4374072aa6b009355db6873",
+                                "content": "\"Take a shower immediately, lathering and rinsing several times.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dde2544b7754f2db0c0db8072dbce9c",
+                                "content": "\"It is not necessary to do anything if you cannot see anything on your skin.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbc6e563931b430aa628aac451f9b573",
+                                    "content": "\"Come to the emergency department.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "608fb12e6b7647199f1c6d44e6924110",
+                                    "content": "\"Apply calamine lotion immediately to the exposed skin areas.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "959bb71eb4374072aa6b009355db6873",
+                                    "content": "\"Take a shower immediately, lathering and rinsing several times.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dde2544b7754f2db0c0db8072dbce9c",
+                                    "content": "\"It is not necessary to do anything if you cannot see anything on your skin.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client calls the emergency department after experiencing direct contact with poison ivy shrubs. The client tells the nurse that nothing is visible on the skin and asks what to do. The nurse would provide which response?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen an individual comes in contact with a poison ivy plant, the sap from the plant forms an invisible film on the human skin. The client should be instructed to cleanse the area by showering immediately and to lather the skin several times and rinse each time in running water. Removing the poison ivy sap will decrease the likelihood of irritation. Calamine lotion may be one product recommended for use if dermatitis develops. The client does not need to be seen in the emergency department at this time.\n\nTest-Taking Strategy:\nFocus on the subject, contact with poison ivy. Recalling that dermatitis can develop from contact with an allergen and that contact with poison ivy results in an invisible film will assist in directing you to the correct option.",
+                        "id": "3471229b57904282865e6be359e82314",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ff75912ec9242deb5766e00aad0aead",
+                                "content": "Purpura"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6889676e8f94a70bf34f015fcac91df",
+                                "content": "Petechiae"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9cc1ec975b064ae29f2674c613784c76",
+                                "content": "Erythema"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e21a9bf36ca64d90a20519c2e9ed06ca",
+                                "content": "Ecchymosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ff75912ec9242deb5766e00aad0aead",
+                                    "content": "Purpura"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6889676e8f94a70bf34f015fcac91df",
+                                    "content": "Petechiae"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9cc1ec975b064ae29f2674c613784c76",
+                                    "content": "Erythema"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e21a9bf36ca64d90a20519c2e9ed06ca",
+                                    "content": "Ecchymosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client exhibits a purplish bruise to the skin after a fall. The nurse would document this finding in the health record most accurately using which term?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nEcchymosis is a type of purpuric lesion, also known as a bruise. Purpura is an umbrella term that incorporates ecchymoses and petechiae. Petechiae are pinpoint hemorrhages and are another form of purpura. Erythema is an area of redness on the skin.\n\nTest-Taking Strategy:\nNote the strategic word, most. To answer this question accurately, you need to be familiar with the variations in skin conditions that are seen with disorders of the blood vessels supplying the skin. Noting that the client sustained a bruise to the skin after a fall will assist in directing you to the correct option.",
+                        "id": "37795b8944984f95adc349e85ed4c2e6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a68c7e633c4842dc84429058d9e06a24",
+                                "content": "Keep the test sites dry."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16ac92824cad40dca06ec027449fad9e",
+                                "content": "All activities can be continued."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa18e63b13ac4d089041e390a0147e09",
+                                "content": "Reapply the patch if it comes off."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec691f821dca4612a24fb4475453aecb",
+                                "content": "Return to the clinic in 2 weeks for the initial reading."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a68c7e633c4842dc84429058d9e06a24",
+                                    "content": "Keep the test sites dry."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16ac92824cad40dca06ec027449fad9e",
+                                    "content": "All activities can be continued."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa18e63b13ac4d089041e390a0147e09",
+                                    "content": "Reapply the patch if it comes off."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec691f821dca4612a24fb4475453aecb",
+                                    "content": "Return to the clinic in 2 weeks for the initial reading."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides discharge instructions to a client after skin patch testing to assess for allergies. Which instruction would be included on the discharge sheet for the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse instructs the client to keep the test sites dry at all times. The nurse also discourages excessive physical activity that will result in sweating. If the client reapplies patches that come loose, this can interfere with an accurate interpretation of the allergic reactions. The nurse reinforces the necessity of removing loose or nonadherent test patches for reapplication at a later date. The initial reading is performed 2 days after application, and the final reading is performed 2 to 5 days later.\n\nTest-Taking Strategy:\nEliminate option 2 because of the closed-ended word \"all.\" Eliminate option 4 because of the time frame. Regarding the remaining choices, recalling that the test site needs to remain dry will assist in directing you to the correct option.",
+                        "id": "383645a3ce24468ebc93c704e3789f9c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "dd3be51ce98006c4d9eda9d9a360cbfd",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 325000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:27:18",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Integumentary Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

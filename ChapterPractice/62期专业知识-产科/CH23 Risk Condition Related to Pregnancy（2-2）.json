@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:51:05",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:51:05",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:54:31",
+            "id": "b0fff9fb3127af5875b99be0114bb833",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe2157f1bb5346ad9a5d78ee447554fa",
+                                "content": "The client's last baby weighed 10 pounds at birth."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ecbf16d6937b48a399ef25d5cec96257",
+                                "content": "The client's previous deliveries were by cesarean section."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b323d5edcd654c16a6b4a2a8fed92efc",
+                                "content": "The client has a family history of cardiovascular disease."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b733d02f16e4701b4e39ab79f9d1040",
+                                "content": "The client is 5 feet, 3 inches tall and weighs 165 pounds."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe2157f1bb5346ad9a5d78ee447554fa",
+                                    "content": "The client's last baby weighed 10 pounds at birth."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ecbf16d6937b48a399ef25d5cec96257",
+                                    "content": "The client's previous deliveries were by cesarean section."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b323d5edcd654c16a6b4a2a8fed92efc",
+                                    "content": "The client has a family history of cardiovascular disease."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b733d02f16e4701b4e39ab79f9d1040",
+                                    "content": "The client is 5 feet, 3 inches tall and weighs 165 pounds."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the record of a pregnant client seen in the health care clinic for the first prenatal visit. Which data if noted on the client's record would alert the nurse that the client is at risk for developing gestational diabetes during this pregnancy?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nKnown risk factors that increase the risk of developing gestational diabetes include obesity (more than approximately 198 pounds, depending on height), chronic hypertension, family history of diabetes mellitus, previous birth of a large infant (greater than 4000 g), and gestational diabetes in a previous pregnancy. Options 2, 3, and 4 are not risk factors associated with the development of gestational diabetes.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Diabetes Mellitus\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Glucose Regulation, Clinical Judgment\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, risk factors associated with the development of gestational diabetes. Read each option carefully, and use knowledge regarding these risk factors to assist in directing you to the correct option.\n \n  ",
+                        "id": "02a823cbf1e44647a42a3c1f185f411f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53f501d667bf40ff8ec3a45fd3c9a831",
+                                "content": "Medication is not needed until after delivery."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79f8f0791c6e46e3af9a1c5358c06956",
+                                "content": "Tuberculosis is nothing to be concerned about."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9f0375218db24560b3893f6e1e9947d6",
+                                "content": "Tuberculosis cannot be transferred to the fetus."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f63e6424b4e419daa6dd3877a7cb250",
+                                "content": "The newborn will be tested at birth and may be started on preventive therapy."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53f501d667bf40ff8ec3a45fd3c9a831",
+                                    "content": "Medication is not needed until after delivery."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79f8f0791c6e46e3af9a1c5358c06956",
+                                    "content": "Tuberculosis is nothing to be concerned about."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9f0375218db24560b3893f6e1e9947d6",
+                                    "content": "Tuberculosis cannot be transferred to the fetus."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f63e6424b4e419daa6dd3877a7cb250",
+                                    "content": "The newborn will be tested at birth and may be started on preventive therapy."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A pregnant client is diagnosed with tuberculosis. Which instruction would the nurse provide to the client regarding therapeutic management of tuberculosis?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMore than one medication may be used to prevent the growth of resistant organisms in the pregnant client with tuberculosis. Treatment must continue for a prolonged period. The preferred treatment for the pregnant client is isoniazid plus rifampin daily for a total of 9 months. Ethambutol is added initially if medication resistance is suspected. Pyridoxine (vitamin B6) is often administered with isoniazid to prevent fetal neurotoxicity. The infant will be tested at birth and may be started on preventive isoniazid therapy. Skin testing on the infant would be repeated at 3 months, and isoniazid may be stopped if the skin test result remains negative. If the skin test result converts to positive, a full course of isoniazid would be given. Therefore, options 1, 2, and 3 are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Infection/Inflammation\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Infection, Patient Education\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, therapeutic management of tuberculosis. Recall the risks associated with tuberculosis and that this communicable disease is treated with medication to direct you to option 4.\n \n ",
+                        "id": "046a6992d6f54d36848814578ee88590",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e5aef971c6b44161954bccde4bee1002",
+                                "content": "The 36-year-old, gravida I, para 0 client who is at 24 weeks' gestation and is being monitored for preterm labor"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "01090cb49c5a4a4ebc0ff6c86086b54b",
+                                "content": "The 26-year-old, gravida I, para 0 client who is at 10 weeks' gestation and is experiencing vaginal bleeding"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f98bd064aecf41c3881277f6fef895f5",
+                                "content": "The 40-year-old, gravida III, para 0 client who is at 38 weeks' gestation and is complaining of decreased fetal movement"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "97c9734515544d6f868a9ac7333659ab",
+                                "content": "The 29-year-old, gravida I, para 0 client who is at 42 weeks' gestation and had a biophysical profile score of 5 earlier today"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e5aef971c6b44161954bccde4bee1002",
+                                    "content": "The 36-year-old, gravida I, para 0 client who is at 24 weeks' gestation and is being monitored for preterm labor"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "01090cb49c5a4a4ebc0ff6c86086b54b",
+                                    "content": "The 26-year-old, gravida I, para 0 client who is at 10 weeks' gestation and is experiencing vaginal bleeding"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f98bd064aecf41c3881277f6fef895f5",
+                                    "content": "The 40-year-old, gravida III, para 0 client who is at 38 weeks' gestation and is complaining of decreased fetal movement"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "97c9734515544d6f868a9ac7333659ab",
+                                    "content": "The 29-year-old, gravida I, para 0 client who is at 42 weeks' gestation and had a biophysical profile score of 5 earlier today"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The charge nurse on a labor and delivery unit has numerous admissions and must transfer one of the clients to the postpartum/gynecological unit, where the nurse-to-client ratio will be 1:4. Which antepartum client is the most appropriate one to transfer?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe fetus of the client at 10 weeks' gestation is in a previability stage, whereas those of the other clients are at a stage of viability. There is limited monitoring that can be done with a 10-week fetus; Doppler monitoring is not feasible during the first trimester. Bed rest and continued monitoring are most likely the primary treatments for this client at this point in the pregnancy. Bed rest could be maintained, and bleeding could be monitored by a postpartum nurse. The clients with preterm and postterm gestations (24 and 42 weeks, respectively) are those most at risk, so these clients require more fetal monitoring. The client who is at 38 weeks' gestation is also in need of fetal monitoring because of a possibility of decreased fetal movement. Until the fetal well-being can be confirmed with fetal monitoring, this client would remain on the labor and delivery unit to be continuously monitored. In addition, the two older clients (36 and 40 years) are considered to be of advanced maternal age, indicating a need for closer monitoring.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Safety, Care Coordination\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic words, most appropriate (24 and 42 weeks) are those most at risk. They require more fetal monitoring than the other two clients and need to stay in the labor and delivery unit. To select from the remaining choices, the client who is at 38 weeks' gestation is in need of fetal monitoring because of a possibility of decreased fetal movement. A 10-week fetus is at a previability stage, and there are few treatment options available for bleeding at this stage. Bed rest, pad counts, and vital sign monitoring may be the only appropriate nursing interventions.\n \n  ",
+                        "id": "076fbac366434ccb90ea987133094749",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f44a6be0cc1406fbd2fd27130721570",
+                                "content": "\"I don't like my figure anymore. My clothes are all too tight.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d415411264c4fad886e8f6b4f35ebde",
+                                "content": "\"I don't like my breasts anymore. These silver lines are ugly.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c865a2b88e484f838575337d43e6f350",
+                                "content": "\"I don't like my stomach anymore. That brown line is disgusting.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87b8bed3fdde44999671d2f2cbd35fc9",
+                                "content": "\"I don't like my face anymore. I always look as if I have been crying.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f44a6be0cc1406fbd2fd27130721570",
+                                    "content": "\"I don't like my figure anymore. My clothes are all too tight.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d415411264c4fad886e8f6b4f35ebde",
+                                    "content": "\"I don't like my breasts anymore. These silver lines are ugly.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c865a2b88e484f838575337d43e6f350",
+                                    "content": "\"I don't like my stomach anymore. That brown line is disgusting.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87b8bed3fdde44999671d2f2cbd35fc9",
+                                    "content": "\"I don't like my face anymore. I always look as if I have been crying.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is interviewing a 16-year-old client during the initial prenatal clinic visit. The client is beginning week 18 of their first pregnancy. Which statement, if made by the client, indicates an immediate need for further investigation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn the correct option, there is an implication of periorbital and facial edema, which could be indicative of gestational hypertension. The question identifies an adolescent who has not sought early prenatal care. Such clients are at higher risk for the development of gestational hypertension. Although the remaining options also deal with body image, and these comments would not be ignored, the need for follow-up is not urgent.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Gestational Hypertension/Preeclampsia and Eclampsia\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Reproduction\nStrategies: Data in the Question, Strategic Words\n   Test-Taking Strategy:\nFocus on the data in the question, the week of this first prenatal visit (week 18). Also, note the strategic word, immediate. Although all of the choices identify a potential alteration in body image, the correct option is the only one that identifies data that could indicate a complication of the pregnancy.\n \n   ",
+                        "id": "0914bd51f2d74121b3d5a299d3fb841b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a854b6c4fc45484a9c11693403fd63b3",
+                                "content": "\"I will need to remain on bed rest for 2 weeks.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "419b630963d749968b87b2846818ba03",
+                                "content": "\"I will need to take a full course of antibiotic treatment.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2957b42de8944730993ee0a44dbc6eef",
+                                "content": "\"I will need to take tocolytic medication to halt the labor process.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a190026e7e9d4eedaa471736a971215e",
+                                "content": "\"I will need to prepare myself and my family for the loss of this pregnancy.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a854b6c4fc45484a9c11693403fd63b3",
+                                    "content": "\"I will need to remain on bed rest for 2 weeks.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "419b630963d749968b87b2846818ba03",
+                                    "content": "\"I will need to take a full course of antibiotic treatment.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2957b42de8944730993ee0a44dbc6eef",
+                                    "content": "\"I will need to take tocolytic medication to halt the labor process.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a190026e7e9d4eedaa471736a971215e",
+                                    "content": "\"I will need to prepare myself and my family for the loss of this pregnancy.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client arrives at the health care clinic and tells the nurse that the last menstrual period was 9 weeks ago. The client tells the nurse that a home pregnancy test was positive but began to have mild cramps and is now having moderate vaginal bleeding. On physical examination of the client, it is noted that the client has a dilated cervix. Which statement, if made by the client, indicates that the client is interpreting the situation correctly?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client is experiencing a spontaneous abortion (miscarriage), which cannot be prevented and will terminate the pregnancy. Bed rest will not reverse this process.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Abortions\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Reproduction, Clinical Judgment\nStrategies: Data in the Question\n  Test-Taking Strategy:\nFocus on the data in the question, the client's last menstrual period, cramps, moderate vaginal bleeding, and a dilated cervix. Eliminate options 1, 2, and 3 because they suggest that the situation can be halted or reversed. The remaining option is the correct one.",
+                        "id": "09fdfbaea63042dab4f3a50521ccafc4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7956721f6efc4ba1b9446f518b09057a",
+                                "content": "The client has a family history of type 1 diabetes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "12a0333be3114c6db5889416dbaf7d50",
+                                "content": "The client is 5 feet tall and weighs 129 lb."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa2764ceb785491db9878d81d3fa55d3",
+                                "content": "The client's previous deliveries were by cesarean section."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b50932f8ca044b9a9195c0e57321a97b",
+                                "content": "The client has a history of gestational diabetes with a previous pregnancy."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7956721f6efc4ba1b9446f518b09057a",
+                                    "content": "The client has a family history of type 1 diabetes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "12a0333be3114c6db5889416dbaf7d50",
+                                    "content": "The client is 5 feet tall and weighs 129 lb."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa2764ceb785491db9878d81d3fa55d3",
+                                    "content": "The client's previous deliveries were by cesarean section."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b50932f8ca044b9a9195c0e57321a97b",
+                                    "content": "The client has a history of gestational diabetes with a previous pregnancy."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which data places the client at risk for developing gestational diabetes during pregnancy?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nKnown risk factors that increase the risk of developing gestational diabetes include obesity (more than 198 lb), chronic hypertension, family history of type 2 diabetes, previous birth of a large infant (more than 4000 g), and gestational diabetes in a previous pregnancy. The other options are not risk factors associated with the development of gestational diabetes.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Gestational Diabetes Mellitus\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Glucose Regulation, Health Promotion\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, risk factors associated with the development of gestational diabetes. Use the knowledge of these risk factors to assist in directing you to the correct option. Remember that the previous birth of a large infant and a history of gestational diabetes are risk factors.\n \n  ",
+                        "id": "0a298ec7f1c54f898b335d190d24b6e9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f415d72673714e2c8253c82dc3be64b8",
+                                "content": "Delivery of the fetus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30aedae2218a4cabafd985b09b0f18d0",
+                                "content": "Strict monitoring of intake and output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d281aa4bec74adb9f44c32a287e89bf",
+                                "content": "Complete bed rest for the remainder of the pregnancy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "223fe6f168584fe3857ed741ce331bb7",
+                                "content": "The need for weekly monitoring of coagulation studies until the time of delivery"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f415d72673714e2c8253c82dc3be64b8",
+                                    "content": "Delivery of the fetus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30aedae2218a4cabafd985b09b0f18d0",
+                                    "content": "Strict monitoring of intake and output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d281aa4bec74adb9f44c32a287e89bf",
+                                    "content": "Complete bed rest for the remainder of the pregnancy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "223fe6f168584fe3857ed741ce331bb7",
+                                    "content": "The need for weekly monitoring of coagulation studies until the time of delivery"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An ultrasound is performed on a client with suspected abruptio placentae, and the results indicate that a placental abruption is present. Which intervention would the nurse prepare the client for?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe goal of management in abruptio placentae is to control the hemorrhage and deliver the fetus as soon as possible. Because delivery of the fetus is necessary, the remaining options are incorrect regarding management of the client with abruptio placentae.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Abruptio Placentae\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Perfusion, Reproduction\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, the plan of care for a client with suspected abruptio placentae. Think about the pathophysiology associated with abruptio placentae and use specific knowledge regarding the management of abruptio placentae to answer the question. Knowing that the goal is to deliver the fetus will easily direct you to the correct option.\n \n ",
+                        "id": "0b846ae004054d50a6cc8b96a08cc1a0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "134a4b32052f48748bfe565850a99a57",
+                                "content": "Soft abdomen"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f480abab18145f2b9cb3e02827383b2",
+                                "content": "Uterine tenderness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72a44c6dd11e4bbea339949dbe242a96",
+                                "content": "Absence of abdominal pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07be69d5d4c74ce3aec0cc022c82c2bf",
+                                "content": "Painless, bright red vaginal bleeding"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "134a4b32052f48748bfe565850a99a57",
+                                    "content": "Soft abdomen"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f480abab18145f2b9cb3e02827383b2",
+                                    "content": "Uterine tenderness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72a44c6dd11e4bbea339949dbe242a96",
+                                    "content": "Absence of abdominal pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07be69d5d4c74ce3aec0cc022c82c2bf",
+                                    "content": "Painless, bright red vaginal bleeding"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a pregnant client in the second trimester of pregnancy who was admitted to the maternity unit with a suspected diagnosis of abruptio placentae. Which assessment finding would the nurse expect to note if this condition is present?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAbruptio placentae, or placental abruption, is the premature separation of the placenta from the uterine wall after the twentieth week of gestation and before the fetus is delivered. In abruptio placentae, acute abdominal pain is present. Uterine tenderness is present, especially with a central abruption and trapped blood behind the placenta. The abdomen feels hard and boardlike on palpation as the blood penetrates the myometrium and causes uterine irritability. A soft abdomen and painless, bright red vaginal bleeding in the second or third trimester of pregnancy are signs of placenta previa.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Abruptio Placentae\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, abruptio placentae. Remember that the difference between placenta previa and abruptio placentae involves the presence of uterine pain and tenderness with abruptio placentae, as opposed to painless bleeding with placenta previa.\n \n ",
+                        "id": "0c8277f39b14439f8cb0ef34cf7ab952",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c0a5b25bd5c439c80c7b5eb66bee5c1",
+                                "content": "Consume two to four glucose tablets."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1272e7e9753040ddb24fc4d4a4f76307",
+                                "content": "Immediately notify the primary health care provider."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef9a693d261045f992970a62c1788c12",
+                                "content": "Check the blood glucose level at the first sign of symptoms."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a0d60dc04a447aa994b810e5f17b8f1",
+                                "content": "Recheck the blood glucose level 15 minutes after consuming two to four glucose tablets."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c0a5b25bd5c439c80c7b5eb66bee5c1",
+                                    "content": "Consume two to four glucose tablets."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1272e7e9753040ddb24fc4d4a4f76307",
+                                    "content": "Immediately notify the primary health care provider."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef9a693d261045f992970a62c1788c12",
+                                    "content": "Check the blood glucose level at the first sign of symptoms."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a0d60dc04a447aa994b810e5f17b8f1",
+                                    "content": "Recheck the blood glucose level 15 minutes after consuming two to four glucose tablets."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing education to a client with pregestational diabetes who is now at 14 weeks' gestation about measures to take during a hypoglycemic episode. The nurse would instruct the client to take which initial action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHypoglycemia is defined as a blood glucose level of less than 70 mg/dL (3.9 mmol/L). If the client is experiencing signs and symptoms of hypoglycemia, such as irritability, nervousness, hunger, sweating, dizziness, headache, or blurred vision, the first action to take is to check the blood glucose level, which will guide subsequent action. If the blood glucose level is less than 70 mg/dL (3.9 mmol/L), the client would consume two to four glucose tablets or gel or a carbohydrate load of at least 8 to 16 grams immediately. Then, blood glucose needs to be rechecked 15 minutes later. If the blood glucose level is still less than 70 mg/dL (3.9 mmol/L), the same interventions need to be repeated by having the client consume an additional two to four glucose tablets or a carbohydrate load of at least 8 to 16 grams of carbohydrates. Blood glucose would then be rechecked again an additional 15 minutes later and if the blood glucose level is still below 70 mg/dL (3.9 mmol/L), the primary health care provider needs to be immediately contacted. While options 1, 2, and 4 may be appropriate interventions in managing a hypoglycemic episode, these are not the appropriate initial actions as the blood glucose level needs to first be measured. Therefore, option 3 is the correct answer.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Intrapartum\nHealth Problem: Maternity: Diabetes Mellitus\nIntegrated Process: Teaching and Learning\nPriority Concepts: Glucose Regulation, Reproduction\nStrategies: Strategic Words, Subject\n Test-Taking Strategy:\nFocus on the subject, the initial action to take during a hypoglycemic episode. Note the strategic word, initial. This requires you to determine which option is appropriate to perform first prior to initiating the interventions presented in the other options. Use prioritization guidelines, and remember that the nurse would instruct the client that assessment is a priority.\n \n ",
+                        "id": "12763a6b316741059d04ab00cd74cda5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "574bf26eb48d48ce9687e29003e90737",
+                                "content": "\"I will watch to see if I pass any tissue.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9fc8f3ab595843fea7489a014d22bf6d",
+                                "content": "\"I will maintain strict bed rest throughout the remainder of the pregnancy.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "651dfc4e57d84472b612dcd64e2edf90",
+                                "content": "\"I will count the number of perineal pads used on a daily basis and note the amount and color of blood on the pad.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9d255b556fa40199145d61bc38a161a",
+                                "content": "\"I will avoid sexual intercourse until the bleeding has stopped and for 2 weeks following the last episode of bleeding.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "574bf26eb48d48ce9687e29003e90737",
+                                    "content": "\"I will watch to see if I pass any tissue.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9fc8f3ab595843fea7489a014d22bf6d",
+                                    "content": "\"I will maintain strict bed rest throughout the remainder of the pregnancy.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "651dfc4e57d84472b612dcd64e2edf90",
+                                    "content": "\"I will count the number of perineal pads used on a daily basis and note the amount and color of blood on the pad.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9d255b556fa40199145d61bc38a161a",
+                                    "content": "\"I will avoid sexual intercourse until the bleeding has stopped and for 2 weeks following the last episode of bleeding.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client in the first trimester of pregnancy arrives at a health care clinic and reports has been experiencing vaginal bleeding. A threatened abortion is suspected, and the nurse instructs the client regarding management of care. Which statement made by the client indicates a need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nStrict bed rest throughout the remainder of the pregnancy is not required for a threatened abortion. The client needs to watch for the evidence of the passage of tissue. The client is instructed to count the number of perineal pads used daily and to note the quantity and color of blood on the pad. The client is advised to curtail sexual activities until bleeding has ceased and for 2 weeks after the last evidence of bleeding or as recommended by the health care provider.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Antepartum\nHealth Problem: Maternity: Abortions\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Reproduction\nStrategies: Negative Event Query, Strategic Words\n Test-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and the need to select an incorrect client statement. Noting the word strict in the correct option will assist in directing you to this option.\n \n ",
+                        "id": "16111a6679c24f6b972c8c72ba6655cf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "a8c3738699558a2e38a76776af1da4da",
+            "lessonItemId": "8e0c03fc04af91cd2435c9cf32d8e608",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 204000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:54:31",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Risk Conditions Related to Pregnanc",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:07:26",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:07:26",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:14:50",
+            "id": "572bfc4d0e71fe18bf8c1d41b220a843",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5469f1e7f28940acb4f541a0889ffaef",
+                                "content": "卵子"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2852b7df23f149d8bb7dd433070c2580",
+                                "content": "受精卵"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2336f8913ef54a19804569b04aa43815",
+                                "content": "胚芽"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb0b8b0f6d5445cb9bdd28142a9cefe2",
+                                "content": "胚胎"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5469f1e7f28940acb4f541a0889ffaef",
+                                    "content": "卵子"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2852b7df23f149d8bb7dd433070c2580",
+                                    "content": "受精卵"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2336f8913ef54a19804569b04aa43815",
+                                    "content": "胚芽"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb0b8b0f6d5445cb9bdd28142a9cefe2",
+                                    "content": "胚胎"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "zygote",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "受精卵",
+                        "id": "0d685e84263b47b3a7a6e9102f99f2a4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23d338c4291e462fb3d045dc433d0252",
+                                "content": "黏连"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "765da84327634520a4e975e96d8792f3",
+                                "content": "着床"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d833c536f0bd46baa62d006fdd839d00",
+                                "content": "穿透"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5f4db72f7cf4f11a5b1095cfcfa1cdc",
+                                "content": "横贯"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23d338c4291e462fb3d045dc433d0252",
+                                    "content": "黏连"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "765da84327634520a4e975e96d8792f3",
+                                    "content": "着床"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d833c536f0bd46baa62d006fdd839d00",
+                                    "content": "穿透"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5f4db72f7cf4f11a5b1095cfcfa1cdc",
+                                    "content": "横贯"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "implantation",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "着床",
+                        "id": "1161470c5b6a4517aa126bebab880530",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e12cdbc322c46e78bcbf822c4d551a7",
+                                "content": "胎儿"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db43004e58fc4ca8bc03bb0cfee95c1e",
+                                "content": "胚胎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b15961911853429a80622242de41ed80",
+                                "content": "胚芽"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69d8e201139f4b8f98bb2a9c5c3d1001",
+                                "content": "受精卵"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e12cdbc322c46e78bcbf822c4d551a7",
+                                    "content": "胎儿"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db43004e58fc4ca8bc03bb0cfee95c1e",
+                                    "content": "胚胎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b15961911853429a80622242de41ed80",
+                                    "content": "胚芽"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69d8e201139f4b8f98bb2a9c5c3d1001",
+                                    "content": "受精卵"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "fetus",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "胎儿",
+                        "id": "1a8b73ec2b6547428292c6aee15cec2c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0cd55c0e9744eeabdca0453bfb24f8d",
+                                "content": "分泌物过多"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf6b5424a76c4ce2b1bb0f7622ab8fcf",
+                                "content": "阴道瘙痒"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1723332efa4f43e7a2de406ab1424f81",
+                                "content": "阴道炎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0d2fee3a0fe409485a1af6bbd622220",
+                                "content": "阴道撕裂"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0cd55c0e9744eeabdca0453bfb24f8d",
+                                    "content": "分泌物过多"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf6b5424a76c4ce2b1bb0f7622ab8fcf",
+                                    "content": "阴道瘙痒"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1723332efa4f43e7a2de406ab1424f81",
+                                    "content": "阴道炎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0d2fee3a0fe409485a1af6bbd622220",
+                                    "content": "阴道撕裂"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "vaginitis",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "阴道炎",
+                        "id": "1c345cb37f7041cdb9f9e9011fe91590",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48c9298e0a8346de9cf541a5c0ba6a5b",
+                                "content": "阴道炎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f027bb67fa064e4a90899353c7f422cd",
+                                "content": "子宫内膜异位症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "73a8fbf587024043b7d0462202041eca",
+                                "content": "膀胱脱垂"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f0bdc9dc6acf409db1ea0723910843e5",
+                                "content": "腺肌病"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48c9298e0a8346de9cf541a5c0ba6a5b",
+                                    "content": "阴道炎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f027bb67fa064e4a90899353c7f422cd",
+                                    "content": "子宫内膜异位症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "73a8fbf587024043b7d0462202041eca",
+                                    "content": "膀胱脱垂"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f0bdc9dc6acf409db1ea0723910843e5",
+                                    "content": "腺肌病"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "vaginitis",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "阴道炎",
+                        "id": "24ef783f5f854df9926deb1203a7e79e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "445ba60d9ead4d978f498b70d799a234",
+                                "content": "备孕"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94798f7da0ca4800bca332c7369c6ad5",
+                                "content": "受精"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e798d12226504fe4ab9328072eab76cc",
+                                "content": "怀孕"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab9b66cf5ace48efb8d737fdc570434d",
+                                "content": "分娩"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "445ba60d9ead4d978f498b70d799a234",
+                                    "content": "备孕"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94798f7da0ca4800bca332c7369c6ad5",
+                                    "content": "受精"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e798d12226504fe4ab9328072eab76cc",
+                                    "content": "怀孕"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab9b66cf5ace48efb8d737fdc570434d",
+                                    "content": "分娩"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "conception",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "怀孕",
+                        "id": "259d3260114040daa128502a194877a8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f55292d4ab646819c9e71dbf3c129e7",
+                                "content": "切开术"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "643146407b564999909af55bb1892f6e",
+                                "content": "刮除术"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16efd84b708d475588e611e0111f6f8c",
+                                "content": "扩张术"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a98ae3c8b7c471eb0eea91dc857426b",
+                                "content": "针吸活检"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f55292d4ab646819c9e71dbf3c129e7",
+                                    "content": "切开术"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "643146407b564999909af55bb1892f6e",
+                                    "content": "刮除术"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16efd84b708d475588e611e0111f6f8c",
+                                    "content": "扩张术"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a98ae3c8b7c471eb0eea91dc857426b",
+                                    "content": "针吸活检"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "aspiration biopsy",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "针吸活检",
+                        "id": "26009ac18d544075a65259d00517fae3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3581f213fe0c4b038cc1988a5fa25c8a",
+                                "content": "除虫药"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4eab194ca4af40a0aff158d44d1206b1",
+                                "content": "子宫颈涂片"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ed68214ee0e4d6aa51c9e824c9026af",
+                                "content": "洗液"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa02702596684db988879f58c01637ce",
+                                "content": "活检"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3581f213fe0c4b038cc1988a5fa25c8a",
+                                    "content": "除虫药"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4eab194ca4af40a0aff158d44d1206b1",
+                                    "content": "子宫颈涂片"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ed68214ee0e4d6aa51c9e824c9026af",
+                                    "content": "洗液"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa02702596684db988879f58c01637ce",
+                                    "content": "活检"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "(Pap) smear",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "子宫颈抹片",
+                        "id": "3318466d315c49688179ea403146d50f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "069ffa9ae2974824bca61a5d73b519a7",
+                                "content": "多囊卵巢综合症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "092693328df4416aa6b2ff0b000494f8",
+                                "content": "盆腔炎性疾病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee48d9d2f0134be298e500854bac7fe7",
+                                "content": "卵巢囊肿"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "240330ddbc644c11ac8208a39d903158",
+                                "content": "阴道炎"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "069ffa9ae2974824bca61a5d73b519a7",
+                                    "content": "多囊卵巢综合症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "092693328df4416aa6b2ff0b000494f8",
+                                    "content": "盆腔炎性疾病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee48d9d2f0134be298e500854bac7fe7",
+                                    "content": "卵巢囊肿"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "240330ddbc644c11ac8208a39d903158",
+                                    "content": "阴道炎"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "polycystic ovarian syndrome ",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "多囊卵巢综合症",
+                        "id": "436269566df74993b08bad4aa4594821",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d080028aae974ca19cdb12cfcff80a03",
+                                "content": "着床"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c9bb96d233f4124a8856a492284f70e",
+                                "content": "蛋"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d1ecb7f596e4a6da5bc1aba2b7aee06",
+                                "content": "精子"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16060725c43e4558aabb7df018499a69",
+                                "content": "卵子"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d080028aae974ca19cdb12cfcff80a03",
+                                    "content": "着床"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c9bb96d233f4124a8856a492284f70e",
+                                    "content": "蛋"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d1ecb7f596e4a6da5bc1aba2b7aee06",
+                                    "content": "精子"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16060725c43e4558aabb7df018499a69",
+                                    "content": "卵子"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "ovum",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "卵子",
+                        "id": "465b3f061ddd455fb254fac3e6139b95",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "b34f4df3e6a74000c3bb5bcc140e384f",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 331000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:14:51",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

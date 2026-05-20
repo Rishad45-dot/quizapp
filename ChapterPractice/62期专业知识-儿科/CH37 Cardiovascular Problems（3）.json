@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:59:08",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:59:08",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:01:52",
+            "id": "4a100b7a443c0e1ca4221e59b902ab9c",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64ef9f35e7354f9f986d0249ef2ed4c6",
+                                "content": "Paleness of the skin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c65b9f795384845810060d7d1fbcedd",
+                                "content": "Strong sucking reflex"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee6c014a48ca4efd9cb7072acc285045",
+                                "content": "Diaphoresis during feeding"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9963ab4b55734bcfb377cdfe34796c76",
+                                "content": "Slow and shallow breathing"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64ef9f35e7354f9f986d0249ef2ed4c6",
+                                    "content": "Paleness of the skin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c65b9f795384845810060d7d1fbcedd",
+                                    "content": "Strong sucking reflex"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee6c014a48ca4efd9cb7072acc285045",
+                                    "content": "Diaphoresis during feeding"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9963ab4b55734bcfb377cdfe34796c76",
+                                    "content": "Slow and shallow breathing"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for an infant with congenital heart disease. Which, if noted in the infant, would alert the nurse to the early development of heart failure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe early symptoms of heart failure (HF) include tachypnea, poor feeding, and diaphoresis during feeding. Tachycardia would occur during feeding. Paleness of the skin, pallor, may be noted in the infant with HF, but it is not an early symptom. A strong sucking reflex is unrelated to the development of HF.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Congestive Heart Failure\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: Strategic Words           Test-Taking Strategy:\nNote the strategic word, early. Think about the physiology and the effects on the heart when fluid overload occurs. These concepts will assist in directing you to the correct option.",
+                        "id": "05024a8ffd9540098b85d5571358031d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c24a4418705d4c61858808157384d77e",
+                                "content": "\"I will not mix the medication with food.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cd79060764f43b680c65f707bb9fdf7",
+                                "content": "\"If more than one dose is missed, I will call the pediatrician.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2dedb167b5a4d63b551e1e42651b0dc",
+                                "content": "\"I will take my child's pulse before administering the medication.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd780e9be0c04c5e9d3ef38dd1385556",
+                                "content": "\"If my child vomits after medication administration, I will repeat the dose.\"\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c24a4418705d4c61858808157384d77e",
+                                    "content": "\"I will not mix the medication with food.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cd79060764f43b680c65f707bb9fdf7",
+                                    "content": "\"If more than one dose is missed, I will call the pediatrician.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2dedb167b5a4d63b551e1e42651b0dc",
+                                    "content": "\"I will take my child's pulse before administering the medication.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd780e9be0c04c5e9d3ef38dd1385556",
+                                    "content": "\"If my child vomits after medication administration, I will repeat the dose.\"\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides home care instructions to the parents of a child with heart failure regarding the procedure for administration of digoxin. Which statement made by the parent indicates the need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nDigoxin is a cardiac glycoside. The parents need to be instructed that if the child vomits after digoxin is administered, they are not to repeat the dose. Options 1, 2, and 3 are accurate instructions regarding the administration of this medication. In addition, the parents need to be instructed that if a dose is missed and the missed dose is not identified until 4 hours later, the dose would not be administered.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. General knowledge regarding digoxin administration will assist in eliminating option 2. Principles related to administering medications to children will assist in eliminating option 1. From the remaining options, select the correct option because if the child vomits, it would be difficult to determine whether the medication also was vomited or was absorbed by the body.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Pediatric-Specific: Congestive Heart Failure\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Safety\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "07672365e6ca4b8abbe83828287d9b2e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6b49cf466c0b4908a46317d60b03f597",
+                                "content": "\"The child may return to school in 1 week.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c524e6a7c3340a8a1385f5155ba49d5",
+                                "content": "\"The child will not be able to return to school during this academic year.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be6368ba3e5a4f46aa6088e66b8f4856",
+                                "content": "\"The child may return to school in 1 week but needs to go half-days for the first 2 weeks.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "939daffef083436d9bd8dd90fbebdaaa",
+                                "content": "\"The child may return to school in 3 weeks but needs to go half-days for the first few days.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6b49cf466c0b4908a46317d60b03f597",
+                                    "content": "\"The child may return to school in 1 week.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c524e6a7c3340a8a1385f5155ba49d5",
+                                    "content": "\"The child will not be able to return to school during this academic year.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be6368ba3e5a4f46aa6088e66b8f4856",
+                                    "content": "\"The child may return to school in 1 week but needs to go half-days for the first 2 weeks.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "939daffef083436d9bd8dd90fbebdaaa",
+                                    "content": "\"The child may return to school in 3 weeks but needs to go half-days for the first few days.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The parent of a child being discharged after heart surgery asks the nurse when the child will be able to return to school. Which is the most appropriate response to the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter heart surgery, the child may be able to return to school in 3 weeks but needs to go half-days for the first few days. The parent also needs to be told that that the child cannot participate in physical education for 2 months. The remaining options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Congenital Cardiac Defects\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Infection, Safety\nStrategies: Comparable or Alike Options, Strategic Words                                  Test-Taking Strategy:\nNote the strategic words, most appropriate. Option 2 can be eliminated because this is unrealistic and unreasonable. Next, eliminate options 1 and 3 because they are comparable or alike in that they indicate that the child can return to school after a week.",
+                        "id": "0821b998e34e4ca3aaaa41e92bfe30fb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc63484dcdd74e09abd2a86c69baa7f9",
+                                "content": "Prevents blue (tet) spells"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7fccaf16859b4094b0565ddd07224a53",
+                                "content": "Maintains adequate cardiac output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11449a5bc6fb43369a650205cf623238",
+                                "content": "Maintains an adequate hormonal level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "003f9d7ee61a42d9b742101ddedcc8f9",
+                                "content": "Maintains the position of the great arteries"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc63484dcdd74e09abd2a86c69baa7f9",
+                                    "content": "Prevents blue (tet) spells"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7fccaf16859b4094b0565ddd07224a53",
+                                    "content": "Maintains adequate cardiac output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11449a5bc6fb43369a650205cf623238",
+                                    "content": "Maintains an adequate hormonal level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "003f9d7ee61a42d9b742101ddedcc8f9",
+                                    "content": "Maintains the position of the great arteries"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Prostaglandin E1 is prescribed for a child with transposition of the great arteries. The parent of the child is a registered nurse and asks the nurse why the child needs the medication. What is the most appropriate response to the parent about the action of the medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nA child with transposition of the great arteries may receive prostaglandin E1 temporarily to increase blood mixing if systemic and pulmonary mixing is inadequate to maintain adequate cardiac output. The remaining options are incorrect. In addition, tet spells occur in tetralogy of Fallot, not in transposition of the great arteries. Prostaglandin E1 does not affect hormone levels, nor does it affect the position of the arteries.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Congenital Cardiac Defects\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Patient Education\nStrategies: ABCs—Airway, Breathing, Circulation, Strategic Words                                 Test-Taking Strategy:\nNote the strategic words, most appropriate. Use the ABCs—airway, breathing, and circulation—to answer the question. The correct option addresses circulation.",
+                        "id": "0cecc2a7ee6c42efa533832d191bfaf0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9f472861d6e393325f623a749f80b95",
+                                "content": "Aortic stenosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50798e49a781fa96bd85d55650edfffb",
+                                "content": "Atrial septal defect"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67778b6b921b12c50002c0574285614d",
+                                "content": "Patent ductus arteriosus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db6c7df02c0a0e949183ac06746ebf0c",
+                                "content": "Ventricular septal defect"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9f472861d6e393325f623a749f80b95",
+                                    "content": "Aortic stenosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50798e49a781fa96bd85d55650edfffb",
+                                    "content": "Atrial septal defect"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67778b6b921b12c50002c0574285614d",
+                                    "content": "Patent ductus arteriosus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db6c7df02c0a0e949183ac06746ebf0c",
+                                    "content": "Ventricular septal defect"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Assessment findings of an infant admitted to the hospital reveal a machinery-like murmur on auscultation of the heart and signs of heart failure. The nurse reviews congenital cardiac anomalies and identifies the infant's condition as which disorder? Refer to figure (the circled area) to determine the condition.<img src=\"https://class.nursingonline.cn/static/file/img/1707186433641.jpg\"></p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale: </p><p>A patent ductus arteriosus is failure of the fetal ductus arteriosus (artery connecting the aorta and the pulmonary artery) to close. A characteristic machinery-like murmur is present, and the infant may show signs of heart failure. Aortic stenosis is a narrowing or stricture of the aortic valve. Atrial septal defect is an abnormal opening between the atria. Ventricular septal defect is an abnormal opening between the right and left ventricles.</p><p><br></p><p>Test-Taking Strategy:</p><p>Focus on the subject, the congenital cardiac anomaly and the location of the defect. Recalling the anatomical locations in the heart will direct you to the correct option.</p><p> </p><p><br></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Analyze Cues</p><p>Cognitive Ability: Analyzing</p><p>Content Area: Adult Health: Cardiovascular</p><p>Health Problem: Pediatric-Specific: Congenital Cardiac Defects</p><p>Integrated Process: Nursing Process/Analysis</p><p>Priority Concepts: Clinical Judgment, Perfusion</p><p>Strategies: Subject</p>",
+                        "id": "10a4f53f479249db9cb0927eaf73e087",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "08d16a2744ca484680bd147ed6a0ef9d",
+                                "content": "Notify the nursing supervisor."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f1d5612663041c6b5b2017cab6bb2b0",
+                                "content": "Contact the respiratory therapist."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e71caf743ed24a7484dd6669a530ea2e",
+                                "content": "Place the infant in a prone position."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ffa5ab710cd4a059142789cfca430b8",
+                                "content": "Place the infant in a knee-chest position."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "08d16a2744ca484680bd147ed6a0ef9d",
+                                    "content": "Notify the nursing supervisor."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f1d5612663041c6b5b2017cab6bb2b0",
+                                    "content": "Contact the respiratory therapist."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e71caf743ed24a7484dd6669a530ea2e",
+                                    "content": "Place the infant in a prone position."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ffa5ab710cd4a059142789cfca430b8",
+                                    "content": "Place the infant in a knee-chest position."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assigned to care for an infant with tetralogy of Fallot. The parent of the infant calls the nurse to the room because the infant suddenly seems to be having difficulty breathing. The nurse enters the room and notes that the infant is experiencing a hypercyanotic episode. What is the priority action by the nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf a hypercyanotic episode occurs, the infant is placed in a knee-chest position. The knee-chest position is thought to increase pulmonary blood flow by increasing systemic vascular resistance. This position also improves systemic arterial oxygen saturation by decreasing venous return, so that smaller amounts of highly saturated blood reach the heart. Toddlers and children squat to obtain this position and relieve chronic hypoxia. Therefore, the remaining options are not the best initial or priority actions.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Congenital Cardiac Defects\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: Strategic Words             Test-Taking Strategy:\nNote the strategic word, priority, in the question. Eliminate option 1 first because calling the nursing supervisor delays intervention with the infant. Option 3 is eliminated next because this position will worsen the condition. Eliminate option 2 because this action would delay treatment and is not an action that is required at this time. Remembering that a toddler or child squats to achieve this position will assist in directing you to the correct option.",
+                        "id": "11366d9fb73a49898d374f8338ad6db8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f8c1430751e498c941efe8f3a80de26",
+                                "content": "During sleep"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6a6c050b87704bb7a391cf6b0e3c6a17",
+                                "content": "When changing the infant's diapers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df6ca0cd839e464192f5dd5e61822fd5",
+                                "content": "When the parent is holding the infant"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b59c98b2d1b9432281d50e7c164ffea4",
+                                "content": "When drawing blood for electrolyte level testing"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f8c1430751e498c941efe8f3a80de26",
+                                    "content": "During sleep"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6a6c050b87704bb7a391cf6b0e3c6a17",
+                                    "content": "When changing the infant's diapers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df6ca0cd839e464192f5dd5e61822fd5",
+                                    "content": "When the parent is holding the infant"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b59c98b2d1b9432281d50e7c164ffea4",
+                                    "content": "When drawing blood for electrolyte level testing"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A primary health care provider has prescribed oxygen as needed for an infant with heart failure. In which situation would the nurse administer the oxygen to the infant?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHeart failure (HF) is the inability of the heart to pump a sufficient amount of blood to meet the oxygen and metabolic needs of the body. Crying exhausts the limited energy supply, increases the workload of the heart, and increases the oxygen demands. Oxygen administration may be prescribed for stressful periods, especially during bouts of crying or invasive procedures. Options 1, 2, and 3 are unlikely to produce crying in the infant.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Congestive Heart Failure\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject\nRationale Strategy Reference                                Test-Taking Strategy:\nFocus on the subject, the need to administer oxygen to the infant with HF, and recall the situations that would place stress and an increased workload on the heart; this would direct you to the correct option. Drawing blood is an invasive procedure, which would likely cause the infant to cry.",
+                        "id": "11c81818b9514cd3b78a47a157996597",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf6a57cbcd304dbd97fdb77641084ecb",
+                                "content": "Fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b8a1564d287415a9e0cc926bc84d372",
+                                "content": "Paralytic ileus"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c28d46d57b8f454784ae41c9892755df",
+                                "content": "Myocardial infarction"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df906f1f6bef462bbf7d19b65d1a47c6",
+                                "content": "Arthralgic joint involvement"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf6a57cbcd304dbd97fdb77641084ecb",
+                                    "content": "Fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b8a1564d287415a9e0cc926bc84d372",
+                                    "content": "Paralytic ileus"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c28d46d57b8f454784ae41c9892755df",
+                                    "content": "Myocardial infarction"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df906f1f6bef462bbf7d19b65d1a47c6",
+                                    "content": "Arthralgic joint involvement"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a child diagnosed with Kawasaki disease. Keeping the pathophysiology in mind, the nurse carefully monitors the child for which complication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nKawasaki disease is an acute systemic disease of unknown cause that results in widespread vasculitis. The cardiovascular system is affected by the disease, and heart failure, coronary artery dilatation, and coronary artery aneurysms can develop. The development of a large coronary artery aneurysm can result in myocardial ischemia and subsequent myocardial infarction related to a coronary artery thrombosis or the development of coronary artery stenosis as the vessel heals. Fever is an expected symptom of Kawasaki disease. Paralytic ileus is not a complication of this disease, and most complications are cardiovascular in nature. The child may experience joint pain and swelling, a condition that resolves on its own. Therefore, option 3 is correct.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Kawasaki Disease\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Inflammation, Clinical Judgment\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, the complication related to Kawasaki disease. Remember that Kawasaki disease has a big impact on the cardiovascular system, with complications affecting the coronary vessels. As a coronary artery aneurysm heals, a thrombosis or scar tissue can lead to stenosis and result in myocardial ischemia or myocardial infarction. This will assist in directing you to the correct option.",
+                        "id": "13b3512f1c9a4ae7bc5ebc66ca935fe2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac109c89c569433bbdb6c51f12a87754",
+                                "content": "Elevated antistreptolysin O titer"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3eab2aba06514b5b95d748a9f0850b36",
+                                "content": "Decreased erythrocyte sedimentation rate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a1d6a7524264977bf39225e8819f511",
+                                "content": "Negative result on antinuclear antibody assay"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56b921466d3d44de8f0d71dab55a6df9",
+                                "content": "Negative result on C-reactive protein determination"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac109c89c569433bbdb6c51f12a87754",
+                                    "content": "Elevated antistreptolysin O titer"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3eab2aba06514b5b95d748a9f0850b36",
+                                    "content": "Decreased erythrocyte sedimentation rate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a1d6a7524264977bf39225e8819f511",
+                                    "content": "Negative result on antinuclear antibody assay"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56b921466d3d44de8f0d71dab55a6df9",
+                                    "content": "Negative result on C-reactive protein determination"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child has been tentatively diagnosed with rheumatic fever. The nurse interprets that this diagnosis is consistent with which laboratory result obtained for this child?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn the presence of rheumatic fever, the child will exhibit an elevated antistreptolysin O titer, an elevated erythrocyte sedimentation rate, leukocytosis, and a positive result on C-reactive protein determination. A positive result on antinuclear antibody testing is used to diagnose a wide variety of connective-tissue, vascular, and immune complex disorders and also will be positive with rheumatic fever.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Cardiovascular\nHealth Problem: Pediatric-Specific: Rheumatic Fever\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Infection, Clinical Judgment\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, a child tentatively diagnosed with rheumatic fever. Think about the pathophysiology associated with this disorder. Also, note that the correct option is the only one that identifies an elevated level.",
+                        "id": "2444915bc765430ebee1e3f546bd138d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49f6440cc90547e89833383a326a6f67",
+                                "content": "\"A balance of rest and activity is important.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "392f3fbe9b2c4e9696d541293788bff2",
+                                "content": "\"We can apply lotion or powder to the incision if it is itchy.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa16b55a84494b969459dc8237258c3e",
+                                "content": "\"Activities in which our child could fall need to be avoided for 2 to 4 weeks.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8831e3ff58e641fbb2f9ef3604f6b74a",
+                                "content": "\"Large crowds of people need to be avoided for at least 2 weeks after surgery.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49f6440cc90547e89833383a326a6f67",
+                                    "content": "\"A balance of rest and activity is important.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "392f3fbe9b2c4e9696d541293788bff2",
+                                    "content": "\"We can apply lotion or powder to the incision if it is itchy.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa16b55a84494b969459dc8237258c3e",
+                                    "content": "\"Activities in which our child could fall need to be avoided for 2 to 4 weeks.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8831e3ff58e641fbb2f9ef3604f6b74a",
+                                    "content": "\"Large crowds of people need to be avoided for at least 2 weeks after surgery.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has provided home care instructions to the parents of a child who is being discharged after cardiac surgery. Which statement made by the parents indicates a need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nThe parents need to be instructed that lotions and powders would not be applied to the incision site after cardiac surgery. Lotions and powders can irritate the surrounding skin, which could lead to skin breakdown and subsequent infection of the incision site. Options 1, 3, and 4 are accurate instructions regarding home care after cardiac surgery.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Using general principles related to postoperative incisional site care will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Pediatric-Specific: Congenital Cardiac Defects\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Health Promotion\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "33286c1717d9461fa4b913c2ebb8b94d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "32dcbb99ae8081f141ef3ed88202bc0a",
+            "lessonItemId": "67ec6352c8b71bd076ad9289935cd1a8",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 162000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:01:52",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Cardiovascular Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

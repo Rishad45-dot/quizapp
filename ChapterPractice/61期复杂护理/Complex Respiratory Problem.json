@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 12:23:23",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 12:23:23",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 12:32:38",
+            "id": "1b077f4bc954734cc951321d7a6e0bf6",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "620e47507e3d489cb587fb811edfcd17",
+                                "content": "Auscultate bilateral breath sounds."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4fa8a485e2a9493b989ed588158b868e",
+                                "content": "Place the client in the low Fowler’s position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8160ad3ef65d4707ba7c50eddfb7007b",
+                                "content": "Ventilate the client using a manual resuscitation bag with the stoma unoccluded."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b146f3def1ee433d93d89f15a0c13e87",
+                                "content": "Reattempt the insertion with a tracheostomy tube that is one size smaller than the original tracheostomy tube."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "620e47507e3d489cb587fb811edfcd17",
+                                    "content": "Auscultate bilateral breath sounds."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4fa8a485e2a9493b989ed588158b868e",
+                                    "content": "Place the client in the low Fowler’s position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8160ad3ef65d4707ba7c50eddfb7007b",
+                                    "content": "Ventilate the client using a manual resuscitation bag with the stoma unoccluded."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b146f3def1ee433d93d89f15a0c13e87",
+                                    "content": "Reattempt the insertion with a tracheostomy tube that is one size smaller than the original tracheostomy tube."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assisting a client with a tracheostomy turn in bed when the tube gets caught under the client, causing the tracheostomy tube to be pulled out. The nurse calls a rapid response team (RRT) and attempts to replace the tracheostomy tube with the same size tube as the tube that was pulled out and is unsuccessful. While waiting for the RRT, which action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAs part of the nursing care for a client with a tracheostomy, a tracheostomy kit with both a same-sized tube as the tube in place and a tube that is one size smaller than the tube in place, as well as an obturator and a curved Kelly clamp, needs to be kept at the bedside at all times in the event of accidental decannulation. During accidental decannulation and after asking for additional assistance, the nurse would insert an obturator into the same-sized tracheostomy tube and attempt to reinsert the tube into the stoma. If the nurse is unsuccessful, the nurse would attempt to perform the reinsertion procedure with a tracheostomy tube that is one size smaller than the original tube. Therefore, option 4 is correct. Option 1 would be an appropriate nursing assessment once the tracheostomy tube has been replaced to assess whether reinsertion has been successful and the client’s airway is patent. Option 2 is incorrect because high Fowler’s position, not low Fowler’s position, is recommended for clients in respiratory distress. Option 3 is incorrect because manually ventilating the client with the stoma unoccluded would not ventilate the client, as the stoma would need to be occluded for the lungs to be ventilated.",
+                        "id": "040251c816004c6594be51a42516cc3f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e87413e29de44f078881f7858158741e",
+                                "content": "Initiate an intravenous line."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "495beab83826442fbf44937d30a8719d",
+                                "content": "Assess the client's blood pressure."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59f588b992184472bb488661c7e13f95",
+                                "content": "Prepare to administer morphine sulfate."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb3986b3a93043bfb3fca997ecf21426",
+                                "content": "Administer oxygen, 8 to 10 L/minute, by face mask."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e87413e29de44f078881f7858158741e",
+                                    "content": "Initiate an intravenous line."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "495beab83826442fbf44937d30a8719d",
+                                    "content": "Assess the client's blood pressure."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59f588b992184472bb488661c7e13f95",
+                                    "content": "Prepare to administer morphine sulfate."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb3986b3a93043bfb3fca997ecf21426",
+                                    "content": "Administer oxygen, 8 to 10 L/minute, by face mask."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client in a postpartum unit complains of sudden sharp chest pain and dyspnea. The nurse notes that the client is tachycardic and the respiratory rate is elevated. The nurse suspects a pulmonary embolism. Which would be the initial nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf pulmonary embolism is suspected, oxygen needs to be administered, 8 to 10 L/minute, by face mask. Oxygen is used to decrease hypoxia. The client also is kept on bed rest with the head of the bed slightly elevated to reduce dyspnea. Morphine sulfate may be prescribed for the client, but this would not be the initial nursing action. An intravenous line also will be required, and vital signs need to be monitored, but these actions would follow the administration of oxygen.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Emergency Situations/Management\nHealth Problem: Adult Health: Respiratory: Pulmonary Embolism\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: ABCs—Airway, Breathing, Circulation, Strategic Words                 Test-Taking Strategy:\nNote the strategic word, initial. Use the ABCs—airway, breathing, and circulation—to assist in directing you to the correct option.",
+                        "id": "1103c4387d274bdab50cff7518574f5d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e623c0afd1df45e193474d7a52b92b4f",
+                                "content": "It will enter the left main bronchus if inserted too far."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8aa6d69d613f498ca5a6b98843c76be0",
+                                "content": "It will enter the right main bronchus if inserted too far."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ede25e6092e44ac68943b8a689b8a7b0",
+                                "content": "It may enter the left main bronchus if not inserted far enough."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84fb5513a0f24610815cda0ea2584293",
+                                "content": "It may enter the right main bronchus if not inserted far enough."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e623c0afd1df45e193474d7a52b92b4f",
+                                    "content": "It will enter the left main bronchus if inserted too far."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8aa6d69d613f498ca5a6b98843c76be0",
+                                    "content": "It will enter the right main bronchus if inserted too far."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ede25e6092e44ac68943b8a689b8a7b0",
+                                    "content": "It may enter the left main bronchus if not inserted far enough."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84fb5513a0f24610815cda0ea2584293",
+                                    "content": "It may enter the right main bronchus if not inserted far enough."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A registered nurse who is orienting a new nursing graduate to the hospital emergency department instructs the new graduate to monitor a client for one-sided chest movement on the right side while the client is being intubated by the primary health care provider (PHCP). Which statement made by the new nursing graduate indicates understanding of the importance of this observation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nIf the endotracheal tube is inserted too far into the client's trachea, the tube will enter the right main bronchus. This occurs because the right bronchus is shorter and wider than the left and extends downward in a more vertical plane. If the tube is not inserted far enough, no chest expansion at all will occur. The other options are incorrect.",
+                        "id": "180469e3973943afaa42a786345e2c2e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4d03074e22d426587d6476a86dbba65",
+                                "content": "Pao2 58 mm Hg, Paco2 32 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ddfe36cd1fc44488b91f016993ba22f",
+                                "content": "Pao2 60 mm Hg, Paco2 45 mm Hg"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be36326a20c74e28ba696d54a5bbe008",
+                                "content": "Pao2 49 mm Hg, Paco2 52 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72cc1213e5a3400a8967c062fdb8a5bc",
+                                "content": "Pao2 73 mm Hg, Paco2 62 mm Hg"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4d03074e22d426587d6476a86dbba65",
+                                    "content": "Pao2 58 mm Hg, Paco2 32 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ddfe36cd1fc44488b91f016993ba22f",
+                                    "content": "Pao2 60 mm Hg, Paco2 45 mm Hg"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be36326a20c74e28ba696d54a5bbe008",
+                                    "content": "Pao2 49 mm Hg, Paco2 52 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72cc1213e5a3400a8967c062fdb8a5bc",
+                                    "content": "Pao2 73 mm Hg, Paco2 62 mm Hg"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with no history of respiratory disease is admitted to the hospital with respiratory failure. Which results on the arterial blood gas report that are consistent with this disorder would the nurse expect to note?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nRespiratory failure is described as a Pao2 of 60 mm Hg or lower and a Paco2 of 50 mm Hg or higher in a client with no history of respiratory disease. In a client with a history of a respiratory disorder with hypercapnia, increases of 5 mm Hg or more (Paco2) from the client's baseline are considered diagnostic.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Emergency Situations/Management\nHealth Problem: Adult Health: Respiratory: Acute Respiratory Distress Syndrome/Failure\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Acid-Base Balance, Gas Exchange\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, expected arterial blood gas findings for a client with respiratory failure. Focusing on the client's diagnosis, respiratory failure, will direct you to the correct option, the one with the lowest Pao2 level.",
+                        "id": "360933145ae742669f4a60a97a6628de",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38c6d4aeb1ee41f8a52c297f1d36140f",
+                                "content": "Diminished breath sounds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24b70f40cd984f96a148cc9e0cfea859",
+                                "content": "Wheezing during inhalation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e363e305db74c52b8cf6473b1c34fbf",
+                                "content": "Wheezing during exhalation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a63cd75db5fe4f7eb1f1bce5b5d9361c",
+                                "content": "Wheezing throughout the lung fields"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38c6d4aeb1ee41f8a52c297f1d36140f",
+                                    "content": "Diminished breath sounds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24b70f40cd984f96a148cc9e0cfea859",
+                                    "content": "Wheezing during inhalation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e363e305db74c52b8cf6473b1c34fbf",
+                                    "content": "Wheezing during exhalation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a63cd75db5fe4f7eb1f1bce5b5d9361c",
+                                    "content": "Wheezing throughout the lung fields"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The emergency department nurse is monitoring a client who received treatment for a severe asthma attack. The nurse determines that the client's respiratory status has worsened if which is noted on assessment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDiminished breath sounds may be an indication of severe obstruction and possibly respiratory failure. Wheezing is not a reliable manifestation to determine the severity of an asthma attack. For wheezing to occur, the client must be able to move sufficient air to produce breath sounds. Wheezing usually occurs first on exhalation. As the asthma attack progresses, the client may wheeze during both inspiration and expiration.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Emergency Situations/Management\nHealth Problem: Adult Health: Respiratory: Asthma\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Gas Exchange, Clinical Judgment\nStrategies: ABCs—Airway, Breathing, Circulation, Comparable or Alike Options, Subject                  Test-Taking Strategy:\nFocus on the subject, worsening of the client's respiratory status. Use the ABCs—airway, breathing, and circulation—to assist in directing you to the correct option. Additionally, note the options that are comparable or alike in that they all address wheezing. Remember that diminished breath sounds in a client indicate obstruction and possibly respiratory failure.",
+                        "id": "39b0d7655d684d7698d29eac5c09a92b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0856f71cc5414c5f9cf1617961db244f",
+                                "content": "Ask a family member to stay with the client at all times."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c9ca034c05d64ecf8f82cee8d17f0c32",
+                                "content": "Encourage the client to sleep until arterial blood gas results improve."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "89f69da9413941b8bdd53554125b9e43",
+                                "content": "Ask the primary health care provider for a prescription for succinylcholine."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7bff8051eaf44a580f70ede807c14e4",
+                                "content": "Provide reassurance to the client and give small doses of morphine sulfate intravenously as prescribed."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0856f71cc5414c5f9cf1617961db244f",
+                                    "content": "Ask a family member to stay with the client at all times."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c9ca034c05d64ecf8f82cee8d17f0c32",
+                                    "content": "Encourage the client to sleep until arterial blood gas results improve."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "89f69da9413941b8bdd53554125b9e43",
+                                    "content": "Ask the primary health care provider for a prescription for succinylcholine."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7bff8051eaf44a580f70ede807c14e4",
+                                    "content": "Provide reassurance to the client and give small doses of morphine sulfate intravenously as prescribed."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with an endotracheal tube who is being mechanically ventilated is visibly anxious. What is the best nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMorphine sulfate often is prescribed for pain and anxiety in the client receiving mechanical ventilation. The nurse needs to speak to the client calmly and provide reassurance to the anxious client. Family members also are stressed, not just because of the complication but because of the original injury. It is not beneficial to ask the family to take on the burden of remaining with the client at all times. Succinylcholine is a neuromuscular blocker but has no antianxiety properties. Encouraging the client to sleep until arterial blood gas results improve does nothing to reassure or help the client.",
+                        "id": "46551bc1c9654b8cb25dbf4b60020cb3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dc272fc1534b46d39d8e25ed04c05ef8",
+                                "content": "Palpate the skin around the stoma."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62fa44978a3340b3891214c621ee7eeb",
+                                "content": "Notify the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68054512673042bc8329f9d54fbb7025",
+                                "content": "Document the finding with no further intervention."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0efdb7ab94404d84885164ff9de8fa55",
+                                "content": "Instruct the client to perform deep breathing exercises."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dc272fc1534b46d39d8e25ed04c05ef8",
+                                    "content": "Palpate the skin around the stoma."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62fa44978a3340b3891214c621ee7eeb",
+                                    "content": "Notify the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68054512673042bc8329f9d54fbb7025",
+                                    "content": "Document the finding with no further intervention."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0efdb7ab94404d84885164ff9de8fa55",
+                                    "content": "Instruct the client to perform deep breathing exercises."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client’s tracheostomy and notes that the skin around the stoma appears swollen with no redness or drainage present. Which action would the nurse take next?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA complication of a tracheostomy is subcutaneous emphysema, in which air leaks into the subcutaneous tissue due to a misplaced tracheostomy tube. An important nursing assessment for the client with a tracheostomy is to examine the neck for swelling and then to palpate the swollen area. If subcutaneous emphysema is present, the nurse will feel a popping or crackling sensation when pressing on the skin. The nurse would then contact the PHCP for further interventions after collecting more assessment data. Therefore, option 1 is correct. Option 2 is appropriate after further assessing the area. Options 3 and 4 are inappropriate interventions for subcutaneous emphysema.",
+                        "id": "46a5d1ae46714e3d89d09c819ec8db95",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5abbaf0055e14bb691aa2836a9815cb5",
+                                "content": "Tape the ET tube in place, and note the centimeter marking at the lip line."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aef3aa95d79a456ebf63cc0e32f3574e",
+                                "content": "Ask the radiology department to obtain a stat portable radiograph at the client's bedside."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "55298d634dbd4e39a839801110918162",
+                                "content": "Use an Ambu (resuscitation) bag to ventilate the client and assess for bilateral breath sounds."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d1072a25b304011a6a49b1925fb02c8",
+                                "content": "Attach the ET tube to the ventilator and determine whether the client is able to tolerate the tidal volume prescribed."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5abbaf0055e14bb691aa2836a9815cb5",
+                                    "content": "Tape the ET tube in place, and note the centimeter marking at the lip line."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aef3aa95d79a456ebf63cc0e32f3574e",
+                                    "content": "Ask the radiology department to obtain a stat portable radiograph at the client's bedside."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "55298d634dbd4e39a839801110918162",
+                                    "content": "Use an Ambu (resuscitation) bag to ventilate the client and assess for bilateral breath sounds."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d1072a25b304011a6a49b1925fb02c8",
+                                    "content": "Attach the ET tube to the ventilator and determine whether the client is able to tolerate the tidal volume prescribed."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has assisted the primary health care provider and the anesthesiologist with placement of an endotracheal (ET) tube for a client in respiratory distress. What is the initial nursing action to evaluate proper ET tube placement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe nurse verifies the placement of an ET tube immediately by ventilating the client using an Ambu bag and by auscultating for breath sounds bilaterally, which ensures ventilation of both lungs. After this initial assessment, placement is checked radiographically. The nurse marks the ET tube at the point where it enters the nose or mouth for ongoing monitoring of correct placement, but this will not determine initial adequate placement of the ET tube. Noting the tidal volume and the client's toleration of the tidal volume prescribed is not a measure of appropriate ET tube placement.",
+                        "id": "4926588c248046399932fc176f0c4c91",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e19e40030279491b937250c1685548aa",
+                                "content": "Remove the dressing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1151b519e0f941ed8f205d7acf7b01a5",
+                                "content": "Reinforce the dressing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e8423a4547144b9927de55f796558b7",
+                                "content": "Call the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aff9878503d14692ad984ded16ccf519",
+                                "content": "Measure oxygen saturation by oximetry"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e19e40030279491b937250c1685548aa",
+                                    "content": "Remove the dressing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1151b519e0f941ed8f205d7acf7b01a5",
+                                    "content": "Reinforce the dressing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e8423a4547144b9927de55f796558b7",
+                                    "content": "Call the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aff9878503d14692ad984ded16ccf519",
+                                    "content": "Measure oxygen saturation by oximetry"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client experienced an open pneumothorax (sucking wound), which has been covered with an occlusive dressing. The client begins to experience severe dyspnea, and the blood pressure begins to fall. The nurse would first perform which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPlacement of a dressing over a chest wound could convert an open pneumothorax to a closed (tension) pneumothorax. This may result in a sudden decline in respiratory status, mediastinal shift with twisting of the great vessels, and circulatory compromise. If clinical changes occur, the nurse would remove the dressing immediately, allowing air to escape. Therefore, reinforcing the dressing is an incorrect action. The nurse would measure oxygen saturation by oximetry and would call the PHCP, but these would not be the first actions in this situation.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Complex Care: Emergency Situations/Management\nHealth Problem: Adult Health: Respiratory: Pneumothorax\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Gas Exchange, Clinical Judgment\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, first. Remembering that an open pneumothorax can be transformed into a tension pneumothorax with closure will direct you to the correct option.",
+                        "id": "49c2c532bf7049b6ae3a3c97fc428baf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "93ae5beb85f44491a8fe6030c63cdf48",
+                                "content": "Bilateral wheezing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "679aa87f30ac4aefae7eb52a4409aac1",
+                                "content": "Inspiratory crackles"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "631a63a5b87345fda9417a0b5b389338",
+                                "content": "Intercostal retractions"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34006ba3a8184c4893544f3344fbfe24",
+                                "content": "Increased respiratory rate "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "93ae5beb85f44491a8fe6030c63cdf48",
+                                    "content": "Bilateral wheezing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "679aa87f30ac4aefae7eb52a4409aac1",
+                                    "content": "Inspiratory crackles"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "631a63a5b87345fda9417a0b5b389338",
+                                    "content": "Intercostal retractions"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34006ba3a8184c4893544f3344fbfe24",
+                                    "content": "Increased respiratory rate "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client with multiple trauma who is at risk for developing acute respiratory distress syndrome. The nurse would assess for which earliest sign of acute respiratory distress syndrome?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe earliest detectable sign of acute respiratory distress syndrome is an increased respiratory rate, which can begin from 1 to 96 hours after the initial insult to the body. This is followed by increasing dyspnea, air hunger, retraction of accessory muscles, and cyanosis. Breath sounds may be clear or consist of fine inspiratory crackles or diffuse coarse crackles.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Acute Respiratory Failure\nHealth Problem: Adult Health: Respiratory: Acute Respiratory Distress Syndrome/Failure\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: Strategic Words   Test-Taking Strategy:\nNote the strategic word, earliest. Eliminate option 3 first because intercostal retraction is a later sign of respiratory distress. Of the remaining options, recall that adventitious breath sounds (options 1 and 2) would occur later than an increased respiratory rate.",
+                        "id": "4ce7683b37a34dbba74361d864a4c752",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "a82d730b082149cdbddfc4397db86648",
+            "lessonItemId": "9a80bd36a59378515c84ad716325ba06",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 399000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 12:32:38",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Complex Respiratory Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

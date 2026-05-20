@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:35:54",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:35:54",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:36:52",
+            "id": "120ff660905481abcc9960c4c949662b",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6aa1a97f809548abbd6396f775f27d62",
+                                "content": "\"I do not hate it, but it is very frustrating.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "407878641c804b37bac3ab91435c350e",
+                                "content": "\"You should not say things like that; this is our job.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4d006c9ffa54f329892d694801b4259",
+                                "content": "\"This client is a liar. The client's health history changes every visit.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "972afc24875b4e63966d754194e82a0b",
+                                "content": "\"The communication barriers present are frustrating, but we work through it.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6aa1a97f809548abbd6396f775f27d62",
+                                    "content": "\"I do not hate it, but it is very frustrating.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "407878641c804b37bac3ab91435c350e",
+                                    "content": "\"You should not say things like that; this is our job.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4d006c9ffa54f329892d694801b4259",
+                                    "content": "\"This client is a liar. The client's health history changes every visit.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "972afc24875b4e63966d754194e82a0b",
+                                    "content": "\"The communication barriers present are frustrating, but we work through it.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The primary nurse is caring for a client who is intellectually disabled. Another nurse states, \"I hate when this client comes in.\" What response made by the primary nurse is best?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCommunication barriers between health care professionals and those with an intellectual disability present unique challenges in identifying and managing health care needs. These clients are often poor historians and may require more time for questioning and care. The nurse needs to recognize personal biases or misunderstandings about those in this population. Equitable and fair treatment for the client is expressed in option 4. The nurse recognizes an obstacle but does not hinder the care provided. Options 1 and 3 are nontherapeutic statements. Option 2, although correct, is not the best statement and minimizes the individualized needs of a person in this population.\n\nTest-Taking Strategy:\nNote the strategic word, best. Use of therapeutic communication techniques will direct you to the correct option.",
+                        "id": "017b05b36304436fbe5d34e286ed075b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54659032de744805ad030baa6e7c9640",
+                                "content": "Ask the parents who abused the child."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b99b3b09f4584f1b903ff4d1c2d7f647",
+                                "content": "Report signs of abuse and document it."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3eea0343eeef477b8cc7bc2d6aca8a0a",
+                                "content": "Find out where the child sleeps at night."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e97a0721a1b4141a885f2662824305b",
+                                "content": "Ask the child if they are scared of the parents or anyone else."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54659032de744805ad030baa6e7c9640",
+                                    "content": "Ask the parents who abused the child."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b99b3b09f4584f1b903ff4d1c2d7f647",
+                                    "content": "Report signs of abuse and document it."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3eea0343eeef477b8cc7bc2d6aca8a0a",
+                                    "content": "Find out where the child sleeps at night."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e97a0721a1b4141a885f2662824305b",
+                                    "content": "Ask the child if they are scared of the parents or anyone else."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse would plan to take which action next after assessing a homeless pediatric client who is a victim of abuse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHealth care considerations for abused or neglected individuals are to treat them with compassion, respect, and dignity. Nurses are mandated reporters for domestic violence and abuse incidence, so a report needs to be done. Documentation of all injuries is also necessary for legal reasons. Asking the parents who abused the child and asking the child if they are scared of the parents or anyone else may cause fear and conflict. Finding out where the child sleeps at night may be helpful at some point of care but is not a next specific action.\n\nTest-Taking Strategy:\nNote the strategic word, next. You must choose the answer option that describes the next action the nurse would take after assessing the child. Using Maslow's Hierarchy of Needs theory can help answer this question. Reporting the abuse will ensure the child's safety, which is priority.",
+                        "id": "0a6e8e048b2c4ce3a9d53751c84272a5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "365295756ea9493e9d3339ad8049f032",
+                                "content": "The clients are unemployed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ce5198a87e24474aaf4574c00665db6",
+                                "content": "The clinic has payment options."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67629427b6e34d628e734109a1db18db",
+                                "content": "The clients lack access to preventive health care."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d365d7f56d94778b1069fe8341dc6d4",
+                                "content": "The clinic can qualify them for Medicaid coverage."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "365295756ea9493e9d3339ad8049f032",
+                                    "content": "The clients are unemployed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ce5198a87e24474aaf4574c00665db6",
+                                    "content": "The clinic has payment options."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67629427b6e34d628e734109a1db18db",
+                                    "content": "The clients lack access to preventive health care."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d365d7f56d94778b1069fe8341dc6d4",
+                                    "content": "The clinic can qualify them for Medicaid coverage."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is working in a very busy outpatient clinic that cares primarily for uninsured clients. The nurse plans care, knowing that the most likely reason for this clinic being so busy is which factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe underinsured or uninsured client is at increased risk for health disorders due to a lack of access to care. Additionally, preventive care or treatment for chronic diseases is decreased among this population as well. A client can be employed and still be uninsured. There are no data to indicate that the clinic has payment options or that the clinic can qualify clients for Medicaid. Qualifying for Medicaid needs to be done through the state or federal social services department.\n\nTest-Taking Strategy:\nNote the strategic words, most likely, and the subject, the reason that the clinic is so busy. From the options, you must choose the best answer. Recalling that clients who are underinsured or uninsured often do not have adequate access to preventive health care will direct you to option 3.",
+                        "id": "14ff44b3a934480bbd6c89fcfca1cd68",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "93cb11bce18043c0acdad79cb52a2ed8",
+                                "content": "Arranging for home health care"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be6becbe21e44f3284b1f3f52bd76ceb",
+                                "content": "Focusing on managing a single illness at a time"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbb6727be8cc4e9caf1174f2bfb87970",
+                                "content": "Communicating with one provider only to avoid confusion for the client"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "14dc1abefc50451cbe47e95baddb1735",
+                                "content": "Allowing the client to teach a support person about the treatment regimen"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "93cb11bce18043c0acdad79cb52a2ed8",
+                                    "content": "Arranging for home health care"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be6becbe21e44f3284b1f3f52bd76ceb",
+                                    "content": "Focusing on managing a single illness at a time"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbb6727be8cc4e9caf1174f2bfb87970",
+                                    "content": "Communicating with one provider only to avoid confusion for the client"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "14dc1abefc50451cbe47e95baddb1735",
+                                    "content": "Allowing the client to teach a support person about the treatment regimen"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which action by the nurse will best facilitate adherence to the treatment regimen for a client with a chronic illness?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nNursing follow-up visits are important in promoting health for individuals with chronic illness; therefore, arranging for home health care is an important strategy. Focusing on a single illness does not effectively manage an individual with multiple chronic diseases—rather, the \"big picture\" needs to be understood in managing these clients. Interprofessional collaboration is important in safely managing individuals with chronic diseases and often involves consulting with specialist providers. Nurses play a key role in facilitating communication between providers and specialists. Inclusion of the client and support persons in health care decisions helps to increase adherence to a complex health care regimen. The nurse should be the facilitator of this communication.\n\nTest-Taking Strategy:\nNote the strategic word, best. Recalling that these clients often have complex histories and health care needs will assist you in choosing the option that relates to nursing support services.",
+                        "id": "2496b108244740c293e6fb28727ff88e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e8dd985e20c4854bd73a46462dfbdf6",
+                                "content": "Names of food banks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aabe2920530547939c7d1ca83aa6eb31",
+                                "content": "Names of sleep study clinics"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f923bcc5be9d4982a79401bcc78ff441",
+                                "content": "Names of local psychologists"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27d29b7fab7c46e4b8ca1c2ef1ba30e5",
+                                "content": "Names of child care facilities"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e8dd985e20c4854bd73a46462dfbdf6",
+                                    "content": "Names of food banks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aabe2920530547939c7d1ca83aa6eb31",
+                                    "content": "Names of sleep study clinics"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f923bcc5be9d4982a79401bcc78ff441",
+                                    "content": "Names of local psychologists"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27d29b7fab7c46e4b8ca1c2ef1ba30e5",
+                                    "content": "Names of child care facilities"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The client is being seen by the primary health care provider (PHCP). During the visit, the client states that being a single parent who works is stressful, and because of this, feels chronically fatigued. The client also states feeling anxious because the client cannot find consistent day care for the child. The nurse wants to help the client with community resources. Which resource would be best for the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAccess to community organizations and resources can help alleviate some burdens the single parent may encounter. Services such as child care, wellness clinics for access to screenings, and employment opportunities can set the single parent up for success. There are no data in the question indicating that the client needs the names of food banks or the names of psychologists. Although the client is chronically fatigued, there are no data indicating a sleep study is warranted.\n\nTest-Taking Strategy:\nNote the strategic word, best. You are looking for the option that addresses the data in the question most directly. Using the data in the question, identify the client's primary problem, that the client cannot find consistent day care for the child. A community resource the nurse can help with is giving the client a list of names of child care facilities to help alleviate the burden of inconsistent child care.",
+                        "id": "31a7ed973df142db89dc2cc1b860b7e3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c9c7027acaf49c5ae4970c17b63e5f4",
+                                "content": "Access to housing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e76b011e05a249d08668f40a9a392f77",
+                                "content": "Access to clean water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35ecc1a35f864fb180097ba7f50ad216",
+                                "content": "Access to transportation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0123ee046f784ef8875e1e5502662fff",
+                                "content": "Access to mental health care services"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c9c7027acaf49c5ae4970c17b63e5f4",
+                                    "content": "Access to housing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e76b011e05a249d08668f40a9a392f77",
+                                    "content": "Access to clean water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35ecc1a35f864fb180097ba7f50ad216",
+                                    "content": "Access to transportation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0123ee046f784ef8875e1e5502662fff",
+                                    "content": "Access to mental health care services"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse caring for a refugee considers which health care need a priority for this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMental health problems are the primary concern for this population as a result of difficult events. While all other options are important for all clients, they do not address the specific needs of this population.\n\nTest-Taking Strategy:\nNote the strategic word, priority. This indicates that all options are important and are most likely correct. It is necessary to recall that due to the potential trauma experienced by refugees, mental health is a priority.",
+                        "id": "33905894d4d54968a84e506f37418c2a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3e6082e34ccc412cb6477157daca369d",
+                                "content": "Mental health"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7ad49da5e5340daa9df8a8fd2cf2ba4",
+                                "content": "Living situation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1107cf76caeb47e886944533bd014391",
+                                "content": "Educational level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6b3d9fcd7fe74c5aa7e1c992a5983445",
+                                "content": "Gang-related crimes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3e6082e34ccc412cb6477157daca369d",
+                                    "content": "Mental health"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7ad49da5e5340daa9df8a8fd2cf2ba4",
+                                    "content": "Living situation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1107cf76caeb47e886944533bd014391",
+                                    "content": "Educational level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6b3d9fcd7fe74c5aa7e1c992a5983445",
+                                    "content": "Gang-related crimes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What health issue is essential to address in a prisoner to decrease repeated criminal behavior once released?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMental illness is a prevalent risk factor among this population. The correctional facility is the only means for this population to get properly screened prior to release. Consistent protocols need to be in place to address mental illness. This may be a leading factor that contributes to repeated criminal activity. Living situation, educational level, and gang-related crimes are not health related.\n\nTest-Taking Strategy:\nNote the strategic word, essential. Using the data in the question, seek out the option that addresses a health issue. Living situation, educational level, and gang-related crimes are not health related. Remembering that mental illness must be addressed and could be a related factor to repeated criminal activity will assist in directing you to the correct option.",
+                        "id": "35dc63e89af2458f874e5f22b2cf32fa",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87ddbb2622884cf2852dd66c6c1ef333",
+                                "content": "Low household income"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "584da54244184edbbafb674699692a72",
+                                "content": "Lack of insurance coverage"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bea5b9cb11704d3f9424828d2e5f19e8",
+                                "content": "Ineffective communication with the primary health care provider (PHCP)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb7263ec54c540b38199254b686eba15",
+                                "content": "Adherence to health care follow-up is not an issue for minority groups"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87ddbb2622884cf2852dd66c6c1ef333",
+                                    "content": "Low household income"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "584da54244184edbbafb674699692a72",
+                                    "content": "Lack of insurance coverage"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bea5b9cb11704d3f9424828d2e5f19e8",
+                                    "content": "Ineffective communication with the primary health care provider (PHCP)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb7263ec54c540b38199254b686eba15",
+                                    "content": "Adherence to health care follow-up is not an issue for minority groups"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse would recognize that some minority groups are hesitant to seek health care because of which most likely factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSome ethnic minorities report hesitancy in seeking health care due to a language barrier. Effective communication is essential to understand and treat the client. Ineffective communication affects the client's safety or willingness to comply with treatment or follow-up care. A low household income and a lack of insurance coverage may be factors but are less likely than the communication problem.\n\nTest-Taking Strategy:\nNote the strategic words, most likely, and focus on the option that could apply to various ethnic groups. Option 4 is incorrect because it states that minority groups have no issues with adherence to health care follow-up. To select from the remaining options, recalling that ineffective communication is a major barrier to seeking health care will assist in answering correctly.",
+                        "id": "5c80975bbe7646159a08436dbebd6d76",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bdcf0266780748fbb39d85bb52fa79b6",
+                                "content": "\"Community resources are important tools to utilize.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56ac4b5966974712932788a3a1ae2bf5",
+                                "content": "\"A social worker will be assigned to help access community resources.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "12a1a96842654a248b0f9257908c964c",
+                                "content": "\"All physicians will sign off on the child, so medical visits will not be necessary.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4a0d0c922db40dfa101d3f8bd9f1d3a",
+                                "content": "\"Some foster children have complex conditions that require a team of several doctors.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bdcf0266780748fbb39d85bb52fa79b6",
+                                    "content": "\"Community resources are important tools to utilize.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56ac4b5966974712932788a3a1ae2bf5",
+                                    "content": "\"A social worker will be assigned to help access community resources.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "12a1a96842654a248b0f9257908c964c",
+                                    "content": "\"All physicians will sign off on the child, so medical visits will not be necessary.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4a0d0c922db40dfa101d3f8bd9f1d3a",
+                                    "content": "\"Some foster children have complex conditions that require a team of several doctors.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is educating prospective foster families on health care considerations for the foster child. Which statement made by a family member indicates a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA foster child can often have complex health conditions. Frequent health visits will be needed during the transition from foster care to home to ensure that the child is acclimated well without any health concerns arising. Therefore option 3 is an incorrect statement by the family member, indicating the need for further teaching. Options 1, 2, and 4 are accurate statements.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and the need to select the incorrect statement by the family member. Thinking about the complexity of the care of a foster child will direct you to option 3. Community resources, a social worker, and a multidisciplinary team are necessary components to caring for a foster child. Also, note the closed-ended word \"all\" in this option.",
+                        "id": "a2cb70730ac04fd1928fb695b2eafdf0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4b66f198ab94e0da33f4f68a522ae5a",
+                                "content": "Teach-back"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b13e912684d142e092822813cc82637a",
+                                "content": "Video instruction"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f64df8b1007458cb1a5a9f4c60a1751",
+                                "content": "Written materials"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0c10069fedcd4467992a3f3222a0014b",
+                                "content": "Verbal explanation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4b66f198ab94e0da33f4f68a522ae5a",
+                                    "content": "Teach-back"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b13e912684d142e092822813cc82637a",
+                                    "content": "Video instruction"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f64df8b1007458cb1a5a9f4c60a1751",
+                                    "content": "Written materials"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0c10069fedcd4467992a3f3222a0014b",
+                                    "content": "Verbal explanation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which teaching method is most effective when providing health care instructions to members of specific populations?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen providing health care instructions to members of specific populations, return explanation and demonstration (teach-back) are of particular importance to ensure safety and mutual understanding. This method is the most reliable in confirming client understanding of the instructions. Video instruction, written materials, and verbal explanation are helpful and may be incorporated with the teach-back method.\n\nTest-Taking Strategy:\nNote the strategic words, most effective. Note that the correct option—the teach-back method—is the umbrella option, which encompasses all other options. Recall that asking the client to perform a return demonstration is the best way to confirm understanding.",
+                        "id": "adbea2caa0664b61986742148e2f23e1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "b31204ffb4a11db6c6c1e79a016ea9ef",
+            "lessonItemId": "6c4c3cd364c4b3a557e160322e95ccbb",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 31000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:36:53",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Population Health Nursin",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

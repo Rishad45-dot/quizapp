@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:02",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:02",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:25:35",
+            "id": "3ef91fbaba3ed905ec663f4973e5df16",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b7fb73be5d54c4f8939838d99e78109",
+                                "content": "磁共振成像"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1e5d79fdc0f40c7884ad649bbf0ae93",
+                                "content": "脑电图"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f63cbc191df54e29b6dc405eedaab374",
+                                "content": "计算机断层扫描"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21293defce9a4a8b8afe852370a5afab",
+                                "content": "脑脊液检查"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b7fb73be5d54c4f8939838d99e78109",
+                                    "content": "磁共振成像"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1e5d79fdc0f40c7884ad649bbf0ae93",
+                                    "content": "脑电图"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f63cbc191df54e29b6dc405eedaab374",
+                                    "content": "计算机断层扫描"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21293defce9a4a8b8afe852370a5afab",
+                                    "content": "脑脊液检查"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Computed tomography (CT) 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "计算机断层扫描是一种使用X射线的医学成像技术。",
+                        "id": "035ef907986a43efb752187a4c29a1d8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4816c60c7352463d95dc663cfa14eb65",
+                                "content": "神经鞘瘤"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4303a1afbc7845a7b3ff50fd033d34bc",
+                                "content": "神经节瘤"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe4ec0f2ce0b4ce49afeaa7667757487",
+                                "content": "神经纤维瘤"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22f7dd936bb7486da479d6be4c32fd4e",
+                                "content": "神经胶质瘤"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4816c60c7352463d95dc663cfa14eb65",
+                                    "content": "神经鞘瘤"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4303a1afbc7845a7b3ff50fd033d34bc",
+                                    "content": "神经节瘤"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe4ec0f2ce0b4ce49afeaa7667757487",
+                                    "content": "神经纤维瘤"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22f7dd936bb7486da479d6be4c32fd4e",
+                                    "content": "神经胶质瘤"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Ganglioma 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "神经节瘤是一种发生在神经节的良性肿瘤。",
+                        "id": "04517bfa43564375a610a8a97da7214c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87d1beeb9c5b47a891c37cacc73f2c74",
+                                "content": "三叉神经痛"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02073c2b6d8d42878ff8972c8ccaebbc",
+                                "content": "坐骨神经痛"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "304a6f34b3bf42a689e4b19712d3b0aa",
+                                "content": "面神经麻痹"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a93ea7a8ba140b4aca1646508de6b99",
+                                "content": "肌萎缩侧索硬化症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87d1beeb9c5b47a891c37cacc73f2c74",
+                                    "content": "三叉神经痛"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02073c2b6d8d42878ff8972c8ccaebbc",
+                                    "content": "坐骨神经痛"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "304a6f34b3bf42a689e4b19712d3b0aa",
+                                    "content": "面神经麻痹"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a93ea7a8ba140b4aca1646508de6b99",
+                                    "content": "肌萎缩侧索硬化症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Trigeminal neuralgia 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "三叉神经痛是一种面部剧烈疼痛的疾病。",
+                        "id": "04d09801812e40b79590ebbec2b8dc00",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eac559fc36ed4cffadddb8341ea6a15f",
+                                "content": "脑干"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c03affec856f430f99e4ff2d5e9da7e1",
+                                "content": "小脑"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c21cecfbc46842e9b0c3b39b78fd58f5",
+                                "content": "丘脑"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "798d7489b23e4389b90869941b502b77",
+                                "content": "大脑皮层"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eac559fc36ed4cffadddb8341ea6a15f",
+                                    "content": "脑干"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c03affec856f430f99e4ff2d5e9da7e1",
+                                    "content": "小脑"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c21cecfbc46842e9b0c3b39b78fd58f5",
+                                    "content": "丘脑"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "798d7489b23e4389b90869941b502b77",
+                                    "content": "大脑皮层"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cerebrum 是大脑的哪个部分？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "大脑皮层是大脑的外层，负责高级脑功能。",
+                        "id": "192828d91a39415296c3a4458e185546",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7224c947c2a499ab8761beae35c63ee",
+                                "content": "心脏"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59d5c855598e46c1b9b1ab73cea83545",
+                                "content": "神经"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e35869977e3d43418f24cb0f96566a36",
+                                "content": "肌肉"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6149b37d1c3d45fe8633e9a5e6d9a57a",
+                                "content": "骨骼"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7224c947c2a499ab8761beae35c63ee",
+                                    "content": "心脏"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59d5c855598e46c1b9b1ab73cea83545",
+                                    "content": "神经"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e35869977e3d43418f24cb0f96566a36",
+                                    "content": "肌肉"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6149b37d1c3d45fe8633e9a5e6d9a57a",
+                                    "content": "骨骼"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Neurology 是研究什么的科学？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "神经学是研究神经系统的科学。",
+                        "id": "1a2156d818004c9998f9b56328087105",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ebc4257f63c46fc8573b207e236369f",
+                                "content": "神经细胞之间的连接点"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81266062718c494680e9c959f75b24ef",
+                                "content": "心脏的瓣膜"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "071fbb8015d94920883e0d6e782ddfbb",
+                                "content": "骨骼的关节"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a28c92bbdcc94545b7aa359a611166f6",
+                                "content": "肌肉的纤维"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ebc4257f63c46fc8573b207e236369f",
+                                    "content": "神经细胞之间的连接点"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81266062718c494680e9c959f75b24ef",
+                                    "content": "心脏的瓣膜"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "071fbb8015d94920883e0d6e782ddfbb",
+                                    "content": "骨骼的关节"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a28c92bbdcc94545b7aa359a611166f6",
+                                    "content": "肌肉的纤维"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Synapse 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "突触是神经细胞之间的连接点。",
+                        "id": "24c66c04675543e0abdd3ee6a12fcf0d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "37d34e2fb4054668959ac71741ab2e4d",
+                                "content": "思考和决策"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b7e51a793094d0496334d34ad24bc17",
+                                "content": "运动协调"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0205429616014f8a83fbc91af1986ab5",
+                                "content": "感觉处理"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "abd03e0359ab42f09681079b4146799e",
+                                "content": "情绪调节"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "37d34e2fb4054668959ac71741ab2e4d",
+                                    "content": "思考和决策"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b7e51a793094d0496334d34ad24bc17",
+                                    "content": "运动协调"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0205429616014f8a83fbc91af1986ab5",
+                                    "content": "感觉处理"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "abd03e0359ab42f09681079b4146799e",
+                                    "content": "情绪调节"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cerebellum 的主要功能是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "小脑的主要功能是运动协调。",
+                        "id": "296d1bd3d6f24eb3ba601747c81d7e50",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9c4d27708204e95b433068c30180a8e",
+                                "content": "心脏病专家"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "13612835d9b34e8a9b6196189fbfbe58",
+                                "content": "神经科医生"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bb00782c5f04d17b70a32e7112850bf",
+                                "content": "骨科医生"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ec8c2f7f4694c138fc7d9317d9131dc",
+                                "content": "皮肤科医生"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9c4d27708204e95b433068c30180a8e",
+                                    "content": "心脏病专家"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "13612835d9b34e8a9b6196189fbfbe58",
+                                    "content": "神经科医生"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bb00782c5f04d17b70a32e7112850bf",
+                                    "content": "骨科医生"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ec8c2f7f4694c138fc7d9317d9131dc",
+                                    "content": "皮肤科医生"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Neurologist 是什么类型的医生？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "神经科医生是专门治疗神经系统疾病的医生。",
+                        "id": "2a42ed0aadc34619a3fd7471562d086d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c73e447e3431495aa4b33a8d92fb838c",
+                                "content": "脑膜炎"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab4b558ce51146b0a68c08e5b572b57d",
+                                "content": "面神经麻痹"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "230244b28dc54e548ee62a45acc4c85e",
+                                "content": "脑震荡"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df95d6c618634ed9804b1135892b49fa",
+                                "content": "帕金森病"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c73e447e3431495aa4b33a8d92fb838c",
+                                    "content": "脑膜炎"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab4b558ce51146b0a68c08e5b572b57d",
+                                    "content": "面神经麻痹"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "230244b28dc54e548ee62a45acc4c85e",
+                                    "content": "脑震荡"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df95d6c618634ed9804b1135892b49fa",
+                                    "content": "帕金森病"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Bell’s Palsy (Facial Paralysis) 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "面神经麻痹是一种导致面部肌肉突然无法控制的疾病。",
+                        "id": "335e5bacf41646299a85fdabb5baf6d9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21ff1624db0d4cbaa7742ab09d728964",
+                                "content": "心脏病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5ace96b833b415ba1ce21234f27bd7a",
+                                "content": "肺部感染"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b277604e7594389b9033b26b2055838",
+                                "content": "中风"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "510e983555de48e1945fef88ca7f0bd5",
+                                "content": "骨折"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21ff1624db0d4cbaa7742ab09d728964",
+                                    "content": "心脏病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5ace96b833b415ba1ce21234f27bd7a",
+                                    "content": "肺部感染"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b277604e7594389b9033b26b2055838",
+                                    "content": "中风"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "510e983555de48e1945fef88ca7f0bd5",
+                                    "content": "骨折"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Stroke 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "中风是由于大脑的血管堵塞或破裂导致的。",
+                        "id": "39e4015b3bab43d0b5d73475778fe57b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "e5f04888415a8dc91303cc42605e4900",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 311000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:25:35",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

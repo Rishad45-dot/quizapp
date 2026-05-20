@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:07:43",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:07:43",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:14:21",
+            "id": "390d820229c12f4596808f244fba94cc",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b2452cc5a12b46199563d63ad0605fe2",
+                                "content": "2-6 years"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7e6f9cc99fa47ab86a647ee28980822",
+                                "content": "6-12 years"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "065c12c8d77b413dafa7a6d79199f4c3",
+                                "content": "13-19 years"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b045bd185df47959f3d3bd4409d7678",
+                                "content": "Over 19 years"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b2452cc5a12b46199563d63ad0605fe2",
+                                    "content": "2-6 years"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7e6f9cc99fa47ab86a647ee28980822",
+                                    "content": "6-12 years"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "065c12c8d77b413dafa7a6d79199f4c3",
+                                    "content": "13-19 years"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b045bd185df47959f3d3bd4409d7678",
+                                    "content": "Over 19 years"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "学龄前期是指？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "学龄前期是指儿童处于2到6岁的年龄阶段，这个阶段通常是指他们尚未开始正式的义务教育。",
+                        "id": "00397a7623ae43d188244a2d3c815ada",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c03c2295d9f487aa0532318f14c258c",
+                                "content": "Fetal Period"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7df3bbd093cb4fbeb4bf2d95c0f1d04a",
+                                "content": "Neonatal Period"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4a30be9686454cde8cc9fdaa7502bc3d",
+                                "content": "Infant Period"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8150587d08247419810dfee805b7d83",
+                                "content": "Toddlerhood"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c03c2295d9f487aa0532318f14c258c",
+                                    "content": "Fetal Period"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7df3bbd093cb4fbeb4bf2d95c0f1d04a",
+                                    "content": "Neonatal Period"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4a30be9686454cde8cc9fdaa7502bc3d",
+                                    "content": "Infant Period"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8150587d08247419810dfee805b7d83",
+                                    "content": "Toddlerhood"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "婴儿在出生前的发展时期称作？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "胎儿期指的是婴儿出生前在母亲子宫内的发展时期。",
+                        "id": "0238c8607c3b4ba8a4dde9c75b9a378c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07084acf770b4bff85e065bc0f7cdfbb",
+                                "content": "Proximal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c177f1d4fb6f4d559bec4c1a365ad8c8",
+                                "content": "Distal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7dcdcda601cd4f00aa02da99d4220e84",
+                                "content": "Periphery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a529f691311540e2a74f6e02df6bffe8",
+                                "content": "Central"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07084acf770b4bff85e065bc0f7cdfbb",
+                                    "content": "Proximal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c177f1d4fb6f4d559bec4c1a365ad8c8",
+                                    "content": "Distal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7dcdcda601cd4f00aa02da99d4220e84",
+                                    "content": "Periphery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a529f691311540e2a74f6e02df6bffe8",
+                                    "content": "Central"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "近距离的医学术语是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Proximal意为靠近中心的或者起点的部位。",
+                        "id": "07927151fab44e2d932fef4df8f45d50",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ee687e1d27a4a27afe7a83811a211db",
+                                "content": "Pertussis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5db681a4cac14d628491cd6ce3c88f4b",
+                                "content": "Varicella"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "477306a3930f418cb8212fa7043866aa",
+                                "content": "Rubeola"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0c883ea9b504cad86554a57ddc7f300",
+                                "content": "Measles"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ee687e1d27a4a27afe7a83811a211db",
+                                    "content": "Pertussis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5db681a4cac14d628491cd6ce3c88f4b",
+                                    "content": "Varicella"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "477306a3930f418cb8212fa7043866aa",
+                                    "content": "Rubeola"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0c883ea9b504cad86554a57ddc7f300",
+                                    "content": "Measles"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "百日咳的英文是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "百日咳的英文是\"Pertussis\"，是一种严重的呼吸道感染，特征为剧烈的咳嗽发作。",
+                        "id": "11063fe2a98346fbb8d5787fbf3665d2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f120a2f341334efd975a4faa8b1c991d",
+                                "content": "Vaccination"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3574ebf6003b49f89cf6a5304d6694fc",
+                                "content": "Incubation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d34ae2986f4149a491b9702ba05f452a",
+                                "content": "Administration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ee63e0196214fba9463d6ee07a445fa",
+                                "content": "Isolation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f120a2f341334efd975a4faa8b1c991d",
+                                    "content": "Vaccination"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3574ebf6003b49f89cf6a5304d6694fc",
+                                    "content": "Incubation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d34ae2986f4149a491b9702ba05f452a",
+                                    "content": "Administration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ee63e0196214fba9463d6ee07a445fa",
+                                    "content": "Isolation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "利用疫苗进行预防疾病的行为称作？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "利用疫苗进行预防疾病的行为是通过疫苗接种来实现的，即通过激活免疫系统的应答来防止未来可能的感染。",
+                        "id": "15858878b0874ad28ac571695d22c98d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b257a4010e5939543aaec4b1d5c2e584",
+                                "content": "Nosocomial"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5df434a7a6347837181db8071319069b",
+                                "content": "Nosocom(o)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca56149f9a57a628e26488438c272ef4",
+                                "content": "Transmission"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d2e748362eddfab235cccac1bcd49e5",
+                                "content": "None of the above"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b257a4010e5939543aaec4b1d5c2e584",
+                                    "content": "Nosocomial"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5df434a7a6347837181db8071319069b",
+                                    "content": "Nosocom(o)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca56149f9a57a628e26488438c272ef4",
+                                    "content": "Transmission"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d2e748362eddfab235cccac1bcd49e5",
+                                    "content": "None of the above"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>传染的医学术语是什么？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>在医学中，“传染” 最核心的术语是 <strong style=\"background-color: rgba(0, 0, 0, 0); font-size: 16px; color: rgb(0, 0, 0);\">transmission</strong>（指病原体从一个宿主传播到另一个宿主的过程)</p>",
+                        "id": "18302134e939444fa61e052d501a49e6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec087a547c5147fbaee5b4f638f67c60",
+                                "content": "Periphery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "981aae5e1b9c4c3f877438489b187a3c",
+                                "content": "Central"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e93cdda84ca48a891f737b3344dce1f",
+                                "content": "Proximal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0298c7c84184014b6efe663baa46764",
+                                "content": "Distal"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec087a547c5147fbaee5b4f638f67c60",
+                                    "content": "Periphery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "981aae5e1b9c4c3f877438489b187a3c",
+                                    "content": "Central"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e93cdda84ca48a891f737b3344dce1f",
+                                    "content": "Proximal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0298c7c84184014b6efe663baa46764",
+                                    "content": "Distal"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "外围的医学术语指什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "外围的医学术语是\"Periphery\"，指的是身体的一部分距离中心较远的位置。",
+                        "id": "1f97789bd7654fbc8a88742bf0c781d6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f5dfc55de0140da925eb4755f09357b",
+                                "content": "Tonsillitis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62f3ce3512cc4495a25b56a434142e93",
+                                "content": "Hepatitis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "707c10696c294baea03fab351e3d921c",
+                                "content": "Mumps"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09435088795e490a928f78ffd4df750b",
+                                "content": "Carditis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f5dfc55de0140da925eb4755f09357b",
+                                    "content": "Tonsillitis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62f3ce3512cc4495a25b56a434142e93",
+                                    "content": "Hepatitis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "707c10696c294baea03fab351e3d921c",
+                                    "content": "Mumps"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09435088795e490a928f78ffd4df750b",
+                                    "content": "Carditis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "腮腺炎的英文是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "腮腺炎的英文是\"Mumps\"，是一种由腮腺炎病毒引起的传染性疾病，典型症状包括腮腺肿胀。",
+                        "id": "225151e853f4412ba1c63b079f2d85df",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "460c800451a741058ada2f8eb73d3dbe",
+                                "content": "Congenital Anomaly"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d0ac81c5d204b108b1988f5d11f2a30",
+                                "content": "Hereditary Disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98d5b119b5f7445889946965186d667b",
+                                "content": "Genetic Syndrome"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42851ac7a0a248e3a0a335c1f3bfcf0f",
+                                "content": "Acquired Disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "460c800451a741058ada2f8eb73d3dbe",
+                                    "content": "Congenital Anomaly"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d0ac81c5d204b108b1988f5d11f2a30",
+                                    "content": "Hereditary Disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98d5b119b5f7445889946965186d667b",
+                                    "content": "Genetic Syndrome"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42851ac7a0a248e3a0a335c1f3bfcf0f",
+                                    "content": "Acquired Disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "先天性疾病的医学术语是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "先天性疾病的医学术语是\"Congenital Anomaly\"，是指在出生时就存在的解剖学上的异常。",
+                        "id": "2c2760a9cfd6405784376e440d81fafd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9782bffe68047f89edf6150342341f6",
+                                "content": "Immunization"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7af2092d0bc4a65b1054294560248bf",
+                                "content": "Vaccine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d174458870142f7af8ef56ab2527cd1",
+                                "content": "Disinfection"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de0653967c3f4393ae3edafcb19a1d49",
+                                "content": "Sterilization"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9782bffe68047f89edf6150342341f6",
+                                    "content": "Immunization"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7af2092d0bc4a65b1054294560248bf",
+                                    "content": "Vaccine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d174458870142f7af8ef56ab2527cd1",
+                                    "content": "Disinfection"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de0653967c3f4393ae3edafcb19a1d49",
+                                    "content": "Sterilization"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "什么是免疫过程的英文表述？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "免疫过程在医学上通常指的是通过接种疫苗或自然感染获得的对某种疾病的防御能力。\"Immunization\" 正确地描述了这一过程。",
+                        "id": "2cead611c83e4084835d8bc354c3d4c4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "518992eb50a63039061a7565377f4220",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 168000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:14:21",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

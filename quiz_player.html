@@ -251,6 +251,12 @@
             border-radius: 16px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             overflow: hidden;
+            transition: background 0.5s ease;
+        }
+        /* Auto‑scroll flash class – matches index.html style (light green background) */
+        .flash-question {
+            background-color: #e9f7ef !important;
+            transition: background 0.5s ease;
         }
         .question-header {
             padding: 16px 20px 12px 20px;
@@ -681,6 +687,18 @@
         return d.split('-').pop() || d;
     }
     
+    // ========== 修复后的 toRelativePath（与 index.html 保持一致） ==========
+    function toRelativePath(absolutePath) {
+        const knownFolders = ["ChapterPractice", "Saunders", "Uworld", "医学术语", "患者需求"];
+        const parts = absolutePath.split(/[\\/]/);
+        for (let i = 0; i < parts.length; i++) {
+            if (knownFolders.includes(parts[i])) {
+                return parts.slice(i).join('/');
+            }
+        }
+        return parts[parts.length - 1];
+    }
+    
     let fullQuestions = [];
     let currentQuestions = [];
     let fullUserAnswers = [];
@@ -688,6 +706,7 @@
     let currentUserAnswers = [];
     let currentAnswerStatus = [];
     let currentFilePath = "";
+    let initialAutoScrollDone = false;   // 确保 auto‑scroll 只在初次加载时执行一次
     
     function getSavedKey() { return `saved_questions_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function loadSavedQuestionIds() {
@@ -925,6 +944,50 @@
         if (compactSpan) compactSpan.innerHTML = `📊 ${Math.round(stats.rate)}%  ✅ ${stats.correct}/${stats.total}`;
     }
     
+    // ========== 自动滚动到第一个未作答且未核对过答案的题目 ==========
+    function scrollToFirstUnanswered() {
+        if (!currentQuestions.length) return;
+        // 找到第一个条件满足的题目：
+        //   currentAnswerStatus[i] === false  (未核对答案)
+        //   且当前没有记录任何用户输入
+        let targetIndex = -1;
+        for (let i = 0; i < currentQuestions.length; i++) {
+            const hasAnswer = (() => {
+                const q = currentQuestions[i];
+                const ans = currentUserAnswers[i];
+                if (q.type === '1') return Array.isArray(ans) && ans.length > 0;
+                if (q.type === '3') return typeof ans === 'string' && ans.trim() !== '';
+                return ans !== null && ans !== undefined;
+            })();
+            if (currentAnswerStatus[i] === false && !hasAnswer) {
+                targetIndex = i;
+                break;
+            }
+        }
+        
+        if (targetIndex === -1) {
+            // 所有题目都已经有了答案或已经核对过 → 显示祝贺 toast
+            showToast('🎉 恭喜！本章所有题目均已完成！', 3000);
+            // ========== 占位代码：未来在此处添加“成绩卡”弹窗或卡片 ==========
+            // 计划功能：当全部题目完成后，显示一个包含正确率、完成时间等的成绩卡。
+            // 具体实现待后续迭代。此处仅预留注释。
+            // =============================================================
+            return;
+        }
+        
+        const targetCard = document.querySelector(`.card[data-qidx="${targetIndex}"]`);
+        if (!targetCard) return;
+        
+        // 平滑滚动到卡片中央
+        targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        
+        // 添加高亮 flash 类，2.5 秒后移除
+        targetCard.classList.add('flash-question');
+        setTimeout(() => {
+            targetCard.classList.remove('flash-question');
+        }, 2500);
+    }
+    
     function renderQuiz() {
         const container = document.getElementById('quizContainer');
         if (!currentQuestions.length) {
@@ -1116,6 +1179,12 @@
         updateStatsDisplay();
         updateCompletionUI();
         saveAllProgress();
+        
+        // 仅在初次加载时自动滚动到第一个未作答题目
+        if (!initialAutoScrollDone) {
+            scrollToFirstUnanswered();
+            initialAutoScrollDone = true;
+        }
     }
     
     function applyFilters() {
@@ -1144,6 +1213,7 @@
         document.getElementById('settingsPanel').classList.remove('open');
         if (onlySaved && filtered.length) showToast(`📚 当前显示 ${filtered.length} 道收藏题目`, 1500);
         else if (!onlySaved) showToast('✅ 筛选已应用');
+        // 注意：应用筛选后不自动滚动，保持用户手动控制的位置
     }
     
     function resetProgress() {

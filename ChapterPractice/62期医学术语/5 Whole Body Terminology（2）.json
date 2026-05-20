@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:22",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:22",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:22:57",
+            "id": "a93fc1cd0b85ffdfe29e57fd586a98ff",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d7ab1a53e0746e45fdd33e9a65f558c",
+                                "content": " hypochondriac region"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f6af040153af5945262cafb33927016",
+                                "content": "epigastric region"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46a5e597c87f98341d44bd82178f77b9",
+                                "content": "umbilical region"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22ef14980f1968b30eebe17bae6a28eb",
+                                "content": "lumbar region"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d7ab1a53e0746e45fdd33e9a65f558c",
+                                    "content": " hypochondriac region"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f6af040153af5945262cafb33927016",
+                                    "content": "epigastric region"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46a5e597c87f98341d44bd82178f77b9",
+                                    "content": "umbilical region"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22ef14980f1968b30eebe17bae6a28eb",
+                                    "content": "lumbar region"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Region 2 is known as:",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "epigastric region 上腹部",
+                        "id": "03a7096baddf475492d35b8d20fb3c93",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6eb0df79a2055d6d581b6e0ca2d95da5",
+                                "content": "cytoplasm"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc98050b8249914fe3bf30cc552e707c",
+                                "content": "cell plasma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d50e20d1ba17663eb6c9f4a7c8785a6",
+                                "content": "mitochondrion"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0a6d6f60d9b32f81ac7d379edd7cdf4",
+                                "content": "lysosome"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6eb0df79a2055d6d581b6e0ca2d95da5",
+                                    "content": "cytoplasm"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc98050b8249914fe3bf30cc552e707c",
+                                    "content": "cell plasma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d50e20d1ba17663eb6c9f4a7c8785a6",
+                                    "content": "mitochondrion"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0a6d6f60d9b32f81ac7d379edd7cdf4",
+                                    "content": "lysosome"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The cell's outer covering is called:",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "细胞壁 cell/plasma membrane",
+                        "id": "0793f35ff57b47f880efedcc34e40668",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81197645581499b0254af53f9a9c1f2f",
+                                "content": "aplasia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "419bbc634a89164986f98b8602bf36da",
+                                "content": "dysplasia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "54c58b92df22f3233f826c41abc8ebcb",
+                                "content": "hyperplasia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0431b8ba9a27dbbf5240497f55fff1e",
+                                "content": "neoplasia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81197645581499b0254af53f9a9c1f2f",
+                                    "content": "aplasia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "419bbc634a89164986f98b8602bf36da",
+                                    "content": "dysplasia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "54c58b92df22f3233f826c41abc8ebcb",
+                                    "content": "hyperplasia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0431b8ba9a27dbbf5240497f55fff1e",
+                                    "content": "neoplasia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Excessive formation or growth",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "hyperplasia增生",
+                        "id": "0df910d9f91c45089be4b3daa8f8d738",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7b49b2d67f84610961336ab291dec8b",
+                                "content": "血液循环系统"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94dbea6abff249e9bb111fd70e5b30fd",
+                                "content": "神经系统"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eac731f7e37f4ab3bcd47762f0cdd0b1",
+                                "content": "皮肤及其附属结构，如毛发和指甲"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "553df4e2b0ec412a871c600c710b2c68",
+                                "content": "消化系统"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7b49b2d67f84610961336ab291dec8b",
+                                    "content": "血液循环系统"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94dbea6abff249e9bb111fd70e5b30fd",
+                                    "content": "神经系统"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eac731f7e37f4ab3bcd47762f0cdd0b1",
+                                    "content": "皮肤及其附属结构，如毛发和指甲"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "553df4e2b0ec412a871c600c710b2c68",
+                                    "content": "消化系统"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“Integumentary system”主要指的是",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "“Integumentary system”指的是皮肤及其附属结构，包括毛发、指甲以及皮肤腺体等。这个系统的主要功能包括保护身体免受外界伤害、调节体温、感觉外界刺激以及合成维生素D。选项C“皮肤及其附属结构”是对“Integumentary system”最准确的描述。选项A、B和D都与该系统的定义不符。",
+                        "id": "0e3bd409deba4aac9057abf6bf26370b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56e83954eea249ae35329d98ccda8f2e",
+                                "content": "supination"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28c1ae25e17b239185903e1295a40a1f",
+                                "content": "dorsum"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6466d32f9df4a3772c1ef4b604b7de0",
+                                "content": "pronation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87188215ed26249b086ef3d23c2b5279",
+                                "content": "plantar"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56e83954eea249ae35329d98ccda8f2e",
+                                    "content": "supination"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28c1ae25e17b239185903e1295a40a1f",
+                                    "content": "dorsum"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6466d32f9df4a3772c1ef4b604b7de0",
+                                    "content": "pronation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87188215ed26249b086ef3d23c2b5279",
+                                    "content": "plantar"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The top of the foot is called:",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "dorsum脚背、脚面",
+                        "id": "109e44f9382c4bf29831f3299e781905",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c87a58a08d4aa3781713018a43a5349",
+                                "content": "结缔组织"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd94827dfece4202640a0ed9db0ebdbf",
+                                "content": "上皮组织"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49605afd7053cc48241458ed68b87658",
+                                "content": "肌肉组织"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e214d5a514c6b3c64d120de1044fe99",
+                                "content": "神经组织"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c87a58a08d4aa3781713018a43a5349",
+                                    "content": "结缔组织"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd94827dfece4202640a0ed9db0ebdbf",
+                                    "content": "上皮组织"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49605afd7053cc48241458ed68b87658",
+                                    "content": "肌肉组织"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e214d5a514c6b3c64d120de1044fe99",
+                                    "content": "神经组织"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Epithelial tissue",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "",
+                        "id": "11414612bf0240a0a78a118d39e2a7ec",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91729e60a62460db644a4c69f52a9f91",
+                                "content": "medial"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7fcc435d1af353140ac0d12339d34e1",
+                                "content": "distal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "044071444f3de4bb6d90cb162c688a73",
+                                "content": "proximal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "478480e60097d6e9770270bc49ba6dd4",
+                                "content": "lateral"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91729e60a62460db644a4c69f52a9f91",
+                                    "content": "medial"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7fcc435d1af353140ac0d12339d34e1",
+                                    "content": "distal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "044071444f3de4bb6d90cb162c688a73",
+                                    "content": "proximal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "478480e60097d6e9770270bc49ba6dd4",
+                                    "content": "lateral"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Toward the middleline of the body.",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "medial内测",
+                        "id": "124d029509e74875938e0315195f4c78",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "33e31e75c6abc4f0110419ffcaac92e0",
+                                "content": "cell"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "293e622816ebc647f8a9ec2f9a28b4ed",
+                                "content": "tissue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b47c4ce000322b66a5af0fcfe0d5e52",
+                                "content": "organ"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05fd523604953fddfd85c210013c135e",
+                                "content": "systems"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "33e31e75c6abc4f0110419ffcaac92e0",
+                                    "content": "cell"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "293e622816ebc647f8a9ec2f9a28b4ed",
+                                    "content": "tissue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b47c4ce000322b66a5af0fcfe0d5e52",
+                                    "content": "organ"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05fd523604953fddfd85c210013c135e",
+                                    "content": "systems"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The smallest and most numerous structural unit of living matter is:",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "身体结构是从细胞层面开始的，所以它是最小、最多的结构单元",
+                        "id": "14a46355650742f8b4a1bbaf4e604e42",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ece50b636c6c478a9ecc52548dc52b00",
+                                "content": " 从头部到脚部的方向"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4b01b5ddd40441cb9e1001b81fb3570",
+                                "content": "从脚部到头部的方向"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ae97396ba644fc7b487b3a2499c067b",
+                                "content": "从中间向外的方向"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe138fe07be7444f9be9538452cf98df",
+                                "content": "从背部向前的方向"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ece50b636c6c478a9ecc52548dc52b00",
+                                    "content": " 从头部到脚部的方向"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4b01b5ddd40441cb9e1001b81fb3570",
+                                    "content": "从脚部到头部的方向"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ae97396ba644fc7b487b3a2499c067b",
+                                    "content": "从中间向外的方向"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe138fe07be7444f9be9538452cf98df",
+                                    "content": "从背部向前的方向"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cephalocaudal”在解剖学中指的是：",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "\"Cephalocaudal\"是一个方向术语，用来描述从身体的最上部（头）向最下部（脚）的方向。这个词常用于医学和生物学领域来指发展、生长或过程的顺序。因此，选项A是正确的。",
+                        "id": "153de988140f46fdb0ae6082bd7ffd20",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98cc7913f261ce98511c7f73c87ad58b",
+                                "content": "cardiac muscle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af8f7206ee00869343fcc9a17c3a195a",
+                                "content": "muscle fiber"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3d99960a0210f8da26bf5de996a03db",
+                                "content": "skeletal muscle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f182dd207d6447c028874c50ac2ef61",
+                                "content": "smooth muscle"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98cc7913f261ce98511c7f73c87ad58b",
+                                    "content": "cardiac muscle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af8f7206ee00869343fcc9a17c3a195a",
+                                    "content": "muscle fiber"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3d99960a0210f8da26bf5de996a03db",
+                                    "content": "skeletal muscle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f182dd207d6447c028874c50ac2ef61",
+                                    "content": "smooth muscle"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The muscle that makes up the muscular wall of the heart is called:",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "",
+                        "id": "184d7a99efb94a398d8e8be5c854bd5c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "251f8da693bea693c7b997c7542dca55",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 82000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:22:57",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Whole Body Terminolog",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

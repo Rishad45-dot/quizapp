@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:14",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:14",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:24:15",
+            "id": "5b704953ea41eccaca76c41d397133c1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "049381b7585b49589294c71727d194b5",
+                                "content": "呼吸"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d3c3c0980cb450684cea54679207e7c",
+                                "content": "代谢"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff2394fff56c430bb0f17b15da09f5f9",
+                                "content": "消化"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c256a8d695c4144a8fdcc3b3b07145a",
+                                "content": "循环"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "049381b7585b49589294c71727d194b5",
+                                    "content": "呼吸"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d3c3c0980cb450684cea54679207e7c",
+                                    "content": "代谢"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff2394fff56c430bb0f17b15da09f5f9",
+                                    "content": "消化"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c256a8d695c4144a8fdcc3b3b07145a",
+                                    "content": "循环"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Metabolism\" 指的是哪种生物化学过程？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Metabolism\"指的是生物体内发生的化学物质转换的过程，即代谢过程。",
+                        "id": "01d8c9af166f41979dde5b0882bad8d5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b126111bb686426eb1b50be33e59d4ce",
+                                "content": "高磷血症"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e3deb8bbd244e848d4a4a7b31d40ca9",
+                                "content": "低磷血症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c28dc88b212342feab16112d49cae2c7",
+                                "content": "正常磷水平"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "928eda9d86904910b18f39a452ba89c5",
+                                "content": "无磷血症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b126111bb686426eb1b50be33e59d4ce",
+                                    "content": "高磷血症"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e3deb8bbd244e848d4a4a7b31d40ca9",
+                                    "content": "低磷血症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c28dc88b212342feab16112d49cae2c7",
+                                    "content": "正常磷水平"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "928eda9d86904910b18f39a452ba89c5",
+                                    "content": "无磷血症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Hypophosphatemia\" 是指：",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Hypophosphatemia\"由\"hypo-\"（低）和\"phosphatemia\"（磷血症）组成，因此意为低磷血症。",
+                        "id": "03a035aee5ac43babba8ae193683ad3f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "833a750288684f6db29d94cf8c03b5b0",
+                                "content": "intravenous"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "381b695d189e4b14ab6029eea4a02bce",
+                                "content": "hypokalemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3c6b2eaf29644be9520922961643c3b",
+                                "content": "dietary guidelines"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c804869009b4c3abcf8ecc1521d787a",
+                                "content": "NPO"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "833a750288684f6db29d94cf8c03b5b0",
+                                    "content": "intravenous"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "381b695d189e4b14ab6029eea4a02bce",
+                                    "content": "hypokalemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3c6b2eaf29644be9520922961643c3b",
+                                    "content": "dietary guidelines"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c804869009b4c3abcf8ecc1521d787a",
+                                    "content": "NPO"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在下列选项中，哪个是描述电解质的词汇？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：电解质是维持生命活动的重要物质，包括钾、钠、钙、镁等。在这些选项中，只有B选项hypokalemia（低钾血症）是一个描述电解质异常的医学术语。",
+                        "id": "08f5d51f74954349af97e9bd485e1335",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7e01f19656747a18b023e21c61e637f",
+                                "content": "触诊"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "033d75a0eb3b4c6480bdec360f1e4c32",
+                                "content": "叩诊"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cce87c5548c14772a5208b4da30d4ed5",
+                                "content": "视诊"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2624c249f9b44ce68676b0287ff76a37",
+                                "content": "听诊"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7e01f19656747a18b023e21c61e637f",
+                                    "content": "触诊"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "033d75a0eb3b4c6480bdec360f1e4c32",
+                                    "content": "叩诊"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cce87c5548c14772a5208b4da30d4ed5",
+                                    "content": "视诊"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2624c249f9b44ce68676b0287ff76a37",
+                                    "content": "听诊"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Inspection\" 在体格检查中代表哪种步骤？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Inspection\"在体格检查中指的是用视觉观察患者的外观、肤色等，即视诊。",
+                        "id": "0a443c02908c4ad8b2ad8147484b6690",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec764873279c4632abed9153c0899ed8",
+                                "content": "收入"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "309d1af3c52841c18fe854a2993c3dbb",
+                                "content": "摄入量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98c797e9e87e4ab0b41c92ad8cb6ab24",
+                                "content": "输出量"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b03e7565ee24f87b570a1403e7c18c8",
+                                "content": "体温"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec764873279c4632abed9153c0899ed8",
+                                    "content": "收入"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "309d1af3c52841c18fe854a2993c3dbb",
+                                    "content": "摄入量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98c797e9e87e4ab0b41c92ad8cb6ab24",
+                                    "content": "输出量"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b03e7565ee24f87b570a1403e7c18c8",
+                                    "content": "体温"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Intake\" 在医疗记录中通常指代什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Intake\"在医疗记录中通常指代摄入的液体或食物的量，即摄入量。",
+                        "id": "1a6fafd207044a1080fd3e04e62562c5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e9a129d3ed84ea79e78f7e27cce8581",
+                                "content": "手术前"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3eafaa66e8ae45ea9d76281705e722fe",
+                                "content": "手术后"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c234831d5c24532993cadfb99440681",
+                                "content": "围绕手术期间"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "160defcd781640959ae1de41c5f55e3c",
+                                "content": "非手术期"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e9a129d3ed84ea79e78f7e27cce8581",
+                                    "content": "手术前"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3eafaa66e8ae45ea9d76281705e722fe",
+                                    "content": "手术后"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c234831d5c24532993cadfb99440681",
+                                    "content": "围绕手术期间"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "160defcd781640959ae1de41c5f55e3c",
+                                    "content": "非手术期"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"Peri-operative\" 通常指的是什么时间段？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：\"Peri-operative\"指的是围手术期，包括手术前、手术中和手术后的时间段。",
+                        "id": "1ef40e08ba584fdf9afddeea718076e3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11cd45208bcd4835810c8458faab3d2f",
+                                "content": "Incontinence"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e9f1116df374e559c94aff3aeb99f36",
+                                "content": "Retention"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a629bb7267a47e1a11ef144afd7ca86",
+                                "content": "Frequency"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7bde39dabc6243ddaa97a9e73dfe1ead",
+                                "content": "Urge"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11cd45208bcd4835810c8458faab3d2f",
+                                    "content": "Incontinence"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e9f1116df374e559c94aff3aeb99f36",
+                                    "content": "Retention"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a629bb7267a47e1a11ef144afd7ca86",
+                                    "content": "Frequency"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7bde39dabc6243ddaa97a9e73dfe1ead",
+                                    "content": "Urge"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "患者无法排尿，医学上称之为：",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：无法排尿在医学上称为\"尿潴留\"，英文为\"Retention\"。",
+                        "id": "27c96d86d85245498a93f6c1e9cf1210",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a571fc7274024f11872cb939f07037ee",
+                                "content": "temporal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34ca41afb4844263b4f7f4c3afef7eb4",
+                                "content": "low-purine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a79e304a34d74fba8bbbc14f852a44ca",
+                                "content": "hypophosphatemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57e0619e18b64ad7b29e94f339e10b6e",
+                                "content": "high-iron diet"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a571fc7274024f11872cb939f07037ee",
+                                    "content": "temporal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34ca41afb4844263b4f7f4c3afef7eb4",
+                                    "content": "low-purine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a79e304a34d74fba8bbbc14f852a44ca",
+                                    "content": "hypophosphatemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57e0619e18b64ad7b29e94f339e10b6e",
+                                    "content": "high-iron diet"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在下列选项中，哪个是描述体温测量的词汇？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "temporal（颞部的）是描述体温测量的词汇，它指的是在颞部进行体温测量。",
+                        "id": "33926f7c35cb4cd590c8609f246d4969",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4564c41c995a4a6ba7f70e0b047b81a3",
+                                "content": "low-fiber diet"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad7cc2ccac5b476188d5a530f148d4a1",
+                                "content": "pain management"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "708469469e434d1d959704a311091d7f",
+                                "content": "chronic illness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6da8c3a1bb1840c58cc72a072d659360",
+                                "content": "dysrhythmia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4564c41c995a4a6ba7f70e0b047b81a3",
+                                    "content": "low-fiber diet"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad7cc2ccac5b476188d5a530f148d4a1",
+                                    "content": "pain management"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "708469469e434d1d959704a311091d7f",
+                                    "content": "chronic illness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6da8c3a1bb1840c58cc72a072d659360",
+                                    "content": "dysrhythmia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "在下列选项中，哪个是描述营养状况的词汇？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：low-fiber diet（低纤维饮食）是一种营养状况的描述，它指的是食物中纤维含量较低。",
+                        "id": "3632eb29f3444e4fb6c2117be7160788",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d53b02de6740415fbcdd24622d91bad3",
+                                "content": "NPO"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cde43e31c2704de8b020ce37752413aa",
+                                "content": "IV"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9a0d7340abd4d43937dbe3e1b00397f",
+                                "content": "SQ"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0471a0fa03349508716e4d4daf42b88",
+                                "content": "IM"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d53b02de6740415fbcdd24622d91bad3",
+                                    "content": "NPO"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cde43e31c2704de8b020ce37752413aa",
+                                    "content": "IV"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9a0d7340abd4d43937dbe3e1b00397f",
+                                    "content": "SQ"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0471a0fa03349508716e4d4daf42b88",
+                                    "content": "IM"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "当患者需要禁食时，通常使用哪个缩写表示？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "解析：NPO是“nil per os”的缩写，拉丁文意为“通过口无”，即禁食。",
+                        "id": "5c62f42623ca463ba1a43c79a2beb207",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "158dc2f4f31a99bf63ede259014a1b10",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 240000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:24:15",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

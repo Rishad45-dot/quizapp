@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:51:11",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:51:11",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:53:34",
+            "id": "3b562091d7930b198ab2f6356e23d436",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "029a5eba6f50404e95b8d21652709d59",
+                                "content": "The diet needs to include additional fluids."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f833a688a26741118fd87f1997e75e2d",
+                                "content": "Prenatal vitamins need to be discontinued."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "baeecd98847c484ca9a72b79bf43d073",
+                                "content": "Soap needs to be used to cleanse the breasts."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "774c2ca6ae8d476094bfd94c51695d57",
+                                "content": "Birth control measures are unnecessary while breast/chest feeding."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "029a5eba6f50404e95b8d21652709d59",
+                                    "content": "The diet needs to include additional fluids."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f833a688a26741118fd87f1997e75e2d",
+                                    "content": "Prenatal vitamins need to be discontinued."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "baeecd98847c484ca9a72b79bf43d073",
+                                    "content": "Soap needs to be used to cleanse the breasts."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "774c2ca6ae8d476094bfd94c51695d57",
+                                    "content": "Birth control measures are unnecessary while breast/chest feeding."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is teaching a postpartum client about breast/chest feeding. Which instruction would the nurse include?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe diet for a breast/chest feeding client would include additional fluids. Prenatal vitamins would be taken as prescribed, and soap would not be used on the breasts/chest because it tends to remove natural oils, which increases the chance of cracked nipples. Breast/chest feeding is not a method of contraception, so birth control measures would be resumed.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Postpartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Nutrition, Patient Education\nStrategies: Subject\n Test-Taking Strategy:\nNote the subject, teaching for the breast/chest feeding client. Remember that fluids and calories would be increased when the client is breast/chest feeding.\n \n ",
+                        "id": "0c05762a0ab540ceb81e2945788d01bd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d972221319e401dbd23c8630de17cfc",
+                                "content": "100"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d944e2ad4d1461ca1370ab066790011",
+                                "content": "300"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4407d6422fb44d5b3b6cf89d1f36ab5",
+                                "content": "500"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b087a4f5aeef4741a6ce47385cc45e76",
+                                "content": "1000"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d972221319e401dbd23c8630de17cfc",
+                                    "content": "100"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d944e2ad4d1461ca1370ab066790011",
+                                    "content": "300"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4407d6422fb44d5b3b6cf89d1f36ab5",
+                                    "content": "500"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b087a4f5aeef4741a6ce47385cc45e76",
+                                    "content": "1000"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing nutritional counseling to a parent who is breast/chest-feeding a newborn. The nurse would instruct the client that the client's calorie needs would increase by approximately how many calories a day?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf the client is breast/chest-feeding, calorie needs increase by approximately 500 calories/day. The client would also be instructed on the need for increased fluids and the need for prenatal vitamins and iron supplements.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Postpartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Nutrition, Reproduction\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, calorie needs for a breast/chest-feeding parent. Knowledge of nutritional needs is needed to answer correctly. Remember that calorie needs in the breast/chest-feeding client increase by 500 calories/day.\n \n   ",
+                        "id": "1492f70502ed420a80c67a3aedbd4360",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3fe3a5d825b3464988ecb62396ce78ec",
+                                "content": "The client is hemorrhaging."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "452c80a5d6754896bf7e1f2c0d2b8ec3",
+                                "content": "The client needs to increase oral fluids."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa06bebc6e6947a6ac7683f716299e1e",
+                                "content": "The client is experiencing normal lochia discharge."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "37cac8db5abc4aabb97d8d0455e867f3",
+                                "content": "The client's primary health care provider (PHCP) needs to be notified of the finding."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3fe3a5d825b3464988ecb62396ce78ec",
+                                    "content": "The client is hemorrhaging."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "452c80a5d6754896bf7e1f2c0d2b8ec3",
+                                    "content": "The client needs to increase oral fluids."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa06bebc6e6947a6ac7683f716299e1e",
+                                    "content": "The client is experiencing normal lochia discharge."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "37cac8db5abc4aabb97d8d0455e867f3",
+                                    "content": "The client's primary health care provider (PHCP) needs to be notified of the finding."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is checking lochia discharge in a client in the immediate postpartum period. The nurse notes that the lochia is bright red and contains some small clots. Based on these data, the nurse would make which interpretation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nLochia, the uterine discharge present after birth, initially is bright red and may contain small clots. During the first 2 hours after birth, the amount of uterine discharge would be approximately that of a heavy menstrual period. After that time, the lochial flow would steadily decrease, and the color of the discharge would change to a pinkish red or reddish brown. Because this is a normal, expected occurrence, the client is not hemorrhaging, not in need of increased fluids, and there is no need to contact the PHCP.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Postpartum\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Comparable or Alike Options, Data in the Question\n   Test-Taking Strategy:\nFocus on the data in the question to assist in answering. Hemorrhaging and contacting the PHCP can be eliminated first because they are comparable or alike. If the client is hemorrhaging, the PHCP would need to be notified. Regarding the remaining choices, noting the words immediate postpartum period in the question will help you to realize that the client is experiencing normal lochia discharge.\n \n   ",
+                        "id": "31e8590bfa7a4f01a1510f9c3c86f143",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6f1d7f1d1ed421685d03c7c93570c47",
+                                "content": "\"If I experience any sweating during the night, I would call the primary health care provider.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "04e05fe346f74c64a5a227c26df1ad58",
+                                "content": "\"If I have uterine cramping while breast/chest-feeding, I would contact the primary health care provider.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf09161e19224280a8e036aa15309234",
+                                "content": "\"If I'm still having vaginal drainage in a week, I would contact the primary health care provider.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1d33dfd24e24901b16da8c54c370309",
+                                "content": "\"If I notice any pain, redness, or swelling in my breasts/chest, I need to contact the primary health care provider.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6f1d7f1d1ed421685d03c7c93570c47",
+                                    "content": "\"If I experience any sweating during the night, I would call the primary health care provider.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "04e05fe346f74c64a5a227c26df1ad58",
+                                    "content": "\"If I have uterine cramping while breast/chest-feeding, I would contact the primary health care provider.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf09161e19224280a8e036aa15309234",
+                                    "content": "\"If I'm still having vaginal drainage in a week, I would contact the primary health care provider.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1d33dfd24e24901b16da8c54c370309",
+                                    "content": "\"If I notice any pain, redness, or swelling in my breasts/chest, I need to contact the primary health care provider.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The postpartum unit nurse has provided discharge instructions to a client planning to breast/chest-feed a normal, healthy infant. Which statement by the client indicates an understanding of the instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSigns and symptoms of infection include pain, redness, heat, and swelling of a localized area of the breast/chest. If these signs or symptoms occur, the client needs to contact the primary health care provider. Sweating, experiencing uterine pains with breast/chest-feeding, and lochia after 7 days are normal changes that occur in the postpartum period.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Postpartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Infection, Patient Education\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, breast/chest-feeding in the postpartum period. Note the words indicates an understanding. Note the words pain, redness, or swelling in the correct option. All of these are signs of infection.\n \n  ",
+                        "id": "375a52cb579947688abebc3dec54ba19",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3e5122f635143c589f2980575a6b024",
+                                "content": "Raise the head of the client's bed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c99fdcb466044bc4949aa6037e5fe81c",
+                                "content": "Obtain hemoglobin and hematocrit levels."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe96b3ea59204c00aedcff36cf80b84f",
+                                "content": "Instruct the client to request help when getting out of bed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8311bfd7b87d4c41bc4cccd411ad5578",
+                                "content": "Inform the nursery room nurse to avoid bringing the newborn to the client until the client's symptoms have subsided."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3e5122f635143c589f2980575a6b024",
+                                    "content": "Raise the head of the client's bed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c99fdcb466044bc4949aa6037e5fe81c",
+                                    "content": "Obtain hemoglobin and hematocrit levels."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe96b3ea59204c00aedcff36cf80b84f",
+                                    "content": "Instruct the client to request help when getting out of bed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8311bfd7b87d4c41bc4cccd411ad5578",
+                                    "content": "Inform the nursery room nurse to avoid bringing the newborn to the client until the client's symptoms have subsided."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client who is 6 hours postpartum after delivering a full-term healthy newborn. The client complains to the nurse of feelings of faintness and dizziness. Which nursing action is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nOrthostatic hypotension may be evident during the first 8 hours after birth. Feelings of faintness or dizziness are signs that caution the nurse to focus interventions on the client's safety. The nurse would advise the client to get help the first few times she gets out of bed. Option 1 is not a helpful action in this situation and would not relieve the symptoms. Option 2 requires a primary health care provider's prescription. Option 4 is unnecessary.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Postpartum\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Safety\nStrategies: Strategic Words, Subject\n Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, client safety. Option 4 is inappropriate and should be eliminated first. Elevating the client's head is not a helpful intervention. To select from the remaining options, recall that safety is a primary issue.\n \n ",
+                        "id": "37e7a5e06bfa42bba0b02abe5f22dc63",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c6a07abe3cc49fea724c512db799a7c",
+                                "content": "Document the findings."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d0bc0a56e864df7be4c4aadefd8977a",
+                                "content": "Retake the temperature in 15 minutes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e49c66ca0d454d4ea1b6cff62a07a5bf",
+                                "content": "Notify the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cb040fa050f4a0fa82d802bda15adb8",
+                                "content": "Increase hydration by encouraging oral fluids."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c6a07abe3cc49fea724c512db799a7c",
+                                    "content": "Document the findings."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d0bc0a56e864df7be4c4aadefd8977a",
+                                    "content": "Retake the temperature in 15 minutes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e49c66ca0d454d4ea1b6cff62a07a5bf",
+                                    "content": "Notify the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cb040fa050f4a0fa82d802bda15adb8",
+                                    "content": "Increase hydration by encouraging oral fluids."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The postpartum nurse is taking the vital signs of a client who delivered a healthy newborn 4 hours ago. The nurse notes that the client's temperature is 100.2° F (37.8° C). What is the priority nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client's temperature needs to be taken every 4 hours while awake. Temperatures up to 100.4° F (38° C) in the first 24 hours after birth often are related to the dehydrating effects of labor. The appropriate action is to increase hydration by encouraging oral fluids, which would bring the temperature to a normal reading. Although the nurse also would document the findings, the appropriate action would be to increase hydration. Taking the temperature in another 15 minutes is an unnecessary action. Contacting the PHCP is not necessary.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Postpartum\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Thermoregulation, Reproduction\nStrategies: Strategic Words\n Test-Taking Strategy:\nNote the strategic word, priority, and use knowledge regarding the physiological findings in the immediate postpartum period to answer this question. Recalling that a temperature elevation often is related to the dehydrating effects of labor will direct you to the correct option. Also, increasing hydration relates to a physiological client need.\n \n ",
+                        "id": "539ff37287bf4136b518e6d5e8bd97a1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be74843b7b51484ba837b993bcb4168f",
+                                "content": "The parent is observed talking to the newborn."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "92664d808c1a4a9c8b3d87c418857d57",
+                                "content": "The parent performs cord care for the newborn."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e89910ecbab4f4b9146cfe48f5eac73",
+                                "content": "The parent verbalizes discomfort with the new role of motherhood."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9cf483b4c63a44a38a5bf910142c4927",
+                                "content": "The parent requests that the nurse feed the newborn because of feeling fatigued."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be74843b7b51484ba837b993bcb4168f",
+                                    "content": "The parent is observed talking to the newborn."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "92664d808c1a4a9c8b3d87c418857d57",
+                                    "content": "The parent performs cord care for the newborn."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e89910ecbab4f4b9146cfe48f5eac73",
+                                    "content": "The parent verbalizes discomfort with the new role of motherhood."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9cf483b4c63a44a38a5bf910142c4927",
+                                    "content": "The parent requests that the nurse feed the newborn because of feeling fatigued."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the postpartum unit is observing the parent-infant bonding process in a client. Which observation, if made by the nurse, indicates the potential for a maladaptive interaction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe nurse would be alert to maladaptive interaction in the parent-infant bonding processes. If the nurse notes that the parent is avoiding interaction with the newborn or is avoiding caring for the newborn, the nurse would suspect the potential for a maladaptive interaction. Talking to the newborn and performing cord care are actions that do not indicate a maladaptive response. Expressing discomfort with the new role of parenthood is a normal, expected process, and it is important for the parent to verbalize concerns.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Postpartum\nHealth Problem: Mental Health: Coping\nIntegrated Process: Caring\nPriority Concepts: Stress and Coping, Family Dynamics\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, a maladaptive behavior. The only option that indicates this potential is the correct one.\n \n  ",
+                        "id": "53d33e58b73e493ab071e1189837bdce",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdf55cb74e984e10bb6ff1cb174d22c1",
+                                "content": "The client is caring for the infant in a loving manner."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd29b34cf1f14bde8a1a88c6ea460b6e",
+                                "content": "The client demonstrates an interest in the surroundings."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "276550accb0248e38a70d4fca8ec211b",
+                                "content": "The client constantly complains of tiredness and fatigue."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f7706c949a034181946d9d474cf8ef7f",
+                                "content": "The client looks forward to visits from the other parent of the newborn."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdf55cb74e984e10bb6ff1cb174d22c1",
+                                    "content": "The client is caring for the infant in a loving manner."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd29b34cf1f14bde8a1a88c6ea460b6e",
+                                    "content": "The client demonstrates an interest in the surroundings."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "276550accb0248e38a70d4fca8ec211b",
+                                    "content": "The client constantly complains of tiredness and fatigue."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f7706c949a034181946d9d474cf8ef7f",
+                                    "content": "The client looks forward to visits from the other parent of the newborn."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring the client for signs of postpartum depression. Which behavior indicates the need for further assessment related to this form of depression?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPostpartum depression is not the normal depression that many new parents experience from time to time. The client experiencing depression shows less interest in the surroundings and a loss of their usual emotional response toward the family. The client also is unable to show pleasure or love and may have intense feelings of unworthiness, guilt, and shame. The client often expresses a sense of loss of self. Generalized fatigue, complaints of ill health, and difficulty in concentrating also are present. The client would have little interest in food and experience sleep disturbances.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Maternity: Postpartum\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Mood and Affect, Reproduction\nStrategies: Strategic Words, Subject\n Test-Taking Strategy:\nFocus on the subject, signs of postpartum depression, to assist you in answering. Note the strategic words, need for further assessment. These words indicate the need to select the finding of greatest concern. Note that the incorrect options identify positive parental behaviors.\n \n ",
+                        "id": "579cab83e6474f679a8d12ce7320c5cd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71253d141c9343c788d6a706310cc676",
+                                "content": "Every hour\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e62627c101cb4435808f6893915a01ce",
+                                "content": "Every 4 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27963ec40fce4caf8761ee4d74d4a147",
+                                "content": "Every 24 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8e7a528ef0642d9b0f8487581ccc37b",
+                                "content": "Every 30 minutes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71253d141c9343c788d6a706310cc676",
+                                    "content": "Every hour\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e62627c101cb4435808f6893915a01ce",
+                                    "content": "Every 4 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27963ec40fce4caf8761ee4d74d4a147",
+                                    "content": "Every 24 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8e7a528ef0642d9b0f8487581ccc37b",
+                                    "content": "Every 30 minutes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A postpartum unit nurse is caring for a stable client 12 hours after delivering a healthy newborn. At this time in the postpartum period, what is the recommended frequency for the nurse to assess the client's vital signs?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDuring the immediate postpartum period, the nurse takes vital signs every 15 minutes in the first hour after birth, every 30 minutes for the next 2 hours, and every hour for the next 2 to 6 hours. The nurse monitors vital signs thereafter every 4 hours for 24 hours and every 8 to 12 hours for the remainder of the hospital stay.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Postpartum\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Reproduction, Health Promotion\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, postpartum assessment for a stable client 12 hours postpartum. Read each option carefully. Noting the word stable in the question will assist in answering correctly.\n \n  ",
+                        "id": "5ee88aca740c4142ae21e718e7d548d4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b20f45e0868a4ce580714a4df9844908",
+                                "content": "Numb the tissue."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e930bafa7a1462db7def05fc52d4073",
+                                "content": "Stimulate a bowel movement."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b6a77ac86b14cd9ba3cb360cc305e1f",
+                                "content": "Reduce the edema and swelling."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad87ca6ffb0c4905bb7eb87202363e81",
+                                "content": "Assist in healing and provide comfort."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b20f45e0868a4ce580714a4df9844908",
+                                    "content": "Numb the tissue."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e930bafa7a1462db7def05fc52d4073",
+                                    "content": "Stimulate a bowel movement."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b6a77ac86b14cd9ba3cb360cc305e1f",
+                                    "content": "Reduce the edema and swelling."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad87ca6ffb0c4905bb7eb87202363e81",
+                                    "content": "Assist in healing and provide comfort."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The postpartum unit nurse has provided information on performing a sitz bath to a postpartum client after a vaginal delivery. The client demonstrates understanding of the purpose of the sitz bath by stating that it will promote which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nWarm, moist heat is used after the first 24 hours after tissue trauma from a vaginal birth to provide comfort, promote healing, and reduce the incidence of infection. This warm, moist heat is provided via a sitz bath. Ice is used in the first 24 hours to numb the tissue and reduce edema. Promoting a bowel movement is best achieved by ambulation.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Postpartum\nHealth Problem: Maternity: Discomforts of Pregnancy\nIntegrated Process: Teaching and Learning\nPriority Concepts: Health Promotion, Patient Education\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, the purpose of a sitz bath. Visualize this procedure to direct you to the correct option. Also, use principles related to heat and cold to answer correctly.\n ",
+                        "id": "6304ed8b7a9c4b8abf9b29e596365e82",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "a8c3738699558a2e38a76776af1da4da",
+            "lessonItemId": "5dc7acf59777274fc4478478889587ad",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 141000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:53:34",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Postpartum Perio",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

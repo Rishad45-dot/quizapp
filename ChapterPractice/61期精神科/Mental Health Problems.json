@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 12:34:52",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 12:34:52",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 12:35:56",
+            "id": "c181ae5c993675de3e665a1d759b67cb",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bcf545db65c0416882662daaf18c6bc4",
+                                "content": "\"Feeling better really isn't important to me anymore.\" "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50b555ec98f14552bac94fdbc8c337b2",
+                                "content": "\"No one can really understand what I've had to deal with.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "595e9616f43e4928bd640625d2ff7a7d",
+                                "content": " \"I really don't like the way that new depression pill makes me feel.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aef7528b8bbb4495982f1b8a31327d9f",
+                                "content": "\"I've not been the least bit interested in socializing since my divorce.\"\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bcf545db65c0416882662daaf18c6bc4",
+                                    "content": "\"Feeling better really isn't important to me anymore.\" "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50b555ec98f14552bac94fdbc8c337b2",
+                                    "content": "\"No one can really understand what I've had to deal with.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "595e9616f43e4928bd640625d2ff7a7d",
+                                    "content": " \"I really don't like the way that new depression pill makes me feel.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aef7528b8bbb4495982f1b8a31327d9f",
+                                    "content": "\"I've not been the least bit interested in socializing since my divorce.\"\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement made by a severely depressed client requires the nurse's immediate attention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe suicidal client may subtly express the intention to harm oneself in the form of a covert suicidal threat. The statement in option 1 would receive the nurse's priority attention because it is directly related to the client's safety. The remaining options are not related to safety as directly.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Mood and Affect, Safety\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic word, immediate, and focus on the subject, the client statement that requires immediate attention. Note that the client is severely depressed. Therefore, select the option that is directly related to the client's safety.\n ",
+                        "id": "0baa740db6d545f3af53060c223a6906",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69d6678d7b4446c8ab53aec24f5ac8ce",
+                                "content": "\"You can't really believe that about yourself.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fe54d2fcee2492c8312b41d3f98a7a0",
+                                "content": "\"I know just how you feel. I have those days myself once in a while.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7078df2b9af142669ddca1cbd9f367a1",
+                                "content": "\"I disagree with you; we all have some value and accomplishments in life.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "353070a4801940e394ee0d6e0423c26f",
+                                "content": "\"You seem very discouraged. Let's identify something that you are proud of doing.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69d6678d7b4446c8ab53aec24f5ac8ce",
+                                    "content": "\"You can't really believe that about yourself.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fe54d2fcee2492c8312b41d3f98a7a0",
+                                    "content": "\"I know just how you feel. I have those days myself once in a while.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7078df2b9af142669ddca1cbd9f367a1",
+                                    "content": "\"I disagree with you; we all have some value and accomplishments in life.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "353070a4801940e394ee0d6e0423c26f",
+                                    "content": "\"You seem very discouraged. Let's identify something that you are proud of doing.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with depression states to the nurse, \"My life has been such a failure. Nothing I do turns out right.\" Which response by the nurse will best address the client's low sense of self-esteem?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDepressed clients frequently exhibit feelings of low self-esteem and worthlessness. An effective plan of care would be designed for the client to provide experiences that are challenging but successful to enhance the client's self-esteem. Reminders of the client's past accomplishments or personal successes are ways to interrupt the client's negative self-talk and distorted cognitive view of self. The nurse would not devalue the client's feelings, challenge the client statements, or turn the focus back to the nurse.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Communication and Documentation\nPriority Concepts: Professional Identity, Communication\nStrategies: Strategic Words, Therapeutic Communication Techniques\n\nTest-Taking Strategy:\nNote the strategic word, best. Use therapeutic communication techniques. Communication blocks are evident when the nurse devalues the client's feelings or challenges the client. The correct option acknowledges the client's feelings, attempts to build on fact, and tests automatic negative thoughts.\n ",
+                        "id": "0d2d4c824de44d9b852e88ced83c3e12",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "206de152bbb84323933a07e928643fad",
+                                "content": "Fear "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3bd653ec987848998e8179e8caefe6f4",
+                                "content": "Anxiety"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62a1cd4d817c4e339b1ed7e310a659c3",
+                                "content": "Risk for aspiration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65982305690e407c9e307e40b0348871",
+                                "content": "Worry about body image\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "206de152bbb84323933a07e928643fad",
+                                    "content": "Fear "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3bd653ec987848998e8179e8caefe6f4",
+                                    "content": "Anxiety"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62a1cd4d817c4e339b1ed7e310a659c3",
+                                    "content": "Risk for aspiration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65982305690e407c9e307e40b0348871",
+                                    "content": "Worry about body image\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a plan of care for a client who is scheduled to have electroconvulsive therapy (ECT). Which problem is a priority for this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPriority is focused on physical problems. Aspiration is safeguarded against by keeping the client on nothing by mouth status for 6 to 8 hours before electroconvulsive therapy, removing dentures, and administering preprocedure medications as prescribed. Body image is not associated with this procedure. Although the remaining options could be appropriate problems, they are not the priority.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: ABCs—Airway, Breathing, Circulation, Maslow's Hierarchy of Needs Theory, Strategic\n\nTest-Taking Strategy:\nNote the strategic word, priority. Use Maslow's Hierarchy of Needs theory to answer this question. Physiological needs are the priority. Additionally, use the ABCs—airway, breathing, and circulation. Airway is the concern with the risk of aspiration.\n ",
+                        "id": "0f6f6552f83b44a5a6c2f7e1c26e0e80",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8fec327d0754b36acc0be1a16a18dba",
+                                "content": "Weigh the client 3 times per week before breakfast."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2a3cbee69ce4781874770106a2ed156",
+                                "content": "Explain to the client the importance of good nutritional intake."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "93f97f7d05524ff7957df1f00f6564df",
+                                "content": "Report the nutritional concern to the psychiatrist, and obtain a nutritional consultation as soon as possible."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c6ebf421c61438fae7514d166418097",
+                                "content": "Arrange for the client to receive several small meals daily, and plan to be present while the meals are being served."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8fec327d0754b36acc0be1a16a18dba",
+                                    "content": "Weigh the client 3 times per week before breakfast."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2a3cbee69ce4781874770106a2ed156",
+                                    "content": "Explain to the client the importance of good nutritional intake."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "93f97f7d05524ff7957df1f00f6564df",
+                                    "content": "Report the nutritional concern to the psychiatrist, and obtain a nutritional consultation as soon as possible."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c6ebf421c61438fae7514d166418097",
+                                    "content": "Arrange for the client to receive several small meals daily, and plan to be present while the meals are being served."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which is the appropriate nursing intervention to address poor nutritional intake demonstrated by a client diagnosed with depression?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nOffering small meals at several different times during the day may be less overwhelming for the client. Being available during the meals can add to the social atmosphere of eating. Weighing the client does not address how to increase nutritional intake. The client is experiencing poor concentration and is unlikely to benefit from a nutrition lecture. The option of reporting to the psychiatrist and consulting with the nutritionist is to some degree correct but does not present a method to increase food intake.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Mood and Affect, Nutrition\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, poor nutritional status associated with depression. The correct option is the only choice that addresses the poor nutrition concretely and presents a method by which the client is likely to increase nutritional intake.",
+                        "id": "1042026141b841e58d5bf788130ed897",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58164dfe54ab454c85afca5efeab0c46",
+                                "content": " Drawing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6c05d9f4a644ff8a300febfe5ad21e8",
+                                "content": "Playing checkers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "800371c9857b4b3c9321a1de34d68d6a",
+                                "content": "Painting by numbers"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "507058b5f72446088552c97826eefe79",
+                                "content": "Putting a puzzle together\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58164dfe54ab454c85afca5efeab0c46",
+                                    "content": " Drawing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6c05d9f4a644ff8a300febfe5ad21e8",
+                                    "content": "Playing checkers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "800371c9857b4b3c9321a1de34d68d6a",
+                                    "content": "Painting by numbers"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "507058b5f72446088552c97826eefe79",
+                                    "content": "Putting a puzzle together\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse caring for a client diagnosed with severe depression is planning activities for the client. Which activity would be most appropriate for this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nConcentration and memory are poor in severe depression. When a client has a diagnosis of severe depression, the nurse needs to provide activities that require little concentration, such as drawing. Activities that have no right or wrong choices and that require no decisions minimize opportunities for the depressed client to experience a sense of failure. The remaining options do not meet the criteria and are incorrect.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Mood and Affect, Caregiving\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, severe depression. Recall that clients with depression have difficulty concentrating and need activities that require little concentration. This will direct you to the correct option.",
+                        "id": "12207457e22b49b1b756e9ed52c3d20b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f2f5bb3768754dbb877ee70820699090",
+                                "content": "\"I don't believe that what you are telling me is true.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d9e71c963394045bf969c2881bb98e5",
+                                "content": "\"There are no religious cults in this area that are going to kill you.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe4e3d5da74c4aa4b7b45b8c6b09ef21",
+                                "content": "\"What makes you think that cult members are being sent to hurt you?\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7654dfc6c21e4ad5903a8a6fb17c2146",
+                                "content": "\"I don't know about a religious cult. Are you afraid that people are trying to hurt you?\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f2f5bb3768754dbb877ee70820699090",
+                                    "content": "\"I don't believe that what you are telling me is true.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d9e71c963394045bf969c2881bb98e5",
+                                    "content": "\"There are no religious cults in this area that are going to kill you.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe4e3d5da74c4aa4b7b45b8c6b09ef21",
+                                    "content": "\"What makes you think that cult members are being sent to hurt you?\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7654dfc6c21e4ad5903a8a6fb17c2146",
+                                    "content": "\"I don't know about a religious cult. Are you afraid that people are trying to hurt you?\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is working with a client who is delusional. The client says to the nurse, \"The leaders of a religious cult are being sent to assassinate me.\" Which is the best response by the nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse who disagrees with a client's delusions may make the client more defensive and cause the client to cling to the delusions even more firmly. It is most therapeutic for the nurse to empathize with the client's experience. The nurse can also use the opportunity to try to explore further the meaning of the experience for the client. The correct option presents reality to the client and then focuses on the client's feelings. None of the other options provide this support.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Neurocognitive Impairment\nIntegrated Process: Communication and Documentation\nPriority Concepts: Psychosis, Communication\nStrategies: Strategic Words, Therapeutic Communication Techniques\n\nTest-Taking Strategy:\nNote the strategic word, best. Use therapeutic communication techniques with the client experiencing delusions. Eliminate options that put distance between the nurse and the client or that place the client on the defensive. The correct option presents reality and then focuses on the client's feelings.\n ",
+                        "id": "12ab383646dd4463bfda2e7b0008f030",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d6e59764fb684425b615c72a212671af",
+                                "content": " Including the client's support system in the teaching"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56c67e6d040348f7b0407504e229adbe",
+                                "content": " \nFacilitating weekly maintenance therapy for the client"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81632e2fc3064f829983b1c1b8eea498",
+                                "content": "Having the client restate discharge goals and strategies"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85e0d6572bb04db987c11af0edc0ae1f",
+                                "content": "Stressing the importance of client compliance with the medication plan\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d6e59764fb684425b615c72a212671af",
+                                    "content": " Including the client's support system in the teaching"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56c67e6d040348f7b0407504e229adbe",
+                                    "content": " \nFacilitating weekly maintenance therapy for the client"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81632e2fc3064f829983b1c1b8eea498",
+                                    "content": "Having the client restate discharge goals and strategies"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85e0d6572bb04db987c11af0edc0ae1f",
+                                    "content": "Stressing the importance of client compliance with the medication plan\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is planning relapse prevention information for a client diagnosed with schizophrenia. The nurse understands that it is important to ensure which primary intervention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nOf the options provided, including the client's support system in the teaching has the greatest effect on relapse prevention management because it will provide the client with valuable support. Although the remaining options are helpful, they all focus on the client's having the resources and abilities to be self-managing and self-reflective.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Mental Health\nHealth Problem: Mental Health: Schizophrenia\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Cognition, Care Coordination\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic word, primary. Focus on the subject, relapse prevention. Recalling the importance of a support system will direct you to the correct option.\n ",
+                        "id": "13a0f60731de441380a96da88fb009ab",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5b8afbd9f764590afc8f8602c2bfd3b",
+                                "content": "Playing checkers with members of the staff"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64ee6e0e60da4671aed76d2c4d3ca309",
+                                "content": "Reading in a quiet, low-stimulus environment"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e19b79b07384df58196447d6ef961f8",
+                                "content": "Engaging in a card game with other clients on the unit"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e976e634d874b338e907379d2fe0baa",
+                                "content": "Attending a clay-molding class that is scheduled for today"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5b8afbd9f764590afc8f8602c2bfd3b",
+                                    "content": "Playing checkers with members of the staff"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64ee6e0e60da4671aed76d2c4d3ca309",
+                                    "content": "Reading in a quiet, low-stimulus environment"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e19b79b07384df58196447d6ef961f8",
+                                    "content": "Engaging in a card game with other clients on the unit"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e976e634d874b338e907379d2fe0baa",
+                                    "content": "Attending a clay-molding class that is scheduled for today"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which activity would the nurse include in the plan of care for a client with mania who is experiencing psychomotor agitation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "\nRationale:\nWhen a client is experiencing psychomotor agitation, it is best to provide activities that involve the use of hands and gross motor movements. Such activities can include volleyball, finger painting, drawing, and working with clay. These activities provide an appropriate way for the client to discharge motor tension. Reading and simple card games are sedentary activities. Playing checkers requires concentration and more intensive use of thought processes.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Mood and Affect, Mobility\nStrategies: Comparable or Alike Options, Subject\n\nTest-Taking Strategy:\nFocus on the subject, psychomotor agitation, to assist you in answering this question. Eliminate options that are comparable or alike, such as those that involve sedentary activities that involve only the client or interaction with another person. Also, recalling that activities requiring the use of hands and gross motor movements are best for the client experiencing psychomotor agitation will direct you to the correct option.",
+                        "id": "15bd4ae3595a40da8bdfe12f0c1f77d3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f74f5b817a29425fa4509d55b1076599",
+                                "content": "Explaining the unit rules"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0bba9200d7ab4f0aa8b99857b7b5c9a1",
+                                "content": "Making the client feel safe"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c214afd4ffb6409e9b479e8f6a8ec9b6",
+                                "content": "Orienting the client to the unit"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "868c1fbc23fc4422ad541ad5a03117fb",
+                                "content": "Stabilizing the client's psychiatric needs"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f74f5b817a29425fa4509d55b1076599",
+                                    "content": "Explaining the unit rules"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0bba9200d7ab4f0aa8b99857b7b5c9a1",
+                                    "content": "Making the client feel safe"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c214afd4ffb6409e9b479e8f6a8ec9b6",
+                                    "content": "Orienting the client to the unit"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "868c1fbc23fc4422ad541ad5a03117fb",
+                                    "content": "Stabilizing the client's psychiatric needs"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "During the assessment, what is the nurse's primary goal for a confused and disoriented client diagnosed with post-traumatic stress disorder?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIt is important to make a confused client feel safe. Explaining the unit rules and orienting the client to the unit are part of any admission process. Stabilizing psychiatric needs is a long-term goal.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Post-Traumatic Stress Disorder\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Mood and Affect, Safety\nStrategies: Maslow's Hierarchy of Needs Theory, Strategic Words\n\n\nTest-Taking Strategy:\nNote the strategic word, primary. Focus on the information provided in the question, and use Maslow's Hierarchy of Needs theory. Remember that when a physiological need does not exist, safety needs take precedence next.",
+                        "id": "180b7518102344db8eca3c9d15951d54",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30255080455d4e819569f82224441bc0",
+                                "content": "Restrict the client from smoking for 12 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5668df93437b4b0e92b51013da55163b",
+                                "content": "Enforce nothing by mouth (NPO) status for 16 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0f6714883904744a473a9aa2e7ea4db",
+                                "content": "Limit the client's participation in unit activities for 24 hours."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af7805514aa14cb5a09a4b46b7dab739",
+                                "content": "Assure that an electrocardiogram is performed within 24 hours."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30255080455d4e819569f82224441bc0",
+                                    "content": "Restrict the client from smoking for 12 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5668df93437b4b0e92b51013da55163b",
+                                    "content": "Enforce nothing by mouth (NPO) status for 16 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0f6714883904744a473a9aa2e7ea4db",
+                                    "content": "Limit the client's participation in unit activities for 24 hours."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af7805514aa14cb5a09a4b46b7dab739",
+                                    "content": "Assure that an electrocardiogram is performed within 24 hours."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which pre-electroconvulsive therapy intervention will the nurse implement for a hospitalized client with depression?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBefore electroconvulsive therapy (ECT), blood tests are performed and an electrocardiogram is done to determine a baseline status of the client. Maintaining NPO status for 6 to 8 hours before treatment is adequate. The remaining options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Mental Health\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Mood and Affect, Safety\nStrategies: ABCs—Airway, Breathing, Circulation\n\nTest-Taking Strategy:\nFocus on the subject, the preprocedure care associated with ECT. Eliminate options that are unnecessary or extreme. Also, note that the correct option relates to the ABCs—airway, breathing, and circulation.",
+                        "id": "1999206124434b93b4ac66c198b35c19",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "57187fd0416e62d642b49c0c22e337e7",
+            "lessonItemId": "d9d001810297f95da51753d8b5324b03",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 62000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 12:35:57",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Neurodevelopmental Disorders,others,Mood Disorders,Personality Disorders,Anxiety,Specific Phobia,Neurocognitive Disorders,Somatic Symptom Disorders,Schizophrenia,Post-Traumatic Stress Disorder,Obsessive-Compulsive Disorde",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

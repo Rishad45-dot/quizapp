@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:59:27",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:59:27",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:04:22",
+            "id": "4fdd36737d98d3c74188cfede79b866f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a161d65d2964bdfbad15f1c235ee5a6",
+                                "content": "\"I need to purchase the medication from the pharmacy.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79574ae76ee046e28ed0ae6b0c3fa853",
+                                "content": "\"After rinsing out the medication, I need to avoid washing my child's hair for 24 hours.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35e5c2492c87459883bd6982338b27cc",
+                                "content": "\"I need to shampoo my child's hair, apply the medication, and leave the medication on for 24 hours.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3abc3c3eeac548b3a8226a9c6ac497f7",
+                                "content": "\"I need to shampoo my child's hair, apply the medication, leave it on for 10 minutes, and then rinse it out.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a161d65d2964bdfbad15f1c235ee5a6",
+                                    "content": "\"I need to purchase the medication from the pharmacy.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79574ae76ee046e28ed0ae6b0c3fa853",
+                                    "content": "\"After rinsing out the medication, I need to avoid washing my child's hair for 24 hours.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35e5c2492c87459883bd6982338b27cc",
+                                    "content": "\"I need to shampoo my child's hair, apply the medication, and leave the medication on for 24 hours.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3abc3c3eeac548b3a8226a9c6ac497f7",
+                                    "content": "\"I need to shampoo my child's hair, apply the medication, leave it on for 10 minutes, and then rinse it out.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reinforces instructions to the parent of a child diagnosed with pediculosis (head lice). Permethrin has been prescribed. Which statement by the parent regarding the use of the medication indicates a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nPermethrin is an over-the-counter antilice product that kills both lice and eggs with one application and has residual activity for 10 days. It is applied to the hair after shampooing and left for 10 minutes before rinsing out. The hair would not be shampooed for 24 hours after the rinsing treatment.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Teaching and Learning\nPriority Concepts: Infection, Patient Education                             Test-Taking Strategy:\nNote the strategic words, need for further teaching, in the question. These words indicate a negative event query and the need to select the incorrect statement. Remember that this medication is applied to the hair after shampooing and left for 10 minutes before rinsing.\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "0611fca5048e4175ada82906b5d1f36e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb97c11b7706403fb34135fc7b2933cc",
+                                "content": "Maculopapular lesions behind the ears"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6267e06ef0214f9c9fa0f301a3bd7fa8",
+                                "content": "Lesions in the scalp that extend to the hairline or neck"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e27fc9fe5cd40bd8dc9760453f41c4b",
+                                "content": "White flaky particles throughout the entire scalp region"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f9c64f4141a4f008b6b94983c91bff4",
+                                "content": "White sacs attached to the hair shafts in the occipital area"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb97c11b7706403fb34135fc7b2933cc",
+                                    "content": "Maculopapular lesions behind the ears"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6267e06ef0214f9c9fa0f301a3bd7fa8",
+                                    "content": "Lesions in the scalp that extend to the hairline or neck"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e27fc9fe5cd40bd8dc9760453f41c4b",
+                                    "content": "White flaky particles throughout the entire scalp region"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f9c64f4141a4f008b6b94983c91bff4",
+                                    "content": "White sacs attached to the hair shafts in the occipital area"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The school nurse is performing pediculosis capitis (head lice) assessments. Which assessment finding indicates that a child has a \"positive\" head check?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPediculosis capitis is an infestation of the hair and scalp with lice. The nits are visible and attached firmly to the hair shaft near the scalp. The occiput is an area in which nits can be seen. Maculopapular lesions behind the ears or lesions that extend to the hairline or neck are indicative of an infectious process, not pediculosis. White flaky particles are indicative of dandruff.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Infection, Clinical Judgment\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, the characteristics of pediculosis capitis. Option 3 can be eliminated first because white flaky particles are indicative of dandruff. Recalling that in this infestation nit sacs attach to the hair shaft will direct you to the correct option.",
+                        "id": "2978a924d0644d788d004d777f447b4b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0aa809d93bf24e64889ff061ff794a3c",
+                                "content": "\"The main treatment while your child has impetigo will be to force fluids.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5132c6f229984f499d9b75ef3b503884",
+                                "content": "\"Your child probably caught the impetigo because you don't wash your child’s hands enough.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d01331e725394af589c5d999fcd8e472",
+                                "content": "\"There is no risk of passing impetigo to the other children once you begin the prescribed antibiotics.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9edcf7360c184f16a3aab72157fee69b",
+                                "content": "\"You will need to prevent any of the fluid from the blisters from coming into contact with your other children.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0aa809d93bf24e64889ff061ff794a3c",
+                                    "content": "\"The main treatment while your child has impetigo will be to force fluids.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5132c6f229984f499d9b75ef3b503884",
+                                    "content": "\"Your child probably caught the impetigo because you don't wash your child’s hands enough.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d01331e725394af589c5d999fcd8e472",
+                                    "content": "\"There is no risk of passing impetigo to the other children once you begin the prescribed antibiotics.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9edcf7360c184f16a3aab72157fee69b",
+                                    "content": "\"You will need to prevent any of the fluid from the blisters from coming into contact with your other children.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is counseling the young parent of a small child recently diagnosed with impetigo. The nurse would make which statement that provides the best information about impetigo?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nImpetigo is a highly contagious bacterial infection of the skin. Fluids are important but are not a component of the main treatment for this infection. Additionally, fluids would never be forced. Although impetigo occurs in situations of poor hygiene, a judgmental statement is inappropriate and nontherapeutic. The infection is communicable for 48 hours beyond initiation of antibiotic treatment.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Teaching and Learning\nPriority Concepts: Infection, Safety\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, best. Eliminate option 1 because of the word force. Next, eliminate option 2 because it is an inappropriate statement. Regarding the remaining choices, recalling the principles related to antibiotic therapy will direct you to the correct option.",
+                        "id": "53ad6dd63b7a43738261696ec0eff940",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c080edc2fb204cd78c326eff37749c79",
+                                "content": "The child is 18 months old."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96f8c6d6313c47bc845e628d9a03988a",
+                                "content": "The child is being bottle-fed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87bbadb62b38429f89358b43b94d3e6d",
+                                "content": "A sibling is using lindane for the treatment of scabies."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "849fefad4b44430f8a46bdfd50648250",
+                                "content": "The child has a history of frequent respiratory infections."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c080edc2fb204cd78c326eff37749c79",
+                                    "content": "The child is 18 months old."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96f8c6d6313c47bc845e628d9a03988a",
+                                    "content": "The child is being bottle-fed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87bbadb62b38429f89358b43b94d3e6d",
+                                    "content": "A sibling is using lindane for the treatment of scabies."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "849fefad4b44430f8a46bdfd50648250",
+                                    "content": "The child has a history of frequent respiratory infections."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse is reviewing the primary health care provider's prescription for a child who has been diagnosed with scabies. Lindane has been prescribed for the child. The nurse questions the prescription if which is noted in the child's record?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nLindane is a pediculicide product that may be prescribed to treat scabies. It is contraindicated for children younger than 2 years because they have more permeable skin, and high systemic absorption may occur, placing the children at risk for central nervous system toxicity and seizures. Lindane also is used with caution in children between the ages of 2 and 10 years. Siblings and other household members need to be treated simultaneously. Options 2 and 4 are unrelated to the use of lindane. Lindane is not recommended for use by a breast-feeding/chest-feeding individual because the medication is secreted into breast milk.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, contraindications of lindane. Recall the concepts related to the body surface area of children and an 18-month-old and medication administration. These concepts will direct you to the correct option.",
+                        "id": "547868f8799d46e0b23638e1b089d1cf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd6452686c3046d1baef58d8f429dff6",
+                                "content": "Apply the cream over the entire body."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f26175026b0465fa019bd0bed72670a",
+                                "content": "Apply a thick layer of cream to affected areas only."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7f8d0989069401eb3b39eb2a264ce3e",
+                                "content": "Avoid cleansing the area before application of the cream."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1408f0f966fc4dcc8e199ddb25bea8f5",
+                                "content": "Apply a thin layer of cream and rub it into the area thoroughly."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd6452686c3046d1baef58d8f429dff6",
+                                    "content": "Apply the cream over the entire body."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f26175026b0465fa019bd0bed72670a",
+                                    "content": "Apply a thick layer of cream to affected areas only."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7f8d0989069401eb3b39eb2a264ce3e",
+                                    "content": "Avoid cleansing the area before application of the cream."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1408f0f966fc4dcc8e199ddb25bea8f5",
+                                    "content": "Apply a thin layer of cream and rub it into the area thoroughly."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A topical corticosteroid is prescribed by the primary health care provider for a child with atopic dermatitis (eczema). Which instruction would the nurse give the parent about applying the cream?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAtopic dermatitis is a superficial inflammatory process involving primarily the epidermis. A topical corticosteroid may be prescribed and would be applied sparingly (thin layer) and rubbed into the area thoroughly. The affected area should be cleaned gently before application, and the topical cream is more effective when applied to damp skin. A topical corticosteroid would not be applied over extensive areas. Systemic absorption is more likely to occur with extensive application.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Teaching and Learning\nPriority Concepts: Tissue Integrity, Patient Education\nStrategies: Subject                   Test-Taking Strategy:\nFocus on the subject, application of a topical corticosteroid. Eliminate option 3 first because it does not make sense not to clean an affected area. Eliminate option 1 because medicated cream would be applied only to areas that are affected. Eliminate option 2 because of the word thick.",
+                        "id": "641fd94883e64d448b9d56dcee8b3095",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e43a75afc2b40ed8553ee95358a53b3",
+                                "content": "\"The child needs to rest in bed.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75da66050a524b63b9f746404cffe860",
+                                "content": "\"I will apply cool, moist soaks every 4 hours.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f201ef2f45534d589310c0ca88526f2e",
+                                "content": "\"I should take the child's temperature and watch for a fever.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "add3c2f1579348bb81137251b21d3401",
+                                "content": "\"The affected extremity should be elevated and immobilized.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e43a75afc2b40ed8553ee95358a53b3",
+                                    "content": "\"The child needs to rest in bed.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75da66050a524b63b9f746404cffe860",
+                                    "content": "\"I will apply cool, moist soaks every 4 hours.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f201ef2f45534d589310c0ca88526f2e",
+                                    "content": "\"I should take the child's temperature and watch for a fever.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "add3c2f1579348bb81137251b21d3401",
+                                    "content": "\"The affected extremity should be elevated and immobilized.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is collecting data on a child with a 1-week-old cat scratch injury. While assessing the scratch, the nurse notes redness, heat, swelling, and red streaking surrounding the area. The child states that the scratch hurts. Cellulitis is diagnosed. When providing home care instructions, which statement by the parent indicates a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nCellulitis is an infection of the dermis and the underlying hypodermis of the skin. The child with cellulitis would rest in bed, and the affected extremity needs to be elevated and immobilized. Warm, moist soaks applied every 4 hours increase circulation to the infected area, relieve pain, and promote healing. Frequent hand washing is essential to prevent the spread of infection. The child would be carefully monitored for signs of sepsis, increased fever, chills, and confusion, or for the spread of infection.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Teaching and Learning\nPriority Concepts: Tissue Integrity, Patient Education\nStrategies: Negative Event Query, Strategic Words              Test-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and the need to select the incorrect statement. Focus on the child's diagnosis and use the principles related to heat and cold to assist in directing you to the correct option.",
+                        "id": "7ba3cf3df4ee42bc853ed058fc2b3e4e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72f7d0945712411aa347d6374d421690",
+                                "content": "Keeping the infant content"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4fe920b8c2bd425fbd1e5532e0105d99",
+                                "content": "Maintaining adequate nutrition"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5822fd785fc43dea572507cca6aa83d",
+                                "content": "Applying antibiotic ointment to lesions"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d16ed173ca544a97bf62b76a1d5fa0d4",
+                                "content": "Preventing secondary infection of the lesions"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72f7d0945712411aa347d6374d421690",
+                                    "content": "Keeping the infant content"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4fe920b8c2bd425fbd1e5532e0105d99",
+                                    "content": "Maintaining adequate nutrition"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5822fd785fc43dea572507cca6aa83d",
+                                    "content": "Applying antibiotic ointment to lesions"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d16ed173ca544a97bf62b76a1d5fa0d4",
+                                    "content": "Preventing secondary infection of the lesions"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Nursing care of the infant with eczema would focus on which action as a priority nursing intervention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nEczema is a superficial inflammatory process involving primarily the epidermis. The major goals of management are to relieve pruritus, lubricate the skin, reduce inflammation, and prevent or control secondary infections. Keeping the infant content and maintaining adequate nutrition are not priority care for an infant with eczema. Antibiotic ointment would be applied only for treatment of a secondary infection as prescribed by a primary health care provider.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Infection, Tissue Integrity\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic word, priority. Eliminate options 1 and 2 because they are not specific to eczema and would not be priority interventions. Option 3 would not be an intervention unless the lesions already had a secondary infection. The correct option is a priority nursing intervention for an infant with eczema because prevention of secondary infection is a goal of treatment.",
+                        "id": "830f026682dc4a3486f164c91ff160e1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4dce9f4cd81442f5b288b31f4e4240d6",
+                                "content": "Immediately report to the emergency department."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e21f1577feb4a75975b2139c0e09b6a",
+                                "content": "Avoid becoming concerned if a rash is not noted on the skin."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b062bd676034889b79a18aff2561d2e",
+                                "content": "Apply calamine lotion immediately to the exposed skin areas."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3978ccb3b0fd45e0ad48741e24b2c584",
+                                "content": "Shower the child immediately, lathering and rinsing the exposed skin several times."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4dce9f4cd81442f5b288b31f4e4240d6",
+                                    "content": "Immediately report to the emergency department."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e21f1577feb4a75975b2139c0e09b6a",
+                                    "content": "Avoid becoming concerned if a rash is not noted on the skin."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b062bd676034889b79a18aff2561d2e",
+                                    "content": "Apply calamine lotion immediately to the exposed skin areas."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3978ccb3b0fd45e0ad48741e24b2c584",
+                                    "content": "Shower the child immediately, lathering and rinsing the exposed skin several times."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing a yearly summer educational session to parents in a local community. The topic of the session is prevention and treatment measures for poison ivy. The nurse instructs the parents that if the child comes into contact with poison ivy to take which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen a person comes into contact with a poison ivy plant, the sap from the plant forms an invisible film on the human skin. The client should be instructed to shower immediately; the skin should be lathered several times and rinsed each time in running water. Application of calamine lotion is a treatment that is used if dermatitis develops. It is unnecessary for the client to be seen in the emergency department at the time of initial contact with poison ivy.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Teaching and Learning\nPriority Concepts: Tissue Integrity, Patient Education\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, treatment for poison ivy. Knowing that dermatitis can develop from contact with an allergen will assist in selecting the correct option. Also, recalling that contact with poison ivy results in an invisible film will assist in directing you to the correct option.",
+                        "id": "85acd809eaa144a690887495f45790e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a725bebc23b243f19d240b60879639e5",
+                                "content": "Inserting a nasogastric tube"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "885673db81054e47925c498f317720f8",
+                                "content": "Sedating with morphine sulfate"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "092fdc4961a64ef89bd9a8ee710c7f1e",
+                                "content": "Inserting an indwelling urinary catheter"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f0055c0f1b64acda3471f438e7b50a7",
+                                "content": "Restricting intravenously administered fluids"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a725bebc23b243f19d240b60879639e5",
+                                    "content": "Inserting a nasogastric tube"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "885673db81054e47925c498f317720f8",
+                                    "content": "Sedating with morphine sulfate"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "092fdc4961a64ef89bd9a8ee710c7f1e",
+                                    "content": "Inserting an indwelling urinary catheter"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f0055c0f1b64acda3471f438e7b50a7",
+                                    "content": "Restricting intravenously administered fluids"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A 2-year-old child is admitted to a hospital burn unit with partial- and full-thickness burns involving 35% of body surface area. After admission assessment and review of the primary health care provider's prescriptions, the priority nursing intervention would focus on which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAn indwelling urinary catheter is inserted into the child's bladder first so that urine output can be measured accurately each hour and response to fluid resuscitation can be determined. A nasogastric tube may or may not be required, but this is not the priority intervention. Although pain medication may be required, the child would not be sedated initially. Intravenously administered fluids are not restricted and are administered at a rate sufficient to keep the child's urine output at 1 mL/kg of body mass per hour, thus reflecting adequate tissue perfusion.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Burns\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Tissue Integrity\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, priority. Option 2 can be eliminated first because the child would not be sedated as the priority intervention. Eliminate option 4 next, knowing that fluid resuscitation is an important component of therapy to prevent burn shock. Regarding the remaining options, recalling that urine output reflects adequate tissue perfusion will direct you to the correct option.",
+                        "id": "acc95829e7a8459793f237d78877c2c5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cdcdc0ff121b4261a19be36656c60f6f",
+                                "content": "Apply the lotion to areas of the rash only."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e319a0df99f04d1d856d600ed85eb649",
+                                "content": "Apply the lotion and leave it on for 6 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "421c6ce334554471b3d57f941dc8c3b8",
+                                "content": "Avoid putting clothes on the child over the lotion."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c048dca8a2d4ac3add8674fc7ef838d",
+                                "content": "Apply the lotion to cool, dry skin at least 30 minutes after bathing."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cdcdc0ff121b4261a19be36656c60f6f",
+                                    "content": "Apply the lotion to areas of the rash only."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e319a0df99f04d1d856d600ed85eb649",
+                                    "content": "Apply the lotion and leave it on for 6 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "421c6ce334554471b3d57f941dc8c3b8",
+                                    "content": "Avoid putting clothes on the child over the lotion."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c048dca8a2d4ac3add8674fc7ef838d",
+                                    "content": "Apply the lotion to cool, dry skin at least 30 minutes after bathing."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Permethrin is prescribed for a child with a diagnosis of scabies. The nurse would give which instruction to the parents regarding the use of this treatment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPermethrin is massaged thoroughly and gently into all skin surfaces (not just the areas that have the rash) from the head to the soles of the feet. Care would be taken to avoid contact with the eyes. The lotion would not be applied until at least 30 minutes after bathing and would be applied only to cool, dry skin. The lotion needs to be kept on for 8 to 14 hours, and then the child would be given a bath. The child needs to be clothed during the 8 to 14 hours of treatment contact time.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Integumentary\nHealth Problem: Pediatric-Specific: Skin Inflammation and Infection\nIntegrated Process: Teaching and Learning\nPriority Concepts: Tissue Integrity, Patient Education\nStrategies: Closed-ended Word                                Test-Taking Strategy:\nOption 3 can be eliminated because the child would be clothed. Eliminate option 1 next because of the closed-ended word \"only\" in this option. From the remaining options, recalling the procedure for the application of this lotion will direct you to the correct option.",
+                        "id": "adf3871391994645b49b2794020bda51",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "32dcbb99ae8081f141ef3ed88202bc0a",
+            "lessonItemId": "534e8585548cf6a5309841de8abb9697",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 288000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:04:23",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Integumentary Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:35:46",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:35:46",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:38:10",
+            "id": "dc7c456a11ce94158a7e0ced421e4ea6",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f451da9b81e4862a89e12797315989d",
+                                "content": "Tap water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3e06620fa3684c5da83f4154b67d9d8f",
+                                "content": "Sterile water"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "515b5cc616a74ade9cdd3d1a333751fc",
+                                "content": "0.9% sodium chloride"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0f588ceaf95466fbd2d7b361df1576f",
+                                "content": "0.45% sodium chloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f451da9b81e4862a89e12797315989d",
+                                    "content": "Tap water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3e06620fa3684c5da83f4154b67d9d8f",
+                                    "content": "Sterile water"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "515b5cc616a74ade9cdd3d1a333751fc",
+                                    "content": "0.9% sodium chloride"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0f588ceaf95466fbd2d7b361df1576f",
+                                    "content": "0.45% sodium chloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with a nasogastric (NG) tube who has a prescription for NG tube irrigation once every 8 hours. To maintain homeostasis, which solution would the nurse use to irrigate the NG tube?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHomeostasis is maintained by irrigating with an isotonic solution, such as 0.9% sodium chloride. Tap water, sterile water, and 0.45% sodium chloride are hypotonic solutions.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Fluids and Electrolytes\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Comparable or Alike Options\n   Test-Taking Strategy:\nKnowing that options that are comparable or alike are not likely to be correct, eliminate options 1 and 2 because they include water. Irrigating with solutions that contain water increases the risk for fluid and electrolyte imbalance. Select between the last 2 options knowing that an isotonic irrigating solution helps to maintain homeostasis and that 0.9% is isotonic; thus, option 4 can be eliminated.\n \n   ",
+                        "id": "0030f6fd5062486a91cb3b673fdef04d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4fe1c404702c4c2bbb068bcf7e5214f7",
+                                "content": "Confusion"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "73322ff19f3c4c8dbf288acf10d55cdc",
+                                "content": "Muscle weakness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a507ce6f3afc47e0ab8fff33ae821614",
+                                "content": "Mental status changes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10fdcba412994fda8964e676956f728e",
+                                "content": "Depressed deep tendon reflexes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4fe1c404702c4c2bbb068bcf7e5214f7",
+                                    "content": "Confusion"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "73322ff19f3c4c8dbf288acf10d55cdc",
+                                    "content": "Muscle weakness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a507ce6f3afc47e0ab8fff33ae821614",
+                                    "content": "Mental status changes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10fdcba412994fda8964e676956f728e",
+                                    "content": "Depressed deep tendon reflexes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is receiving an intravenous infusion of 1000 mL of normal saline with 40 mEq of potassium chloride. The care unit nurse is monitoring the client for signs of hyperkalemia. Which finding initially will be noted in the client if hyperkalemia is present?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nBecause potassium plays a major role in neuromuscular activity, elevation in serum potassium initially causes muscle weakness. Mental status changes and confusion are most likely to be noted in the client experiencing hypocalcemia. Depressed deep tendon reflexes are noted in the client with hypermagnesemia.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, initially. Eliminate options 1 and 3 first because they are comparable or alike. Regarding the remaining options, recall that muscle weakness is associated with hyperkalemia. This will direct you to the correct option.\n \n   ",
+                        "id": "01d988b7ecd2466ba6af8b49f6e610c5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "243fbe66fa0148f1a6016130bef093ea",
+                                "content": "Sodium 135 mEq/L (135 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1053689fb8b4ce7aacf78149a7654f8",
+                                "content": "Sodium 140 mEq/L (140 mmol/L)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2613dbe024c463d893967d0781de01c",
+                                "content": "Potassium 3.0 mEq/L (3.0 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c4f64cc1143456fa4220964ec05bf7c",
+                                "content": "Potassium 5.0 mEq/L (5.0 mmol/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "243fbe66fa0148f1a6016130bef093ea",
+                                    "content": "Sodium 135 mEq/L (135 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1053689fb8b4ce7aacf78149a7654f8",
+                                    "content": "Sodium 140 mEq/L (140 mmol/L)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2613dbe024c463d893967d0781de01c",
+                                    "content": "Potassium 3.0 mEq/L (3.0 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c4f64cc1143456fa4220964ec05bf7c",
+                                    "content": "Potassium 5.0 mEq/L (5.0 mmol/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client on telemetry notes the presence of prominent U waves. The nurse assesses the client and checks the most recent electrolyte results. The nurse expects to note which electrolyte value?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe normal sodium level is 135 to 145 mEq/L (135 to 145 mmol/L). The normal potassium level is 3.5 to 5.0 mEq/L (3.5 to 5.0 mmol/L). A serum potassium level lower than 3.5 mEq/L (3.5 mmol/L) is indicative of hypokalemia. In hypokalemia, the electrocardiographic (ECG) changes that occur include inverted T waves, ST segment depression, heart block, and prominent U waves.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Perfusion\nStrategies: Strategic Words, Subject\n   Test-Taking Strategy:\nNote the strategic word, most. Focus on the subject, presence of U waves on the cardiac monitor. Think about the causes of U waves to assist in answering correctly. Also, recalling the normal sodium and potassium levels will direct you to option 3 because this is the only abnormal value.\n \n   ",
+                        "id": "072105a00996409aa7f492cef5938b28",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5013a090a9a42ed9ee7cd5da01a26a3",
+                                "content": "Daily weight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d645eca6b06e4f7ca8489198717e9cec",
+                                "content": "Urinary output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f27969bf54db4eef829aaa728b648972",
+                                "content": "IV fluid intake"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ecb26c8cf607456aaa591cba67e8c733",
+                                "content": "NG tube intake"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5013a090a9a42ed9ee7cd5da01a26a3",
+                                    "content": "Daily weight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d645eca6b06e4f7ca8489198717e9cec",
+                                    "content": "Urinary output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f27969bf54db4eef829aaa728b648972",
+                                    "content": "IV fluid intake"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ecb26c8cf607456aaa591cba67e8c733",
+                                    "content": "NG tube intake"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with a diagnosis of severe dehydration. The client has been receiving intravenous (IV) fluids and nasogastric (NG) tube feedings. The nurse monitors fluid balance using which as the best indicator?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDaily weight is the best indicator of fluid balance. Options 2, 3, and 4 are related to intake or output but are incomplete indicators of fluid balance.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Gastrointestinal: Dehydration\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best. Remember that the best indicator of fluid balance is weight. Also note that options 2, 3, and 4 are comparable or alike. These options represent measurements of intake or output.\n \n   ",
+                        "id": "081523f4c6e148c1b47850cfb06afe8a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "88f85bf25f5f4d24957d71a22a7514d4",
+                                "content": "An oral temperature of 98.8° F (37.1° C)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6b46c5fa50d442baa3e4bc7e7e7d2c8",
+                                "content": "A urine specific gravity of 1.043"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6a1586ddb41d45d9860e46a1cee3f568",
+                                "content": "A urine output that is pale yellow"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b8da015414d42a19a364eea2e64ba82",
+                                "content": "A blood pressure of 120/80 mm Hg"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "88f85bf25f5f4d24957d71a22a7514d4",
+                                    "content": "An oral temperature of 98.8° F (37.1° C)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6b46c5fa50d442baa3e4bc7e7e7d2c8",
+                                    "content": "A urine specific gravity of 1.043"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6a1586ddb41d45d9860e46a1cee3f568",
+                                    "content": "A urine output that is pale yellow"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b8da015414d42a19a364eea2e64ba82",
+                                    "content": "A blood pressure of 120/80 mm Hg"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with a diagnosis of dehydration, and the client is receiving intravenous (IV) fluids. Which assessment finding would indicate to the nurse that the dehydration remains unresolved?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client who is dehydrated will have a urine specific gravity greater than 1.030. Normal values for urine specific gravity are 1.003 to 1.030. A temperature of 98.8° F (37.1° C) is only 0.2 of a point above the normal temperature and would not be as specific an indicator of hydration status as the urine specific gravity. Pale yellow urine is a normal finding. A blood pressure of 120/80 mm Hg is within normal range.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Gastrointestinal: Dehydration\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Comparable or Alike Options, Subject\n   \n\nTest-Taking Strategy:\nFocus on the subject, the assessment finding of dehydration, and note the word unresolved. Eliminate options 1 and 4 first because they are comparable or alike and are close to or within normal limits. Regarding the remaining choices, recalling that pale urine is a normal finding will assist in directing you to the correct option.\n \n   \n",
+                        "id": "1dba6aba68c0415db20fb1cfa9588d92",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bb7d995b82fe42d393c78b3c784bf9ea",
+                                "content": "Take no action."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e37691d7b4184a52a0aba353aaa5ba1a",
+                                "content": "Order a stat hemodialysis treatment."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48bc9a57f4714d478c604bd402c49fbd",
+                                "content": "Recheck the labs because these values are all abnormal."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed8058520efc401cb390211ac47c417d",
+                                "content": "Page the primary health care provider (PHCP) with the results."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bb7d995b82fe42d393c78b3c784bf9ea",
+                                    "content": "Take no action."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e37691d7b4184a52a0aba353aaa5ba1a",
+                                    "content": "Order a stat hemodialysis treatment."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48bc9a57f4714d478c604bd402c49fbd",
+                                    "content": "Recheck the labs because these values are all abnormal."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed8058520efc401cb390211ac47c417d",
+                                    "content": "Page the primary health care provider (PHCP) with the results."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing laboratory results for a client with chronic kidney disease before a hemodialysis treatment. The serum electrolyte levels are sodium 142 mEq/L (142 mmol/L), chloride 103 mEq/L (103 mmol/L), potassium 5.2 mEq/L (5.2 mmol/L), and bicarbonate 23 mEq/L (23 mmol/L). What action would the nurse plan to take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nNo action is needed because all of the blood levels are normal for a hemodialysis client before a treatment. The normal adult ranges of serum electrolyte levels are sodium 135 to 145 mEq/L (135 to 145 mmol/L), chloride 98 to 106 mEq/L (98 to 106 mmol/L), bicarbonate (venous) 21 to 28 mEq/L (21 to 28 mmol/L), and potassium 3.5 to 5.0 mEq/L (3.5 to 5.0 mmol/L). Although the potassium level is elevated, the normal range for potassium for a client with chronic kidney disease receiving hemodialysis is 4 to 6.5 mEq/L (4 to 6.5 mmol/L).\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Renal and Urinary: Acute Kidney Injury/Chronic Kidney Disease\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Data in the Question, Subject\n   Test-Taking Strategy:\nFocus on the subject, the action the nurse would take, and focus on the data in the question. Noting that the client has chronic kidney disease will assist in answering correctly.\n ",
+                        "id": "1e82691f440f4c27bb8473536bf2d93f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de37f501ae95453187f0d42acf5d8a15",
+                                "content": "Client with a major burn"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0cc7d1a6148f43bf965a795300d043e0",
+                                "content": "Client with an ischemic stroke"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0dd54c456b1e4c00889bf03bc9403f78",
+                                "content": "Client with Laënnec's cirrhosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ed07f8def704fce948fb2c5f67eafdb",
+                                "content": "Client with chronic kidney disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de37f501ae95453187f0d42acf5d8a15",
+                                    "content": "Client with a major burn"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0cc7d1a6148f43bf965a795300d043e0",
+                                    "content": "Client with an ischemic stroke"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0dd54c456b1e4c00889bf03bc9403f78",
+                                    "content": "Client with Laënnec's cirrhosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ed07f8def704fce948fb2c5f67eafdb",
+                                    "content": "Client with chronic kidney disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assisting in the care of a group of clients on the nursing unit. When considering the effects of each medical diagnosis, the nurse determines that which client has the least risk for developing third spacing of fluid?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nFluid that shifts into the interstitial spaces and remains there is referred to as third-space fluid. This fluid is physiologically useless because it does not circulate to provide nutrients for the cells. Common sites for third spacing include the pleural and peritoneal cavities and pericardial sac. Risk factors include older adults and those with liver or kidney disease, major trauma, burns, sepsis, major surgery, malignancy, gastrointestinal malabsorption, and malnutrition. The client who has suffered a stroke is not at risk for third spacing.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Neurological: Stroke\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the client at least risk for third spacing. To answer this question accurately, you must be familiar with the concept and causes of third spacing of fluids and associated disease processes. This would allow you to eliminate options 1, 3, and 4 systematically. Remember that third-space fluid is fluid that shifts into the interstitial spaces.\n \n   ",
+                        "id": "2ba597ff291b407b8f388a45f4961c7f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43f53e041246447293117255d7ba2bf0",
+                                "content": "Dehydration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0c50f5d51a547eaa467a6190b07fd24",
+                                "content": "Hypokalemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c2e8fae2cc54dfa9c62a7ef4150554b",
+                                "content": "Fluid overload"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8b4c595ff1c4256b3ad2b2eeaa50f86",
+                                "content": "Hypernatremia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43f53e041246447293117255d7ba2bf0",
+                                    "content": "Dehydration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0c50f5d51a547eaa467a6190b07fd24",
+                                    "content": "Hypokalemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c2e8fae2cc54dfa9c62a7ef4150554b",
+                                    "content": "Fluid overload"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8b4c595ff1c4256b3ad2b2eeaa50f86",
+                                    "content": "Hypernatremia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "During an assessment of a newly admitted client, the nurse notes that the client's heart rate is 110 beats/min, his blood pressure shows orthostatic changes when he stands up, and his tongue has a sticky, pastelike coating. The client's spouse tells the nurse that he seems a little confused and unsteady on his feet. Based on these assessment findings, the nurse suspects that the client has which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWhen a client is dehydrated, the heart rate increases in an attempt to maintain blood pressure. Blood pressure reflects orthostatic changes caused by the reduced blood volume, and when the client stands, he may experience dizziness because of insufficient blood flow to the brain. Alterations in mental status also may occur. The oral mucous membranes, usually moist, are dry and may be covered with a thick, pasty coating. These findings are not manifestations of the conditions noted in the other options.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Gastrointestinal: Dehydration\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Data in the Question, Subject\n   Test-Taking Strategy:\nFocus on the subject, the condition characteristic of the findings noted in the question. Focus on the data in the question—heart rate of 110 beats/min, orthostatic blood pressure changes, and sticky, pastelike coating on the tongue. Think about the manifestations that would occur in each condition noted in the options. These assessment findings reflect dehydration, or fluid volume deficit.\n ",
+                        "id": "2fc11a9f13134591a41fd493e5fa77ea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "253912089e1447cf981956a0511de66d",
+                                "content": "Hang the solution."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c0cb475f1f44dd791b40cf4db737087",
+                                "content": "Check the client's daily laboratory results."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "55b8fd825eef471cb7687078b6046d96",
+                                "content": "Contact the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4fc68162795f4c84857302b8433e1fec",
+                                "content": "Ask the client whether any liver study tests have ever been done."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "253912089e1447cf981956a0511de66d",
+                                    "content": "Hang the solution."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c0cb475f1f44dd791b40cf4db737087",
+                                    "content": "Check the client's daily laboratory results."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "55b8fd825eef471cb7687078b6046d96",
+                                    "content": "Contact the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4fc68162795f4c84857302b8433e1fec",
+                                    "content": "Ask the client whether any liver study tests have ever been done."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has a prescription to hang a crystalloid intravenous solution of lactated Ringer's on a newly admitted client. The nurse notices that the client has a history of alcoholic cirrhosis. What action would the nurse take first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe nurse must contact the PHCP before administering the solution. Fluid and electrolyte replacement solutions such as lactated Ringer's are contraindicated for clients with kidney and liver disease or lactic acidosis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Gastrointestinal: Cirrhosis\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Fluid and Electrolytes, Safety\nStrategies: Data in the Question, Strategic Words, Subject\n   Test-Taking Strategy:\nFocus on the subject, lactated Ringer's solution, and note the strategic word, first. Then note the data in the question, history of alcoholic cirrhosis. With liver disease, such as cirrhosis, remember that the conversion of lactate to bicarbonate is markedly delayed due to the reduced capacity of the liver to metabolize lactate. This can result in the worsening of metabolic alkalosis.\n \n   ",
+                        "id": "38eddfbd5e084ac88f39766da135055f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "204e0aa073624fe9b2c89aa8885c085c",
+                                "content": "A client with ulcerative colitis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4eaad875460443f6abb041957c75260b",
+                                "content": "A client with Cushing's syndrome"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5da3bc9b881b4ca187d8751065bf1e11",
+                                "content": "A client admitted 6 hours ago with a 40% burn injury"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dff5e6117e334881a12c3ff30ef20725",
+                                "content": "A client who has a history of long-term laxative abuse\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "204e0aa073624fe9b2c89aa8885c085c",
+                                    "content": "A client with ulcerative colitis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4eaad875460443f6abb041957c75260b",
+                                    "content": "A client with Cushing's syndrome"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5da3bc9b881b4ca187d8751065bf1e11",
+                                    "content": "A client admitted 6 hours ago with a 40% burn injury"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dff5e6117e334881a12c3ff30ef20725",
+                                    "content": "A client who has a history of long-term laxative abuse\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is obtaining the intershift report for a group of assigned clients. Which assigned client would the nurse monitor closely for signs of hyperkalemia?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHyperkalemia is likely to occur in clients who experience cellular shifting of potassium caused by early massive cell destruction, such as in trauma or burns. Other clients at risk for hyperkalemia are those with sepsis or metabolic or respiratory acidosis (with the exception of diabetic acidosis). Clients with Cushing's syndrome or ulcerative colitis or those using laxatives excessively are at risk for hypokalemia.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Fluids and Electrolytes\nHealth Problem: Adult Health: Integumentary: Burns\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Clinical Judgment\nStrategies: Comparable or Alike Options\n   Test-Taking Strategy:\nRemember that options that are comparable or alike are unlikely to be correct. With this in mind, eliminate options 1 and 4 first because they reflect gastrointestinal losses. Remember that cell destruction causes potassium shifts, which will direct you to the correct option. Also remember that Cushing's syndrome presents a risk for hypokalemia, and Addison's disease presents a risk for hyperkalemia.\n \n   ",
+                        "id": "50236bf9f6ee4668aefdaeec7e44ded9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "b31204ffb4a11db6c6c1e79a016ea9ef",
+            "lessonItemId": "6fcba98eef0014dcf07bcc5e6a9aece0",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 143000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:38:11",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Fluids and Electrolyte",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

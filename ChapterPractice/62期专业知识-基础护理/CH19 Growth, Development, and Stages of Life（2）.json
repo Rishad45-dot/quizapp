@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 00:17:01",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 00:17:01",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:46:09",
+            "id": "eb5562f73de4149eaafde2c5f614e7b4",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1962e43a1ff409fbb8e794e7bf502f1",
+                                "content": "Encourage the client to rest and read."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf9a3bbb9ff74ba3b7cf77b2bfada922",
+                                "content": "Encourage the parents to room in with the client."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c2f2b536038416db4c5ce5e1616583e",
+                                "content": "Allow the family to bring in the client's favorite computer games."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9f95abb3d434a8ea6c85c9e8e8e48f4",
+                                "content": "Allow the client to interact with others in the same (adolescent) age-group."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1962e43a1ff409fbb8e794e7bf502f1",
+                                    "content": "Encourage the client to rest and read."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf9a3bbb9ff74ba3b7cf77b2bfada922",
+                                    "content": "Encourage the parents to room in with the client."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c2f2b536038416db4c5ce5e1616583e",
+                                    "content": "Allow the family to bring in the client's favorite computer games."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9f95abb3d434a8ea6c85c9e8e8e48f4",
+                                    "content": "Allow the client to interact with others in the same (adolescent) age-group."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A 16-year-old client is admitted to the hospital for acute appendicitis and an appendectomy is performed. Which nursing intervention is most appropriate to facilitate normal growth and development postoperatively?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAdolescents often are not sure whether they want their parents with them when they are hospitalized. Because of the importance of their peer group, separation from friends is a source of anxiety. Ideally, the members of the peer group will support their ill friend. Options 1, 2, and 3 isolate the client from the peer group.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Developmental Stages: Adolescent\nHealth Problem: Pediatric-Specific: Appendicitis\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Development, Health Promotion\nStrategies: Comparable or Alike Options, Strategic Words\n   Test-Taking Strategy:\nNote the strategic words, most appropriate. Consider the psychosocial needs of the adolescent and remember that the peer group is very important. Options 1, 2, and 3 are comparable or alike in that they isolate the client from their own peer group.\n \n   ",
+                        "id": "0229eacfe09c44f2b5a9319922b3c17c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "18d5a2d9d4c042d78616004c769ca52f",
+                                "content": "Coos when comforted"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cfab2f07b62e44ad82cb6378721eba34",
+                                "content": "Links syllables together"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91a9aa6fd8744ee390959b07897a7ee6",
+                                "content": "Uses monosyllabic babbling"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a54aa46bca474fc394100f3723f6998a",
+                                "content": "Uses simple words such as mama"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "18d5a2d9d4c042d78616004c769ca52f",
+                                    "content": "Coos when comforted"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cfab2f07b62e44ad82cb6378721eba34",
+                                    "content": "Links syllables together"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91a9aa6fd8744ee390959b07897a7ee6",
+                                    "content": "Uses monosyllabic babbling"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a54aa46bca474fc394100f3723f6998a",
+                                    "content": "Uses simple words such as mama"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse assesses the communication patterns of a 5-month-old infant. Which assessment finding would lead the nurse to determine that the infant is demonstrating the highest level of developmental achievement expected?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nUsing monosyllabic babbling occurs between 3 and 6 months of age. Cooing begins at birth and continues until 2 months of age. Linking syllables together when communicating occurs between 6 and 9 months of age. Using simple words such as mama occurs between 9 and 12 months of age.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Developmental Stages: Infant\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Development, Communication\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the highest level of developmental achievement. Use knowledge of language and communication developmental milestones to answer the question. Focus on the age of the infant to assist in directing you to the correct option.\n \n   ",
+                        "id": "10bd09cca34a4503be25bc3e004d099c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79b5bfb371774844943deafc508d1e23",
+                                "content": "Increase oral fluids."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ffea08a742ed47f085d5c6111135ec20",
+                                "content": "Document the finding."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f0f0c1719af484a88f468307dd1e4a6",
+                                "content": "Notify the pediatrician."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2b79ace907e48898d2312af5d3d2d9c",
+                                "content": "Elevate the head of the bed to 90 degrees."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79b5bfb371774844943deafc508d1e23",
+                                    "content": "Increase oral fluids."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ffea08a742ed47f085d5c6111135ec20",
+                                    "content": "Document the finding."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f0f0c1719af484a88f468307dd1e4a6",
+                                    "content": "Notify the pediatrician."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2b79ace907e48898d2312af5d3d2d9c",
+                                    "content": "Elevate the head of the bed to 90 degrees."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a 3-month-old infant for signs of increased intracranial pressure. On palpation of the fontanels, the nurse notes that the anterior fontanel is soft and flat. On the basis of this finding, which nursing action is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe anterior fontanel is diamond-shaped and located on the top of the head. The fontanel should be soft and flat in a normal infant, and it normally closes by 12 to 18 months of age. The nurse would document the finding because it is normal. There is no useful reason to increase oral fluids, notify the pediatrician, or elevate the head of the bed to 90 degrees.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Developmental Stages: Infant\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Development, Intracranial Regulation\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic words, most appropriate, and the words soft and flat. This should provide you with the clue that this is a normal finding. A bulging or tense fontanel may result from crying or increased intracranial pressure.\n \n  ",
+                        "id": "184a02b4142d4898863be10f8e7abe59",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c442462f893491abcbc86099e71341a",
+                                "content": "Allow family members to name the infant."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "178e31826c434beabc0364b9a58fe922",
+                                "content": "Encourage the client to talk about the dead fetus."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98a4bd4df1fb48c082ecffd499cf8bc9",
+                                "content": "Allow the client and the spouse to hold the infant."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ad68ef263e044e8bcdbc82357051ed3",
+                                "content": "Assess the client's and the spouse's perception of the event."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c442462f893491abcbc86099e71341a",
+                                    "content": "Allow family members to name the infant."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "178e31826c434beabc0364b9a58fe922",
+                                    "content": "Encourage the client to talk about the dead fetus."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98a4bd4df1fb48c082ecffd499cf8bc9",
+                                    "content": "Allow the client and the spouse to hold the infant."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ad68ef263e044e8bcdbc82357051ed3",
+                                    "content": "Assess the client's and the spouse's perception of the event."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing a plan of care for a client who just delivered a dead fetus. Which initial action would the nurse include in the client's plan of care to meet the emotional needs of the client and spouse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe initial intervention in planning to meet the emotional needs of the client and spouse is to assess their perception of the event. Although the actions in the remaining options are likely to be components of the plan of care, the initial intervention in planning is to assess the perception of the event.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Applying\nContent Area: Developmental Stages: End-of-Life Care\nHealth Problem: Maternity: Fetal Distress/Demise\nIntegrated Process: Caring\nPriority Concepts: Stress and Coping, Palliative Care\nStrategies: Steps of the Nursing Process, Strategic Words\n  Test-Taking Strategy:\nNote the strategic word, initial. Use the steps of the nursing process to assist you in answering the question. Remember that assessment is the first step in the nursing process. The correct option addresses assessment, whereas the incorrect options address implementation.\n \n  ",
+                        "id": "22b6ad4f621b42a2a2cccd2d8fb7bd5d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5dd4d55d8aa1433ca5edd4899daa13a6",
+                                "content": "Imitates sounds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48cbadc5d37f4c8fa869a3b0530d32b3",
+                                "content": "Smiles spontaneously"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c843e1e8419941e39315e63647c7cb58",
+                                "content": "Sits steadily unsupported"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "18bced3d71eb4cb28af1b32ad33aa95c",
+                                "content": "Walks holding on to someone's hand"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5dd4d55d8aa1433ca5edd4899daa13a6",
+                                    "content": "Imitates sounds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48cbadc5d37f4c8fa869a3b0530d32b3",
+                                    "content": "Smiles spontaneously"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c843e1e8419941e39315e63647c7cb58",
+                                    "content": "Sits steadily unsupported"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "18bced3d71eb4cb28af1b32ad33aa95c",
+                                    "content": "Walks holding on to someone's hand"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which would be the highest expected growth and development occurrence at 12 months of age for an infant who has had appropriate growth assessed at each well-child visit?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nGrowth and development are sequential and predictable. One task builds on another. Mastery of a lower-level task must occur before higher-level tasks are completed. At 12 months a child can walk holding on to someone's hand. Smiling, imitating sounds, and sitting steadily unsupported begin at 6 months of age.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Developmental Stages: Infant\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Development, Functional Ability\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, highest expected growth and development occurrence at 12 months of age. Read each option carefully and visualize the milestone. Focusing on the child's age will direct you to option 4.\n \n   ",
+                        "id": "23c47f31612a4d66a8649932115ad33f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1fbc3c0f9220488dbfbf2b9c03909912",
+                                "content": "Allow the child to set bedtime limits."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "66b607b5086b407a80b4e95541825c50",
+                                "content": "Allow the child to have temper tantrums."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e0a61f0287548efa7723102549fec16",
+                                "content": "Avoid letting the child nap during the day."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9b8f5622f8845ec96e4254b77c6c9f8",
+                                "content": "Inform the child of bedtime a few minutes before it is time for bed."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1fbc3c0f9220488dbfbf2b9c03909912",
+                                    "content": "Allow the child to set bedtime limits."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "66b607b5086b407a80b4e95541825c50",
+                                    "content": "Allow the child to have temper tantrums."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e0a61f0287548efa7723102549fec16",
+                                    "content": "Avoid letting the child nap during the day."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9b8f5622f8845ec96e4254b77c6c9f8",
+                                    "content": "Inform the child of bedtime a few minutes before it is time for bed."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A parent arrives at a clinic with a toddler and tells the nurse how difficult it is to get the child to go to bed at night. What measure is most appropriate for the nurse to suggest to the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nToddlers often resist going to bed. Bedtime protests may be reduced by establishing a consistent before-bedtime routine and enforcing consistent limits regarding the child's bedtime behavior. Informing the child of bedtime a few minutes before it is time for bed is the most appropriate option. Most toddlers take an afternoon nap and, until their second birthday, also may require a morning nap. Firm, consistent limits are needed for temper tantrums or when toddlers try stalling tactics.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Developmental Stages: Toddler\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Development\nStrategies: Strategic Words, Subject\n  Test-Taking Strategy:\nNote the strategic words, most appropriate, and focus on the subject, the toddler. Eliminate options 1, 2, and 3 by using concepts related to growth and development. Remember that preparing the toddler for an event will minimize resistive behavior.\n \n  ",
+                        "id": "24b2400ec44c4e43baebab663791700d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba412de33ecb42a292d5a5ec0c251176",
+                                "content": "\"The decision is made by the medical examiner.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "862c097cfaba4d54861b34bacddb876e",
+                                "content": "\"An autopsy is mandatory for any client who is DOA.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d70e6220bf884c4aad3006abf6b9c235",
+                                "content": "\"I will contact the medical examiner regarding your request.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe108470e2a14a07a42be8efbcc37160",
+                                "content": "\"It is required by federal law. Why don't we talk about it, and why don't you tell me why you don't want the autopsy done?\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba412de33ecb42a292d5a5ec0c251176",
+                                    "content": "\"The decision is made by the medical examiner.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "862c097cfaba4d54861b34bacddb876e",
+                                    "content": "\"An autopsy is mandatory for any client who is DOA.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d70e6220bf884c4aad3006abf6b9c235",
+                                    "content": "\"I will contact the medical examiner regarding your request.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe108470e2a14a07a42be8efbcc37160",
+                                    "content": "\"It is required by federal law. Why don't we talk about it, and why don't you tell me why you don't want the autopsy done?\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client brought to the emergency department is dead on arrival (DOA). The family of the client tells the primary health care provider (PHCP) that the client had terminal cancer. The PHCP examines the client and asks the nurse to contact the medical examiner regarding an autopsy. Family members of the client tell the nurse that they do not want an autopsy performed. Which response to the family is appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAn autopsy is required by state law in certain circumstances, including the sudden death of a client and a death that occurs under suspicious circumstances. A client may have provided oral or written instructions regarding an autopsy after death. If an autopsy is not required by law, these oral or written requests will be granted. If no oral or written instructions were provided, state law determines who has the authority to consent for an autopsy. Most often, the decision rests with the surviving relative or next of kin.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Developmental Stages: End-of-Life Care\nIntegrated Process: Caring\nPriority Concepts: Communication, Health Care Law\nStrategies: Therapeutic Communication Techniques\n   Test-Taking Strategy:\nUse therapeutic communication techniques and knowledge of the laws and issues surrounding autopsy to answer the question. Eliminate options 2 and 4 because these statements are not completely accurate. From the remaining choices, the correct option is the therapeutic and appropriate response to the family.\n",
+                        "id": "24c71e32fabb4fff81cdde630defbc22",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ce6b96fc8be495990994f734ab7abe9",
+                                "content": "\"Bladder control usually is achieved before bowel control.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30bb5fac68af4aaa830893655f7e7f4e",
+                                "content": "\"Our child would not be forced to sit on the potty for long periods.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59aa2f43dffc44b4b8e523556ce9d7cf",
+                                "content": "\"The ability of our child to remove clothing is a sign of physical readiness.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5eb5f96cbaf74693b605d358c231c6b5",
+                                "content": "\"Our child will not be ready to toilet train until the age of about 18 to 24 months.\"\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ce6b96fc8be495990994f734ab7abe9",
+                                    "content": "\"Bladder control usually is achieved before bowel control.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30bb5fac68af4aaa830893655f7e7f4e",
+                                    "content": "\"Our child would not be forced to sit on the potty for long periods.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59aa2f43dffc44b4b8e523556ce9d7cf",
+                                    "content": "\"The ability of our child to remove clothing is a sign of physical readiness.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5eb5f96cbaf74693b605d358c231c6b5",
+                                    "content": "\"Our child will not be ready to toilet train until the age of about 18 to 24 months.\"\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse provides information to the parents of a toddler regarding toilet training. Which statement by one of the parents indicate a need for further information regarding toilet training?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nBowel control usually is achieved before bladder control. The child should not be forced to sit for long periods. The ability to remove clothing is one of the physical signs of readiness for toilet training. The physical ability to control the anal and urethral sphincters is achieved some time after the child is walking, probably between the ages of 18 and 24 months.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Developmental Stages: Toddler\nIntegrated Process: Teaching and Learning\nPriority Concepts: Elimination, Development\nStrategies: Negative Event Query, Strategic Words\n   Test-Taking Strategy:\nNote the strategic words, need for further information. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Use knowledge of the concepts related to readiness for toilet training, and look for the option that indicates that the nurse needs to provide additional information to the parents regarding toilet training.",
+                        "id": "260aed671c9a42f5a01d615bec3ae13f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "916f74c6503d40519ca585104f97462b",
+                                "content": "Agree to act as a witness."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "829bf33ebedc4ca9b1763f1e060f7441",
+                                "content": "Ask another nurse to serve as a witness."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "765054c0b4414110820982669f9cd099",
+                                "content": "Call the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8bb95eb9183445839348b384530df460",
+                                "content": "Ask the client who else might be available to serve as a witness."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "916f74c6503d40519ca585104f97462b",
+                                    "content": "Agree to act as a witness."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "829bf33ebedc4ca9b1763f1e060f7441",
+                                    "content": "Ask another nurse to serve as a witness."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "765054c0b4414110820982669f9cd099",
+                                    "content": "Call the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8bb95eb9183445839348b384530df460",
+                                    "content": "Ask the client who else might be available to serve as a witness."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with pancreatic cancer. The client tells the nurse that a lawyer will be arriving today to prepare a living will and asks the nurse to act as one of the witnesses for the will. What is the most appropriate nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nA living will addresses the withdrawal or withholding of life-sustaining interventions that unnaturally prolong life. It identifies the client who will make care decisions if the client is unable to take action. It is witnessed and signed by two people who are unrelated to the client. Nurses or employees of a facility in which the client is receiving care and beneficiaries of the client must not serve as witnesses. There is no reason to call the PHCP.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Developmental Stages: End-of-Life Care\nHealth Problem: Adult Health: Cancer: Pancreatic\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Health Care Law, Health Policy\nStrategies: Comparable or Alike Options, Strategic Words\n  Test-Taking Strategy:\nNote the strategic words, most appropriate. Eliminate options 1 and 2 because they are comparable or alike. Regarding the remaining options, it is necessary to recall the nurse's role related to witnessing a legal document.\n \n  ",
+                        "id": "2627dc540b904159915bac59cde177fb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9da5b198b2e4b83ba0a2be47ffa2ea2",
+                                "content": "Introduce strained fruits one at a time."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53cf22888f0045ca9dee38ab394124b8",
+                                "content": "Breast milk or formula is the main food."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4456c5a000084c3bbe7c592f7897c98f",
+                                "content": "Introduce strained vegetables one at a time."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56103c20c15848e6947ed6e463ede851",
+                                "content": "Offer rice cereal mixed with breast milk or formula."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9da5b198b2e4b83ba0a2be47ffa2ea2",
+                                    "content": "Introduce strained fruits one at a time."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53cf22888f0045ca9dee38ab394124b8",
+                                    "content": "Breast milk or formula is the main food."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4456c5a000084c3bbe7c592f7897c98f",
+                                    "content": "Introduce strained vegetables one at a time."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56103c20c15848e6947ed6e463ede851",
+                                    "content": "Offer rice cereal mixed with breast milk or formula."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse at a well-baby clinic is providing nutrition instructions to the parent of a 1-month-old infant. What instruction would the nurse give to the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBreast/chest milk or formula is the main food throughout infancy. Rice cereal mixed with breast milk or formula is introduced at 4 months of age. Strained vegetables, fruits, and meats are introduced one at a time and can begin at 6 months of age.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Developmental Stages: Infant\nIntegrated Process: Teaching and Learning\nPriority Concepts: Nutrition, Development\nStrategies: Comparable or Alike Options\n  Test-Taking Strategy:\nFocus on the age of the infant. Note that options 1, 3, and 4 are comparable or alike in that they all refer to specific food items.\n \n  ",
+                        "id": "2b5c369cd90f43bcb16dfafaa601f3c3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "f8f2f7c452e95fb5f42fefbd200d49d0",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 45000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:46:09",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Growth, Development, and Stages of Lif",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

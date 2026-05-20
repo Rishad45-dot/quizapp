@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:48",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:48",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:15:05",
+            "id": "ca271a06798d53b48667dbe0fd907d27",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "88a21dea9ad843c2a0ff9adf3344bdff",
+                                "content": "Client report of blurred vision"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "421b3289d6df4d2e8905eda9451ee48e",
+                                "content": "Client report of \"tunnel vision\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e573c2536aa48bcbca18bc558b69680",
+                                "content": "Client report of ocular erythema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2a0cc0c0b5b844898eeb2ccfb6bfb6f0",
+                                "content": "Client report of halos around lights"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "88a21dea9ad843c2a0ff9adf3344bdff",
+                                    "content": "Client report of blurred vision"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "421b3289d6df4d2e8905eda9451ee48e",
+                                    "content": "Client report of \"tunnel vision\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e573c2536aa48bcbca18bc558b69680",
+                                    "content": "Client report of ocular erythema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2a0cc0c0b5b844898eeb2ccfb6bfb6f0",
+                                    "content": "Client report of halos around lights"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who was recently diagnosed with primary open-angle glaucoma (POAG). Which assessment finding is specific to this type of glaucoma?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPOAG results from obstruction to outflow of aqueous humor and is the most common type. Assessment findings include painless vision changes and \"tunnel vision.\" Primary angle-closure glaucoma (PACG) is another type of glaucoma that results from blocking the outflow of aqueous humor into the trabecular meshwork. Assessment findings include blurred vision, ocular erythema, and halos around lights.",
+                        "id": "08b107fe6dd74ab984956ee4e0572346",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8eda0854705a432faa2a9def14dc2035",
+                                "content": "Avoid overuse of the eyes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2421e06c78c4943903b953e8084c242",
+                                "content": "Decrease the amount of salt in the diet."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e5d3760daee147209d4b88d80e592749",
+                                "content": "Eye medications will need to be administered for life."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe4eff858882467c888d4fbb63149291",
+                                "content": "Decrease fluid intake to control the intraocular pressure."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8eda0854705a432faa2a9def14dc2035",
+                                    "content": "Avoid overuse of the eyes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2421e06c78c4943903b953e8084c242",
+                                    "content": "Decrease the amount of salt in the diet."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e5d3760daee147209d4b88d80e592749",
+                                    "content": "Eye medications will need to be administered for life."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe4eff858882467c888d4fbb63149291",
+                                    "content": "Decrease fluid intake to control the intraocular pressure."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a teaching plan for a client with glaucoma. Which instruction would the nurse include in the plan of care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe administration of eye drops is a critical component of the treatment plan for the client with glaucoma. The client needs to be instructed that medications will need to be taken for the rest of their life. Options 1, 2, and 4 are not accurate instructions.",
+                        "id": "11a40a08fd704bb9b481663ace111aa8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32e5a602671c4b0c8e059959393514a7",
+                                "content": "Apply normal saline drops."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28d2ddd55798476dbf2c90152d4665ce",
+                                "content": "Note the time of day the test was done."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b59a93c7d5824c7090811ba95c6ec94f",
+                                "content": "Contact the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a1a261c60ee64ef59d11534f244b32f9",
+                                "content": "Instruct the client to sleep with the head of the bed flat."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32e5a602671c4b0c8e059959393514a7",
+                                    "content": "Apply normal saline drops."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28d2ddd55798476dbf2c90152d4665ce",
+                                    "content": "Note the time of day the test was done."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b59a93c7d5824c7090811ba95c6ec94f",
+                                    "content": "Contact the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1a261c60ee64ef59d11534f244b32f9",
+                                    "content": "Instruct the client to sleep with the head of the bed flat."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Tonometry is performed on a client with a suspected diagnosis of glaucoma. The nurse looks at the documented test results and notes an intraocular pressure (IOP) value of 23. What would be the nurse's initial action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTonometry is a method of measuring intraocular fluid pressure. Pressures between 10 and 21 mm Hg are considered within the normal range. However, IOP is slightly higher in the morning. Therefore, the initial action is to check the time the test was performed. Normal saline drops are not a specific treatment for glaucoma. It is unnecessary to contact the PHCP as an initial action. Flat positions may increase the pressure.",
+                        "id": "1aa3663d135b4d0c85d369ae3e55b7cc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44ee53a75edf415e83745ad729f261e9",
+                                "content": "Diplopia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c980dc359fac46449c1ab82debea4bb4",
+                                "content": "Eye pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b517123eb4144c9eae6ccbc45688c661",
+                                "content": "Floating spots"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bc97839b3f84381a43a2c484de39101",
+                                "content": "Blurred vision"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44ee53a75edf415e83745ad729f261e9",
+                                    "content": "Diplopia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c980dc359fac46449c1ab82debea4bb4",
+                                    "content": "Eye pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b517123eb4144c9eae6ccbc45688c661",
+                                    "content": "Floating spots"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bc97839b3f84381a43a2c484de39101",
+                                    "content": "Blurred vision"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client with a suspected diagnosis of cataract. Which clinical manifestation would the nurse expect to note in the early stages of cataract formation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA gradual, painless blurring of central vision is the chief clinical manifestation of a cataract. Early symptoms include slightly blurred vision and a decrease in color perception. Options 1, 2, and 3 are not characteristics of a cataract.",
+                        "id": "29a6ce6063484bd790e4db10958f31e5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "98829a85e04e4b99b913e022824c2d0e",
+                                "content": "Document the finding."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd07c2ee82f94db096f4573e100a1dbd",
+                                "content": "Reinforce the dressing."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1c9af231f724c4aa7d4029abc51af79",
+                                "content": "Contact the surgeon."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed74f3f8c3bd4aac970fda9ee6c7c1e3",
+                                "content": "Mark the site and continue to monitor."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "98829a85e04e4b99b913e022824c2d0e",
+                                    "content": "Document the finding."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd07c2ee82f94db096f4573e100a1dbd",
+                                    "content": "Reinforce the dressing."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1c9af231f724c4aa7d4029abc51af79",
+                                    "content": "Contact the surgeon."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed74f3f8c3bd4aac970fda9ee6c7c1e3",
+                                    "content": "Mark the site and continue to monitor."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client in the postoperative period following enucleation. The nurse notes bloody staining on the surgical eye dressing. Which nursing action is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter enucleation, if the nurse notes any staining or bleeding on the surgical dressing, the surgeon needs to be notified immediately. The remaining options are not appropriate nursing actions for this client.",
+                        "id": "352361046c104bf9a1bf5cb870b55d27",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b24d314d72c458f90162c8a2b163aaf",
+                                "content": "I need to sleep on my left side."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "741e4820a84940c397fe545dca6e5fc0",
+                                "content": "I would sleep on my right side."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4133682fdb954dc39f242bd8f86b6b19",
+                                "content": "I would sleep with my head flat."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7666a302d4641e5a6fe6c643c4829a6",
+                                "content": "I would not wear my glasses at any time."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b24d314d72c458f90162c8a2b163aaf",
+                                    "content": "I need to sleep on my left side."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "741e4820a84940c397fe545dca6e5fc0",
+                                    "content": "I would sleep on my right side."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4133682fdb954dc39f242bd8f86b6b19",
+                                    "content": "I would sleep with my head flat."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7666a302d4641e5a6fe6c643c4829a6",
+                                    "content": "I would not wear my glasses at any time."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing instructions to a client and the family regarding home care after right eye cataract removal. Which statement by the client would indicate an understanding of the instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAfter cataract surgery, the client would not sleep on the side of the body that was operated on to prevent edema formation and intraocular pressure. The client also needs to be placed in a semi-Fowler's position to assist in minimizing edema and intraocular pressure. During the day, the client may wear glasses or a protective shield; at night, the protective shield alone is sufficient.",
+                        "id": "3ebc16f2e7e143f6b4ede6ef1b96cb45",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1578c2f8f31c4cc7b25723a0ebf8ef95",
+                                "content": "Diplopia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79f41796332c4f52acf941218f08bc70",
+                                "content": "Eye pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "820be1b2b4c0400587835ede4c1a9a8a",
+                                "content": "Floating spots"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "60a0b638e85e4c68ac71040bee9a27c2",
+                                "content": "Blurred vision"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1578c2f8f31c4cc7b25723a0ebf8ef95",
+                                    "content": "Diplopia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79f41796332c4f52acf941218f08bc70",
+                                    "content": "Eye pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "820be1b2b4c0400587835ede4c1a9a8a",
+                                    "content": "Floating spots"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "60a0b638e85e4c68ac71040bee9a27c2",
+                                    "content": "Blurred vision"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client with a suspected diagnosis of cataract. Which clinical manifestation would the nurse expect to note in the early stages of cataract formation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA gradual, painless blurring of central vision is the chief clinical manifestation of a cataract. Early symptoms include slightly blurred vision and a decrease in color perception. Options 1, 2, and 3 are not characteristics of a cataract.",
+                        "id": "566fff7e96ea4421baaaa04891b9f1f2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2934d1ea83984940a08798758088f7ce",
+                                "content": "Cardiovascular disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7fb27acc49ab49ae9c2b9a8c3266d50d",
+                                "content": "Frequent urinary tract infections"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a61fba71e1ab4b889462849a471a1a6d",
+                                "content": "A history of migraine headaches"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "120bd2c54de148439254a3a49e62b081",
+                                "content": "Frequent upper respiratory infections"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2934d1ea83984940a08798758088f7ce",
+                                    "content": "Cardiovascular disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7fb27acc49ab49ae9c2b9a8c3266d50d",
+                                    "content": "Frequent urinary tract infections"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a61fba71e1ab4b889462849a471a1a6d",
+                                    "content": "A history of migraine headaches"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "120bd2c54de148439254a3a49e62b081",
+                                    "content": "Frequent upper respiratory infections"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is diagnosed with glaucoma. Which piece of nursing assessment data identifies a risk factor associated with this eye disorder?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypertension, cardiovascular disease, diabetes mellitus, and obesity are associated with the development of glaucoma. Options 2, 3, and 4 do not identify risk factors associated with this eye disorder.",
+                        "id": "78b22a1aa7414cbe9755cb7c9dc42b5e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ccc40d49dee14104938952d30e44fa73",
+                                "content": "Allowing bathroom privileges only"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8bbcc00e424d4c1295a6065a3479d563",
+                                "content": "Elevating the head of the bed to 45 degrees"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "adf5ae9a06ec4d3bb0fc7632293c61cf",
+                                "content": "Wearing dark glasses to read or watch television"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c32d5225c42544b08edcc651bbaa0a37",
+                                "content": "Placing an eye patch over the client's affected eye"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ccc40d49dee14104938952d30e44fa73",
+                                    "content": "Allowing bathroom privileges only"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8bbcc00e424d4c1295a6065a3479d563",
+                                    "content": "Elevating the head of the bed to 45 degrees"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "adf5ae9a06ec4d3bb0fc7632293c61cf",
+                                    "content": "Wearing dark glasses to read or watch television"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c32d5225c42544b08edcc651bbaa0a37",
+                                    "content": "Placing an eye patch over the client's affected eye"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with retinal detachment is admitted to the nursing unit in preparation for a repair procedure. Which prescription would the nurse anticipate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe nurse places an eye patch over the client's affected eye to reduce eye movement. Some clients may need bilateral patching. Depending on the location and size of the retinal break, activity restrictions may be needed immediately. These restrictions are necessary to prevent further tearing or detachment and to promote drainage of any subretinal fluid. Therefore, reading and watching television are not allowed. The client's position is prescribed by the primary health care provider; normally, the prescription is to lie flat.",
+                        "id": "8d01fe78ec7d48e0b1e40f8cb7cce11d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a54b61b48824cdca33593f90c2b05c2",
+                                "content": "Avoid overuse of the eyes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed2e26eddaf14eb48a3a6aef1d0071a8",
+                                "content": "Decrease the amount of salt in the diet."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c400b0dc7e694bcc9250a3276ad40442",
+                                "content": "Eye medications will need to be administered for life."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9413afc290c44abca9f37140bf5498ae",
+                                "content": "Decrease fluid intake to control the intraocular pressure."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a54b61b48824cdca33593f90c2b05c2",
+                                    "content": "Avoid overuse of the eyes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed2e26eddaf14eb48a3a6aef1d0071a8",
+                                    "content": "Decrease the amount of salt in the diet."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c400b0dc7e694bcc9250a3276ad40442",
+                                    "content": "Eye medications will need to be administered for life."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9413afc290c44abca9f37140bf5498ae",
+                                    "content": "Decrease fluid intake to control the intraocular pressure."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a teaching plan for a client with glaucoma. Which instruction would the nurse include in the plan of care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe administration of eye drops is a critical component of the treatment plan for the client with glaucoma. Clients with glaucoma need to be instructed that medications will need to be taken for the rest of their lives. Options 1, 2, and 4 are inaccurate instructions.",
+                        "id": "b3bd0e02ac154d5aae8295990e1db8a9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "ce3e14a355be9ddd545480b11dd277a3",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 309000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:15:06",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Problems of the Ey",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

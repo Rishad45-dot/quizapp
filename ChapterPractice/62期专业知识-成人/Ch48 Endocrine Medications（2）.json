@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:07:35",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:07:35",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:22:46",
+            "id": "240d481aae16d1bad1b5b1b0c7fd81a2",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e5f48d61fd948388883f4d0f51b3394",
+                                "content": "Glipizide"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "068d4c27657242dca18068dc58583975",
+                                "content": "Metformin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fff9be2f6f2d445fb8a50756dde26c28",
+                                "content": "Repaglinide"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "140bc22efa5e4a5fb29cf4aa9bf36af9",
+                                "content": "Regular insulin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e5f48d61fd948388883f4d0f51b3394",
+                                    "content": "Glipizide"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "068d4c27657242dca18068dc58583975",
+                                    "content": "Metformin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fff9be2f6f2d445fb8a50756dde26c28",
+                                    "content": "Repaglinide"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "140bc22efa5e4a5fb29cf4aa9bf36af9",
+                                    "content": "Regular insulin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a history of type 2 diabetes is admitted to the hospital with chest pain and scheduled for a cardiac catheterization. Which medication would need to be withheld for 24 hours before the procedure and for 48 hours after the procedure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMetformin needs to be withheld 24 hours before and for 48 hours after cardiac catheterization because of the injection of contrast medium during the procedure. If the contrast medium affects kidney function, with metformin in the system the client would be at increased risk for lactic acidosis. The medications in the remaining options do not need to be withheld before and after cardiac catheterization.\n\nTest-Taking Strategy:\nEliminate glipizide and repaglinide first because they are comparable or alike. Although these medications may be withheld on the morning of the procedure because of the client's NPO (nothing by mouth) status, there is no indication for withholding the medication on the day prior to the procedure and postprocedure. Regular insulin may be administered if elevated blood glucose levels from infused intravenous solutions occur on the day of the procedure.",
+                        "id": "00cd6c861ce948168d1297d1a1ea3835",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d191b73ff6c4f95a05710b02807b1da",
+                                "content": "With food"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "084ae73927f54e81a5abe8c0b7b52e8e",
+                                "content": "At lunchtime"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6bc90132984546e49b1e5eb96dc4f4b4",
+                                "content": "On an empty stomach"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f26ecd5b43eb482cbf85ea4d06696b0e",
+                                "content": "At bedtime with a snack"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d191b73ff6c4f95a05710b02807b1da",
+                                    "content": "With food"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "084ae73927f54e81a5abe8c0b7b52e8e",
+                                    "content": "At lunchtime"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6bc90132984546e49b1e5eb96dc4f4b4",
+                                    "content": "On an empty stomach"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f26ecd5b43eb482cbf85ea4d06696b0e",
+                                    "content": "At bedtime with a snack"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides instructions to a client who is taking levothyroxine. The nurse would tell the client to take the medication in which way?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nOral doses of levothyroxine need to be taken on an empty stomach to enhance absorption. Dosing would be done in the morning before breakfast.\n\nTest-Taking Strategy:\nNote that options 1, 2, and 4 are comparable or alike in that these options address administering the medication with food.",
+                        "id": "0179450ee94f43c59ddda023a11cfdba",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d1a09ce7f7244c582615f63d51812d3",
+                                "content": "\"Inject the pramlintide at the same time you take your other medications.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "315126bff58641f4aaf9080d8d8b12c6",
+                                "content": "\"Take your prescribed pills 1 hour before or 2 hours after the injection.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e08daa3227a34f0dada849b37dfd31f1",
+                                "content": "\"Be sure to take the pramlintide with food so that you don't upset your stomach.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1b1c918ea66e4d68af443e5bee33e97e",
+                                "content": "\"Make sure you take your pramlintide immediately after you eat so that you don't experience a low blood sugar.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d1a09ce7f7244c582615f63d51812d3",
+                                    "content": "\"Inject the pramlintide at the same time you take your other medications.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "315126bff58641f4aaf9080d8d8b12c6",
+                                    "content": "\"Take your prescribed pills 1 hour before or 2 hours after the injection.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e08daa3227a34f0dada849b37dfd31f1",
+                                    "content": "\"Be sure to take the pramlintide with food so that you don't upset your stomach.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1b1c918ea66e4d68af443e5bee33e97e",
+                                    "content": "\"Make sure you take your pramlintide immediately after you eat so that you don't experience a low blood sugar.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing instructions to the client newly diagnosed with diabetes mellitus who has been prescribed pramlintide. Which instruction would the nurse include in the discharge teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPramlintide is used for clients with types 1 and 2 diabetes mellitus who use insulin. It is administered subcutaneously before meals to lower blood glucose level after meals, leading to less fluctuation during the day and better long-term glucose control. Because pramlintide delays gastric emptying, any prescribed oral medications would be taken 1 hour before or 2 hours after an injection of pramlintide; therefore, instructing clients to take their pills 1 hour before or 2 hours after the injection is correct. Pramlintide would not be taken at the same time as other medications. Pramlintide is given immediately before the meal in order to control postprandial rise in blood glucose, not necessarily to prevent stomach upset. It is incorrect to instruct the client to take the medication after eating, as it will not achieve its full therapeutic effect.\n\nTest-Taking Strategy:\nFocus on the subject, client instructions regarding pramlintide as it pertains to administration. Use knowledge regarding the action of the medication and treatment measures for diabetes mellitus to answer the question. Remember that this medication is used in conjunction with insulin to prevent postprandial rise in blood glucose and that hypoglycemia is a potential adverse effect. Also remember that this medication causes delayed gastric emptying and should not be taken with other medications.",
+                        "id": "01d1dccc6f4f4e228175a929b6d20c63",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cb95373d7f744d6bdc256006eb9edd0",
+                                "content": "Continue with the medication."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "050c14fb41514ddca974a4e83d89d22f",
+                                "content": "Take half of the prescribed dose for the next 24 hours."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28a7db6745f14891bb8d2361de6c1f98",
+                                "content": "Withhold the medication and notify the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "292ffe8cc65746afaa3d7ca86e62cceb",
+                                "content": "Withhold the medication for the next 24 hours and then continue as prescribed."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cb95373d7f744d6bdc256006eb9edd0",
+                                    "content": "Continue with the medication."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "050c14fb41514ddca974a4e83d89d22f",
+                                    "content": "Take half of the prescribed dose for the next 24 hours."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28a7db6745f14891bb8d2361de6c1f98",
+                                    "content": "Withhold the medication and notify the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "292ffe8cc65746afaa3d7ca86e62cceb",
+                                    "content": "Withhold the medication for the next 24 hours and then continue as prescribed."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Potassium iodide is prescribed for a client with thyrotoxic crisis. The client calls a clinic nurse and complains of a brassy taste in the mouth. Which instruction would the nurse provide the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nChronic ingestion of iodine can produce iodism. The client needs to be instructed about the symptoms of iodism, which include a brassy taste, soreness of gums and teeth, vomiting, and abdominal pain. The client needs to be instructed to notify the PHCP if these symptoms occur.\n\nTest-Taking Strategy:\nFocus on the subject, that the client is experiencing a brassy taste. Eliminate options 2 and 4 because the nurse cannot legally alter medication prescriptions without the PHCP's prescription. Focusing on the client's symptom presented in the question will eliminate option 1, to continue with the medication.",
+                        "id": "038afbbf6cb844ad8a136290f046b5ef",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f05f7b92f1ef4a37a5021929ceebb9ba",
+                                "content": "\"Sulfonylureas decrease insulin resistance.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df80e5ed1df048d09ea3ea2668915d7f",
+                                "content": "\"Sulfonylureas inhibit carbohydrate digestion.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68a0bb356a004cc7a00024e7dd53a458",
+                                "content": "\"Sulfonylureas decrease glucose production by the liver.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52b60dd4c8194f1f8ecea8f3ff99f5f1",
+                                "content": "\"Sulfonylureas promote insulin secretion by the pancreas.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f05f7b92f1ef4a37a5021929ceebb9ba",
+                                    "content": "\"Sulfonylureas decrease insulin resistance.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df80e5ed1df048d09ea3ea2668915d7f",
+                                    "content": "\"Sulfonylureas inhibit carbohydrate digestion.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68a0bb356a004cc7a00024e7dd53a458",
+                                    "content": "\"Sulfonylureas decrease glucose production by the liver.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52b60dd4c8194f1f8ecea8f3ff99f5f1",
+                                    "content": "\"Sulfonylureas promote insulin secretion by the pancreas.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The diabetes nurse specialist conducts a teaching session to a group of nursing students regarding sulfonylureas, oral hypoglycemic medications used for type 2 diabetes mellitus. Which statement, describing the primary action of these medications, would the nurse include in the teaching session?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSulfonylureas promote insulin secretion by the pancreas and may also increase tissue response to insulin. Thiazolidinediones decrease insulin resistance. α-Glucosidase inhibitors inhibit carbohydrate digestion. Biguanides decrease glucose production by the liver.\n\nTest-Taking Strategy:\nNote the strategic word, primary. Knowledge of the specific action of sulfonylureas is required to answer this question. Remember that sulfonylureas promote insulin secretion by the pancreas.",
+                        "id": "04bdcdc0ab37498c87f44c5cd391ac03",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cacd02ccf1ef4d5f99b5d2cc59fce8e8",
+                                "content": "Insulin glargine"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42dafcbd1d77436aa9eb62e03e737adb",
+                                "content": "Regular insulin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d1a761b71d64691868ad520c48178f1",
+                                "content": "Insulin isophane"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "04ef0888d0e74c7693237db0c430bdd7",
+                                "content": "50% human insulin isophane/50% human insulin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cacd02ccf1ef4d5f99b5d2cc59fce8e8",
+                                    "content": "Insulin glargine"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42dafcbd1d77436aa9eb62e03e737adb",
+                                    "content": "Regular insulin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d1a761b71d64691868ad520c48178f1",
+                                    "content": "Insulin isophane"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "04ef0888d0e74c7693237db0c430bdd7",
+                                    "content": "50% human insulin isophane/50% human insulin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The emergency department nurse is caring for a client admitted with diabetic ketoacidosis. The physician prescribes intravenous (IV) insulin. The nurse plans to prepare which type of insulin for the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nRegular insulin can be administered by the IV route. Insulin glargine is a long-acting insulin. Insulin isophane and 50% human insulin isophane/50% human insulin are intermediate-acting insulins.\n\nTest-Taking Strategy:\nFocus on the subject, insulin that can be administered by the IV route. To answer correctly, it is necessary to remember the onset, peak, and duration of action of each insulin type. Also, focus on the client's diagnosis, and recall that the blood glucose level is extremely elevated in this condition and must be decreased.",
+                        "id": "06c3b0252d994a1fadaefdecdef9d359",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bff4351e0844228bc9b66c6b2466144",
+                                "content": "Carbamazepine and phenytoin by mouth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "37bd23f5c1c34dcda02a869a31e46d6e",
+                                "content": "Lioresal by mouth and diazepam intravenously"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee6544b86af1471bb91fd41e0f24dfc1",
+                                "content": "Phenytoin intravenously, then tapered to oral route"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1257b2bcf98f48ffa14d677dea216132",
+                                "content": "Methylprednisolone and cyclophosphamide intravenously"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bff4351e0844228bc9b66c6b2466144",
+                                    "content": "Carbamazepine and phenytoin by mouth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "37bd23f5c1c34dcda02a869a31e46d6e",
+                                    "content": "Lioresal by mouth and diazepam intravenously"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee6544b86af1471bb91fd41e0f24dfc1",
+                                    "content": "Phenytoin intravenously, then tapered to oral route"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1257b2bcf98f48ffa14d677dea216132",
+                                    "content": "Methylprednisolone and cyclophosphamide intravenously"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with an exacerbation of multiple sclerosis. Which medication(s) will the nurse expect to be prescribed to hasten recovery from the exacerbation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIntravenous methylprednisolone or adrenocorticotropic hormone in combination with cyclophosphamide may be prescribed to accelerate recovery from an exacerbation of multiple sclerosis. Carbamazepine may be prescribed for trigeminal neuralgia, and phenytoin may be prescribed to control seizures. Lioresal and diazepam are used to treat muscle spasticity.\n\nTest-Taking Strategy:\nNote the subject, an exacerbation of multiple sclerosis. Specific knowledge about treatment for multiple sclerosis is needed to answer the question. Recalling that methylprednisolone is a corticosteroid will direct you to the correct option.",
+                        "id": "0dc07b9956044cc883077de75b76937b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8ca54d43609453588665257614a8a6e",
+                                "content": "\"It relieves the headaches.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9033c3bd20ac4b3fabf6660497cfbbc5",
+                                "content": "\"It increases water reabsorption.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7ee7ef78a31448c85c6d0cb80dcd193",
+                                "content": "\"It stimulates the production of aldosterone.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3e281bfa610c43b3a0b0c1e36fcb559e",
+                                "content": "\"It decreases the production of the antidiuretic hormone.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8ca54d43609453588665257614a8a6e",
+                                    "content": "\"It relieves the headaches.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9033c3bd20ac4b3fabf6660497cfbbc5",
+                                    "content": "\"It increases water reabsorption.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7ee7ef78a31448c85c6d0cb80dcd193",
+                                    "content": "\"It stimulates the production of aldosterone.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3e281bfa610c43b3a0b0c1e36fcb559e",
+                                    "content": "\"It decreases the production of the antidiuretic hormone.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is seen in the clinic for complaints of thirst, frequent urination, and headaches. After diagnostic studies, diabetes insipidus is diagnosed. Desmopressin is prescribed. The client asks why this medication was prescribed. Which is a correct statement by the nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDesmopressin is an antidiuretic hormone (ADH) used in the treatment of diabetes insipidus. It promotes renal conservation of water by acting on the collecting ducts of the kidney to increase the permeability to water, which results in increased water reabsorption. Desmopressin does not relieve headaches, stimulate aldosterone, or decrease production of ADH.\n\nTest-Taking Strategy:\nNote the subject, the purpose of desmopressin, and the diagnosis identified in the question. Recalling the pathophysiology and the clinical manifestations associated with the disorder will assist in directing you to the correct option.",
+                        "id": "0f7d09a9fe084e518a161d7fa65b08a2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d6a2ff0f7734a898c97020ffb475f05",
+                                "content": "Withdraws the NPH insulin first"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5d4245dda3e4dada76bb5fa59b6a423",
+                                "content": "Withdraws the regular insulin first"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae5c5bf565b046cd913168a85102db39",
+                                "content": "Injects air into NPH insulin vial first"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac8232dcb9f84c2e94e4722ea4c12948",
+                                "content": "Injects an amount of air equal to the desired dose of insulin into each vial"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d6a2ff0f7734a898c97020ffb475f05",
+                                    "content": "Withdraws the NPH insulin first"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5d4245dda3e4dada76bb5fa59b6a423",
+                                    "content": "Withdraws the regular insulin first"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae5c5bf565b046cd913168a85102db39",
+                                    "content": "Injects air into NPH insulin vial first"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac8232dcb9f84c2e94e4722ea4c12948",
+                                    "content": "Injects an amount of air equal to the desired dose of insulin into each vial"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is teaching a client with diabetes mellitus how to mix regular insulin and NPH insulin in the same syringe. Which action, if performed by the client, indicates the need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nWhen preparing a mixture of short-acting insulin, such as regular insulin, with another insulin preparation, the short-acting insulin is drawn into the syringe first. This sequence will avoid contaminating the vial of short-acting insulin with insulin of another type. Options 2, 3, and 4 identify correct actions for preparing NPH and short-acting insulin.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and ask you to select an option that is an incorrect action. Remember RN—draw up the Regular (short-acting) insulin before the NPH insulin.",
+                        "id": "0fe29b6f98204e24809199681140c800",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16a1c637106c40b7a05c360bb8d0c610",
+                                "content": "2 to 4 hours after administration"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dfa497977010412793890cb68b78c6a0",
+                                "content": "4 to 12 hours after administration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c90977817f6240d8b276ceddb6bc98a7",
+                                "content": "12 to 16 hours after administration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30947d483303463e9f5d459dc90247bb",
+                                "content": "18 to 24 hours after administration"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16a1c637106c40b7a05c360bb8d0c610",
+                                    "content": "2 to 4 hours after administration"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dfa497977010412793890cb68b78c6a0",
+                                    "content": "4 to 12 hours after administration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c90977817f6240d8b276ceddb6bc98a7",
+                                    "content": "12 to 16 hours after administration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30947d483303463e9f5d459dc90247bb",
+                                    "content": "18 to 24 hours after administration"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A hospitalized client with diabetes mellitus receives NPH insulin in the morning. The nurse monitors the client for hypoglycemia, knowing that the peak action is expected to occur how soon after the medication administration?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nNPH insulin is an intermediate-acting insulin. Its onset of action is 3 to 4 hours, it peaks in 4 to 12 hours, and its duration of action is 16 to 20 hours.\n\nTest-Taking Strategy:\nRead the question carefully, noting that the subject is NPH insulin. Knowledge regarding its onset of action, peak, and duration of action is required to answer the question. Remembering that it is an intermediate-acting insulin will direct you to the correct option.",
+                        "id": "1533f8c0987f4bc6b1cfa6ca6832c31f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "2744eef4234cf14541fde14b235e3230",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 320000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:22:47",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Antithyroid Medications,Parathyroid Medications,Thyroid Hormones,Corticosteroids,Medications for Diabetes Mellitus,Pituitary Medications,Antidiuretic Hormones,Androgens，Estrogens and Progestin",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

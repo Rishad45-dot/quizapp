@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:08:20",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:08:20",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:08:37",
+            "id": "f17f3eb0a2890c40af90f7c55f9d1cf4",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c75bf57ed828417ca52f61aea107db4f",
+                                "content": "breath"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "068ca28959434aa69d5ae8b8553d90c8",
+                                "content": " breathe"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6bc6dca7108f40c7947b174de7dcb4e3",
+                                "content": "respiration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5af5967e335d4938a53557dbb5fb9253",
+                                "content": "respiratory system"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c75bf57ed828417ca52f61aea107db4f",
+                                    "content": "breath"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "068ca28959434aa69d5ae8b8553d90c8",
+                                    "content": " breathe"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6bc6dca7108f40c7947b174de7dcb4e3",
+                                    "content": "respiration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5af5967e335d4938a53557dbb5fb9253",
+                                    "content": "respiratory system"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "表示“呼吸”的动词是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "它是表示呼吸动作的动词。",
+                        "id": "081479c36d264e219036fcbeac9b81a6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09ee0b1c95ee4889bbb5a8ad354c325b",
+                                "content": " Sudden Infant Death Syndrome"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ef6d5fe56524104917a7ffffdf6d9f0",
+                                "content": "Sudden Child Death Syndrome"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "808dc38b9f0a43f0a0dfb4f0719e7508",
+                                "content": " Sudden Newborn Death Syndrome"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f236f0e20591419ea36893f7e78d7e8d",
+                                "content": "Sudden Toddler Death Syndrome"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09ee0b1c95ee4889bbb5a8ad354c325b",
+                                    "content": " Sudden Infant Death Syndrome"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ef6d5fe56524104917a7ffffdf6d9f0",
+                                    "content": "Sudden Child Death Syndrome"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "808dc38b9f0a43f0a0dfb4f0719e7508",
+                                    "content": " Sudden Newborn Death Syndrome"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f236f0e20591419ea36893f7e78d7e8d",
+                                    "content": "Sudden Toddler Death Syndrome"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"婴儿猝死综合征\"英文如何表达？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Sudden Infant Death Syndrome，这是婴儿猝死综合征的英文表达。",
+                        "id": "0b8670a3301749f6b65c0d3801a89352",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4a2fd4596f93dd6272b775b50335fcdc",
+                                "content": "失认证"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f8a7533f400a0fd99bfc0b1187240f6",
+                                "content": "构音困难"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b6d1f1029b38cb52bfeb1d7c334f763",
+                                "content": "呼吸困难"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16f7a835117beeab73e77583b3ccd484",
+                                "content": "吞咽困难"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4a2fd4596f93dd6272b775b50335fcdc",
+                                    "content": "失认证"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f8a7533f400a0fd99bfc0b1187240f6",
+                                    "content": "构音困难"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b6d1f1029b38cb52bfeb1d7c334f763",
+                                    "content": "呼吸困难"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16f7a835117beeab73e77583b3ccd484",
+                                    "content": "吞咽困难"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "dyspnea",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "呼吸困难",
+                        "id": "14f3b9f2d8a94201be0f12ab775d364c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea33b78f4a56449fb50aaa38f257e20b",
+                                "content": "Endobronchial ultrasound"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "417e72cc253a4f4abd1824c4781fc81a",
+                                "content": " Pleural ultrasound"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce20613f022446a19373cf4590043910",
+                                "content": "Abdominal ultrasound"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "39c9d8c0f24d470a9b5502ccd36bddd2",
+                                "content": "Vascular ultrasound"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea33b78f4a56449fb50aaa38f257e20b",
+                                    "content": "Endobronchial ultrasound"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "417e72cc253a4f4abd1824c4781fc81a",
+                                    "content": " Pleural ultrasound"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce20613f022446a19373cf4590043910",
+                                    "content": "Abdominal ultrasound"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "39c9d8c0f24d470a9b5502ccd36bddd2",
+                                    "content": "Vascular ultrasound"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"支气管内超声\"在英文中如何表达？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Endobronchial ultrasound，它是指支气管内超声。",
+                        "id": "184f4888ec654ffda2daea148ef5d03f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8255453c94264ee69a1826dcb4e07a7f",
+                                "content": " Laryngoscopy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96d6e4d2732e4e6fad435cdaaf616f3a",
+                                "content": "Bronchoscopy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75a683550aaf40e58608b4c44eba82a6",
+                                "content": " Endoscopy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7df2f5c0d3fd467f92d0eb98e2ea96fc",
+                                "content": "Colonoscopy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8255453c94264ee69a1826dcb4e07a7f",
+                                    "content": " Laryngoscopy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96d6e4d2732e4e6fad435cdaaf616f3a",
+                                    "content": "Bronchoscopy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75a683550aaf40e58608b4c44eba82a6",
+                                    "content": " Endoscopy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7df2f5c0d3fd467f92d0eb98e2ea96fc",
+                                    "content": "Colonoscopy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"喉镜检查\"在英文中如何表达？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Laryngoscopy，它是指喉镜检查。",
+                        "id": "2104829a7aad4d64b2f327089158a69b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0568ba8cbfea50a9f8729480fadd985",
+                                "content": "吞咽困难"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afb4786f62b70617705d1ad985a6197e",
+                                "content": "发声困难"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5fa9360ccbc2a5febc44e735d864c9de",
+                                "content": "窒息"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0dd34a06910fff908d81392c7e79040e",
+                                "content": "少尿"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0568ba8cbfea50a9f8729480fadd985",
+                                    "content": "吞咽困难"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afb4786f62b70617705d1ad985a6197e",
+                                    "content": "发声困难"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5fa9360ccbc2a5febc44e735d864c9de",
+                                    "content": "窒息"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0dd34a06910fff908d81392c7e79040e",
+                                    "content": "少尿"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "dysphonia",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "发声困难",
+                        "id": "3316616221e2494180a76e0a1448a777",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0a74b4414f048749d3d3492eb955b09",
+                                "content": " trachea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "defedba7db154cdda446dad94eaf5572",
+                                "content": "bronchus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b94051616a8846489a7101ba16b9de5c",
+                                "content": " lung"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e725c996c9042bc93627bf983182f2d",
+                                "content": " pleura"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0a74b4414f048749d3d3492eb955b09",
+                                    "content": " trachea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "defedba7db154cdda446dad94eaf5572",
+                                    "content": "bronchus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b94051616a8846489a7101ba16b9de5c",
+                                    "content": " lung"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e725c996c9042bc93627bf983182f2d",
+                                    "content": " pleura"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“支气管”的英文是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "bronchus，它是指支气管。",
+                        "id": "3823e33a3eb0406da53cce4b110e10ff",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ebeae4a2fb49be3b4924b78f1f3ff53b",
+                                "content": "左下部的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "884ba383ab68350969e818e2d18cc3cb",
+                                "content": "血管"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f3b6747f5548d53f37df0eadcebc6a6",
+                                "content": "垂体"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c39405d608d565612eea938d99993d90",
+                                "content": "叶"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ebeae4a2fb49be3b4924b78f1f3ff53b",
+                                    "content": "左下部的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "884ba383ab68350969e818e2d18cc3cb",
+                                    "content": "血管"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f3b6747f5548d53f37df0eadcebc6a6",
+                                    "content": "垂体"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c39405d608d565612eea938d99993d90",
+                                    "content": "叶"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "lobe",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "（肺）叶",
+                        "id": "3a8dfde9be1c49748578d71df9b3daa6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f6a33edebcf46f69b706d5b93e13650",
+                                "content": "diaphragm"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b588537f147b4d4c8aaeb99ca47c49a4",
+                                "content": " sternum"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "727e5706507f4f4b9c46ab4b5b8bd1c8",
+                                "content": "ribcage"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e424507c25e847b5bcda7eeced330cc9",
+                                "content": " spine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f6a33edebcf46f69b706d5b93e13650",
+                                    "content": "diaphragm"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b588537f147b4d4c8aaeb99ca47c49a4",
+                                    "content": " sternum"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "727e5706507f4f4b9c46ab4b5b8bd1c8",
+                                    "content": "ribcage"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e424507c25e847b5bcda7eeced330cc9",
+                                    "content": " spine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“横膈膜”在英文中如何表达？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "diaphragm它是指横膈膜。",
+                        "id": "3db1788201e64af4bb5fbc6da4fc10f8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "916904b839b54a4d876dfdee647e4ab7",
+                                "content": "Q fever"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2117802e7dd4545bda4615effe30a55",
+                                "content": "Legionnaire's disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afda99ae8a0345a49968a13429eb8d0c",
+                                "content": "Lyme disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b4153904dd3499f9fe4adc3c148a403",
+                                "content": "Tuberculosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "916904b839b54a4d876dfdee647e4ab7",
+                                    "content": "Q fever"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2117802e7dd4545bda4615effe30a55",
+                                    "content": "Legionnaire's disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afda99ae8a0345a49968a13429eb8d0c",
+                                    "content": "Lyme disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b4153904dd3499f9fe4adc3c148a403",
+                                    "content": "Tuberculosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "\"军团病\"在英文中如何表达？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Legionnaire's disease，它是指军团病。",
+                        "id": "3e6b98c01e914e209b541eaeea8d845d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "63d4cdc4848e204f32398dc0f19b4170",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 16000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:08:38",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "The Respiratory Syste",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

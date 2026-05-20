@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:07:31",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:07:31",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:23:10",
+            "id": "677f4a333db3a3e9e66a68e4977c06ab",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c308a3d6a824d2a8ac49e6a58886ef4",
+                                "content": "Dry skin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b7bbf9d4a1947bc95b2c20b61438991",
+                                "content": "Thin, silky hair"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c8138b6acc34df19014a527073b29d5",
+                                "content": "Bulging eyeballs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6cc26c364f946808892cc98b0031218",
+                                "content": "Fine muscle tremors"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c308a3d6a824d2a8ac49e6a58886ef4",
+                                    "content": "Dry skin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b7bbf9d4a1947bc95b2c20b61438991",
+                                    "content": "Thin, silky hair"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c8138b6acc34df19014a527073b29d5",
+                                    "content": "Bulging eyeballs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6cc26c364f946808892cc98b0031218",
+                                    "content": "Fine muscle tremors"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client with a diagnosis of myxedema (hypothyroidism). Which assessment finding would the nurse expect to note in this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMyxedema is a deficiency of thyroid hormone. The client will present with a puffy, edematous face, especially around the eyes (periorbital edema), along with coarse facial features; dry skin; and dry, coarse hair and eyebrows. The remaining options are noted in the client with hyperthyroidism.\n\nTest-Taking Strategy:\nFocus on the subject, manifestations of hypothyroidism. Recalling the function of thyroid hormone and that a deficiency of thyroid hormone occurs in this condition will direct you to the correct option.",
+                        "id": "0066f1c27461414d9392d1ecb2def963",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "61e6140ff2f2453e9ff7c3d3b32ac1fb",
+                                "content": "\"I need to avoid bed rest.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50007d8785cb48e08c748bdb15acded3",
+                                "content": "\"I need to avoid doing any exercise at all.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23c987d9fe7e4358976d4819906f939f",
+                                "content": "\"I need to space activity throughout the day.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05a69b8cd37244deb5a424c3f696c9b0",
+                                "content": "\"I need to gauge my activity level by my energy level.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "61e6140ff2f2453e9ff7c3d3b32ac1fb",
+                                    "content": "\"I need to avoid bed rest.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50007d8785cb48e08c748bdb15acded3",
+                                    "content": "\"I need to avoid doing any exercise at all.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23c987d9fe7e4358976d4819906f939f",
+                                    "content": "\"I need to space activity throughout the day.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05a69b8cd37244deb5a424c3f696c9b0",
+                                    "content": "\"I need to gauge my activity level by my energy level.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has provided instructions to the client with hyperparathyroidism regarding home care measures to manage the symptoms of the disease. Which statement by the client indicates a need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client with hyperparathyroidism would pace activities throughout the day and plan for periods of uninterrupted rest. The client would plan for at least 30 minutes of walking each day to support calcium movement into the bones. The client would be instructed to avoid bed rest and use energy levels as a guide to activity. The client also would be instructed to avoid high-impact activity or contact sports.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Use general principles related to home care measures to assist in directing you to the correct option. Also note the closed-ended words \"any\" and \"at all\" in the correct option.",
+                        "id": "02c4b1ecc2ec48729f32c7783c368d05",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4238f23141454739b8414b3248b799e1",
+                                "content": "Thirst"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65f7857658334135b47ead0156121230",
+                                "content": "Hunger"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e53a561660194d6786b18955597a4218",
+                                "content": "Polydipsia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f11fe6c3723441cafc56363a4e11351",
+                                "content": "Increased urine output"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4238f23141454739b8414b3248b799e1",
+                                    "content": "Thirst"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65f7857658334135b47ead0156121230",
+                                    "content": "Hunger"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e53a561660194d6786b18955597a4218",
+                                    "content": "Polydipsia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f11fe6c3723441cafc56363a4e11351",
+                                    "content": "Increased urine output"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse is providing instructions to a client with diabetes mellitus about the signs and symptoms of hypoglycemia. The nurse would tell the client that which would be noted in a hypoglycemic reaction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSigns and symptoms of hypoglycemia include hunger, nervousness, anxiety, dizziness, blurred vision, sweaty palms, confusion, and tingling and numbness around the mouth. Polydipsia (thirst) and increased urine output are noted in the client with hyperglycemia.\n\nTest-Taking Strategy:\nFocus on the subject, the signs and symptoms of hypoglycemia. Eliminate thirst and polydipsia first because they are comparable or alike. Regarding the remaining choices, recall that when the blood glucose level is low, the client will experience hunger. This will direct you to the correct option.",
+                        "id": "032233add8b0415481a1b395d2c848e2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c31371a91f374620a9cd01292c496a7d",
+                                "content": "Unsteady gait"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07efeef361f940a2a1d21bbff9eb9122",
+                                "content": "Slurred speech"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ef50ec1074c4963915ac18618539c75",
+                                "content": "Increased thirst"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "022f1aeaaf664e2d93bae3b9ce164a8b",
+                                "content": "Cold, clammy skin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c31371a91f374620a9cd01292c496a7d",
+                                    "content": "Unsteady gait"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07efeef361f940a2a1d21bbff9eb9122",
+                                    "content": "Slurred speech"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ef50ec1074c4963915ac18618539c75",
+                                    "content": "Increased thirst"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "022f1aeaaf664e2d93bae3b9ce164a8b",
+                                    "content": "Cold, clammy skin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client's serum blood glucose level is 389 mg/dL (22.2 mmol/L). The nurse would expect to note which as an additional finding when assessing this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA clinical manifestation of hyperglycemia is increased thirst secondary to dehydration and frequent urination. Unsteady gait; slurred speech; and cold, clammy skin would most likely be noted in hypoglycemia.\n\nTest-Taking Strategy:\nFocus on the subject, a clinical manifestation when the blood glucose level is elevated. Eliminate options 1, 2, and 4 because these are all clinical manifestations of hypoglycemia, not hyperglycemia.",
+                        "id": "05b2d0c06d8246b69ed39fb920f744ee",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29a5d9e3b0684619810c9f963b6aaa96",
+                                "content": "Bradycardia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d26e58f772ec4d68bb159bc70f0519a0",
+                                "content": "Flaccid paralysis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6d2d5166c5146b4a2c4a9e9934f2ad8",
+                                "content": "Tingling around the mouth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd92798e1aa84097aa16b4b11836b3a5",
+                                "content": "Absence of Chvostek's sign"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29a5d9e3b0684619810c9f963b6aaa96",
+                                    "content": "Bradycardia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d26e58f772ec4d68bb159bc70f0519a0",
+                                    "content": "Flaccid paralysis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6d2d5166c5146b4a2c4a9e9934f2ad8",
+                                    "content": "Tingling around the mouth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd92798e1aa84097aa16b4b11836b3a5",
+                                    "content": "Absence of Chvostek's sign"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client for signs of hypocalcemia after thyroidectomy. Which sign or symptom, if noted in the client, would most likely indicate the presence of hypocalcemia?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAfter thyroidectomy the nurse assesses the client for signs of hypocalcemia and tetany. Early signs include tingling around the mouth and in the fingertips, muscle twitching or spasms, palpitations or arrhythmias, and Chvostek's and Trousseau's signs. Bradycardia, flaccid paralysis, and absence of Chvostek's sign are not signs of hypocalcemia.\n\nTest-Taking Strategy:\nNote the strategic words, most likely. Focus on the subject, manifestations of hypocalcemia. Think about the pathophysiology associated with this imbalance, and recall that tingling around the mouth and in the fingertips is an early manifestation of hypocalcemia. This will direct you to the correct option.",
+                        "id": "0799011a25a04fe38ba38091df6fe14f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2a987416ff804688b0257aca156a3fc2",
+                                "content": "Fish"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0b8a22a55724e99bae9d7d8001ad29f",
+                                "content": "Cereals"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae53dab748694f7d80e8d300dc770522",
+                                "content": "Vegetables"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2360676c245846db9cdb7e224e457920",
+                                "content": "Meat and poultry"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2a987416ff804688b0257aca156a3fc2",
+                                    "content": "Fish"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0b8a22a55724e99bae9d7d8001ad29f",
+                                    "content": "Cereals"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae53dab748694f7d80e8d300dc770522",
+                                    "content": "Vegetables"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2360676c245846db9cdb7e224e457920",
+                                    "content": "Meat and poultry"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has provided dietary instructions to a client with a diagnosis of hypoparathyroidism. The nurse would instruct the client that it is acceptable to include which item in the diet?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client with hypoparathyroidism is instructed to follow a calcium-rich diet and to restrict the amount of phosphorus in the diet. Vegetables are allowed in the diet. The client needs to limit meat, poultry, fish, eggs, cheese, and cereals.\n\nTest-Taking Strategy:\nFocus on the subject, hypoparathyroidism, and the client's diagnosis. Think about the pathophysiology associated with this disorder. Recalling that the client would restrict the amount of phosphorus in the diet and increase calcium intake and recalling the nutritional value of foods will direct you to the correct option.",
+                        "id": "0a77729b186940d99a25575474a43b30",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b315fd49791480191f692c02c5ebcd2",
+                                "content": "Infertility"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a02ec62b0abd47a89de87819061afe5f",
+                                "content": "Gynecomastia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6115f35954d34af3a1d9fc524cd646dd",
+                                "content": "Sexual dysfunction"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c4657ebbd164717a904222f8f007b3a",
+                                "content": "Body image changes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b315fd49791480191f692c02c5ebcd2",
+                                    "content": "Infertility"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a02ec62b0abd47a89de87819061afe5f",
+                                    "content": "Gynecomastia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6115f35954d34af3a1d9fc524cd646dd",
+                                    "content": "Sexual dysfunction"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c4657ebbd164717a904222f8f007b3a",
+                                    "content": "Body image changes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a plan of care for a client who is scheduled for a thyroidectomy. The nurse focuses on psychosocial needs, knowing that which is likely to occur in the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nBecause of the location of the incision in the neck area, many clients are afraid of thyroid surgery for fear of having a visible large scar postoperatively. Having all or part of the thyroid gland removed will not cause the client to experience gynecomastia. Sexual dysfunction and infertility could occur if the entire thyroid is removed and the client is not placed on thyroid replacement medications.\n\nTest-Taking Strategy:\nFocus on the subject, care of the client following thyroidectomy. Recalling the anatomical location of the surgical incision will assist in directing you to the correct option.\n",
+                        "id": "0b6a2871b3944345a894d862d3a84565",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb2cf8e4af4748849c0b74704b3c178f",
+                                "content": "Warm the client."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f0e9c9e15ce9496d96b03ebea44c0e64",
+                                "content": "Maintain a patent airway."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cc7a575790d454b9178e4e62dce4939",
+                                "content": "Administer thyroid hormone."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b268ce19b874588a2cdd558f50cd845",
+                                "content": "Administer fluid replacement."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb2cf8e4af4748849c0b74704b3c178f",
+                                    "content": "Warm the client."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f0e9c9e15ce9496d96b03ebea44c0e64",
+                                    "content": "Maintain a patent airway."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cc7a575790d454b9178e4e62dce4939",
+                                    "content": "Administer thyroid hormone."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b268ce19b874588a2cdd558f50cd845",
+                                    "content": "Administer fluid replacement."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to an emergency department, and a diagnosis of myxedema coma is made. Which action would the nurse prepare to carry out initially?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMyxedema coma is a rare but serious disorder that results from persistently low thyroid production. Coma can be precipitated by acute illness, rapid withdrawal of thyroid medication, anesthesia and surgery, hypothermia, and the use of sedatives and opioid analgesics. In myxedema coma, the initial nursing action is to maintain a patent airway. Oxygen needs to be administered, followed by fluid replacement, keeping the client warm, monitoring vital signs, and administering thyroid hormones by the intravenous route.\n\nTest-Taking Strategy:\nNote the strategic word, initially. All the options are appropriate interventions, but use the ABCs—airway, breathing, and circulation—in selecting the correct option.",
+                        "id": "0df5fcae1ef943d48e9c38e6b263e935",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5324d67e83e04705b0f8b2cb80c428dd",
+                                "content": "It indicates nerve damage."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c809bb5cdb4a4dd48cffd24cb2c8be6b",
+                                "content": "The hoarseness is permanent."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7240d5eccde14fcb8bbda784a634b654",
+                                "content": "It is normal during this time and will subside."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c84575bff5724748ab40236ad2bb4105",
+                                "content": "It will worsen before it subsides, which may take 6 months."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5324d67e83e04705b0f8b2cb80c428dd",
+                                    "content": "It indicates nerve damage."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c809bb5cdb4a4dd48cffd24cb2c8be6b",
+                                    "content": "The hoarseness is permanent."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7240d5eccde14fcb8bbda784a634b654",
+                                    "content": "It is normal during this time and will subside."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c84575bff5724748ab40236ad2bb4105",
+                                    "content": "It will worsen before it subsides, which may take 6 months."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client after thyroidectomy. The client expresses concern about the postoperative voice hoarseness she is experiencing and asks if the hoarseness will subside. The nurse would provide the client with which information?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHoarseness in the postoperative period usually is the result of laryngeal pressure or edema and will resolve within a few days. The client would be reassured that the effects are transitory. The other options are incorrect.\n\nTest-Taking Strategy:\nEliminate options 1 and 2 first because they are comparable or alike. Recalling that hoarseness that worsens is a cause for concern and may indicate increased laryngeal pressure or edema will eliminate option 4. The remaining option is the correct one.",
+                        "id": "115cc52358b44f82b097f3435aa2c7fe",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbc0453452a94336b2f877e50cf96928",
+                                "content": "Eat meals at approximately the same time each day."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "baa38907ec4f4aae880d6ec8bdaeeae6",
+                                "content": "Adjust mealtimes depending on blood glucose levels."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6aa18f33180e4851a85360caf550188b",
+                                "content": "Vary mealtimes if insulin is not administered at the same time every day."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "287061f1fe674127ab23612d89942d6c",
+                                "content": "Avoid being concerned about the time of meals as long as snacks are taken on time."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbc0453452a94336b2f877e50cf96928",
+                                    "content": "Eat meals at approximately the same time each day."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "baa38907ec4f4aae880d6ec8bdaeeae6",
+                                    "content": "Adjust mealtimes depending on blood glucose levels."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6aa18f33180e4851a85360caf550188b",
+                                    "content": "Vary mealtimes if insulin is not administered at the same time every day."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "287061f1fe674127ab23612d89942d6c",
+                                    "content": "Avoid being concerned about the time of meals as long as snacks are taken on time."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing dietary instructions to help with diabetes control for a client newly diagnosed with diabetes mellitus who will be taking insulin. The nurse would provide the client with which best instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMealtimes must be approximately the same each day to maintain a stable blood glucose level. The client would not be instructed that mealtimes can be varied depending on blood glucose levels, insulin administration, or consumption of snacks.\n\nTest-Taking Strategy:\nNote the strategic word, best. Eliminate options 2 and 3 because they are comparable or alike. Regarding the remaining choices, recalling that mealtimes should be planned consistently will assist in directing you to the correct option.",
+                        "id": "14b22cec77aa4becb7b18886bb7c3f3d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "394d90174cb9304397dd3fac5ff53717",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 319000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:23:11",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Diabetes Mellitus,Parathyroid Gland Problems,Thyroid Gland Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 12:34:20",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 12:34:20",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 12:38:11",
+            "id": "de6ee7c52a42378a6a4ab3ed5d1ec93d",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea582f56ff0b45aeabe77b370bfc2519",
+                                "content": "Hypothyroidism"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86222564311140caa627aa5befaddca3",
+                                "content": "Diabetes mellitus"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d61a6b6d272a4645992b69b4fe644f09",
+                                "content": "Narrow angle glaucoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77d51269615a46d1a2238255b8109723",
+                                "content": "Coronary artery disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea582f56ff0b45aeabe77b370bfc2519",
+                                    "content": "Hypothyroidism"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86222564311140caa627aa5befaddca3",
+                                    "content": "Diabetes mellitus"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d61a6b6d272a4645992b69b4fe644f09",
+                                    "content": "Narrow angle glaucoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77d51269615a46d1a2238255b8109723",
+                                    "content": "Coronary artery disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client diagnosed with anxiety is starting therapy with lorazepam. Which factor in the client's history would prompt the nurse to consult with the primary health care provider before administering the medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLorazepam is a benzodiazepine and is contraindicated in hypersensitivity, cross-sensitivity with other benzodiazepines, comatose state, preexisting central nervous system depression, uncontrolled severe pain, and narrow-angle glaucoma because benzodiazepines can further increase the intraocular pressure. It also is contraindicated in pregnancy and in clients who are breast-feeding/chest-feeding. None of the other options are relevant to the administration of lorazepam.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Barbiturate and Sedative-Hypnotics\nHealth Problem: Mental Health: Anxiety Disorder\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Collaboration, Safety\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, contraindications to lorazepam use. Remember that this medication is a benzodiazepine and is contraindicated in narrow-angle glaucoma. This will assist you in answering questions similar to this one.",
+                        "id": "0a80ed4cefba4c0cb827d0d3eca57b0f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "547dd2cc8ad54c30896be277f71501ac",
+                                "content": "Salami"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3dec9fc1761b4aabb22bb4898a12b4eb",
+                                "content": "Scallops"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5cca8c2731ec4632aa104be3de0a17d5",
+                                "content": "Pineapple"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "99f062c26eeb47feab7dbe041f4a6c04",
+                                "content": "Mashed potatoes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "547dd2cc8ad54c30896be277f71501ac",
+                                    "content": "Salami"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3dec9fc1761b4aabb22bb4898a12b4eb",
+                                    "content": "Scallops"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5cca8c2731ec4632aa104be3de0a17d5",
+                                    "content": "Pineapple"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "99f062c26eeb47feab7dbe041f4a6c04",
+                                    "content": "Mashed potatoes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing dietary instructions to a client who is prescribed tranylcypromine sulfate. The nurse emphasizes that it is important to avoid eating which food?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nTranylcypromine sulfate is a monoamine oxidase inhibitor (MAOI) that is used to treat depression. A tyramine-restricted diet is required during therapy to avoid hypertensive crisis, a life-threatening effect of the medication. Foods to be avoided are meats prepared with tenderizer, smoked or pickled fish, beef liver, chicken liver, and dry sausage (salami, pepperoni, and bologna). In addition, figs; bananas; aged cheese; yogurt and sour cream; beer, red wine, alcoholic beverages; soy sauce; yeast extract; chocolate; caffeine; and foods that are aged, pickled, fermented, or smoked need to be avoided. Many over-the-counter medications also include tyramine and must be avoided as well.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Teaching and Learning\n\nTest-Taking Strategy:\nFocus on the subject, the food to be avoided for a client taking tranylcypromine sulfate. Recall that tranylcypromine sulfate is an MAOI and that tyramine-containing items need to be avoided. Knowledge of the foods that contain tyramine will direct you to the correct option.\n ",
+                        "id": "11fe5831f8414c9380784eedc0820726",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "662ebe81d3dc481cb5b323e4af56b966",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b387e07a01f444e19baf229c1c426236",
+                                "content": "Weakness"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b8ce073547f249109e67f551d217f2f3",
+                                "content": "Blurred vision"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa1f0de820224030927adf3cfc764705",
+                                "content": "Cardiac dysrhythmias"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "662ebe81d3dc481cb5b323e4af56b966",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b387e07a01f444e19baf229c1c426236",
+                                    "content": "Weakness"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b8ce073547f249109e67f551d217f2f3",
+                                    "content": "Blurred vision"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa1f0de820224030927adf3cfc764705",
+                                    "content": "Cardiac dysrhythmias"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has a lithium level of 2.4 mEq/L. The nurse should immediately assess the client for which sign or symptom?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAt lithium levels of 2.0 to 2.5 mEq/L, the client will experience blurred vision, muscle twitching, severe hypotension, and persistent nausea and vomiting. With levels between 1.5 and 2.0 mEq/L, the client experiences vomiting, diarrhea, muscle weakness, ataxia, dizziness, slurred speech, and confusion. At lithium levels of 2.5 to 3.0 mEq/L or higher, urinary and fecal incontinence occurs, as well as seizures, cardiac dysrhythmias, peripheral vascular collapse, and death.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Psychiatric: Mood Stabilizers\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic word, immediately. Focus on the subject, lithium levels. Knowledge of the clinical manifestations associated with various lithium levels is needed to answer this question. Remember that with lithium levels of 2.0 to 2.5 mEq/L the client will experience blurred vision. This will assist you in answering questions similar to this one.",
+                        "id": "145a06472cf14f2b9433d69461918182",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72e4773a9ac84b8e950a7dec67fb3fbb",
+                                "content": "Barbiturate use commonly results in a rush of energy."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f10a750c9789406db1ab50453a9e7580",
+                                "content": "Barbiturate abuse is the cause of many drug overdose deaths."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c21160073144dc1a1f7909b64fd342e",
+                                "content": "The primary outcome of barbiturate abuse is psychological dependency."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94d374550d9b4ba49dcdf19d23a98539",
+                                "content": "A dangerous increase in blood pressure (BP) occurs with barbiturate abuse."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72e4773a9ac84b8e950a7dec67fb3fbb",
+                                    "content": "Barbiturate use commonly results in a rush of energy."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f10a750c9789406db1ab50453a9e7580",
+                                    "content": "Barbiturate abuse is the cause of many drug overdose deaths."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c21160073144dc1a1f7909b64fd342e",
+                                    "content": "The primary outcome of barbiturate abuse is psychological dependency."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94d374550d9b4ba49dcdf19d23a98539",
+                                    "content": "A dangerous increase in blood pressure (BP) occurs with barbiturate abuse."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing a health promotion session to a group of teenagers and is discussing the abuse of barbiturates. The nurse would provide which information to the teenagers?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe abuse of barbiturates, a class of central nervous system (CNS) depressants, is a major cause of fatal drug overdoses. The abuse of barbiturates results in both physical and psychological dependency. Energy rushes and elevated BP result from the use of a CNS stimulant.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Barbiturate and Sedative-Hypnotics\nHealth Problem: Mental Health: Addictions\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Addiction, Safety\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, information about the abuse of barbiturates. Recalling that barbiturates are CNS depressants will assist in eliminating incorrect options.\n ",
+                        "id": "1cf298035b9a44d286755b11ca82eec0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a72207528e254a7d89121d28213156af",
+                                "content": "Headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6e8d514f2de47cfb4038254aaf75a68",
+                                "content": "Vomiting"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8ac9ff0d85e4afb889c402126986ab7",
+                                "content": "Skin rashes"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6111a5d97ddd45b69ffc3bf10cb48e2c",
+                                "content": "Dependence"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a72207528e254a7d89121d28213156af",
+                                    "content": "Headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6e8d514f2de47cfb4038254aaf75a68",
+                                    "content": "Vomiting"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8ac9ff0d85e4afb889c402126986ab7",
+                                    "content": "Skin rashes"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6111a5d97ddd45b69ffc3bf10cb48e2c",
+                                    "content": "Dependence"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What is the most serious risk associated with the use of benzodiazepine?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nA benzodiazepine carries with it a high risk for abuse and physical and psychological dependence. For this reason, limited amounts of these medications are given to a client at one time. The other symptoms may be side effects of some benzodiazepines but are not as serious as the risk of dependence.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Barbiturate and Sedative-Hypnotics\nHealth Problem: Mental Health: Anxiety Disorder\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic word, most, and the subject, benzodiazepine use. Evaluate each of the options according to that parameter, and note that the question addresses a benzodiazepine. This will help you eliminate each of the incorrect options.\n ",
+                        "id": "2087e7fa727c445c98e6f8ea804adeaa",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3657b55012704a2e907a947c6f44ac50",
+                                "content": "A decrease in appetite throughts"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bbd7611f09c4a0dae082d0c53e7af21",
+                                "content": "Sleeping 14 to 16 hours each day"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7896fb520894573838dd8c898d94a69",
+                                "content": "Ability to get to work on time each day"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b687db169588459a8cc543415aea01d3",
+                                "content": "Having difficulty concentrating on an activity"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3657b55012704a2e907a947c6f44ac50",
+                                    "content": "A decrease in appetite throughts"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bbd7611f09c4a0dae082d0c53e7af21",
+                                    "content": "Sleeping 14 to 16 hours each day"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7896fb520894573838dd8c898d94a69",
+                                    "content": "Ability to get to work on time each day"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b687db169588459a8cc543415aea01d3",
+                                    "content": "Having difficulty concentrating on an activity"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is discussing the past week's activities with a client receiving amitriptyline hydrochloride. The nurse determines that the medication is most effective for this client if the client reports which information?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThis medication is prescribed for the management of depression. Depressed individuals may demonstrate a lack of energy that results in sleeping for extended periods and being unable to fulfill employment obligations. The therapeutic effect of this medication is intended to help resolve these symptoms. Sleeping 14 to 16 hours is still a demonstration of depression-associated fatigue. The medication is not intended to manage intrusive thoughts (delusions) or to improve memory.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Psychiatric: Tricyclic Antidepressants\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Mood and Affect, Adherence\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic words, most effective. Focus on the subject, the expected effects of amitriptyline hydrochloride. The ability to report to work indicates a therapeutic response to the medication, thus indicating compliance with the medication regimen.\n ",
+                        "id": "21c36b8d3f504e09808d8959d1604132",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "320bd4958ae7455b8ab347d6f0f05d6a",
+                                "content": "\"I take the medication just after my evening meal.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59bc062a934e424488d12244a17fa095",
+                                "content": "\"I wait until bedtime and take the medication with a snack.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "caaa7e778eb34e2f8168701250623b9a",
+                                "content": "\"I need to swallow the medication whole with a full glass of water.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c00a90e043c04a8dafa749b2c6e18b45",
+                                "content": "\"I take the medication with milk or an antacid to avoid stomach upset.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "320bd4958ae7455b8ab347d6f0f05d6a",
+                                    "content": "\"I take the medication just after my evening meal.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59bc062a934e424488d12244a17fa095",
+                                    "content": "\"I wait until bedtime and take the medication with a snack.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "caaa7e778eb34e2f8168701250623b9a",
+                                    "content": "\"I need to swallow the medication whole with a full glass of water.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c00a90e043c04a8dafa749b2c6e18b45",
+                                    "content": "\"I take the medication with milk or an antacid to avoid stomach upset.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has been started on zolpidem. After instructing the client in how to obtain the maximal effect of zolpidem, the nurse determines that the client demonstrates understanding of correct administration of the medication by which statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nZolpidem is a hypnotic. The client would be instructed to take the medication at bedtime and to swallow the medication whole with a full glass of water. For faster onset of sleep, the client needs to be instructed not to take the medication with food or immediately after a meal. Antacids affect the absorption of the medication.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Psychiatric: Barbiturate and Sedative-Hypnotics\nHealth Problem: Mental Health: Anxiety Disorder\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Safety, Patient Education\nStrategies: Comparable or Alike Options, Subject\n\nTest-Taking Strategy:\nNote the subject, obtaining maximal effect of the medication. Also, note that options 1, 2, and 4 are comparable or alike in that they indicate taking the medication with food.\n ",
+                        "id": "2798f9c67c304e1ea48359c15b5e6686",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e1be08b137948609f1411998374ebc9",
+                                "content": "Sublingual tablets"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "927ec851ef564321abf4bc7537578b29",
+                                "content": "Transdermal patch"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a219feba95a94cf3a8a648a3bfe4c8b6",
+                                "content": "Rectal suppository"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d301266afeef47c19df2d083ad62303f",
+                                "content": "Weekly intramuscular injections"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e1be08b137948609f1411998374ebc9",
+                                    "content": "Sublingual tablets"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "927ec851ef564321abf4bc7537578b29",
+                                    "content": "Transdermal patch"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a219feba95a94cf3a8a648a3bfe4c8b6",
+                                    "content": "Rectal suppository"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d301266afeef47c19df2d083ad62303f",
+                                    "content": "Weekly intramuscular injections"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An adolescent has been prescribed an amphetamine to help manage a diagnosis of attention deficit hyperactivity disorder. To best minimize the risk of abuse and/or overdose, the nurse expects that the medication will be administered via which method?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe application of a transdermal patch is the method best suited to minimizing the risk of abuse and/or overdose from an amphetamine because it manages the release of the medication without requiring the client's handling of the medication. The remaining options lack that component.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Attention-Deficit-Hyperactivity Disorder (ADHD) Agents\nHealth Problem: Mental Health: Neurodevelopmental Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Addiction, Safety\nStrategies: Strategic Words, Subject\n\nTest-Taking Strategy:\nNote the strategic word, best. Focus on the subject, minimizing the risk of abuse and/or overdose. An understanding of amphetamines, especially administration routines and potential strategies for managing abuse, should allow you to eliminate the incorrect options.\n ",
+                        "id": "29b0e63660894fcd9c837b5a0319aab7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7885923532334fa797d7178179de3a9a",
+                                "content": "Monitor the client for signs of coarse hand tremors."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3046be618dbf413ea36b6d0259654046",
+                                "content": "Assess the client for possible short-term memory loss."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d4ee6c51efaf4c6fa88362cce2eb5256",
+                                "content": "Provide positive support for the client's compliance with the therapy."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bd5871afddf4cf6acbe72b50ee05268",
+                                "content": "Educate the client regarding risk for injury associated with drowsiness."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7885923532334fa797d7178179de3a9a",
+                                    "content": "Monitor the client for signs of coarse hand tremors."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3046be618dbf413ea36b6d0259654046",
+                                    "content": "Assess the client for possible short-term memory loss."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d4ee6c51efaf4c6fa88362cce2eb5256",
+                                    "content": "Provide positive support for the client's compliance with the therapy."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bd5871afddf4cf6acbe72b50ee05268",
+                                    "content": "Educate the client regarding risk for injury associated with drowsiness."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client receiving long-term therapy with lithium carbonate has a serum lithium level of 1.0 mEq/L. Which nursing intervention would the nurse be prepared to implement based on this result?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe therapeutic serum level of lithium is 0.6 to 1.2 mEq/L, and the client's medication compliance would be acknowledged. Serum lithium concentrations of 1.5 to 2.0 mEq/L may produce a variety of toxicity symptoms, including vomiting, diarrhea, drowsiness, incoordination, coarse hand tremors, muscle tremors, and mental confusion.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Mood Stabilizers\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Mood and Affect, Safety\nStrategies: Data in the Question, Subject\n\nTest-Taking Strategy:\nFocus on the subject, lithium levels. Knowledge regarding lithium carbonate and therapeutic serum lithium levels is required to answer the question. Focusing on the data in the question and recalling the therapeutic serum level will direct you to the correct option.",
+                        "id": "3812e024c59c4494871b492ab069a0fb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e196a64a3edd48c4ac4c549d4d6b77a7",
+                                "content": "Drinking any amount of wine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24264cb13e8d4018b9aa001815bd0bce",
+                                "content": "Consuming any fresh dairy products"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc0a8f249e974ff2b55d60d23168c8b0",
+                                "content": "Exposing the skin of the face to sunlight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1cef466753fa40b98b8fcd33a6513601",
+                                "content": "Eating either fresh or frozen green leafy vegetables"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e196a64a3edd48c4ac4c549d4d6b77a7",
+                                    "content": "Drinking any amount of wine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24264cb13e8d4018b9aa001815bd0bce",
+                                    "content": "Consuming any fresh dairy products"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc0a8f249e974ff2b55d60d23168c8b0",
+                                    "content": "Exposing the skin of the face to sunlight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1cef466753fa40b98b8fcd33a6513601",
+                                    "content": "Eating either fresh or frozen green leafy vegetables"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is prescribed tranylcypromine. The nurse educating a client about tranylcypromine would instruct the client to avoid which activity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nTranylcypromine is a monoamine oxidase inhibitor (MAOI) that is used to treat depression. Food and fluids containing tyramine, such as aged cheese, smoked or pickled meats or poultry, fermented meat, beer, wine, and liqueurs, would not be used concurrently with MAOIs because they can cause sudden and severe hypertensive reactions. The remaining options are not contraindicated with the use of this medication.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Psychiatric: Monoamine Oxidase Inhibitors (MAOIs)\nHealth Problem: Mental Health: Mood Disorders\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject\n\nTest-Taking Strategy:\nFocus on the subject, the item to avoid when taking tranylcypromine. Use general medication guidelines to direct you to the correct option when clients are prescribed MAOIs such as tranylcypromine.",
+                        "id": "3abf6f775c7444648d50aa1054613521",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "57187fd0416e62d642b49c0c22e337e7",
+            "lessonItemId": "42848d708fde76ed849bc08077d230c4",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 228000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 12:38:11",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Monoamine Oxidase Inhibitors (MAOIs),Antidepressants,Barbiturate and Sedative-Hypnotics,Selective Serotonin Reuptake Inhibitors (SSRIs),Medications to Treat Attention-Deficit/Hyperactivity Disorder,Others,Mood Stabilizer",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

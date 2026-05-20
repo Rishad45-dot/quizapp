@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:09:04",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:09:04",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:13:25",
+            "id": "6b09c40f46a051f87218769db32511d8",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "33a0c6ee429640deac9f7a8671aa6733",
+                                "content": "Place an eye patch on the left eye."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b5a826926b44a9f8ed886481274244f",
+                                "content": "Place personal articles on the client's right side."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b68c9a8536074d5681f673a19273a65f",
+                                "content": "Approach the client from the right field of vision."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "55bb71d157564637bda737efea04ec4d",
+                                "content": "Instruct the client to turn the head to scan the right visual field."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "33a0c6ee429640deac9f7a8671aa6733",
+                                    "content": "Place an eye patch on the left eye."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b5a826926b44a9f8ed886481274244f",
+                                    "content": "Place personal articles on the client's right side."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b68c9a8536074d5681f673a19273a65f",
+                                    "content": "Approach the client from the right field of vision."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "55bb71d157564637bda737efea04ec4d",
+                                    "content": "Instruct the client to turn the head to scan the right visual field."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is creating a plan of care for a client with a stroke (brain attack) who has right homonymous hemianopsia. Which would the nurse include in the plan of care for the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "49d86bb4d5071eb7de614d6c79f7abfb",
+                        "difficulty": "考试范围-Creating创新",
+                        "textAnalysis": "Rationale:\nHomonymous hemianopsia is a loss of half of the visual field. The nurse instructs the client to scan the environment and stands within the client's intact field of vision. The nurse would not patch the eye because the client does not have double vision. The client would have objects placed in the intact fields of vision, and the nurse needs to approach the client from the intact side.",
+                        "id": "00226276bb0544d2abd87e9282ca4ecf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bfdea1c551df487480be9229f025fde4",
+                                "content": "Assist the client to eat with the left hand to build strength."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09ddd2a34947408887d1d0f9585feeb4",
+                                "content": "Provide a pureed diet that is easy for the client to swallow."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31e57c3b2a7b475b98258b582b266b7b",
+                                "content": "Inform the client that a feeding tube will be placed if progress is not made."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6249e3b24124e04bcc5d6375472cc10",
+                                "content": "Provide a variety of foods on the meal tray to stimulate the client's appetite."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bfdea1c551df487480be9229f025fde4",
+                                    "content": "Assist the client to eat with the left hand to build strength."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09ddd2a34947408887d1d0f9585feeb4",
+                                    "content": "Provide a pureed diet that is easy for the client to swallow."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31e57c3b2a7b475b98258b582b266b7b",
+                                    "content": "Inform the client that a feeding tube will be placed if progress is not made."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6249e3b24124e04bcc5d6375472cc10",
+                                    "content": "Provide a variety of foods on the meal tray to stimulate the client's appetite."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is in the chronic phase of stroke (brain attack) and has a right-sided hemiparesis. The nurse identifies that the client is unable to feed self. Which is the appropriate nursing intervention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nRight-sided hemiparesis is weakness of the right arm and leg. The nurse would teach the client to use both sides of the body to increase strength and build endurance. Providing a pureed diet is incorrect. The question does not mention swallowing difficulty, so there is no need to puree the food. Informing the client that a feeding tube may need to be placed is incorrect. That information would come from the primary health care provider. Providing a variety of foods is also incorrect because the problem is not the food selection but the client's ability to eat the food independently.",
+                        "id": "09e2d0ee868444f391e70088809a0c03",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d06d34d69554ceeac75f270a95680e3",
+                                "content": "Ask the family to deliver the care."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4a5dbb7cae64c0594f755bb3d60c98a",
+                                "content": "Leave the client alone until ready to participate."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bac35be541734a669755afad83a3841a",
+                                "content": "Advise the client that rehabilitation progresses more quickly with cooperation."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0842bd6369f44d238562fc340ce6eaf8",
+                                "content": "Acknowledge the client's anger and continue to encourage participation in care."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d06d34d69554ceeac75f270a95680e3",
+                                    "content": "Ask the family to deliver the care."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4a5dbb7cae64c0594f755bb3d60c98a",
+                                    "content": "Leave the client alone until ready to participate."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bac35be541734a669755afad83a3841a",
+                                    "content": "Advise the client that rehabilitation progresses more quickly with cooperation."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0842bd6369f44d238562fc340ce6eaf8",
+                                    "content": "Acknowledge the client's anger and continue to encourage participation in care."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a spinal cord injury becomes angry and belligerent whenever the nurse tries to administer care. The nurse would perform which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAdjusting to paralysis is physically and psychosocially difficult for the client and family. The nurse recognizes that the client goes through the grieving process in adjusting to the loss and may move back and forth among the stages of grief. The nurse acknowledges the client's feelings while continuing to meet the client's physical needs and encouraging independence. The family also is in crisis and needs the nurse's support and would not be relied on to provide care. The nurse cannot simply neglect the client until the client is ready to participate. Option 3 represents a factual but noncaring approach to the client and is not therapeutic.",
+                        "id": "135374fbdb5b44b8b76dc845730a77b7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b17786ffa5274b31b6ae4e4175b03e38",
+                                "content": "A history of diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f36d90aea16441b9d3144f280fc763a",
+                                "content": "A flattened abdomen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0de83a71d0434d98a3b598d7805b72c7",
+                                "content": "Hyperactive bowel sounds"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "659435d7fabd4f3a8c7420d8060cdd4c",
+                                "content": "Hematest-positive nasogastric tube drainage"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b17786ffa5274b31b6ae4e4175b03e38",
+                                    "content": "A history of diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f36d90aea16441b9d3144f280fc763a",
+                                    "content": "A flattened abdomen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0de83a71d0434d98a3b598d7805b72c7",
+                                    "content": "Hyperactive bowel sounds"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "659435d7fabd4f3a8c7420d8060cdd4c",
+                                    "content": "Hematest-positive nasogastric tube drainage"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for the client who suffered a spinal cord injury 48 hours ago. What would the nurse assess for when monitoring for gastrointestinal complications?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDevelopment of a stress ulcer can occur after spinal cord injury and can be detected by Hematest-positive nasogastric tube aspirate or stool. The client is also at risk for paralytic ileus, which is characterized by the absence of bowel sounds and abdominal distention. A history of diarrhea is irrelevant.",
+                        "id": "1b7b90dd271249b5b25ec8dc709191a8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ef0d253446c4aeaa0a84f591d482b9c",
+                                "content": "Encouraging hourly coughing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1b68776daad4594a387a8b1f608a287",
+                                "content": "Assisting with incentive spirometer"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a24a5f2edf541dfa86c647f20198bb2",
+                                "content": "Encouraging hourly deep breathing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bd6c369fba54a8cb2ad6abb1cf81263",
+                                "content": "Repositioning gently side to side every 2 hours"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ef0d253446c4aeaa0a84f591d482b9c",
+                                    "content": "Encouraging hourly coughing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1b68776daad4594a387a8b1f608a287",
+                                    "content": "Assisting with incentive spirometer"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a24a5f2edf541dfa86c647f20198bb2",
+                                    "content": "Encouraging hourly deep breathing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bd6c369fba54a8cb2ad6abb1cf81263",
+                                    "content": "Repositioning gently side to side every 2 hours"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is on bed rest as part of aneurysm precautions. The nurse would plan to avoid taking which action when giving respiratory care to this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWith aneurysm precautions, any activity that could raise the client's intracranial pressure (ICP) is avoided. For this reason, activities such as straining, coughing, blowing the nose, and even sneezing are avoided whenever possible. The other interventions (repositioning, deep breathing, and incentive spirometry) do not provide added risk of increasing ICP and are beneficial in reducing the respiratory complications of bed rest.",
+                        "id": "234fbd63327c46c3a46d5ff3b04c75a0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b5905d3455347569588ae3115455e82",
+                                "content": "Teach the client to scan the environment."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46f0b822f81741a498e2606ed2b03f2b",
+                                "content": "Place all objects within the left visual field."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f7f7b89a6cc4c3991f64bafbf71ca48",
+                                "content": "Place all objects within the right visual field."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "773427812da54b6e8bc1c9693c5a972d",
+                                "content": "Ensure that the family brings the client's eyeglasses to hospital."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b5905d3455347569588ae3115455e82",
+                                    "content": "Teach the client to scan the environment."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46f0b822f81741a498e2606ed2b03f2b",
+                                    "content": "Place all objects within the left visual field."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f7f7b89a6cc4c3991f64bafbf71ca48",
+                                    "content": "Place all objects within the right visual field."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "773427812da54b6e8bc1c9693c5a972d",
+                                    "content": "Ensure that the family brings the client's eyeglasses to hospital."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who had a stroke (brain attack) has right-sided hemianopsia. What would the nurse plan to do to help the client adapt to this problem?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHemianopsia is blindness in half of the visual field. The client with hemianopsia is taught to scan the environment. This allows the client to take in the entirety of the visual field, which is necessary for proper functioning within the environment and helps to prevent injury to the client. Options 2 and 3 will not help the client adapt to this visual impairment. Eyeglasses are useful if the client already wears them, but they will not correct this visual field deficit.",
+                        "id": "24527984911044b7811b69093c18f164",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3827c20f2c0a4cd5a3eeff03abb608de",
+                                "content": "Had a very mild stroke"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a5c5dccff594a02b824b054da040456",
+                                "content": "Most likely suffered a transient ischemic attack"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "20c1d2461cbf4351accd8c7d1fba74d4",
+                                "content": "May have difficulty with language abilities only"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df8e5ff152b34a85a5ef8e5bab0c8dfe",
+                                "content": "Is likely to have perceptual and spatial disabilities"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3827c20f2c0a4cd5a3eeff03abb608de",
+                                    "content": "Had a very mild stroke"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a5c5dccff594a02b824b054da040456",
+                                    "content": "Most likely suffered a transient ischemic attack"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "20c1d2461cbf4351accd8c7d1fba74d4",
+                                    "content": "May have difficulty with language abilities only"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df8e5ff152b34a85a5ef8e5bab0c8dfe",
+                                    "content": "Is likely to have perceptual and spatial disabilities"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with a diagnosis of right (nondominant) hemispheric stroke. The nurse notes that the client is alert and oriented to time and place. On the basis of these assessment findings, the nurse would make which interpretation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe client with a right (nondominant) hemispheric stroke may be alert and oriented to time and place. These signs of apparent wellness often suggest that the client is less disabled than is the case. However, impulsivity and confusion in carrying out activities may be very real problems for these clients as a result of perceptual and spatial disabilities. The right hemisphere is considered specialized in sensory-perceptual and visual-spatial processing and awareness of body space. The left hemisphere is dominant for language abilities.",
+                        "id": "369e582a7abc47cdbd20f940aa51c11d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e94ae2a841b40ed8039f600e298c1db",
+                                "content": "Occipital lobe impairment"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf2a43e3ffa845a8887307669d11bc0c",
+                                "content": "Damage to the auditory association areas"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8878af6585046419b9307f65dda700c",
+                                "content": "Frontal lobe and optic nerve tracts damage"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "227bb7a43a2946ca99d61e6dff77a6c8",
+                                "content": "Difficulty with concept formation and abstraction areas"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e94ae2a841b40ed8039f600e298c1db",
+                                    "content": "Occipital lobe impairment"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf2a43e3ffa845a8887307669d11bc0c",
+                                    "content": "Damage to the auditory association areas"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8878af6585046419b9307f65dda700c",
+                                    "content": "Frontal lobe and optic nerve tracts damage"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "227bb7a43a2946ca99d61e6dff77a6c8",
+                                    "content": "Difficulty with concept formation and abstraction areas"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse assesses a client who is diagnosed with a stroke (brain attack). On assessment, the client is unable to understand the nurse's commands. Which condition would the nurse document?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAuditory association and storage areas are located in the temporal lobe and relate to understanding spoken language. The occipital lobe contains areas related to vision. The frontal lobe controls voluntary muscle activity, including speech, and an impairment can result in expressive aphasia. The parietal lobe contains association areas for concept formation, abstraction, spatial orientation, body and object size and shape, and tactile sensation.",
+                        "id": "41abdd68955e4c5190701c23259124ef",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c10f296a60a544a1a75b8571c5408882",
+                                "content": "Notify the neurologist."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2cdfb176f7b54b67a0c419627c42cc0b",
+                                "content": "Loosen tight clothing on the client."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21ad05965d334eb191adc7551efa61a3",
+                                "content": "Place the client in a sitting position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5218f73b689e41458ee167e20131d967",
+                                "content": "Check the urinary catheter tubing for kinks or obstruction."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c10f296a60a544a1a75b8571c5408882",
+                                    "content": "Notify the neurologist."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2cdfb176f7b54b67a0c419627c42cc0b",
+                                    "content": "Loosen tight clothing on the client."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21ad05965d334eb191adc7551efa61a3",
+                                    "content": "Place the client in a sitting position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5218f73b689e41458ee167e20131d967",
+                                    "content": "Check the urinary catheter tubing for kinks or obstruction."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The client with a spinal cord injury at the level of T4 is experiencing a severe throbbing headache with a blood pressure of 180/100 mm Hg. What is the priority nursing intervention?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe client is demonstrating clinical manifestations of autonomic dysreflexia, which is a neurological emergency. The first priority is to place the client in a sitting position to prevent hypertensive stroke. Loosening tight clothing and checking the urinary catheter can then be done, and the neurologist can be notified once initial interventions are done.",
+                        "id": "41fef764103d4c4ca912f53539d23b93",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec9496f5e1968ce3342bf700ef0ca4ca",
+                                "content": "Have you had any headaches in the past few days?"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "346bfc993f6144338c5f3b5a81a4e64d",
+                                "content": "Have you recently been having difficulty with seeing at nighttime?"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0891725935e67e9e5a22bb7f0de4b66",
+                                "content": "Have you had any sudden episodes of passing out in the past few days?"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "78c5e46c67e14d82410ebfaba2e48960",
+                                "content": "Have you had any numbness or tingling or paralysis-type feelings in any of your extremities recently?"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec9496f5e1968ce3342bf700ef0ca4ca",
+                                    "content": "Have you had any headaches in the past few days?"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "346bfc993f6144338c5f3b5a81a4e64d",
+                                    "content": "Have you recently been having difficulty with seeing at nighttime?"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0891725935e67e9e5a22bb7f0de4b66",
+                                    "content": "Have you had any sudden episodes of passing out in the past few days?"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "78c5e46c67e14d82410ebfaba2e48960",
+                                    "content": "Have you had any numbness or tingling or paralysis-type feelings in any of your extremities recently?"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is performing an assessment on a client with a diagnosis of thrombotic stroke (brain attack). Which assessment question would elicit data specific to this type of stroke?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale:</p><p>Cerebral thrombosis (thrombotic stroke) does not occur suddenly. In the few days or hours preceding the thrombotic stroke, the client may experience a transient loss of speech, hemiparesis, or paresthesias on one side of the body. Signs and symptoms of this type of stroke vary but may also include dizziness, cognitive changes, or seizures. Headache is rare, but some clients with stroke experience signs and symptoms similar to those of cerebral embolism or intracranial hemorrhage. The client does not complain of difficulty with night vision as part of this clinical problem. In addition, most clients do not have repeated episodes of loss of consciousness.</p>",
+                        "id": "45016d0fac564947b7b5cc77d8aeb186",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "9b7c61e00dd8be899ced3385ef46b093",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 260000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:13:25",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Cerebral Aneurysm,Stroke,Spinal Cord Injur",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

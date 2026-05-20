@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 12:44:36",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 12:44:36",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 12:45:15",
+            "id": "c682605cfedcaf21ae5035bc08c005cc",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3102da548254417884ce8fb45caa04eb",
+                                "content": "Pancreatitis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9282d99fd07f4752aed58755f11853b7",
+                                "content": "Diabetes mellitus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b32720f3a20e42e1a4d788d12fb00d55",
+                                "content": "Myocardial infarction"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4efc72434b3a4cd39a68accfc6a88901",
+                                "content": "Chronic obstructive pulmonary disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3102da548254417884ce8fb45caa04eb",
+                                    "content": "Pancreatitis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9282d99fd07f4752aed58755f11853b7",
+                                    "content": "Diabetes mellitus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b32720f3a20e42e1a4d788d12fb00d55",
+                                    "content": "Myocardial infarction"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4efc72434b3a4cd39a68accfc6a88901",
+                                    "content": "Chronic obstructive pulmonary disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the history and physical examination of a client who will be receiving asparaginase, an antineoplastic agent. The nurse contacts the primary health care provider before administering the medication if which disorder is documented in the client's history?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAsparaginase is contraindicated if hypersensitivity exists, in pancreatitis, or if the client has a history of pancreatitis. The medication impairs pancreatic function, and pancreatic function tests should be performed before therapy begins and when a week or more has elapsed between dose administrations. The client needs to be monitored for signs of pancreatitis, which include nausea, vomiting, and abdominal pain. The conditions noted in options 2, 3, and 4 are not contraindicated with this medication.",
+                        "id": "016ea66991f24a00beb5c73f0714dd08",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2603cfb60bbe40868de53ac440f0d688",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e12557e54aef4bae963328fc98f07fb1",
+                                "content": "Headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53e9258c2ad14288b06027500e56dc92",
+                                "content": "Weakness"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "abf4e334b0a3442e9c67ba8effbb8a17",
+                                "content": "Constipation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2603cfb60bbe40868de53ac440f0d688",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e12557e54aef4bae963328fc98f07fb1",
+                                    "content": "Headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53e9258c2ad14288b06027500e56dc92",
+                                    "content": "Weakness"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "abf4e334b0a3442e9c67ba8effbb8a17",
+                                    "content": "Constipation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with chronic kidney disease is receiving ferrous sulfate. The nurse instructs the client that which finding is a common side/adverse effect associated with this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nFerrous sulfate is an iron supplement used to treat anemia. Constipation is a frequent and uncomfortable side effect associated with the administration of oral iron supplements. Stool softeners often are prescribed to prevent constipation. Options 1, 2, and 3 are not side or adverse effects associated with this medication.",
+                        "id": "10e78fabb06a45fdac626d427df7d7d0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10e2acb1e8d344e2a167ace98c7310db",
+                                "content": "Elevated creatinine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c79ea08f01364f999816d94b02375b0e",
+                                "content": "Red coloration in the urine"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afa1e39f40cd47eeafdb1acf02cca287",
+                                "content": "Electrocardiogram (ECG) changes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49fb58083a1547538dd82820ba4dbe7c",
+                                "content": "Elevated blood urea nitrogen (BUN)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10e2acb1e8d344e2a167ace98c7310db",
+                                    "content": "Elevated creatinine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c79ea08f01364f999816d94b02375b0e",
+                                    "content": "Red coloration in the urine"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afa1e39f40cd47eeafdb1acf02cca287",
+                                    "content": "Electrocardiogram (ECG) changes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49fb58083a1547538dd82820ba4dbe7c",
+                                    "content": "Elevated blood urea nitrogen (BUN)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client with leukemia who is receiving doxorubicin by intravenous infusion. The nurse would monitor for which finding that would indicate doxorubicin toxicity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCardiotoxicity can occur with the use of doxorubicin. The medication can produce irreversible toxicity to the heart, including ECG changes and heart failure. Elevated values on renal function tests are not associated with the use of this medication. A red coloration of the urine may occur with the use of this medication, but this effect is harmless.",
+                        "id": "10fef03e673549449d222fa920ffdc11",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ecc7e9547e242c9bf978126ab4ee19e",
+                                "content": "It is used to treat anemia."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f1d99d807e74931a0047344f0ea6533",
+                                "content": "It is used to lower your blood pressure."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23c726bf3c234f028052a42b627f2ad1",
+                                "content": "It will help to increase the potassium level in your body."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "021cffcfceaa45f78d3a74ac1d0739cb",
+                                "content": "It is an anticonvulsant medication given to all clients after dialysis to prevent seizure activity."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ecc7e9547e242c9bf978126ab4ee19e",
+                                    "content": "It is used to treat anemia."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f1d99d807e74931a0047344f0ea6533",
+                                    "content": "It is used to lower your blood pressure."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23c726bf3c234f028052a42b627f2ad1",
+                                    "content": "It will help to increase the potassium level in your body."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "021cffcfceaa45f78d3a74ac1d0739cb",
+                                    "content": "It is an anticonvulsant medication given to all clients after dialysis to prevent seizure activity."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Epoetin alfa is prescribed for a client diagnosed with chronic kidney disease. The client asks the nurse about the purpose of the medication. Which response by the nurse is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nEpoetin alfa is a medication that is used to treat anemia. It does not lower blood pressure or increase potassium. It is also not given after a dialysis treatment to prevent seizure activity. Hypertension is a side effect. Hyperkalemia and seizures are adverse effects of the medication.",
+                        "id": "156a5cbc9069411ea2bb1af70b02d3c3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea097f6ad27a4d51a0dac1a63614c46e",
+                                "content": "Fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6dbb525585b4753969525aff2607c01",
+                                "content": "Depression"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5cdeb9e6dd444a55a987c6f65d33e067",
+                                "content": "Bradycardia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57d82f914f2a4a8ca7be48fbad1a204b",
+                                "content": "Hypertension"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea097f6ad27a4d51a0dac1a63614c46e",
+                                    "content": "Fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6dbb525585b4753969525aff2607c01",
+                                    "content": "Depression"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5cdeb9e6dd444a55a987c6f65d33e067",
+                                    "content": "Bradycardia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57d82f914f2a4a8ca7be48fbad1a204b",
+                                    "content": "Hypertension"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The client in chronic kidney disease is receiving epoetin alfa. The nurse would monitor this client for which side/adverse effect of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nEpoetin alfa is generally well tolerated, although hypertension can occur and is the most significant adverse effect. Occasionally, tachycardia may also occur. It may also cause an improved sense of well-being. Fever, depression, and bradycardia are not adverse effects of this medication.",
+                        "id": "19b4e8b64fdc481f89f0df57b31e699b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a38a7d14840948b7bbf4b4fc87989a5e",
+                                "content": "Increase the destruction of tumor cells."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9adc82b6803476d916d822ee18551f8",
+                                "content": "Prevent the destruction of normal cells."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47d9859c2338419ca050a2fc3200a04e",
+                                "content": "Decrease the risk of the alopecia and stomatitis."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4b189299d4e46d0b1af9a4cef3dbca9",
+                                "content": "Increase the likelihood of erythrocyte and leukocyte recovery."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a38a7d14840948b7bbf4b4fc87989a5e",
+                                    "content": "Increase the destruction of tumor cells."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9adc82b6803476d916d822ee18551f8",
+                                    "content": "Prevent the destruction of normal cells."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47d9859c2338419ca050a2fc3200a04e",
+                                    "content": "Decrease the risk of the alopecia and stomatitis."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4b189299d4e46d0b1af9a4cef3dbca9",
+                                    "content": "Increase the likelihood of erythrocyte and leukocyte recovery."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who has been diagnosed with breast cancer is to receive chemotherapy with both cisplatin and vincristine. The client asks the nurse why both medications must be given together. The nurse would explain to the client that the combination of two chemotherapeutic medications is used for which reason?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCisplatin is an alkylating-like medication, and vincristine is a vinca alkaloid. Alkylating medications are cell-cycle nonspecific. Vinca alkaloids are cell-cycle specific and act on the M phase. Single-agent medication therapy seldom is used. Combinations of medications are used to increase the destruction of tumor cells.",
+                        "id": "1be05cc9734840deb4f11fd0b90f92d1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96219357a6494678bce86a92a05ab0e3",
+                                "content": "Subcutaneously"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7d27be761c64cc1b513660bdb1a3d07",
+                                "content": "Intramuscularly"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0cac80ba1954c548e04e1713617e610",
+                                "content": "With a full glass of water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "083a37f617c5412cb91a1d518a37247e",
+                                "content": "Diluted in juice to enhance taste"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96219357a6494678bce86a92a05ab0e3",
+                                    "content": "Subcutaneously"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7d27be761c64cc1b513660bdb1a3d07",
+                                    "content": "Intramuscularly"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0cac80ba1954c548e04e1713617e610",
+                                    "content": "With a full glass of water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "083a37f617c5412cb91a1d518a37247e",
+                                    "content": "Diluted in juice to enhance taste"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with chronic kidney disease has a medication prescription for epoetin alfa. The nurse would plan to administer this medication by which method?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nEpoetin alfa is erythropoietin that has been manufactured through the use of recombinant DNA technology. It is used to treat anemia in the client with chronic kidney disease. The medication may be administered subcutaneously or intravenously as prescribed.",
+                        "id": "20a6b248e27d41be9a911cf25926e9e9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cc0f266e0d249bea9a6f309168f5a3e",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59d830d4831040669135fc67fa62ac1b",
+                                "content": "Dizziness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31889bd8f46544b6a657e6964df83d6b",
+                                "content": "Headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "643607917fe4456c90f06105caebcd91",
+                                "content": "Constipation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cc0f266e0d249bea9a6f309168f5a3e",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59d830d4831040669135fc67fa62ac1b",
+                                    "content": "Dizziness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31889bd8f46544b6a657e6964df83d6b",
+                                    "content": "Headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "643607917fe4456c90f06105caebcd91",
+                                    "content": "Constipation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client admitted to the hospital is taking capecitabine for breast cancer. The nurse would monitor the client for which symptom that is a side or adverse effect of the medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCapecitabine is an antimetabolite used to treat metastatic breast cancer that is resistant to other therapy. Adverse effects include bone marrow depression, cardiovascular toxicity, and respiratory toxicity. Headache, constipation, and dizziness are not adverse effects of this medication.",
+                        "id": "237e6bb3928d4fce9430ba5267b195df",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17098c29f34e45cd9fb523f3ff6be5c6",
+                                "content": "Shake the vial before use."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0812c79f2674e8f9ef95a8ebd643341",
+                                "content": "Freeze the medication before use."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a4289287c4040c5931678c8740dd610",
+                                "content": "Refrigerate the medication until used."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9206ab791714474f80f5c51e06e170da",
+                                "content": "Obtain syringes with 1½-inch (3.8 cm) needles for administration."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17098c29f34e45cd9fb523f3ff6be5c6",
+                                    "content": "Shake the vial before use."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0812c79f2674e8f9ef95a8ebd643341",
+                                    "content": "Freeze the medication before use."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a4289287c4040c5931678c8740dd610",
+                                    "content": "Refrigerate the medication until used."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9206ab791714474f80f5c51e06e170da",
+                                    "content": "Obtain syringes with 1½-inch (3.8 cm) needles for administration."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Epoetin alfa by the subcutaneous route is prescribed for a client. What is the most appropriate nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nEpoetin alfa would be refrigerated at all times. The bottle would not be shaken, and the medication would not be frozen because this will affect the chemical composition. Syringes with a ⅚-inch (1.5-cm) needle are used for subcutaneous injection. A 1½-inch (3.8-cm) needle may be used for intramuscular injection.",
+                        "id": "2b295ab25d7941efbc5892c3a88311ae",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ae7de227fb141e8845a4f5a9b4fc93e",
+                                "content": "Tinnitus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "356477ac7abf4d1784c5391bc8e6975f",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77b2efb7a3314316a86b96ee9846086a",
+                                "content": "Nausea and vomiting"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fff20ac8489446da063211b04ad3005",
+                                "content": "Elevated white blood cell (WBC) count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ae7de227fb141e8845a4f5a9b4fc93e",
+                                    "content": "Tinnitus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "356477ac7abf4d1784c5391bc8e6975f",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77b2efb7a3314316a86b96ee9846086a",
+                                    "content": "Nausea and vomiting"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fff20ac8489446da063211b04ad3005",
+                                    "content": "Elevated white blood cell (WBC) count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with testicular cancer is receiving cisplatin. The nurse assesses for which finding as a toxic effect of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCisplatin is a medication that kills cells primarily by forming cross-links between and within strands of deoxyribonucleic acid (DNA). Its principal use is in the treatment of testicular cancer, although it also can be used to treat carcinomas of the ovary, bladder, head, and neck. It can cause neurotoxicity, nephrotoxicity, bone marrow depression, and ototoxicity, which manifests as tinnitus and high-frequency hearing loss. Nausea and vomiting are expected side effects, which can be severe and begin 1 hour after administration, persisting for 1 to 2 days. Diarrhea is not an associated side effect or toxic effect.",
+                        "id": "36adcae361224709bfa95fc39663d5ea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "3581482d85ab3a8f53642d36b754f7fd",
+            "lessonItemId": "80fcb8558cd89d569d6f421fcb0bb067",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 38000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 12:45:16",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Hematological Medications,Antineoplastic Medication",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

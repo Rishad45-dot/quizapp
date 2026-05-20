@@ -1,0 +1,807 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:07:52",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:07:52",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:21:00",
+            "id": "1aff71e3a44a3a2dc135aee4e6a7ad59",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9233ac1101a44a2286a34651793f6a17",
+                                "content": "Malignancy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dae2ce5d4b1c46188220ffe5b7004b7f",
+                                "content": "Pneumonia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dda0b43775c84c96bd6b3d9a44e16490",
+                                "content": "Tuberculosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c45cd9a6a97544c99376bb5a5c2a149d",
+                                "content": "Congestive heart failure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9233ac1101a44a2286a34651793f6a17",
+                                    "content": "Malignancy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dae2ce5d4b1c46188220ffe5b7004b7f",
+                                    "content": "Pneumonia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dda0b43775c84c96bd6b3d9a44e16490",
+                                    "content": "Tuberculosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c45cd9a6a97544c99376bb5a5c2a149d",
+                                    "content": "Congestive heart failure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the pleural fluid cytology report for a client with pleural effusion. The report describes the fluid as clear and pale yellow with no red blood cells (RBCs) or white blood cells (WBCs) detected. Based on these results, which underlying condition would the nurse suspect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThere are various types of pleural fluid, including transudative fluid or exudative fluid, depending on the underlying cause. Exudate is typically cloudy and yellow and is cell-rich, including WBCs. Generally, exudate indicates an underlying infectious, inflammatory, or malignant process. Transudate is clear or pale yellow with few cells present. Transudate can be related to congestive heart failure due to fluid overload; cirrhosis due to decreased albumin production and subsequent decreased oncotic pressure; or renal disease, which contributes to fluid overload and increased capillary pressure. Options 1, 2 and 3 are either malignant or infectious processes and would likely cause an exudative pleural effusion. Since the client’s pleural fluid is clear and pale yellow with no RBCs or WBCs, the transudate is present. Therefore, option 4 is correct as congestive heart failure is associated with transudative pleural effusion.",
+                        "id": "15cc7ec99be744b1b34485e5c0d3977d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0269a5308e0d46369836c42da67c0faf",
+                                "content": "Influenza A"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2c23040f3c2490d8469e748ff0dea54",
+                                "content": "Influenza B"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32bca807877546479b918e5bd44ffde5",
+                                "content": "Influenza C"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e61362df8f4d413e82687926d66c295f",
+                                "content": "Influenza D"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0269a5308e0d46369836c42da67c0faf",
+                                    "content": "Influenza A"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2c23040f3c2490d8469e748ff0dea54",
+                                    "content": "Influenza B"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32bca807877546479b918e5bd44ffde5",
+                                    "content": "Influenza C"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e61362df8f4d413e82687926d66c295f",
+                                    "content": "Influenza D"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the pathophysiology of influenza and the various strains of the disease. The nurse would correctly identify H3N2 as which type of influenza?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nInfluenza is divided into four different serotypes: A, B, C, and D. Influenza A is further delineated into different strains based on two viral surface proteins: hemagglutinin (H) and neuraminidase (N). An example of influenza A is H1N1, otherwise known as the swine flu. Therefore, option 1 is the correct answer, as influenza A viruses are further named based on the H and N proteins.",
+                        "id": "18f5922576bb4648b73a95fb20ab01a5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af20a038685e44b2b83030765928cef0",
+                                "content": "Mask"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9af452fe686046249ffc87e2b5fe3a67",
+                                "content": "Gown"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "241e2f9dbbd94d4198cfbb26421bb7c6",
+                                "content": "Gloves"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43668dbad90b41a9b7dc8a906e8a41b8",
+                                "content": "Eye protection"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af20a038685e44b2b83030765928cef0",
+                                    "content": "Mask"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9af452fe686046249ffc87e2b5fe3a67",
+                                    "content": "Gown"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "241e2f9dbbd94d4198cfbb26421bb7c6",
+                                    "content": "Gloves"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43668dbad90b41a9b7dc8a906e8a41b8",
+                                    "content": "Eye protection"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is taking the history of a client with occupational lung disease (silicosis). The nurse would ask the client whether the client wears which item during periods of exposure to silica particles?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSilicosis results from chronic, excessive inhalation of particles of free crystalline silica dust. The client needs to wear a mask to limit inhalation of this substance, which can cause restrictive lung disease after years of exposure. Options 2, 3, and 4 are not necessary.",
+                        "id": "1a28055495034a82bfdaaff84fe3e4eb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "215a6ae2c21a415fb057c5207c41fe3e",
+                                "content": "Fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db8b3cc8ca154e1288ae50c5976bb5f7",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7311095d6907450f9ebd4798ae7e110b",
+                                "content": "Weight loss"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbcf752d8da7487bb63d09c84bf53e18",
+                                "content": "Shortness of breath"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "215a6ae2c21a415fb057c5207c41fe3e",
+                                    "content": "Fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db8b3cc8ca154e1288ae50c5976bb5f7",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7311095d6907450f9ebd4798ae7e110b",
+                                    "content": "Weight loss"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbcf752d8da7487bb63d09c84bf53e18",
+                                    "content": "Shortness of breath"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides discharge instructions to a client with pulmonary sarcoidosis. The nurse concludes that the client understands the information if the client indicates to report which early sign of exacerbation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDry cough and dyspnea are typical early manifestations of pulmonary sarcoidosis. Later manifestations include night sweats, fever, weight loss, and skin nodules.",
+                        "id": "1aca24fb55184ec987960826b6a57a0d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbba48328f4e4645abf800feb97da08c",
+                                "content": "Inhalation of pathogens in the air"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79fed438b9d5460d89d5fa31f3d64966",
+                                "content": "Aspiration of microbes from the oropharynx"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6fe0ff7aea340e0baa2d35a08c7e5da",
+                                "content": "Aspiration of microbes from the nasopharynx"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21002ad1a552434ea25be4bdb7b509f7",
+                                "content": "Develops from a primary infection at a different site in the body"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbba48328f4e4645abf800feb97da08c",
+                                    "content": "Inhalation of pathogens in the air"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79fed438b9d5460d89d5fa31f3d64966",
+                                    "content": "Aspiration of microbes from the oropharynx"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6fe0ff7aea340e0baa2d35a08c7e5da",
+                                    "content": "Aspiration of microbes from the nasopharynx"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21002ad1a552434ea25be4bdb7b509f7",
+                                    "content": "Develops from a primary infection at a different site in the body"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the pathophysiology of pneumonia. The nurse would correctly identify which infection source as an example of hematogenous spread in the pathogenesis of pneumonia?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nPneumonia is an acute infection of the lung tissue. Several defense mechanisms protect the lung from infection; however, there are three identified methods by which pathogens reach the lung—aspiration, inhalation, or hematogenous spread. Options 2 and 3 both describe the aspiration route of the pathogenesis of pneumonia, in which normal inhabitants of the oropharynx and nasopharynx reach the lung tissue and cause infection. Option 1 describes the inhalation route. Option 4 describes the hematogenous spread route, as this refers to a primary infection elsewhere in the body, such as endocarditis, spreading to the lung tissue and causing a secondary infection. Therefore, option 4 is correct.",
+                        "id": "292a1e129fb34361a48551788dac5381",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da650a14814b7afc48839fe4c9476dbf",
+                                "content": "Stridor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2cdead6900a8a06e4c5338855377238",
+                                "content": "Crackles"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "495341b251c6b918920a080048897fa8",
+                                "content": "Rhonchi"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3d369d6448161a5b691cc1ecac8fa0b",
+                                "content": "High-pitched wheezes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da650a14814b7afc48839fe4c9476dbf",
+                                    "content": "Stridor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2cdead6900a8a06e4c5338855377238",
+                                    "content": "Crackles"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "495341b251c6b918920a080048897fa8",
+                                    "content": "Rhonchi"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3d369d6448161a5b691cc1ecac8fa0b",
+                                    "content": "High-pitched wheezes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client with smoke inhalation is experiencing severe dyspnea, and the nurse listens to the client's breath sounds and hears this sound. The nurse would document this finding as which sound? Refer to audio.</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale:</p><p>The sound that the nurse hears is stridor. Stridor is a harsh, high-pitched sound associated with breathing and is the major manifestation of airway obstruction. The nurse immediately notifies the primary health care provider (PHCP). The nurse also places the client in a high-Fowler's position to aid in breathing and proper alignment of airway structures. The nurse then monitors the client, including vital signs, and prepares the client for endotracheal intubation or tracheostomy. Rhonchi (low-pitched, coarse, loud, low-snoring or moaning sounds) are heard in conditions causing obstruction of the bronchus or trachea. Crackles are audible when there is a sudden opening of small airways that contain fluid, are usually heard during inspiration, and do not clear with a cough. Crackles resemble the sound of a lock of hair being rubbed between the thumb and forefinger and are heard in conditions such as pulmonary edema. High-pitched crackles are characteristically fine and are high-pitched discontinuous popping noises (nonmusical sounds) heard during the end of inspiration. Medium-pitched crackles produce a moist sound about halfway through inspiration. Coarse crackles are low-pitched bubbling sounds that start early in inspiration and extend into the first part of expiration. High-pitched wheezes are musical sounds that predominate in expiration but may occur in both expiration and inspiration. They occur in the small airways and are heard in narrowed-airway diseases such as asthma or emphysema.</p>",
+                        "id": "2be8466e190b423a9ad0cef3f8b9ae91",
+                        "videoIdContent": "deeaa359a25b7b966fed9bc09246c88d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8a1d726850243c387ff256194314023",
+                                "content": "A shunt unit exists."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ce58d5f109e4f1e8ffbbcb0b40abbec",
+                                "content": "Anatomical dead space is present."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b944fed7c2404dd6a5b0479a41fb257a",
+                                "content": "Physiological dead space is present."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ffd118ed9d74757b589630b8cebe468",
+                                "content": "Ventilation-perfusion matching is occurring."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8a1d726850243c387ff256194314023",
+                                    "content": "A shunt unit exists."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ce58d5f109e4f1e8ffbbcb0b40abbec",
+                                    "content": "Anatomical dead space is present."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b944fed7c2404dd6a5b0479a41fb257a",
+                                    "content": "Physiological dead space is present."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ffd118ed9d74757b589630b8cebe468",
+                                    "content": "Ventilation-perfusion matching is occurring."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reads in the progress notes for a client with pneumonia that areas of the client's lungs are being perfused but are not being ventilated. How does the nurse correctly interpret this documentation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWhen there is no ventilation to an alveolar unit but perfusion continues, a shunt unit exists. As a result, no gas exchange occurs, and unoxgenated blood continues to circulate. Anatomical dead space normally is present in the conducting airways, where pulmonary capillaries are absent. Physiological dead space occurs with conditions such as emphysema and pulmonary embolism. Ventilation-perfusion matching refers to a matching distribution of blood flow in the pulmonary capillaries and air exchange in the alveolar units of the lungs.",
+                        "id": "2ea43abc6d49442c9b699c1975452592",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f1cbf16ec4ad4bdb8ef62048e9c1968d",
+                                "content": "A 25-year-old client with diabetic ketoacidosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f65fb8e3de6f4cc4af1d358374d468e4",
+                                "content": "A 65-year-old client out of bed 1 day after prostate resection"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c71cf47c60fc4040922a148cc3292531",
+                                "content": "A 73-year-old client who has just had pinning of a hip fracture"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c513c191ad24dee900285f638329321",
+                                "content": "A 38-year-old client with pulmonary contusion sustained in an automobile crash"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f1cbf16ec4ad4bdb8ef62048e9c1968d",
+                                    "content": "A 25-year-old client with diabetic ketoacidosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f65fb8e3de6f4cc4af1d358374d468e4",
+                                    "content": "A 65-year-old client out of bed 1 day after prostate resection"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c71cf47c60fc4040922a148cc3292531",
+                                    "content": "A 73-year-old client who has just had pinning of a hip fracture"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c513c191ad24dee900285f638329321",
+                                    "content": "A 38-year-old client with pulmonary contusion sustained in an automobile crash"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a group of clients on the clinical nursing unit. The nurse interprets that which of these clients is at most risk for the development of pulmonary embolism?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nClients frequently at risk for pulmonary embolism include those who are immobilized. This is especially true in the immobilized postoperative client. Other causes include those with conditions that are characterized by hypercoagulability, endothelial disease, or advancing age.",
+                        "id": "46ae64eefe6143f1825a2544340b1899",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf403bf1404b4643be2b752f6e500f48",
+                                "content": "Cirrhosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5388a4a881d24a6295abf62e88b686ca",
+                                "content": "Malignancy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3969885016d4f23b5a8d0e48e0e15f9",
+                                "content": "Chronic kidney disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6dfecc053da84deca5d98e77da5c8a19",
+                                "content": "Congestive heart failure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf403bf1404b4643be2b752f6e500f48",
+                                    "content": "Cirrhosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5388a4a881d24a6295abf62e88b686ca",
+                                    "content": "Malignancy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3969885016d4f23b5a8d0e48e0e15f9",
+                                    "content": "Chronic kidney disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6dfecc053da84deca5d98e77da5c8a19",
+                                    "content": "Congestive heart failure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who underwent a thoracentesis to treat pleural effusion. The pleural fluid testing results indicate the pleural fluid is cloudy and confirm the presence of white blood cells (WBCs). Which condition would the nurse suspect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPleural effusion is a sign of an underlying disease process and the type of pleural fluid can provide information about what underlying disease is responsible for the effusion. Pleural fluid is described as transudative or exudative. Transudative pleural fluid is typically a clear, pale yellow fluid due to the lack of protein or cells in the fluid. Congestive heart failure, chronic liver disease such as cirrhosis, or renal disease may be the underlying cause of a transudative pleural effusion. Exudative fluid is cloudy due to the presence of WBCs and is a sign of an inflammatory or infectious process, including malignancy. In this situation, the pleural fluid is exudative since it is cloudy and WBCs are present. Since options 1, 3 and 4 are likely related to transudative, clear pleural fluid, option 2 is the correct answer.",
+                        "id": "51f90009a0854a3188392122ff01fab0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6a1ba19b4e544a1be389862c2bf42b5",
+                                "content": "“Influenza has a rapid symptom onset, while common cold symptoms appear gradually.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6042479e41124f4a8b7ddd2d52131e71",
+                                "content": "“It is very common to have a fever with the common cold, while a fever with influenza is rare.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed11b989ab33425aa444494e7268205f",
+                                "content": "“Severe muscle pains and aches are associated with the common cold and are rare with influenza.”"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ddcc03d8bbd04c6aab03a78ac01c7cf0",
+                                "content": "“There is an annual vaccination for viral rhinitis, which decreases the severity of the common cold.”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6a1ba19b4e544a1be389862c2bf42b5",
+                                    "content": "“Influenza has a rapid symptom onset, while common cold symptoms appear gradually.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6042479e41124f4a8b7ddd2d52131e71",
+                                    "content": "“It is very common to have a fever with the common cold, while a fever with influenza is rare.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed11b989ab33425aa444494e7268205f",
+                                    "content": "“Severe muscle pains and aches are associated with the common cold and are rare with influenza.”"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ddcc03d8bbd04c6aab03a78ac01c7cf0",
+                                    "content": "“There is an annual vaccination for viral rhinitis, which decreases the severity of the common cold.”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client in the primary health care provider’s (PHCP’s) office for an annual well visit asks the nurse about the differences between influenza and the common cold (viral rhinitis). The nurse would make which response to the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nInfluenza and the common cold, otherwise known as viral rhinitis, have various differences and similarities that assist in the diagnosis of each condition. Influenza is commonly associated with a high fever, whereas fevers with the common cold are rare. Therefore, option 2 is incorrect. Severe muscle pains, or myalgia, are common with the flu and rare with the common cold. Therefore, option 3 is incorrect. There is an annual vaccination available for influenza, not the common cold. Therefore, option 4 is incorrect. Influenza symptom onset is rapid, whereas symptom onset for the common cold is more gradual or insidious. Therefore, option 1 is the correct statement.",
+                        "id": "569a4e29be59472194442948195b56ea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "c182ecf5aadc616a790633a042e35f28",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 304000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:21:00",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Pleural Effusion,COVID-19,Pleurisy & Pulmonary Embolism,Occupational Lung Disease,Influenza,Pneumoni",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

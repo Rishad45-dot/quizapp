@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:09:39",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:09:39",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:10:40",
+            "id": "3d28be19f24806af56164cb52add1952",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5bef34b1d2d64a93ab86c902a6463703",
+                                "content": "Do you have any cats in your home?"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a04bd411b049437f9972e00c183428ba",
+                                "content": "Have you been camping in the last month?"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8883d85cdee645ea80ade5331e127c9a",
+                                "content": "Have you or close contacts had any flulike symptoms within the last few weeks?"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e79ef8c759344b590b5a25bedb679d9",
+                                "content": "Have you been in physical contact with anyone who has the same type of rash?"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5bef34b1d2d64a93ab86c902a6463703",
+                                    "content": "Do you have any cats in your home?"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a04bd411b049437f9972e00c183428ba",
+                                    "content": "Have you been camping in the last month?"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8883d85cdee645ea80ade5331e127c9a",
+                                    "content": "Have you or close contacts had any flulike symptoms within the last few weeks?"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e79ef8c759344b590b5a25bedb679d9",
+                                    "content": "Have you been in physical contact with anyone who has the same type of rash?"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client presents at the primary health care provider's office with complaints of a bull's-eye rash on his upper leg. Which question would the nurse ask first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe nurse would ask questions to assist in identifying the cause of Lyme disease, which is a multisystem infection that results from a bite by a tick carried by several species of deer. The rash from a tick bite can be a ringlike rash occurring 3 to 4 weeks after a bite and is commonly seen on the groin, buttocks, axillae, trunk, or upper arms or legs. Option 1 is referring to toxoplasmosis, which is caused by the inhalation of cysts from contaminated cat feces. Lyme disease cannot be transmitted from one person to another.",
+                        "id": "00258e52103a48dbada494ae3dd771b7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2cd37508fe8e4bed8baa7abd55273973",
+                                "content": "It is the initial reaction in the inflammatory response."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "704145a81b5749a0ad801e00669c5dab",
+                                "content": "Phagocytosis is required for the production of antibodies."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afa369e1e39140cd935834ef6c651645",
+                                "content": "It is when a protein is produced in response to a viral infection."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "611a4eda108e49819f9a27ed51c45aad",
+                                "content": "It is a process by which a particle is ingested and digested by a cell."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2cd37508fe8e4bed8baa7abd55273973",
+                                    "content": "It is the initial reaction in the inflammatory response."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "704145a81b5749a0ad801e00669c5dab",
+                                    "content": "Phagocytosis is required for the production of antibodies."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afa369e1e39140cd935834ef6c651645",
+                                    "content": "It is when a protein is produced in response to a viral infection."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "611a4eda108e49819f9a27ed51c45aad",
+                                    "content": "It is a process by which a particle is ingested and digested by a cell."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing instructor asks a nursing student to define the process of phagocytosis. The nursing instructor determines that the student has an accurate understanding if which statement is made?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nPhagocytosis, an important nonspecific immune response, is a process by which a particle is ingested and digested by a cell. The statements made in the remaining options are incorrect.",
+                        "id": "00e99023d42b45c2a832cb28509829ee",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2000c40f641f4a7e8a3655f38d517eca",
+                                "content": "Determines the presence of antigens"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f641ed2514e4adfb5dc80d77032c716",
+                                "content": "Identifies which additional tests need to be performed"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8ca719c257d4b5db2318bb84e5552d6",
+                                "content": "Confirms the diagnosis of a connective tissue disorder"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3000c78f8cd04ccea2b176254645bc6f",
+                                "content": "Confirms the presence of inflammation or infection in the body"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2000c40f641f4a7e8a3655f38d517eca",
+                                    "content": "Determines the presence of antigens"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f641ed2514e4adfb5dc80d77032c716",
+                                    "content": "Identifies which additional tests need to be performed"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8ca719c257d4b5db2318bb84e5552d6",
+                                    "content": "Confirms the diagnosis of a connective tissue disorder"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3000c78f8cd04ccea2b176254645bc6f",
+                                    "content": "Confirms the presence of inflammation or infection in the body"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An erythrocyte sedimentation rate (ESR) determination is prescribed for a client with a connective tissue disorder. When asked, what would the nurse tell the client about the purpose of the test?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe ESR is a blood test that can confirm the presence of inflammation or infection in the body. It is particularly useful for the management of connective tissue disease because the rate measured directly correlates with the degree of inflammation and later with the severity of the disease. The other options are incorrect.",
+                        "id": "09673cf9848d492dab85e7b42c94ce33",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f46547bad9840c3ba48f430e1a9b0fe",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bde2e0b1dab04af58fb48043198f1113",
+                                "content": "Headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2e7084694ac46559860be1609643bfe",
+                                "content": "Weight gain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "96098fe249a3407aa263e6aea0095540",
+                                "content": "Hypothermia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f46547bad9840c3ba48f430e1a9b0fe",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bde2e0b1dab04af58fb48043198f1113",
+                                    "content": "Headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2e7084694ac46559860be1609643bfe",
+                                    "content": "Weight gain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "96098fe249a3407aa263e6aea0095540",
+                                    "content": "Hypothermia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with acquired immunodeficiency syndrome (AIDS) has histoplasmosis. The nurse would assess the client for which expected finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHistoplasmosis is an opportunistic fungal infection that can occur in the client with AIDS. The infection begins as a respiratory infection and can progress to disseminated infection. Typical signs and symptoms include fever, dyspnea, cough, and weight loss. Enlargement of the client's lymph nodes, liver, and spleen may occur as well.",
+                        "id": "0c95a743c8e949889c0dfe0a3a327ca6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d9b3afcd67e4c4a9bc8824d6a4e6806",
+                                "content": "They open up blood vessels."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ede7464136843ee9a0fa3e83f2dcc45",
+                                "content": "They close up blood vessels."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72a74ccb672d4c958b86063eeac11b43",
+                                "content": "They move fluids to the injury site."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2188f1d797841409713ac01e9a44ea0",
+                                "content": "They destroy any harmful materials."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d9b3afcd67e4c4a9bc8824d6a4e6806",
+                                    "content": "They open up blood vessels."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ede7464136843ee9a0fa3e83f2dcc45",
+                                    "content": "They close up blood vessels."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72a74ccb672d4c958b86063eeac11b43",
+                                    "content": "They move fluids to the injury site."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2188f1d797841409713ac01e9a44ea0",
+                                    "content": "They destroy any harmful materials."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides education to the client about the primary purpose of neutrophils. Which statement by the client indicates successful teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nNeutrophil function provides protection after invaders, especially bacteria, enter the body. In the inflammatory response, neutrophils appear in the area of injury in 30 to 60 minutes. Their primary purpose is to phagocytize (ingest and destroy) any potentially harmful agents, such as microorganisms. The remaining options are incorrect.",
+                        "id": "0c9b4891d7094bfb8858d65f9b5e372e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eaa8f5482cff426f9b1b26847b5ca252",
+                                "content": "Protein"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1ef14739001493ba75f5f622dce443a",
+                                "content": "Glucose"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42a13fed6dbc4d0d80ef7807a87d7428",
+                                "content": "Amylase"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a7ac2ed9823472bb69eb06ede611a27",
+                                "content": "Cholesterol"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eaa8f5482cff426f9b1b26847b5ca252",
+                                    "content": "Protein"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1ef14739001493ba75f5f622dce443a",
+                                    "content": "Glucose"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42a13fed6dbc4d0d80ef7807a87d7428",
+                                    "content": "Amylase"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a7ac2ed9823472bb69eb06ede611a27",
+                                    "content": "Cholesterol"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with acquired immunodeficiency syndrome (AIDS) is receiving didanosine. When the nurse reviews the client's laboratory test results, which result would be most closely monitored?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAcquired immunodeficiency syndrome is a viral disease caused by the human immunodeficiency virus (HIV), which destroys T cells, thereby increasing susceptibility to infection and malignancy. Didanosine is toxic to the pancreas and the liver. A serum amylase level that is increased by 1.5 to 2 times normal may signify pancreatitis and may be fatal in the client with AIDS. Therefore, the nurse needs to monitor the results of amylase and liver function studies closely. Alterations in protein, glucose, and cholesterol levels are unrelated to this medication.",
+                        "id": "0fe1e88da7bd418c90515d33cf07bf85",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d0877188350470b98387c5cc151aa66",
+                                "content": "Basophils"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3e5e8a101f14fb4869a34f27a92713c",
+                                "content": "Neutrophils"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6079206e78c043eb850e8dce64f25f10",
+                                "content": "Eosinophils"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d817ffe2990343ba93327b16768b112b",
+                                "content": "Dendritic cells"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d0877188350470b98387c5cc151aa66",
+                                    "content": "Basophils"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3e5e8a101f14fb4869a34f27a92713c",
+                                    "content": "Neutrophils"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6079206e78c043eb850e8dce64f25f10",
+                                    "content": "Eosinophils"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d817ffe2990343ba93327b16768b112b",
+                                    "content": "Dendritic cells"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to the hospital with a diagnosis of parasitic worms. After reviewing the client's complete blood cell (CBC) count, the nurse would expect an increased laboratory value for which cells?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nEosinophils attack and destroy foreign particles that have been coated with antibodies of the immunoglobulin E (IgE) class. Their usual target is helminths (parasitic worms). Basophils mediate immediate hypersensitivity reactions. Dendritic cells perform the same antigen-presenting task as macrophages. Neutrophils phagocytize foreign particles such as bacteria.",
+                        "id": "12095c826edf47008257fc1d199be89d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bcc68d4b8624112a7106b714bc7ab10",
+                                "content": "Iodine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50e98e392d7949c9b24f074ac997754b",
+                                "content": "Shellfish"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4984308b1f149c283a20c8c02b79e43",
+                                "content": "Penicillin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22e81294deef4c22b169dd0bd20a883f",
+                                "content": "Sulfa medications"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bcc68d4b8624112a7106b714bc7ab10",
+                                    "content": "Iodine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50e98e392d7949c9b24f074ac997754b",
+                                    "content": "Shellfish"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4984308b1f149c283a20c8c02b79e43",
+                                    "content": "Penicillin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22e81294deef4c22b169dd0bd20a883f",
+                                    "content": "Sulfa medications"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has a prescription to give a first dose of hydrochlorothiazide to an assigned client. The nurse would question the prescription if the client has a history of allergy to which item?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nThiazide diuretics, such as hydrochlorothiazide, are sulfa-based medications, and a client with a sulfa allergy is at risk for an allergic reaction. A sulfa allergy must be communicated to the pharmacist, primary health care providers (PHCPs), and nurse. The other options are not contraindications for administering the medication.\n\nTest-Taking Strategy:\nFocus on the subject, a contraindication for administering hydrochlorothiazide. Remember that options that are comparable or alike are not likely to be correct. With this in mind, eliminate iodine and shellfish. To select from the remaining options, recall that the chemical composition of thiazide diuretics contains a sulfa ring. This will easily direct you to the correct option.\n \n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Immune: Hypersensitivity Reactions and Allergy\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options, Subject",
+                        "id": "12a2cb8e0317476f9992c5951c4b41cf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e10f5f4e112b9b63e47a8c3aa1fab0ca",
+                                "content": "Ultraviolet light therapy"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "649d0896b9c18f7d3cf0ce1e69edd8c3",
+                                "content": "A 14- to 21-day course of doxycycline"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f2453c235bdd9fb23cdee17713f08f7",
+                                "content": "No treatment unless symptoms develop"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d7cfb3792e7984c0685d73fcb6708d00",
+                                "content": "Treatment with intravenous (IV) penicillin G"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e10f5f4e112b9b63e47a8c3aa1fab0ca",
+                                    "content": "Ultraviolet light therapy"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "649d0896b9c18f7d3cf0ce1e69edd8c3",
+                                    "content": "A 14- to 21-day course of doxycycline"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f2453c235bdd9fb23cdee17713f08f7",
+                                    "content": "No treatment unless symptoms develop"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d7cfb3792e7984c0685d73fcb6708d00",
+                                    "content": "Treatment with intravenous (IV) penicillin G"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A client suspected of having stage I Lyme disease is seen in the health care clinic and is told that the Lyme disease test result is positive. The client asks the nurse about the treatment for the disease. In responding to the client, the nurse anticipates that which intervention will be part of the treatment plan?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale:</p><p>Lyme disease is a reportable systemic infectious disease caused by the spirochete Borellia burgdorferi and results from the bite of an infected deer tick, also known as the black-legged tick. A 14 to 21-day course of oral antibiotic therapy is recommended during stage I. Later stages of Lyme disease may require therapy with IV antibiotics, such as penicillin G. Ultraviolet light therapy is not a component of the treatment plan for Lyme disease.</p><p>Test-Taking Strategy:</p><p>Focus on the subject,&nbsp;treatment for Lyme disease. Note that the question specifies stage I. Eliminate option 4 because IV antibiotics will not be administered in this stage. Eliminate option 1 because this is not a component of the treatment for Lyme disease. Waiting for symptoms to develop is incorrect, so eliminate option 3.</p>",
+                        "id": "12e6c2da490b46be8af8038911b80ccb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef67f6c5943f4b7898045557c2f91b9d",
+                                "content": "The liver"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "021c13ee36254162b4f455ed54b255bf",
+                                "content": "The spleen"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5de1385bd354630a728b411fc400521",
+                                "content": "The tonsils"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf7149cfcc764e819a1ca221cd12563d",
+                                "content": "The small intestine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef67f6c5943f4b7898045557c2f91b9d",
+                                    "content": "The liver"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "021c13ee36254162b4f455ed54b255bf",
+                                    "content": "The spleen"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5de1385bd354630a728b411fc400521",
+                                    "content": "The tonsils"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf7149cfcc764e819a1ca221cd12563d",
+                                    "content": "The small intestine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing instructor asks a nursing student to identify the location of Peyer's patches. The nursing instructor determines that the student has an understanding of the location if which organ is identified?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nPeyer's patches are lymphoid nodules located in the small intestine, where T cells congregate. Peyer's patches are most important in the secondary immune response, although they play a role in the primary immune response as well. These organs may enlarge as they become highly active in the immune response. The organs noted in the remaining options are incorrect.\n",
+                        "id": "13a2ddfc014a41a78bb1364fc7509c18",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "492c355c6948b75edb00ef8ecea8682b",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 60000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:10:40",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Hypersensitivity and Allergy,Immunodeficiency Syndrome,Posttransplantation Immunodeficiency,Autoimmune Disease,Lyme Disease,Other",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:58:55",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:58:55",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:00:14",
+            "id": "465b76b8af8079465e09d2026bf7dadf",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "caab48deb3564141a8f728ad3d5939eb",
+                                "content": "To continue to monitor the child"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aeaf1b8d282048409b55600cd8f3f71d",
+                                "content": "That lethargy and vomiting are normal with mumps"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f62fb1640b934c68aaf018076b6913cc",
+                                "content": "To bring the child to the clinic to be seen by the pediatrician"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cead9759f3994c848327b9e2e7a37fe7",
+                                "content": "That there is nothing to be concerned about as long as there is no fever"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "caab48deb3564141a8f728ad3d5939eb",
+                                    "content": "To continue to monitor the child"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aeaf1b8d282048409b55600cd8f3f71d",
+                                    "content": "That lethargy and vomiting are normal with mumps"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f62fb1640b934c68aaf018076b6913cc",
+                                    "content": "To bring the child to the clinic to be seen by the pediatrician"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cead9759f3994c848327b9e2e7a37fe7",
+                                    "content": "That there is nothing to be concerned about as long as there is no fever"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The parent of a child with mumps calls the health care clinic to tell the nurse that the child has been lethargic and vomiting. What instruction would the nurse give to the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMumps generally affects the salivary glands, but it can also affect multiple organs. The most common complication is septic meningitis, with the virus being identified in the cerebrospinal fluid. Common signs include nuchal rigidity, lethargy, and vomiting. The child needs to be seen by the pediatrician.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Infectious and Communicable Diseases\nHealth Problem: Pediatric-Specific: Infectious/Communicable Diseases\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Infection\nStrategies: Subject                   Test-Taking Strategy:\nFocus on the subject, a child with mumps who has been lethargic and vomiting. Recalling that meningitis is a complication of mumps will direct you to the correct option.",
+                        "id": "0414d5c875ad44cfa8cb021eab670f60",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21797c18ae944ce4a643734af18290a0",
+                                "content": "Eggs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0463d1409ad41fbac731bd739f9b744",
+                                "content": "Penicillin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95f0bac68eac4e3c9b469d29a685719f",
+                                "content": "Sulfonamides"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "499beefbe0b24d7d8758f97fbe8c22f9",
+                                "content": "A previous dose of hepatitis B vaccine or component"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21797c18ae944ce4a643734af18290a0",
+                                    "content": "Eggs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0463d1409ad41fbac731bd739f9b744",
+                                    "content": "Penicillin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95f0bac68eac4e3c9b469d29a685719f",
+                                    "content": "Sulfonamides"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "499beefbe0b24d7d8758f97fbe8c22f9",
+                                    "content": "A previous dose of hepatitis B vaccine or component"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child is receiving a series of the hepatitis B vaccine and arrives at the clinic with a parent for the second dose. Before administering the vaccine, the nurse would ask the child and parent about a history of a severe allergy to which substance?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA contraindication to receiving the hepatitis B vaccine is a previous anaphylactic reaction to a previous dose of hepatitis B vaccine or to a component of the vaccine (aluminum hydroxide or yeast protein). Allergies to eggs, penicillin, or sulfonamides are unrelated to the contraindication to receiving this vaccine.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Infectious and Communicable Diseases\nHealth Problem: Pediatric-Specific: Immunizations\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                           Test-Taking Strategy:\nFocus on the subject, a contraindication to receiving the hepatitis B vaccine. Note the relationship between the words hepatitis B vaccine in the question and in the correct option.",
+                        "id": "07ba8f819131455894967600b976b7b1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ffe0eb1281147a6b7530e14b6c53e44",
+                                "content": "I am so pleased also that everything has turned out fine."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22a4465584de4a44876df4cc227963d7",
+                                "content": "Because symptoms have not developed, it is unlikely that your infant will develop HIV infection."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "947eeded999d419b9637c150b4e356a5",
+                                "content": "Everything looks great, but be sure to return with your infant next month for the scheduled visit."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ed6aedd5f204a9891a33c2819483fd5",
+                                "content": "Most children infected with HIV develop symptoms within the first 9 months of life, and some become symptomatic sometime before they are 3 years old."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ffe0eb1281147a6b7530e14b6c53e44",
+                                    "content": "I am so pleased also that everything has turned out fine."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22a4465584de4a44876df4cc227963d7",
+                                    "content": "Because symptoms have not developed, it is unlikely that your infant will develop HIV infection."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "947eeded999d419b9637c150b4e356a5",
+                                    "content": "Everything looks great, but be sure to return with your infant next month for the scheduled visit."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ed6aedd5f204a9891a33c2819483fd5",
+                                    "content": "Most children infected with HIV develop symptoms within the first 9 months of life, and some become symptomatic sometime before they are 3 years old."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A parent with human immunodeficiency virus (HIV) infection brings a 10-month-old infant to the clinic for a routine checkup. The primary health care provider has documented that the infant is asymptomatic for HIV infection. After the checkup, the parent tells the nurse about being so pleased that the infant will not get HIV infection. The nurse would make which most appropriate response to the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAcquired immunodeficiency syndrome (AIDS) is caused by HIV infection and characterized by generalized dysfunction of the immune system. Most children infected with HIV develop symptoms within the first 9 months of life. The remaining infected children become symptomatic sometime before the age of 3 years. With their immature immune systems, children have a much shorter incubation period than adults. Options 1, 2, and 3 are incorrect. Additionally, these options offer false reassurance.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Immune\nHealth Problem: Pediatric-Specific: Immunodeficiency Disease\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Immunity, Patient Education\nStrategies: Comparable or Alike Options, Strategic Words                                  Test-Taking Strategy:\nNote the strategic words, most appropriate. Eliminate options 1, 2, and 3 because they are comparable or alike in content. The correct option is the only one that provides specific and accurate data regarding HIV infection in an infant.",
+                        "id": "0b46308ccc4846efaac3db8c60ca17b9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea96b567a0da463c927b065ab4672603",
+                                "content": "A discrete rose-pink maculopapular rash on the trunk"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc430c2ec3a94c1c90cc76f670884781",
+                                "content": "Erythema on the face, giving a \"slapped cheeks\" appearance"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9667746749984ffba902323ab00f0e32",
+                                "content": "A highly pruritic, profuse macule-to-papule rash on the trunk"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35e5af0874264c489921056a97829c3c",
+                                "content": "A discrete pinkish-red maculopapular rash on the arms and trunk"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea96b567a0da463c927b065ab4672603",
+                                    "content": "A discrete rose-pink maculopapular rash on the trunk"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc430c2ec3a94c1c90cc76f670884781",
+                                    "content": "Erythema on the face, giving a \"slapped cheeks\" appearance"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9667746749984ffba902323ab00f0e32",
+                                    "content": "A highly pruritic, profuse macule-to-papule rash on the trunk"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35e5af0874264c489921056a97829c3c",
+                                    "content": "A discrete pinkish-red maculopapular rash on the arms and trunk"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child is sent to the school nurse by the teacher. On assessment of the child, the nurse notes the presence of a rash. The nurse suspects that the child has erythema infectiosum (fifth disease) based on which assessment finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe classic rash of erythema infectiosum, or fifth disease, affects the face. The discrete rose-pink maculopapular rash is the rash of exanthema subitum (roseola). The highly pruritic, profuse macule-to-papule rash is the rash of varicella (chickenpox). The discrete pinkish-red maculopapular rash is the rash of rubella (German measles).\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Infectious and Communicable Diseases\nHealth Problem: Pediatric-Specific: Infectious/Communicable Diseases\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Infection, Tissue Integrity\nStrategies: Comparable or Alike Options, Subject              Test-Taking Strategy:\nFocus on the subject, characteristics associated with erythema infectiosum. If you were unfamiliar with this disorder, note that options 1, 3, and 4 are comparable or alike in that the rash is on the trunk. The correct option mentions a rash on the face.",
+                        "id": "0cb5e0090a02497d99230b7209f51371",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7de5a4b1aed542a4a321a010e4f2ed5a",
+                                "content": "The infant has HIV."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d4e4ced0c20470a8b8119e3c5c71cc7",
+                                "content": "Repeat the test in 1 month."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff91766c97f04aec84e5acaf7312903a",
+                                "content": "The infant is infected with the HIV virus."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac71542b5a544bae8001ee0e84ab8e4e",
+                                "content": "The parent is infected with the HIV virus."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7de5a4b1aed542a4a321a010e4f2ed5a",
+                                    "content": "The infant has HIV."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d4e4ced0c20470a8b8119e3c5c71cc7",
+                                    "content": "Repeat the test in 1 month."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff91766c97f04aec84e5acaf7312903a",
+                                    "content": "The infant is infected with the HIV virus."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac71542b5a544bae8001ee0e84ab8e4e",
+                                    "content": "The parent is infected with the HIV virus."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the laboratory results of studies on a 4-month-old infant and notes that the human immunodeficiency virus (HIV) antibody test is positive. How would the nurse interpret this test result?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHuman immunodeficiency virus (HIV) can cause acquired immunodeficiency syndrome, which is a viral disease that destroys T cells, thereby increasing susceptibility to infection and malignancy. A positive HIV antibody test result in a child younger than 18 months indicates only that the parent is infected because maternal IgG antibodies persist in infants for 6 to 9 months and, in some cases, as long as 18 months. The other options are incorrect interpretations of this laboratory result. The infant is not considered to be infected with HIV unless there are positive antigen test results. Repeating the test in 1 month is not indicated in the absence of symptoms.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Immune\nHealth Problem: Pediatric-Specific: Immunodeficiency Disease\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Immunity, Infection\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, diagnostic tests used for the purpose of testing for HIV. It is necessary to focus on the age of the child because this makes a difference in terms of diagnostic test results. Remember that a positive HIV antibody test result in a child younger than 18 months indicates only that the parent is infected.",
+                        "id": "145c1e89d6e8493cb8f9f5aded7f6d85",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3627721221f4d11a19ea5fa701dee3e",
+                                "content": "Cough"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91985cb4ba7c465090eab54c45c27bb3",
+                                "content": "Liver failure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "449532b939584b24b8e1de4243fceda0",
+                                "content": "Watery stool"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e02e91c66f924f139a9bef1cd9af5fbc",
+                                "content": "Nuchal rigidity"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3627721221f4d11a19ea5fa701dee3e",
+                                    "content": "Cough"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91985cb4ba7c465090eab54c45c27bb3",
+                                    "content": "Liver failure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "449532b939584b24b8e1de4243fceda0",
+                                    "content": "Watery stool"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e02e91c66f924f139a9bef1cd9af5fbc",
+                                    "content": "Nuchal rigidity"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An infant of a parent infected with human immunodeficiency virus (HIV) is seen in the clinic each month and is being monitored for symptoms indicative of HIV infection. With knowledge of the most common opportunistic infection of children infected with HIV, the nurse assesses the infant for which sign?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAcquired immunodeficiency syndrome (AIDS) is a disorder caused by HIV and characterized by generalized dysfunction of the immune system. The most common opportunistic infection of children infected with HIV is Pneumocystis jiroveci pneumonia, which occurs most frequently between the ages of 3 and 6 months, when HIV status may be indeterminate. Cough is a common sign of this opportunistic infection. Cytomegalovirus infection is also characteristic of HIV infection; however, it is not the most common opportunistic infection. Liver failure is a common sign of this complication. Although gastrointestinal disturbances and neurological abnormalities may occur in a child with HIV infection, options 3 and 4 are not specific opportunistic infections noted in the HIV-infected child. Watery stool is noted with gastroenteritis, and nuchal rigidity is seen in meningitis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Immune\nHealth Problem: Pediatric-Specific: Immunodeficiency Disease\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Immunity, Clinical Judgment\nStrategies: Strategic Words    Test-Taking Strategy:\nNote the strategic word, most. This will direct you to the correct option. Remember that the most common opportunistic infection of children infected with HIV is P. jiroveci pneumonia and that cough is a common sign with this complication.",
+                        "id": "14d468ee0cd847688bf953572f7f1d61",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9b9dda6de484269a6c4104bac799f47",
+                                "content": "I will clean up any spills from the diaper with diluted alcohol."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb461601c7c741eb9ba5067fb068614f",
+                                "content": "I will wash baby bottles, nipples, and pacifiers in the dishwasher."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b35ef30318d4464adf343d2b330629d",
+                                "content": "\"I will be sure to prepare foods that are high in calories and high in protein.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "99034e6686d9486c862fd8b64b3da8d4",
+                                "content": "I will be sure to wash my hands carefully before and after caring for my infant."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9b9dda6de484269a6c4104bac799f47",
+                                    "content": "I will clean up any spills from the diaper with diluted alcohol."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb461601c7c741eb9ba5067fb068614f",
+                                    "content": "I will wash baby bottles, nipples, and pacifiers in the dishwasher."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b35ef30318d4464adf343d2b330629d",
+                                    "content": "\"I will be sure to prepare foods that are high in calories and high in protein.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "99034e6686d9486c862fd8b64b3da8d4",
+                                    "content": "I will be sure to wash my hands carefully before and after caring for my infant."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home care nurse provides instructions regarding basic infection control to the parent of an infant with human immunodeficiency virus (HIV) infection. Which statement, if made by the parent, indicates the need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nHIV is transmitted through blood, semen, vaginal secretions, and breast milk. The parent of an infant with HIV would be instructed to use an appropriate disinfecting agent such as a 10 parts water to 1 part bleach solution for disinfecting contaminated objects or cleaning up spills from the child's diaper. Alcohol would not be effective in destroying the virus. Options 2, 3, and 4 are accurate instructions related to basic infection control.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Infectious and Communicable Diseases\nHealth Problem: Pediatric-Specific: Immunodeficiency Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Infection, Patient Education\nStrategies: Negative Event Query, Strategic Words                 Test-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Recalling basic infection control measures and the measures to prevent the spread of HIV will direct you to the correct option.",
+                        "id": "1de7bc1951f24f68b38381150cd6ecac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "904c9d29c7db4382871b1c4bd9f53d06",
+                                "content": "A cold"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0114a6a5585b4e9cb025088b67ef3f63",
+                                "content": "Otitis media"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4721c1287854998814202fbaa21410b",
+                                "content": "Mild diarrhea"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e96816406c1e400e8eed73e089b6c9f6",
+                                "content": "A severe febrile illness"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "904c9d29c7db4382871b1c4bd9f53d06",
+                                    "content": "A cold"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0114a6a5585b4e9cb025088b67ef3f63",
+                                    "content": "Otitis media"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4721c1287854998814202fbaa21410b",
+                                    "content": "Mild diarrhea"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e96816406c1e400e8eed73e089b6c9f6",
+                                    "content": "A severe febrile illness"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing student is assigned to administer immunizations to children in a clinic. The student would question whether to administer immunizations to a child with which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nA severe febrile illness is a reason to delay immunization but only until the child has recovered from the acute stage of the illness. Minor illness, such as a cold, otitis media, or mild diarrhea, is not a contraindication to immunization.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Infectious and Communicable Diseases\nHealth Problem: Pediatric-Specific: Immunizations\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Immunity, Safety\nStrategies: Subject                   Test-Taking Strategy:\nFocus on the subject, contraindications to immunization. Reviewing each option carefully and noting the word severe in the correct option will direct you to this one.",
+                        "id": "205d5377387f490eacbcd55d463287d9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2658b1c68a249f3a99bf98c253631c7",
+                                "content": "HIV cannot be spread by hugging, holding, or touching other people."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f47873a83a0c4669b691a57efc90e0e8",
+                                "content": "HIV can be transmitted from open wounds but only if there is skin-to-skin contact."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0aa5dabe75c8435ea613c0ba932898b5",
+                                "content": "HIV is only able to be transmitted from an infected parent to the baby through breast/chest milk."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5e510b3812642d883767b537ffa5694",
+                                "content": "HIV infection cannot be transmitted if a person uses an intrauterine device as birth control."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2658b1c68a249f3a99bf98c253631c7",
+                                    "content": "HIV cannot be spread by hugging, holding, or touching other people."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f47873a83a0c4669b691a57efc90e0e8",
+                                    "content": "HIV can be transmitted from open wounds but only if there is skin-to-skin contact."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0aa5dabe75c8435ea613c0ba932898b5",
+                                    "content": "HIV is only able to be transmitted from an infected parent to the baby through breast/chest milk."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5e510b3812642d883767b537ffa5694",
+                                    "content": "HIV infection cannot be transmitted if a person uses an intrauterine device as birth control."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The student nurse is presenting a clinical conference regarding human immunodeficiency virus (HIV) in children. Which information would the student include?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHuman immunodeficiency virus (HIV) can cause acquired immunodeficiency syndrome, which is a viral disease that destroys T cells, thereby increasing susceptibility to infection and malignancy. HIV cannot be spread by using the same toilet seat, bathtub, or shower; coughing or sneezing; or hugging, holding, or touching people. HIV can be spread from unprotected sexual intercourse regardless of birth control, from sharing of needles, from an infected parent to a baby through breast/chest milk and vaginal secretions during the birth process, or from open wounds if there is blood-to-blood contact.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Immune\nHealth Problem: Pediatric-Specific: Immunodeficiency Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Immunity, Clinical Judgment\nStrategies: Closed-ended Word, Subject                        Test-Taking Strategy:\nFocus on the subject, information about the transmission of HIV. Eliminate options 2 and 3 because of the closed-ended word \"only.\" For the remaining options, use knowledge regarding transmission of the HIV virus to assist in answering this question.",
+                        "id": "3302ebc4e0a24682bb15ca600ea1461d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c83875fdf7e44029b94e443072c2994",
+                                "content": "I need to weigh my child each morning."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42bd99b36e384a01b02cdcc743243b86",
+                                "content": "I will offer an iced pop to lick before meals."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2efde223eb142358c8e20f81ae4e334",
+                                "content": "Salty foods are very important to maintain an appropriate sodium level in my child."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bbaf9ee51fd45d9931d6e5cf8f26b1b",
+                                "content": "Milk, juice, or water should really be offered after a meal rather than before a meal."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c83875fdf7e44029b94e443072c2994",
+                                    "content": "I need to weigh my child each morning."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42bd99b36e384a01b02cdcc743243b86",
+                                    "content": "I will offer an iced pop to lick before meals."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2efde223eb142358c8e20f81ae4e334",
+                                    "content": "Salty foods are very important to maintain an appropriate sodium level in my child."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bbaf9ee51fd45d9931d6e5cf8f26b1b",
+                                    "content": "Milk, juice, or water should really be offered after a meal rather than before a meal."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a child with acquired immunodeficiency syndrome (AIDS) and notes the presence of mouth sores. The nurse provides instructions to the parent regarding maintaining adequate nutritional intake in the child. Which statement by the parent indicates a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAcquired immunodeficiency syndrome is a viral disease caused by the human immunodeficiency virus (HIV), which destroys T cells, thereby increasing susceptibility to infection and malignancy. Salty or spicy foods need to be avoided because they irritate mouth sores. The child would be weighed each morning, and calorie intake needs to be reviewed every 24 hours. If mouth sores are present, the child would be offered an iced pop to lick or ice before meals to numb the mouth. The parent needs to be instructed to offer foods high in protein and calories and to give vitamin and mineral supplements if prescribed. Milk, juice, and water would be administered to the child after meals because children can fill up on liquids before eating.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Immune\nHealth Problem: Pediatric-Specific: Immunodeficiency Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Immunity, Tissue Integrity\nStrategies: Negative Event Query, Strategic Words              Test-Taking Strategy:\nNote the strategic words, need for further teaching, in the question. These words indicate a negative event query and the need to select the incorrect statement. Recall that spicy or salty foods can irritate mouth sores.",
+                        "id": "3894cd0573b64b538882aeedca2d00ae",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "32dcbb99ae8081f141ef3ed88202bc0a",
+            "lessonItemId": "1061b2154569b03908a00191d5f7936a",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 77000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:00:15",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Immune Problems,Infectious Disease",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

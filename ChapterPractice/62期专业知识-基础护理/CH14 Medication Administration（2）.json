@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:45:00",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:45:00",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:48:31",
+            "id": "7e58b3dfcb24fd3854445cbe364d0cc9",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "576a12f6feafaa609a8b2c98c070abbc",
+                                "content": "0.8 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "558c71d285f882f9d25125ff1f4abbf1",
+                                "content": "1.2 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf833899470c72e18500b1bc9a301cf9",
+                                "content": "1.4 mL"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f79f07a5e046baba01e60b3c0c55a10f",
+                                "content": "1.7 mL"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "576a12f6feafaa609a8b2c98c070abbc",
+                                    "content": "0.8 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "558c71d285f882f9d25125ff1f4abbf1",
+                                    "content": "1.2 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf833899470c72e18500b1bc9a301cf9",
+                                    "content": "1.4 mL"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f79f07a5e046baba01e60b3c0c55a10f",
+                                    "content": "1.7 mL"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Penicillin G procaine, 1,000,000 units IM (intramuscularly), is prescribed for an adolescent with an infection. The medication label reads \"1,200,000 units per 2 mL.\" The nurse has determined that the dose prescribed is safe. The nurse administers how many milliliters per dose to the adolescent? Round answer to the nearest tenth position.</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Use the medication calculation formula.</p><p><br></p><p>Formula:</p><p> <img src=\"https://class.nursingonline.cn/static/file/img/1707203209526.png\"></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Take Action</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Integrated Process: Nursing Process/Implementation</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p>  Test-Taking Strategy:</p><p>Focus on the subject, milliliters per dose. Use the formula to determine the correct dose, and verify the answer using a calculator. Remember to round the answer to the nearest tenth position.</p><p> </p><p>  </p>",
+                        "id": "0a78fd8d2ea843258a81ec9e7dac2153",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c85e39765e130fb87d915312e0d2cc6",
+                                "content": "1.2 tablets"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9001e918003a6448a6867af84756ad5",
+                                "content": "1 tablet"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a87fac9444b8b2a2bc2f61ccc3c76141",
+                                "content": "2 tablets"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eecf80eb6b0162ec2bbe541720a1c828",
+                                "content": "3 tablets"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c85e39765e130fb87d915312e0d2cc6",
+                                    "content": "1.2 tablets"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9001e918003a6448a6867af84756ad5",
+                                    "content": "1 tablet"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a87fac9444b8b2a2bc2f61ccc3c76141",
+                                    "content": "2 tablets"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eecf80eb6b0162ec2bbe541720a1c828",
+                                    "content": "3 tablets"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Sulfisoxazole, 1 g orally twice daily, is prescribed for an adolescent with a urinary tract infection. The medication label reads \"500-mg tablets.\" The nurse has determined that the dosage prescribed is safe. The nurse administers how many tablets per dose to the adolescent?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Change 1 g to milligrams, knowing that 1000 mg = 1 g. Also, when converting from grams to milligrams (larger unit to smaller unit), move the decimal point 3 places to the right: 1 g = 1000 mg. Next, use the formula to calculate the correct dose.</p><p><br></p><p>Formula:</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1707123526670.png\"></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Take Action</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Health Problem: Pediatric-Specific: Renal/Urinary Tract Infection</p><p>Integrated Process: Nursing Process/Implementation</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p> Test-Taking Strategy:</p><p>Focus on the subject, tablets per dose. Convert grams to milligrams first. Next, use the formula to determine the correct dose, and verify the answer using a calculator.</p><p> </p><p> </p>",
+                        "id": "2f5675f8c5a44dc7aeee84869e279560",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f07b67767b11fb7f54b3a8080e4a55ec",
+                                "content": "0.50"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1b85e2a3d60d3a644a461e28949ef7b2",
+                                "content": "1"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f88cd0fac99c7ceb211e4d1bc4309f7",
+                                "content": "2"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5be40411c96bc9086c2423668c8be33",
+                                "content": "3"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f07b67767b11fb7f54b3a8080e4a55ec",
+                                    "content": "0.50"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1b85e2a3d60d3a644a461e28949ef7b2",
+                                    "content": "1"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f88cd0fac99c7ceb211e4d1bc4309f7",
+                                    "content": "2"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5be40411c96bc9086c2423668c8be33",
+                                    "content": "3"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A primary health care provider prescribes atenolol 0.025 g orally daily. The label on the medication bottle states atenolol 50-mg tablets to treat hypertension. The nurse administers how many tablets to the client?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Convert 0.025 g to milligrams. In the metric system, to convert grams to milligrams, multiply by 1000 or move the decimal 3 places to the right; therefore, 0.025 g = 25 mg. Divide 25 by 50 to yield 0.5. The nurse will administer 0.5, or one half tablet.</p><p><br></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Take Action</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Health Problem: Adult Health: Cardiovascular: Hypertension</p><p>Integrated Process: Nursing Process/Implementation</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p>   Test-Taking Strategy:</p><p>Focus on the subject, a medication calculation. In this medication calculation problem, it is necessary to first convert grams to milligrams. Once you have done the conversion and reread the medication calculation problem, you will know that one half (0.5) tablet is the correct answer. Recheck your work using a calculator, and make sure that the answer makes sense.</p><p> </p><p>   </p>",
+                        "id": "40a943b7d7ad44e08a69f6fe8eabf143",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bfa85817f5e4a8b65cf5c9d677a3a574",
+                                "content": "0.8 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7758edd5342fbbe9a464c4b5134ce250",
+                                "content": "1.2 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d98ae257f1e624cccbc25bfed05d252e",
+                                "content": "1.4 mL"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51e145d814ce885385f5bb40a9c06111",
+                                "content": "1.7 mL"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bfa85817f5e4a8b65cf5c9d677a3a574",
+                                    "content": "0.8 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7758edd5342fbbe9a464c4b5134ce250",
+                                    "content": "1.2 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d98ae257f1e624cccbc25bfed05d252e",
+                                    "content": "1.4 mL"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51e145d814ce885385f5bb40a9c06111",
+                                    "content": "1.7 mL"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Penicillin G procaine, 1,000,000 units IM (intramuscularly), is prescribed for a client with an infection. The medication label reads \"1,200,000 units per 2 mL.\" The nurse administers how many milliliters per dose to the client? Round the answer to the nearest decimal.</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Use the medication calculation formula.</p><p><br></p><p>Formula:</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1707123572013.png\"></p><p> Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Take Action</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Health Problem: Adult Health: Immune: Infection</p><p>Integrated Process: Nursing Process/Implementation</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p>   Test-Taking Strategy:</p><p>Focus on the subject, milliliters per dose. Use the formula for medication calculations to determine the correct dose, and then verify the answer using a calculator. Remember to round the answer to the nearest tenth.</p><p> </p><p>   </p>",
+                        "id": "444fe55eb93a4cfd899d7aef1e285ae4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7a480380546717214146d3d64a73c1c",
+                                "content": "1.1 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9af1d6de5a481a42472d491fe9f371d",
+                                "content": "0.54 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "08d7fc745d89e9a2e14f320d4b0d2c82",
+                                "content": "7.425 mL"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81e12e2823783d9fac1d00ffef0b93ae",
+                                "content": "0.925 mL"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7a480380546717214146d3d64a73c1c",
+                                    "content": "1.1 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9af1d6de5a481a42472d491fe9f371d",
+                                    "content": "0.54 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "08d7fc745d89e9a2e14f320d4b0d2c82",
+                                    "content": "7.425 mL"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81e12e2823783d9fac1d00ffef0b93ae",
+                                    "content": "0.925 mL"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A pediatrician's prescription reads \"ampicillin sodium 125 mg IV every 6 hours.\" The medication label reads \"when reconstituted with 7.4 mL of bacteriostatic water, the final concentration is 1 g/7.4 mL.\" The nurse prepares to draw up how many milliliters to administer 1 dose?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Convert 1 g to milligrams. In the metric system, to convert a larger unit to a smaller unit, multiply by 1000 or move the decimal point 3 places to the right: </p><p><br></p><p>Formula:</p><p> <img src=\"https://class.nursingonline.cn/static/file/img/1707202835452.png\"></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Generate Solutions</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Integrated Process: Nursing Process/Planning</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p> Test-Taking Strategy:</p><p>Focus on the subject, milliliters per dose. Convert grams to milligrams first. Next, use the formula to determine the correct dose, knowing that when reconstituted, 1000 mg = 7.4 mL. Verify the answer using a calculator.</p><p> </p><p> </p>",
+                        "id": "4ea10d087e114e218e5d52497f5a8ecc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0f8ec765b9b42ccb5fdd568cc238ad9",
+                                "content": "The medication would not be administered as prescribed and calculated."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f2fd9c452a749b68a7c7714435af43c",
+                                "content": "Administer one half tablet of the medication instead of the dosage calculated."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb8413840b84404680430737756fe81e",
+                                "content": "Administer the medication as prescribed and calculated, and proceed with further client teaching."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ad347d95519442cbfa850500a7c85f6",
+                                "content": "Administer the medication as prescribed and calculated, and monitor for adverse effects, such as seizures."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0f8ec765b9b42ccb5fdd568cc238ad9",
+                                    "content": "The medication would not be administered as prescribed and calculated."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f2fd9c452a749b68a7c7714435af43c",
+                                    "content": "Administer one half tablet of the medication instead of the dosage calculated."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb8413840b84404680430737756fe81e",
+                                    "content": "Administer the medication as prescribed and calculated, and proceed with further client teaching."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ad347d95519442cbfa850500a7c85f6",
+                                    "content": "Administer the medication as prescribed and calculated, and monitor for adverse effects, such as seizures."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A primary health care provider (PHCP) prescribed digoxin 0.25 mg for a client with atrial fibrillation. The medication is available as 0.125-mg tablets. The nurse calculates that the client will receive 2 tablets of digoxin. When the nurse hands the medication to the client, the client looks at the medication and states, \"Every time I get chest pain, I will take one of these heart pills.\" After double-checking the dosage calculation, the nurse would make which decision?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIt is appropriate to treat atrial fibrillation with the prescribed and calculated dose of digoxin as indicated in the question. Therefore, the nurse would administer the medication as prescribed. The question indicates that the client verbalizes inaccurate and unsafe knowledge regarding this medication and the treatment for chest pain. This client needs further education regarding the safe administration of medications for episodes of chest pain.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Skills: Dosage Calculations\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Data in the Question\n   Test-Taking Strategy:\nFocus on the data in the question to determine the nurse's action. Perform the calculation first, and determine that the dose calculated by the nurse is correct. Once the accuracy of the dose is confirmed, the nurse would be able to administer the medication as prescribed and calculated and would not administer one half tablet.\n \n   ",
+                        "id": "4fde723e57984bcfa10d2feb950ca31d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47d05609c39010012d3b91bd2af54949",
+                                "content": "The dose prescribed is safe."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e463ca169720be6306c07b61515704a6",
+                                "content": "The dose prescribed is too low."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9bb1e56356f85a84e82861e314fbfb4",
+                                "content": "The dose prescribed is too high."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df313852a1097caac87c0a681ab6bef4",
+                                "content": "There is not enough information to determine the safe dose."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47d05609c39010012d3b91bd2af54949",
+                                    "content": "The dose prescribed is safe."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e463ca169720be6306c07b61515704a6",
+                                    "content": "The dose prescribed is too low."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9bb1e56356f85a84e82861e314fbfb4",
+                                    "content": "The dose prescribed is too high."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df313852a1097caac87c0a681ab6bef4",
+                                    "content": "There is not enough information to determine the safe dose."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Cloxacillin sodium, 200 mg orally every 8 hours, is prescribed for a child with an elevated temperature who is suspected of having a respiratory tract infection. The child weighs 17 lb. The safe pediatric dosage is 50 mg/kg/day. Which conclusion would the nurse draw concerning the dose prescribed?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Step 1: The first step is to convert pounds to kilograms by dividing by 2.2. 17 lb ÷ 2.2 lb/kg = 7.72 kg. Step 2: The next step is to determine the number of mg/kg the client will receive based on the prescribed dose of 200 mg 3 times a day (every 8 hours). 200 mg × 3 = 600 mg. Step 3: The final step is to figure out the maximum dose this client would receive based on weight. 50 mg/kg/day × 7.72 kg = 386 mg/day.</p><p><br></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Generate Solutions</p><p>Cognitive Ability: Analyzing</p><p>Content Area: Skills: Dosage Calculations</p><p>Integrated Process: Nursing Process/Analysis</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p> Test-Taking Strategy:</p><p>Focus on the subject, determination of a safe dosage for a pediatric client. Compare the prescribed dose to the calculated safe dose range to direct you to the correct option.</p><p> </p>",
+                        "id": "7807c6189593445fbf7f53c157c9a4bf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65d81e83a498318b34a818b71772191e",
+                                "content": "1.1 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7300186f16bff2ae22376a978187f7ea",
+                                "content": "0.54 mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4a75a7ff01871bf6e2bfd1917c192a43",
+                                "content": "7.425 mL"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "013be2fa1961566a71bc34c337febdce",
+                                "content": "0.925 mL"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65d81e83a498318b34a818b71772191e",
+                                    "content": "1.1 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7300186f16bff2ae22376a978187f7ea",
+                                    "content": "0.54 mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4a75a7ff01871bf6e2bfd1917c192a43",
+                                    "content": "7.425 mL"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "013be2fa1961566a71bc34c337febdce",
+                                    "content": "0.925 mL"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A primary health care provider's prescription reads \"ampicillin sodium 125 mg IV every 6 hours.\" The medication label reads \"when reconstituted with 7.4 mL of bacteriostatic water, the final concentration is 1 g/7.4 mL.\" The nurse prepares to draw up how many milliliters to administer 1 dose?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Convert 1 g to milligrams. In the metric system, to convert larger unit (g) to a smaller unit (mg), multiply by 1000 or move the decimal point 3 places to the right: 1 g = 1000 mg</p><p><br></p><p>Formula:</p><p><img src=\"https://class.nursingonline.cn/static/file/img/1707123280429.png\"></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Generate Solutions</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Health Problem: Adult Health: Immune: Infection</p><p>Integrated Process: Nursing Process/Planning</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p>  Test-Taking Strategy:</p><p>Focus on the subject, milliliters per dose. Convert grams to milligrams first. Next, use the formula to determine the correct dose, knowing that when reconstituted, 1000 mg = 7.4 mL. Verify the answer using a calculator.</p><p> </p><p>  </p>",
+                        "id": "9b5623f38a6b4459a1f50175c156d4ec",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7157040dbc354fc3be29ec0a8797845f",
+                                "content": "The dose prescribed is safe."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5da12dea95754d9b8f0c6a67539397b1",
+                                "content": "The dose prescribed is too low."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b882c2538d104934a5c8eca27d575167",
+                                "content": "The dose prescribed is too high."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1818311ef3184692922f5f2f3045f6d5",
+                                "content": "There is not enough information to determine the safe dose."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7157040dbc354fc3be29ec0a8797845f",
+                                    "content": "The dose prescribed is safe."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5da12dea95754d9b8f0c6a67539397b1",
+                                    "content": "The dose prescribed is too low."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b882c2538d104934a5c8eca27d575167",
+                                    "content": "The dose prescribed is too high."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1818311ef3184692922f5f2f3045f6d5",
+                                    "content": "There is not enough information to determine the safe dose."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Diphenhydramine hydrochloride, 25 mg orally every 6 hours, is prescribed for a child with an allergic reaction. The child weighs 25 kg. The safe pediatric dosage is 5 mg/kg/day. The nurse would determine which concerning the dose prescribed?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe first step is to determine the total number of mg the client will receive based on the prescribed dose of 25 mg given 4 times daily (every 6 hours). Step 1: 25 mg × 4 = 100 mg The next step is to calculate the number of mg/kg based on the client's weight of 25 kg. Step 2: 5 mg × 25 kg = 125 mg The final step is to compare the prescribed dose to the safe dosage range.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Understanding\nContent Area: Skills: Dosage Calculations\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, determination of a safe dosage for a pediatric client. Compare the prescribed dose to the calculated safe dose range to direct you to the correct option.\n \n  ",
+                        "id": "a62119af0ba8454b9a0dd557a1fb01b9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7a45859316ca68fd4f2609b7e53cea8",
+                                "content": "12.6 mcg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6120bb5b81e1572db6249bfe0f1058e",
+                                "content": "21.4 mcg"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e41dd3651eb083cf597cb7861e9b7deb",
+                                "content": "28.8 mcg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f542cfa6396033a7a116449d318b920",
+                                "content": "32.2 mcg"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7a45859316ca68fd4f2609b7e53cea8",
+                                    "content": "12.6 mcg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6120bb5b81e1572db6249bfe0f1058e",
+                                    "content": "21.4 mcg"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e41dd3651eb083cf597cb7861e9b7deb",
+                                    "content": "28.8 mcg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f542cfa6396033a7a116449d318b920",
+                                    "content": "32.2 mcg"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>A pediatric client with ventricular septal defect repair is placed on a maintenance dosage of digoxin. The dosage is 8 mcg/kg/day, and the client's weight is 7.2 kg. The primary health care provider (PHCP) prescribes the digoxin to be given twice daily. The nurse prepares how many mcg of digoxin to administer to the client at each dose?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Calculate the daily dosage by weight first: 8 mcg/day × 7.2 kg = 57.6 mcg/day The PHCP prescribes digoxin twice daily; 2 doses in 24 hours will be administered: 57.6 mcg day/2 doses = 28.8 mcg for each dose.</p><p><br></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Take Action</p><p>Cognitive Ability: Applying</p><p>Content Area: Skills: Dosage Calculations</p><p>Health Problem: Pediatric-Specific: Congenital Cardiac Defects</p><p>Integrated Process: Nursing Process/Implementation</p><p>Priority Concepts: Clinical Judgment, Safety</p><p>Strategies: Subject</p><p> Test-Taking Strategy:</p><p>Focus on the subject, mcg per dose, and note that the question states twice daily and each dose. Calculate the dosage per day by weight first, and then determine the micrograms per each dose by dividing the total daily dose by 2. Verify the answer using a calculator.</p><p> </p><p> </p>",
+                        "id": "b145c9f97ff6496788f329d8b6fbc4eb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "e7b9099d7299cffe87943435a98825eb",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 210000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:48:32",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Medication Administration and  Intravenous Therapie",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

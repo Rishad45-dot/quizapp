@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:06:57",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:06:57",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:26:50",
+            "id": "885434f6574e723ed3d62c8282841eca",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7b232f9f69f43e49a217e73138f2dda",
+                                "content": "Digoxin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b495df22f7264b09963cc774bd3c5ab3",
+                                "content": "Phenytoin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5903da7648a418bac72595355689871",
+                                "content": "Vitamin A"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9342f74d480472dbed4daf23f45c513",
+                                "content": "Furosemide"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7b232f9f69f43e49a217e73138f2dda",
+                                    "content": "Digoxin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b495df22f7264b09963cc774bd3c5ab3",
+                                    "content": "Phenytoin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5903da7648a418bac72595355689871",
+                                    "content": "Vitamin A"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9342f74d480472dbed4daf23f45c513",
+                                    "content": "Furosemide"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with severe acne is seen in the clinic, and the primary health care provider (PHCP) prescribes isotretinoin. The nurse reviews the client's medication record and would collaborate with the PHCP about the prescription if the client is also taking which medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIsotretinoin is a metabolite of vitamin A and can produce generalized intensification of isotretinoin toxicity. Because of the potential for increased toxicity, vitamin A supplements should be discontinued before isotretinoin therapy. There are no contraindications associated with digoxin, phenytoin, or furosemide.\n\nTest-Taking Strategy:\nFocus on the subject, the need to collaborate with the PHCP to ensure client safety. Recall that isotretinoin is a metabolite of vitamin A. Vitamin A is a fat-soluble vitamin; therefore, it is possible to develop toxic levels. This will direct you to the correct option.",
+                        "id": "02cbcfa8c16e4514a498f60a3c054f61",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "098d93eb02cd45258f3d5f730aed78d5",
+                                "content": "Immediately before swimming"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f991d12d133b4f38a5b6b366b0ff5234",
+                                "content": "5 minutes before exposure to the sun"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85bea61582454931a9eabff71fce9c9a",
+                                "content": "Immediately before exposure to the sun"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f0970a0f78a476ba481d8f94e264e8b",
+                                "content": "At least 30 minutes before exposure to the sun"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "098d93eb02cd45258f3d5f730aed78d5",
+                                    "content": "Immediately before swimming"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f991d12d133b4f38a5b6b366b0ff5234",
+                                    "content": "5 minutes before exposure to the sun"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85bea61582454931a9eabff71fce9c9a",
+                                    "content": "Immediately before exposure to the sun"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f0970a0f78a476ba481d8f94e264e8b",
+                                    "content": "At least 30 minutes before exposure to the sun"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The camp nurse asks the children preparing to swim in the lake if they have applied sunscreen. The nurse reminds the children that chemical sunscreens are most effective when applied at which times?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSunscreens are most effective when applied at least 30 minutes before exposure to the sun so that they can penetrate the skin. All sunscreens should be reapplied after swimming or sweating.\n\nTest-Taking Strategy:\nKnowledge that sunscreens need to penetrate the skin will assist in eliminating options 2 and 3. Next, noting the strategic words, most effective, will assist in directing you to the correct option.",
+                        "id": "0abb9f6d210d4c1fba649bcd4e2ca58b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba1603d7b53440cf99eeaf528fac4eae",
+                                "content": "\"I will return to the clinic for blood tests.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d146edeba3842b6b09017b9a5e40ead",
+                                "content": "\"If my lips begin to burn, it is probably because of the medication.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb13c60db4d04eaa86fad36328b04292",
+                                "content": "\"My eyes may become dry and burn as a result of the medication.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aec576059fcb45f49ab32db3479a74e6",
+                                "content": "\"I need to take my vitamin A supplement so that the treatment will work.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba1603d7b53440cf99eeaf528fac4eae",
+                                    "content": "\"I will return to the clinic for blood tests.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d146edeba3842b6b09017b9a5e40ead",
+                                    "content": "\"If my lips begin to burn, it is probably because of the medication.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb13c60db4d04eaa86fad36328b04292",
+                                    "content": "\"My eyes may become dry and burn as a result of the medication.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aec576059fcb45f49ab32db3479a74e6",
+                                    "content": "\"I need to take my vitamin A supplement so that the treatment will work.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An adolescent with severe cystic acne has been prescribed isotretinoin. Which statement by the client would suggest the need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIsotretinoin is used to inhibit inflammation in the client with severe cystic acne. Adverse effects include elevated triglyceride levels, skin dryness, and eye discomfort, such as dryness and burning. Lip inflammation, called cheilitis, can also occur. Vitamin A supplements are stopped during this treatment because of their additive effects.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and the need to select the incorrect option. Remember that vitamin A supplements are stopped during treatment. Remembering this will also assist in answering questions similar to this one.",
+                        "id": "0f40ea4d6152463283e14d184dcbae05",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a793cb325544304a06fe1d60eb27914",
+                                "content": "Applied for 2 days until the irritation has resolved"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "36d7551caf604ca3ab5dd9403e805b26",
+                                "content": "Applied to a small area on the arm underneath a gauze dressing"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ac918d0bdfd416ba1506c1661d9fda2",
+                                "content": "Applied to a reddened, itchy area underneath an occlusive dressing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b59a331aa68944c5a1addf0695acd41d",
+                                "content": "Applied to a small area on the neck and another small area on the back"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a793cb325544304a06fe1d60eb27914",
+                                    "content": "Applied for 2 days until the irritation has resolved"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "36d7551caf604ca3ab5dd9403e805b26",
+                                    "content": "Applied to a small area on the arm underneath a gauze dressing"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ac918d0bdfd416ba1506c1661d9fda2",
+                                    "content": "Applied to a reddened, itchy area underneath an occlusive dressing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b59a331aa68944c5a1addf0695acd41d",
+                                    "content": "Applied to a small area on the neck and another small area on the back"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is applying a topical glucocorticoid as prescribed for a client with psoriasis. The nurse would be concerned about the potential for systemic absorption of the medication if it were being applied in which situation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTopical glucocorticoids can be absorbed into the systemic circulation. Toxicity is a concern if a glucocorticoid is used for an extended period of time, if it is applied underneath an occlusive dressing, or if it is applied to a large area of the body. Therefore, options 1, 2, and 4 are incorrect.\n\nTest-Taking Strategy:\nFocus on the subject, the potential for systemic absorption. Eliminate option 1 first by noting the time frame in the option. Next, eliminate option 2 by noting the size of the area. Choose option 3 over option 4 by noting the word occlusive in option 3.",
+                        "id": "13c76ebe37d94700aad8ff9da4c664ff",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a07e37fc33240b5a20e08ce1bab9785",
+                                "content": "Digoxin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "10d7fea9152547bead3c4d71f2e6e938",
+                                "content": "Phenytoin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2092d74c5965433f8080791f1b410b55",
+                                "content": "Furosemide"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75dd0d7a65c843bb8b45dcd19b99c740",
+                                "content": "Doxycycline"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a07e37fc33240b5a20e08ce1bab9785",
+                                    "content": "Digoxin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "10d7fea9152547bead3c4d71f2e6e938",
+                                    "content": "Phenytoin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2092d74c5965433f8080791f1b410b55",
+                                    "content": "Furosemide"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75dd0d7a65c843bb8b45dcd19b99c740",
+                                    "content": "Doxycycline"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A primary health care provider (PHCP) prescribes isotretinoin for a client with severe acne. The nurse reviews the client's record and notifies the PHCP if which prescribed medication is noted on the medication record?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDoxycycline is a tetracycline. Adverse effects of isotretinoin can be increased by the use of tetracyclines. Tetracyclines increase the risk of pseudotumor cerebri and papilledema. Because of the potential for increased toxicity, tetracyclines need to be discontinued before isotretinoin therapy. Phenytoin, digoxin, and furosemide are not contraindicated.\n\nTest-Taking Strategy:\nNote the subject, contraindications for use of isotretinoin. It is necessary to know the contraindications associated with the use of isotretinoin to answer this question. Remember that tetracycline is contraindicated with the use of isotretinoins.",
+                        "id": "18a769cca1574f19851fc7c7ca9e35c9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b708761a4e54efe844de9a2f98d1a3f",
+                                "content": "Itching"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba51de8fa1854d5b9891db635a6d395e",
+                                "content": "Euphoria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "514173b8cc054d36842214a4fe226ced",
+                                "content": "Drowsiness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8cf003f549e941b69b8a1b1e93830604",
+                                "content": "Frequent urination"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b708761a4e54efe844de9a2f98d1a3f",
+                                    "content": "Itching"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba51de8fa1854d5b9891db635a6d395e",
+                                    "content": "Euphoria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "514173b8cc054d36842214a4fe226ced",
+                                    "content": "Drowsiness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8cf003f549e941b69b8a1b1e93830604",
+                                    "content": "Frequent urination"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse is performing an admission assessment on a client and notes that the client is taking azelaic acid. The nurse determines that which client complaint may be associated with use of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAzelaic acid is a topical medication used to treat mild to moderate acne. Adverse effects include burning, itching, stinging, redness of the skin, and hypopigmentation of the skin in clients with a dark complexion. The effects noted in the other options are not specifically associated with this medication.\n\nTest-Taking Strategy:\nFocus on the subject, the purpose and use of azelaic acid. Focusing on the name of the medication and recalling that acne medications commonly cause local irritation will direct you to the correct option.",
+                        "id": "1eabffd1dd5b44448f88a981bfbf7ee5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cc44e640dd54241909544a5f6d64030",
+                                "content": "Apply the cream for 2 days in a row."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "242fe546c8c442b28f1b79d2a51ef7d7",
+                                "content": "Apply a thick layer of cream to the entire body."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58cd364a643d41a8973fe5b87843f98a",
+                                "content": "Apply the cream to the entire body and scalp, excluding the face."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cbd4bf19fca4075990f8ab8cc229a93",
+                                "content": "Leave the cream on for 8 to 12 hours, and then remove it by washing."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cc44e640dd54241909544a5f6d64030",
+                                    "content": "Apply the cream for 2 days in a row."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "242fe546c8c442b28f1b79d2a51ef7d7",
+                                    "content": "Apply a thick layer of cream to the entire body."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58cd364a643d41a8973fe5b87843f98a",
+                                    "content": "Apply the cream to the entire body and scalp, excluding the face."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cbd4bf19fca4075990f8ab8cc229a93",
+                                    "content": "Leave the cream on for 8 to 12 hours, and then remove it by washing."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is seen in the clinic for complaints of skin itchiness that has persisted for several weeks. After an assessment, the client is determined to have scabies. Lindane is prescribed, and the nurse provides instructions to the client regarding the use of the medication. Which action would the nurse tell the client to take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLindane is applied in a thin layer to the body below the head. No more than 30 g (1 oz) would be used. The medication is removed by washing 8 to 12 hours later. In most cases, only one application is required.\n\nTest-Taking Strategy:\nFocus on the subject, client instructions for the use of lindane. Eliminate option 2 because of the word thick. Eliminate option 3 because of the word entire. From the remaining choices, eliminate option 1 because only one application is required.",
+                        "id": "27c3f86f892f4377b1e527321984b831",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ccd55d0c43f34a5cac2495a23107670e",
+                                "content": "Cortisone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbcf5a3db2cd44938b7f369cba50c9ad",
+                                "content": "Acyclovir"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "59e9f817fba84d0c85f3d974c6edfff7",
+                                "content": "Mupirocin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cfa325078b443bd92cf3ce34538949d",
+                                "content": "Benzoyl peroxide"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ccd55d0c43f34a5cac2495a23107670e",
+                                    "content": "Cortisone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbcf5a3db2cd44938b7f369cba50c9ad",
+                                    "content": "Acyclovir"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "59e9f817fba84d0c85f3d974c6edfff7",
+                                    "content": "Mupirocin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cfa325078b443bd92cf3ce34538949d",
+                                    "content": "Benzoyl peroxide"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child is diagnosed with impetigo. The primary health care provider prescribes a topical medication for treatment. The nurse anticipates that which medication will be prescribed?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMupirocin is a topical antibacterial agent active against impetigo caused by staphylococci or streptococci. Cortisone would not be effective in treating impetigo. Benzoyl peroxide is a keratolytic. Acyclovir is a topical antiviral agent that inhibits DNA replication in the virus. It inhibits the activity of herpes simplex types 1 and 2, varicella zoster, Epstein-Barr virus, and cytomegalovirus.\n\nTest-Taking Strategy:\nFocus on the subject, treatment for impetigo. Use knowledge of the pathophysiology of impetigo to answer correctly. Recall that an antibacterial is needed. Remember that mupirocin is used to treat impetigo.",
+                        "id": "2d838870d5ba4698a3b814b4e4fdc4fc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bc41c213cc354d01a97ebb9650406985",
+                                "content": "\"I need to take the medication with food.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cef0db2545744cca917f6a3be4ea2a95",
+                                "content": "\"I will be taking the medication twice a day.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c22a0d8337441c8903e0cc5ac31e6b5",
+                                "content": "\"I will need to take the medication for 15 to 20 weeks.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae63a0c5256d4c9b807eec58a4c3bf2b",
+                                "content": "\"I cannot crush or chew the tablets if I have difficulty swallowing them whole.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bc41c213cc354d01a97ebb9650406985",
+                                    "content": "\"I need to take the medication with food.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cef0db2545744cca917f6a3be4ea2a95",
+                                    "content": "\"I will be taking the medication twice a day.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c22a0d8337441c8903e0cc5ac31e6b5",
+                                    "content": "\"I will need to take the medication for 15 to 20 weeks.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae63a0c5256d4c9b807eec58a4c3bf2b",
+                                    "content": "\"I cannot crush or chew the tablets if I have difficulty swallowing them whole.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Isotretinoin is prescribed for a client to treat severe cystic acne, and the nurse provides instructions to the client regarding the medication. Which statement by the client indicates a need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIsotretinoin is administered 2 times daily for 15 to 20 weeks. The usual adult dosage is 0.5 to 1 mg/kg/day. If needed, a second course may be given but not until 2 months have elapsed after completing the first course. The medication needs to be taken with food to facilitate absorption. Capsules can be chewed or opened and added to a soft food such as applesauce or pudding.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Specific knowledge about this medication is needed to answer correctly.",
+                        "id": "328a514a81484df8b5643ec9caec403a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "206ec529b9a7456b8e471eeab80b36e9",
+                                "content": "Serum sodium of 120 mEq/L (120 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "014dc2aa3d9a4315ae6a0ea78c1fe962",
+                                "content": "Serum potassium of 3.0 mEq/L (3.0 mmol/L)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5231308f17dc4c54b11b444604f61621",
+                                "content": "White blood cell count of 3000 mm3 (3 × 109/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdac9c4d83eb4e2597b84c5a8c7ade72",
+                                "content": "pH of 7.30, Paco2 of 32 mm Hg (32 mmHg), HCO3– of 19 mEq/L (19 mmol/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "206ec529b9a7456b8e471eeab80b36e9",
+                                    "content": "Serum sodium of 120 mEq/L (120 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "014dc2aa3d9a4315ae6a0ea78c1fe962",
+                                    "content": "Serum potassium of 3.0 mEq/L (3.0 mmol/L)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5231308f17dc4c54b11b444604f61621",
+                                    "content": "White blood cell count of 3000 mm3 (3 × 109/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdac9c4d83eb4e2597b84c5a8c7ade72",
+                                    "content": "pH of 7.30, Paco2 of 32 mm Hg (32 mmHg), HCO3– of 19 mEq/L (19 mmol/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A burn client has been having 1% silver sulfadiazine applied to burns twice a day for the past 3 days. Which laboratory abnormality indicates that the client is experiencing a side or adverse effect of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTransient leukopenia typically occurs after 2 to 3 days of treatment. Knowing this and knowing normal white blood cell values will direct you to option 3. Although options 1, 2, and 4 are abnormal findings, they are not associated with this medication.\n\nTest-Taking Strategy:\nFocus on the subject, an adverse effect of 1% silver sulfadiazine. Specific knowledge of various burn treatments is needed to answer this question. Knowing that mafenide acetate (not silver sulfadiazine) has the adverse effect of metabolic acidosis will help you to eliminate option 4. Knowing that electrolyte imbalances can occur from the use of 0.5% silver nitrate (not silver sulfadiazine) will assist you in eliminating options 1 and 2.",
+                        "id": "34fd1e931a714a63bd07ba1f56f0e993",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "0ad984682663e17e463eee5355c437fc",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 323000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:26:50",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Integumentary Medication",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:29:06",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:29:06",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:35:58",
+            "id": "b435c549244e883b25027af6e54b39e1",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d112ca3ed9834d30b799a04ca1317bd1",
+                                "content": "Stop the IV infusion for 1 hour before obtaining the blood."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f28c3551b55c4ea6af893a4b1df90333",
+                                "content": "Irrigate the IV line with normal saline before drawing the blood."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9bf56cfd06284a0489d01d01e694f1fa",
+                                "content": "Obtain the blood specimen on the extremity that is not receiving the IV infusion."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d80aa836bdfb402e93cb44df2a98ab3b",
+                                "content": "Maintain the client on NPO (nothing by mouth) status 12 hours before obtaining the blood specimen."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d112ca3ed9834d30b799a04ca1317bd1",
+                                    "content": "Stop the IV infusion for 1 hour before obtaining the blood."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f28c3551b55c4ea6af893a4b1df90333",
+                                    "content": "Irrigate the IV line with normal saline before drawing the blood."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9bf56cfd06284a0489d01d01e694f1fa",
+                                    "content": "Obtain the blood specimen on the extremity that is not receiving the IV infusion."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d80aa836bdfb402e93cb44df2a98ab3b",
+                                    "content": "Maintain the client on NPO (nothing by mouth) status 12 hours before obtaining the blood specimen."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child is receiving edetate calcium disodium (calcium ethylenediaminetetraacetic acid [EDTA]) by intravenous (IV) infusion for the treatment of lead poisoning. The primary health care provider (PHCP) prescribes a blood level lead concentration measurement. Which action would the nurse take to obtain the blood specimen?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf the child is receiving an IV infusion of calcium EDTA, the infusion needs to be stopped for 1 hour before a blood level lead concentration is obtained. Otherwise, the blood level lead concentration will indicate a falsely elevated reading. Therefore, the actions in the remaining options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Foundations of Care: Laboratory Tests\nHealth Problem: Pediatric-Specific: Poisoning\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Cellular Regulation, Clinical Judgment\nStrategies: Subject\n   Test-Taking Strategy:\nFirst, note that calcium EDTA is administered to treat lead poisoning. From this point, focus on the subject, obtaining a blood level lead concentration measurement, and visualize the procedure to direct you to the correct option.\n \n   ",
+                        "id": "00bf1a422917466f94cfba2067a195f4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cdef1760dff44489bc910c0317138bad",
+                                "content": "Doxycycline"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8897c91877e0480484eae71ce38ee404",
+                                "content": "Atropine sulfate"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "603be5b4f96c4218a1438a1c2989a739",
+                                "content": "Acetylsalicylic acid"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9cd8cec9ba494d96a05c2f9088f88601",
+                                "content": "Diltiazem hydrochloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cdef1760dff44489bc910c0317138bad",
+                                    "content": "Doxycycline"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8897c91877e0480484eae71ce38ee404",
+                                    "content": "Atropine sulfate"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "603be5b4f96c4218a1438a1c2989a739",
+                                    "content": "Acetylsalicylic acid"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9cd8cec9ba494d96a05c2f9088f88601",
+                                    "content": "Diltiazem hydrochloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client was just admitted to the hospital to rule out a gastrointestinal (GI) bleed. The client has brought several bottles of medications prescribed by different specialists. During the admission assessment, the client states, \"Lately, I have been hearing some roaring sounds in my ears, especially when I am alone.\" Which medication would the nurse identify as the cause of the client's complaint?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAspirin is contraindicated for GI bleeding and is potentially ototoxic. The client would be advised to notify the prescribing primary health care provider so that the medication can be discontinued and/or a substitute that is less toxic to the ear can be taken instead. Options 1, 2, and 4 do not have effects that are potentially associated with hearing difficulties.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Pain Medications: Nonopioid Analgesics\nHealth Problem: Adult Health: Gastrointestinal: Gastrointestinal Hemorrhage\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Sensory Perception, Safety\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the medication that may be causing the client's complaint. Review the classifications and/or therapeutic effects as well as the side and adverse effects of each medication in the options. Of the medications identified, only aspirin can cause ototoxicity. In addition, it is contraindicated for GI bleed.\n \n   ",
+                        "id": "00d70ae333374a3d93b57f33f1b9a0e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c726859899a94685a0ed79376ebcf40a",
+                                "content": "\"I may develop heartburn.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b2d0e0641de44c7ab9fbb5107b9b205d",
+                                "content": "\"I need to monitor for muscle aches.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3aa0ecc8df2f4f2ca1f6de846490a9b5",
+                                "content": "\"I may experience burning on urination.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f78d4c4c417d41fc804bafe4bcc36554",
+                                "content": "\"I need to take measures to prevent constipation.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c726859899a94685a0ed79376ebcf40a",
+                                    "content": "\"I may develop heartburn.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b2d0e0641de44c7ab9fbb5107b9b205d",
+                                    "content": "\"I need to monitor for muscle aches.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3aa0ecc8df2f4f2ca1f6de846490a9b5",
+                                    "content": "\"I may experience burning on urination.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f78d4c4c417d41fc804bafe4bcc36554",
+                                    "content": "\"I need to take measures to prevent constipation.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is giving medication instructions to a client who has been prescribed acetylsalicylic acid. Which client statement indicates that education was effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAcetylsalicylic acid is a nonsteroidal agent that is prescribed for its anti-inflammatory, antipyretic, and anticoagulant properties. Occasional side/adverse effects include gastrointestinal distress such as cramping, mild nausea, heartburn, and abdominal distention. The client also should self-monitor for evidence of allergic reaction such as pruritus, urticaria, and difficulty breathing. Acetylsalicylic acid may be used to treat muscle aches. Constipation and burning on urination are not side effects of this medication.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Pain Medications: Nonopioid Analgesics\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Strategic Words, Subject\n  Test-Taking Strategy:\nNote the strategic word, effective. Next, focus on the subject, side effects of acetylsalicylic acid. Focusing on the name of the medication, acetylsalicylic acid, will assist in determining that gastrointestinal side effects can occur.\n ",
+                        "id": "01001c16db174a5b898f4ea569f09269",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0292cb30319483ca0efa7ac607d4352",
+                                "content": "Distended jugular veins"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "214ddbbbcda84104bd1c27da0c7dd788",
+                                "content": "Bounding peripheral pulses"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "68bba234556343dea2e20d2554182f76",
+                                "content": "No bowel movement in 3 days"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4ec0a94f63b4e96a6332528f30af377",
+                                "content": "Change in blood pressure from 120/60 mm Hg to 140/80 mm Hg"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0292cb30319483ca0efa7ac607d4352",
+                                    "content": "Distended jugular veins"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "214ddbbbcda84104bd1c27da0c7dd788",
+                                    "content": "Bounding peripheral pulses"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "68bba234556343dea2e20d2554182f76",
+                                    "content": "No bowel movement in 3 days"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4ec0a94f63b4e96a6332528f30af377",
+                                    "content": "Change in blood pressure from 120/60 mm Hg to 140/80 mm Hg"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client receiving codeine sulfate for pain. The nurse determines that the client is experiencing a side or adverse effect of the medication based on which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe client taking codeine sulfate is at risk for constipation. Thus, the nurse monitors the frequency of bowel movements. The nurse also would monitor the client for hypotension, decreased respirations, and urinary retention. The nurse would plan measures to counteract these expected effects, such as encouraging fluids, coughing and deep breathing, and increasing mobility to the extent tolerated by the client.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Pain Medications: Opioid Analgesics\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Pain, Clinical Judgment\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, a side effect of codeine. Eliminate option 1 because there is no relationship between this finding and the use of codeine. Eliminate options 2 and 4 because the blood pressure would become lower rather than higher and because if the client is experiencing hypotension, the pulses would be weak. Remember that codeine can cause constipation.\n \n   ",
+                        "id": "019aa3b6c2b64a23b8bff9c7aa5fdc05",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87643a551b4d43cb9f0482dc1c5f105f",
+                                "content": "Tachycardia and hypertension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d367bdaf8df42b594a32b6a561563f8",
+                                "content": "Diarrhea and abdominal cramping"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "241ff95a4d60444e98b08df0dc849104",
+                                "content": "Psychological and physical dependence"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43ea9d55000441fbbff1e40fd4973700",
+                                "content": "Increased respiratory rate and bronchospasm"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87643a551b4d43cb9f0482dc1c5f105f",
+                                    "content": "Tachycardia and hypertension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d367bdaf8df42b594a32b6a561563f8",
+                                    "content": "Diarrhea and abdominal cramping"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "241ff95a4d60444e98b08df0dc849104",
+                                    "content": "Psychological and physical dependence"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43ea9d55000441fbbff1e40fd4973700",
+                                    "content": "Increased respiratory rate and bronchospasm"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who has been taking hydrocodone for the last 3 months. For which side and adverse effects of this medication would the nurse assess the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHydrocodone is an opioid analgesic that also has antitussive properties. Side and adverse effects of this medication include physical and psychological dependence, bradycardia and hypotension, respiratory depression, nausea, vomiting, constipation, sedation, and confusion.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Pain Medications: Opioid Analgesics\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, an adverse effect of hydrocodone. Think about the medication classification. Recalling that this medication is an opioid analgesic will direct you to the correct option.\n ",
+                        "id": "05c1bdc10f8d40f28960d6bb0e58d392",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07a2a7b598c345189b200288da2c43f2",
+                                "content": "Phenytoin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fa2a82e6c76441aaeec323176148832",
+                                "content": "Primidone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "072373d92c78452797c5df9dffefce5e",
+                                "content": "Acetaminophen"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e00c0d13ebd4d1fb0733bb7ff62d3ec",
+                                "content": "Warfarin sodium"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07a2a7b598c345189b200288da2c43f2",
+                                    "content": "Phenytoin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fa2a82e6c76441aaeec323176148832",
+                                    "content": "Primidone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "072373d92c78452797c5df9dffefce5e",
+                                    "content": "Acetaminophen"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e00c0d13ebd4d1fb0733bb7ff62d3ec",
+                                    "content": "Warfarin sodium"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Diclofenac is prescribed for a client with osteoarthritis. Which medication, if noted on the client's record, would alert the nurse to consult with the primary health care provider (PHCP)?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDiclofenac is a nonsteroidal anti-inflammatory drug (NSAID). Interactions may occur with the use of anticoagulants, and the nurse would consult with the PHCP about a potential medication interaction if an anticoagulant is prescribed. Phenytoin and primidone are anticonvulsant medications, and acetaminophen is a nonopioid analgesic. These medications are not contraindicated with diclofenac.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Pain Medications: Nonopioid Analgesics\nHealth Problem: Adult Health: Musculoskeletal: Rheumatoid Arthritis and Osteoarthritis\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Collaboration, Safety\nStrategies: Subject                                                                                                                                                                                              Test-Taking Strategy:\nFocus on the subject, a contraindication for the use of diclofenac. Recalling that diclofenac is an NSAID and knowing the side/adverse effects related to these medications will direct you to the correct option.\n ",
+                        "id": "07138c4baf9a482fbd8d221b44e9b97b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a983c629e8834fc2a93754d9e2b6801e",
+                                "content": "Hepatic disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db3dc2f7743548c6b028e893687e94ef",
+                                "content": "Cirrhosis of the liver"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dc6d382670974a0a971409d4f927508a",
+                                "content": "Factor VII deficiency"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4e20146446d347d9a34b0227fea01fa7",
+                                "content": "Deep vein thrombosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a983c629e8834fc2a93754d9e2b6801e",
+                                    "content": "Hepatic disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db3dc2f7743548c6b028e893687e94ef",
+                                    "content": "Cirrhosis of the liver"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dc6d382670974a0a971409d4f927508a",
+                                    "content": "Factor VII deficiency"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4e20146446d347d9a34b0227fea01fa7",
+                                    "content": "Deep vein thrombosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the laboratory test results and notes that the prothrombin time (PT) is 7.0 seconds. The nurse understands that this PT value would be noted in which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe normal PT for an adult ranges from 11 to 12.5 seconds. A decreased PT may be noted in many conditions, including arterial occlusion, deep vein thrombosis, edema, myocardial infarction, peripheral vascular disease, and pulmonary embolism. An increased PT would be noted in the conditions identified in the remaining options.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Laboratory Tests\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Comparable or Alike Options\n   Test-Taking Strategy:\nEliminate options 1 and 2 first because they are comparable or alike. Regarding the remaining choices, think about the underlying pathophysiology for each. This will direct you to the correct option.\n ",
+                        "id": "078761e5f8fa41ab84ee9be53dc8c3bf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac6094c381574171852685fff4a14cae",
+                                "content": "70,000 mm3 (70 × 109/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "390c99714e51411d92759fcf4c0762d8",
+                                "content": "110,000 mm3 (110 × 109/L)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "986d02a67fc440428e9a3510bf30f25a",
+                                "content": "160,000 mm3 (160 × 109/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f91c052086a54283bb1b7861ccb79077",
+                                "content": "500,000 mm3 (500 × 109/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac6094c381574171852685fff4a14cae",
+                                    "content": "70,000 mm3 (70 × 109/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "390c99714e51411d92759fcf4c0762d8",
+                                    "content": "110,000 mm3 (110 × 109/L)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "986d02a67fc440428e9a3510bf30f25a",
+                                    "content": "160,000 mm3 (160 × 109/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f91c052086a54283bb1b7861ccb79077",
+                                    "content": "500,000 mm3 (500 × 109/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the laboratory test results for a client seen in the health care clinic. The nurse determines that the client's platelet level is normal if which value is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nA normal platelet count ranges from 150,000 to 400,000 mm3 (150 to 400 × 109/L). Values of 70,000 and 110,000 mm3 (70 and 110 × 109/L) identify decreased values. A value of 500,000 mm3 (500 × 109/L) is an elevated value.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Understanding\nContent Area: Foundations of Care: Laboratory Tests\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Evidence\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, a normal platelet level. Recalling that this level is 150,000 to 400,000 mm3 (150 to 400 × 109/L) will direct you to the correct option.\n \n   ",
+                        "id": "0a08049603164ca589eea7190af68e2d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9315b4fffec49b8b5f282472103e8d2",
+                                "content": "3 g daily"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab91ad3502084fea8179961902af111d",
+                                "content": "1.3 g daily"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af25493506ac431880bc9448c8fd843e",
+                                "content": "650 to 700 mg daily"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7303c7e0d097438583520949b0d95b23",
+                                "content": "300 to 325 mg daily"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9315b4fffec49b8b5f282472103e8d2",
+                                    "content": "3 g daily"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab91ad3502084fea8179961902af111d",
+                                    "content": "1.3 g daily"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af25493506ac431880bc9448c8fd843e",
+                                    "content": "650 to 700 mg daily"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7303c7e0d097438583520949b0d95b23",
+                                    "content": "300 to 325 mg daily"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home care nurse visits a client with a diagnosis of unstable angina. The client is taking acetylsalicylic acid (aspirin) on a daily basis to reduce the risk of myocardial infarction (MI). Which medication dose would the nurse expect the client to be taking?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAcetylsalicylic acid (aspirin) may be used to reduce the risk of recurrent transient ischemic attacks (TIAs) or stroke or reduce the risk of MI in clients with unstable angina or a history of previous MI. The normal dose for clients being treated with acetylsalicylic acid to decrease thrombosis and MI is 300 to 325 mg daily, and some primary health care providers may prescribe an even lower dose. Clients taking aspirin to prevent TIAs usually are prescribed 1.3 g daily in 2 to 4 divided doses. Clients with rheumatoid arthritis may be treated with 3.2 to 6 g daily in divided doses.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Pharmacology: Pain Medications: Nonopioid Analgesics\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Safety\nStrategies: Subject\nTest-Taking Strategy:\nFocus on the subject, the risk of MI. This would indicate to you that the client is receiving the medication as a preventive measure, directing you to the lowest dose of medication.",
+                        "id": "0af9c18b47554753ba3a703564a3690c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d0d0aaf62624938ae64264a58256229",
+                                "content": "\"I will be sure to ask my client what their pain level is on a scale of 0 to 10.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9bd0962593e4205ba6669a946066498",
+                                "content": "\"I know that I should follow up after giving medication to make sure it is effective.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca30907587a84f2f98076445d49837ae",
+                                "content": "\"I will be sure to cue in to any indicators that the client may be exaggerating pain.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3b827881fab4b529b7ce0233124bf70",
+                                "content": "\"I know that pain in the older client might manifest as sleep disturbances or depression.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d0d0aaf62624938ae64264a58256229",
+                                    "content": "\"I will be sure to ask my client what their pain level is on a scale of 0 to 10.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9bd0962593e4205ba6669a946066498",
+                                    "content": "\"I know that I should follow up after giving medication to make sure it is effective.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca30907587a84f2f98076445d49837ae",
+                                    "content": "\"I will be sure to cue in to any indicators that the client may be exaggerating pain.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3b827881fab4b529b7ce0233124bf70",
+                                    "content": "\"I know that pain in the older client might manifest as sleep disturbances or depression.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is precepting a new graduate nurse, and the new graduate is assigned to care for a client with chronic pain. Which statement, if made by the new graduate nurse, indicates the need for further teaching regarding pain management?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nPain is a highly individual experience, and the new graduate nurse would not assume that the client is exaggerating pain. Rather, the nurse would frequently assess the pain and intervene accordingly through the use of both nonpharmacological and pharmacological interventions. The nurse would assess pain using a number-based scale or a picture-based scale for clients who cannot verbally describe their pain. The nurse would follow up with the client after giving medication to ensure that the medication is effective in managing the pain. Pain experienced by the older client may be manifested differently from pain experienced by clients in other age-groups. Older clients with pain may experience sleep disturbances, changes in gait and mobility, decreased socialization, and depression; the nurse needs to be aware of this attribute in this population.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Skills: Vital Signs\nHealth Problem: Adult Health: Neurological: Pain\nIntegrated Process: Teaching and Learning\nPriority Concepts: Clinical Judgment, Pain\nStrategies: Negative Event Query, Strategic Words\n   Test-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and the need to select the incorrect statement as the answer. Recall that pain is a highly individual experience, and the nurse would not assume that the client is exaggerating pain.\n \n   ",
+                        "id": "0b7b15505f5f4a0a8f16f8d63d0a0c4f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "a0cb9d49982b1d6d893045c007b80dbe",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 82000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:35:58",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Pain Medications,Vital Signs,Laboratory Reference Interval",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

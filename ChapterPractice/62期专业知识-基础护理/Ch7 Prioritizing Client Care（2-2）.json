@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-04-12 01:22:03",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-04-12 01:22:03",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:37:32",
+            "id": "d07c094747d0e56f58b1ccef4a616366",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c22f2227a384f03b078059fa37816ea",
+                                "content": "Addressing the client by name"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2332882d7cbf48f0891677673ac6919c",
+                                "content": "Pulling the client's cane"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "284dca607f374f6d80e3ae3ac3a21b42",
+                                "content": "Closing the door while leaving"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e38b6645bb8f4b8c93f4da3b46b9b8f3",
+                                "content": "Speaking directly to the client in a clear manner"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c22f2227a384f03b078059fa37816ea",
+                                    "content": "Addressing the client by name"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2332882d7cbf48f0891677673ac6919c",
+                                    "content": "Pulling the client's cane"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "284dca607f374f6d80e3ae3ac3a21b42",
+                                    "content": "Closing the door while leaving"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e38b6645bb8f4b8c93f4da3b46b9b8f3",
+                                    "content": "Speaking directly to the client in a clear manner"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is caring for a visually impaired postpartum client. After entering the client's room, the nurse addresses the client by name and speaks directly in a clear and unhurried tone. While talking, the nurse pulls the client's cane to get her attention and closes the door while leaving. Which action of the nurse needs correction?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationales\n\nOption 1:The nurse should address the client by name so that the client feels comfortable. It may also help in developing good rapport with the client.\nOption 2:Pulling the client's cane may make the client uncomfortable.\nOption 3:The nurse should close the door while leaving to prevent injury to the client.\nOption 4:The nurse should speak directly to the client in a clear manner so that the client can understand thoroughly.",
+                        "id": "01268e75773a4cb29999417cb612a674",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bcbb1a8a65d0476a927ce2e50902ae55",
+                                "content": "Remove the IV catheter."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19cc6ac4b32c42f1bec0d2d47500ece2",
+                                "content": "Apply a warm compress."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f85d1d0611e6401eb676b4efe96e46f0",
+                                "content": "Check for a blood return."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bab6d4e426b348449fa7e5aadbca19d3",
+                                "content": "Measure the area of infiltration."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bcbb1a8a65d0476a927ce2e50902ae55",
+                                    "content": "Remove the IV catheter."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19cc6ac4b32c42f1bec0d2d47500ece2",
+                                    "content": "Apply a warm compress."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f85d1d0611e6401eb676b4efe96e46f0",
+                                    "content": "Check for a blood return."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bab6d4e426b348449fa7e5aadbca19d3",
+                                    "content": "Measure the area of infiltration."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse notes blanching, coolness, and edema at a client's peripheral intravenous (IV) site. Which nursing action is the priority?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBlanching, coolness, and edema of the IV site all are classic signs of infiltration. Because infiltration can be damaging to the surrounding tissue, the nurse would remove the IV catheter to prevent any further damage. Warm compresses may be applied to the infiltrated area only after the IV catheter is removed and only if the infiltrated solution is not damaging to the surrounding tissues. The nurse would not depend solely on the blood return for assurance that the cannula is in the vein because a blood return may be present even if the cannula is only partially in the vein. Measuring the area of infiltration would be done after the IV catheter has been removed to assess for any further tissue damage.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Prioritizing\nHealth Problem: Adult Health: Integumentary: Inflammation/Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic word, priority. Although all of the options may be appropriate, it is necessary to prioritize. The signs presented in the question identify infiltration. Infiltration indicates that the catheter needs to be removed.",
+                        "id": "07d8795ff9394b778388c9c733bf1065",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "400267e0cfa34fda84607a933b977784",
+                                "content": "Prepare the triage rooms."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "017e4124c40541cd8977d2e90543f878",
+                                "content": "Activate the emergency response plan."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0656fddae593433390e00be61c8b98f3",
+                                "content": "Obtain additional supplies from the central supply department."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be2f4c49683f46ba832c32750884784b",
+                                "content": "Obtain additional nursing staff to assist in treating the casualties."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "400267e0cfa34fda84607a933b977784",
+                                    "content": "Prepare the triage rooms."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "017e4124c40541cd8977d2e90543f878",
+                                    "content": "Activate the emergency response plan."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0656fddae593433390e00be61c8b98f3",
+                                    "content": "Obtain additional supplies from the central supply department."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be2f4c49683f46ba832c32750884784b",
+                                    "content": "Obtain additional nursing staff to assist in treating the casualties."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The emergency department (ED) nurse receives a telephone call and is informed that a tornado has hit a local residential area and that numerous casualties have occurred. The victims will be brought to the ED. The nurse would take which initial action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn an external disaster (a disaster that occurs outside the institution or agency), many victims may be brought to the ED for treatment. The initial nursing action must be to activate the emergency response plan. Once the emergency response plan is activated, the actions in the other options will occur.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Mass Casualty Preparedness and Response\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Strategic Words, Umbrella Option                Test-Taking Strategy:\nNote the strategic word, initial, and determine the priority action. Note that the correct option is the umbrella option. The emergency response plan includes all of the other options.",
+                        "id": "0e863c2968d4430197c38bc5372526fc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c716ab0d08d942838e80e5f9d3bda1c1",
+                                "content": "My brother and sister do not allow me to play with them."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79f5944a2db24dacabe6fff9f456da98",
+                                "content": "I don't like to be home alone with my father."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aff49a9819b0451082ad7d41e2ffada4",
+                                "content": "My stepmother hits me if l don't do my chores on time."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94f29bd677e049c6a3fb4699d068a2ac",
+                                "content": "My father ignores me and he doesn't take me anywhere."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c716ab0d08d942838e80e5f9d3bda1c1",
+                                    "content": "My brother and sister do not allow me to play with them."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79f5944a2db24dacabe6fff9f456da98",
+                                    "content": "I don't like to be home alone with my father."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aff49a9819b0451082ad7d41e2ffada4",
+                                    "content": "My stepmother hits me if l don't do my chores on time."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94f29bd677e049c6a3fb4699d068a2ac",
+                                    "content": "My father ignores me and he doesn't take me anywhere."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement by a 9-year-old girl would indicate to the nurse that the child is a possible victim of sexual abuse?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:Siblings generally want to play with age-appropriate peers, and may not allow younger and older siblings to play with them. This statement does not indicate sexual abuse of the child.\nOption 2:Children generally like to be with their parents. The child is frightened in the presence of her father; therefore, this may indicate sexual abuse of the child.\nOption 3:Battering by the stepmother indicate physical abuse of the child.\nOption 4:Ignoring the child indicates emotional abuse of the child.",
+                        "id": "16f650cbbb1748fbb2ad88cc243d7772",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82f419edd2a64538ad6e2d07ed9812df",
+                                "content": "Allow the client's son to be present during the examination."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea24739d319a4c69bdd2d22141dff253",
+                                "content": "Explain to the client that having his son present during the examination may violate the hospital rules."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8f775d0fd1e4879aa61d9581d3acf20",
+                                "content": "Report the client's request to the primary health-care provider."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ac071e3a5cc4cb89a5f1f8836f815be",
+                                "content": "Instruct the client's son to wait outside the examination room."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82f419edd2a64538ad6e2d07ed9812df",
+                                    "content": "Allow the client's son to be present during the examination."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea24739d319a4c69bdd2d22141dff253",
+                                    "content": "Explain to the client that having his son present during the examination may violate the hospital rules."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8f775d0fd1e4879aa61d9581d3acf20",
+                                    "content": "Report the client's request to the primary health-care provider."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ac071e3a5cc4cb89a5f1f8836f815be",
+                                    "content": "Instruct the client's son to wait outside the examination room."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is beginning to perform a physical exam on a client who requests the presence of the oldest son. How should the nurse respond?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:Involving the family member while performing the physical examination reduces anxiety and emotional discomfort in the client. Therefore, the nurse should involve the client's son in the examination.\nOption 2:Including a family member during an assessment is not a violation of hospital rules.\nOption 3:Including a family member may not interfere with the assessment. Therefore, there is no need to report the request to the primary health-care provider.\nOption 4:Instructing the client's son to wait outside the examination room may increase the client's anxiety.",
+                        "id": "1ba060efacf54053a0e40c8cf046e44d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1764bc1ce38145d1a651b71412cf7b88",
+                                "content": "The client who is agitated following surgery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30ba4491dd5643e1b0dbf2f1700a0a5c",
+                                "content": "The client requesting to speak to the charge nurse"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4b4be14360ca401bb2d31453ba52b5df",
+                                "content": "The client requesting medications before breakfast"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "781c348fe7d8495d83b4106ab9d5acdf",
+                                "content": "The client slumped down in bed with an oxygen saturation of 94%"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1764bc1ce38145d1a651b71412cf7b88",
+                                    "content": "The client who is agitated following surgery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30ba4491dd5643e1b0dbf2f1700a0a5c",
+                                    "content": "The client requesting to speak to the charge nurse"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4b4be14360ca401bb2d31453ba52b5df",
+                                    "content": "The client requesting medications before breakfast"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "781c348fe7d8495d83b4106ab9d5acdf",
+                                    "content": "The client slumped down in bed with an oxygen saturation of 94%"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse just received the client assignments for the day. Which client would the nurse see first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAgitation is a hyperactive state, ranging from restlessness to aggression. Common causes of agitation are pain, anxiety, hypoxia, sleep deprivation, sepsis, medication reaction, and others. The client who is agitated after surgery would get immediate follow-up to assess the cause of the agitation to ensure that it does not relate to one of the more serious causes.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Leadership/Management: Prioritizing\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Care Coordination\nStrategies: Strategic Words     Test-Taking Strategy:\nNote the strategic word, first. As the nurse you must prioritize based on clinical judgment and the needs of the clients. The client requesting to speak to the charge nurse is not a safety concern. The client requesting pain medications is not a safety concern but needs to be followed up to see which medications are being requested. The client slumped down in bed may need help being repositioned. Option 1 is correct because a client who is agitated may pull at necessary devices or progress to a state of aggression.",
+                        "id": "1bdb1331bd5f400cbb55167af13dcd22",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9494103eb0544c2ebef1e0d001f64211",
+                                "content": "The client belongs to a blended family."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "581ccc60e3cf455db629bad534292aa1",
+                                "content": "The client belongs to an extended family."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af8a939dfb1147c7820c9f3bd65c39c3",
+                                "content": "The client belongs to a dual-earner family."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3469a2608e444dc6a66e6932f26a4311",
+                                "content": "The client belongs to a cohabiting family."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9494103eb0544c2ebef1e0d001f64211",
+                                    "content": "The client belongs to a blended family."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "581ccc60e3cf455db629bad534292aa1",
+                                    "content": "The client belongs to an extended family."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af8a939dfb1147c7820c9f3bd65c39c3",
+                                    "content": "The client belongs to a dual-earner family."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3469a2608e444dc6a66e6932f26a4311",
+                                    "content": "The client belongs to a cohabiting family."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "After the death of his wife, a client marries a woman with children and both sets of children are now being raised together. How should the nurse document this family unit?",
+                        "subjectId": "748251aedc42d4333c5d8a7d10bd5441",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationales\n\nOption 1:Usually, in a blended family, two single parents marry and raise their children together. Therefore, the client belongs to a blended family.\nOption 2:The client does not belong to an extended family because the client and his wife do not live with their parents.\nOption 3:The information provided by the client does not offer a work profile of the client and his wife, so it cannot be known if the client belongs to a dual-earner family.\nOption 4:In a cohabiting family, the unmarried couple lives together without marrying.",
+                        "id": "1cdab063241d4eedbf7abc231cdcda60",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6318736815fa49aabdfc6a32b663f0d4",
+                                "content": "Private room"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a1cfed53143546d5881323134cca18ce",
+                                "content": "Semiprivate room"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f857e730ace48d182edd4fe74fbadb3",
+                                "content": "Four-bed ward room"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8221ffa0a6a149aeae970d038a5da7d3",
+                                "content": "Contact isolation room"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6318736815fa49aabdfc6a32b663f0d4",
+                                    "content": "Private room"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1cfed53143546d5881323134cca18ce",
+                                    "content": "Semiprivate room"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f857e730ace48d182edd4fe74fbadb3",
+                                    "content": "Four-bed ward room"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8221ffa0a6a149aeae970d038a5da7d3",
+                                    "content": "Contact isolation room"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child with an autism spectrum disorder (ASD) is being admitted to the hospital for diagnostic tests. Which room assignment is the most appropriate for the child?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nASDs are complex neurodevelopmental disorders of unknown etiology composed of qualitative alterations in social interaction and verbal impairment with repetitive and restricted behavioral patterns. Children with ASDs are unable to relate to persons or respond to social and emotional cues. Characteristically, these children engage in repetitive behaviors, including head banging, twirling in circles, biting themselves, and flapping their hands or arms. Abnormal communication patterns include verbal and nonverbal communication. A child with an ASD needs decreased stimulation, with limited visual and auditory distractions. A private room would be the best environment, allowing for control of visual and auditory distractions. The semiprivate and four-bed ward rooms would be too stimulating for the child with an ASD. ASD is not a disorder that requires contact isolation.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Leadership/Management: Prioritizing\nHealth Problem: Pediatric-Specific: Autism Spectrum Disorders\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Communication, Care Coordination\nStrategies: Comparable or Alike Options, Strategic Words, Subject                              Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, child's diagnosis of ASD. Remember the characteristics associated with this disorder. Providing a structured routine for the child is a priority in the management of ASD. A semiprivate room and a four-bed ward room would not allow for a consistent structured routine. In addition, these options are comparable or alike. The disorder does not require a contact isolation room because it is not contagious; therefore, eliminate this option.",
+                        "id": "2337e60f7b864f72ac41422a98a7557a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c1603a01ca9d4ebf8dd69741f37bcb3b",
+                                "content": "The client who lacks knowledge regarding postoperative home care"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "997f5a5bf68942cebc16d62d7f238281",
+                                "content": "The client with problems clearing the airway related to abdominal incision pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0cf3349666b48ec8914d65e0fd7c256",
+                                "content": "The client with tissue perfusion alterations related to postoperative venous stasis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdc3ffdbef0b4b499dd4b40be3800a12",
+                                "content": "The client who is at risk for infection related to a history of smoking for 20 years"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c1603a01ca9d4ebf8dd69741f37bcb3b",
+                                    "content": "The client who lacks knowledge regarding postoperative home care"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "997f5a5bf68942cebc16d62d7f238281",
+                                    "content": "The client with problems clearing the airway related to abdominal incision pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0cf3349666b48ec8914d65e0fd7c256",
+                                    "content": "The client with tissue perfusion alterations related to postoperative venous stasis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdc3ffdbef0b4b499dd4b40be3800a12",
+                                    "content": "The client who is at risk for infection related to a history of smoking for 20 years"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assigned to four clients on a postoperative surgical unit at a rural hospital. When prioritizing the care, the nurse recognizes that the highest priority is focused on which client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPriority care is focused on the client who has an ineffective airway. Although postoperative home care teaching is essential before discharge, there is no indication that the client is ready for discharge. The client with venous stasis has a circulatory issue related to immobility but no indication of an absence of arterial circulation. The potential for infection as a result of long-term smoking is a risk but not the most immediate concern. All three problems are important, but the client in the correct option has an airway concern, which supersedes the other clients' immediate needs.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Leadership/Management: Prioritizing\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Leadership, Care Coordination\nStrategies: ABCs—Airway, Breathing, Circulation, Strategic Words                          Test-Taking Strategy:\nNote the strategic words, highest priority. Use the ABCs—airway, breathing, and circulation. This will direct you to the correct option.",
+                        "id": "2767276ff47546a5937816e4ffd06632",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44e5cc2157ef43dd903020b9e69df306",
+                                "content": "A client complaining of muscle aches, a headache, and history of seizures"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af2049007e5a4eb9905b3d5d540c8468",
+                                "content": "A client who twisted the ankle when rollerblading and is requesting medication for pain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d325074ec204bdaa059097f45a3fc56",
+                                "content": "A client with a minor laceration on the index finger sustained while cutting an eggplant"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1891a347f7904407be9b5ec7c61b45a5",
+                                "content": "A client with chest pain who states just ate pizza that was made with a very spicy sauce"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44e5cc2157ef43dd903020b9e69df306",
+                                    "content": "A client complaining of muscle aches, a headache, and history of seizures"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af2049007e5a4eb9905b3d5d540c8468",
+                                    "content": "A client who twisted the ankle when rollerblading and is requesting medication for pain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d325074ec204bdaa059097f45a3fc56",
+                                    "content": "A client with a minor laceration on the index finger sustained while cutting an eggplant"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1891a347f7904407be9b5ec7c61b45a5",
+                                    "content": "A client with chest pain who states just ate pizza that was made with a very spicy sauce"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse employed in an emergency department is assigned to triage clients coming to the emergency department for treatment on the evening shift. The nurse would assign priority to which client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn an emergency department, triage involves brief client assessment to classify clients according to their need for care and includes establishing priorities of care. The type of illness or injury, the severity of the problem, and the resources available govern the process. Clients with trauma, chest pain, severe respiratory distress or cardiac arrest, limb amputation, and acute neurological deficits, or who have sustained chemical splashes to the eyes, are classified as emergent and are the number-one priority. Clients with conditions such as a simple fracture, asthma without respiratory distress, fever, hypertension, abdominal pain, or a renal stone have urgent needs and are classified as a number-two priority. Clients with conditions such as a minor laceration, sprain, or cold symptoms are classified as nonurgent and are a number-three priority.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Leadership/Management: Prioritizing\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Care Coordination\nStrategies: ABCs—Airway, Breathing, Circulation, Strategic Words                       Test-Taking Strategy:\nNote the strategic word, priority. Use the ABCs—airway, breathing, and circulation—to direct you to the correct option. A client experiencing chest pain is always classified as first priority until a myocardial infarction has been ruled out.",
+                        "id": "2de60d9324f04ec38b70d4376193b206",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "35e40f58bf75375de8f4a9f5b6893195",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 316000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:37:33",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Prioritizing Care,Disasters and Emergency Response Plannin",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:07:24",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:07:24",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:15:30",
+            "id": "bc92fa551eaab038b39ca38891dd78d5",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "735bacaafaffbed1e587e7316ab4c553",
+                                "content": "Emphysema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fff7b86bc4482abb44d0df084c19a255",
+                                "content": "Pneumonia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7517caca591707f61d5ea91769947b57",
+                                "content": " Pulmonary edema"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fdc0687a79cc97dbd9c24614a67e1df7",
+                                "content": "Carcinoma"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "735bacaafaffbed1e587e7316ab4c553",
+                                    "content": "Emphysema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fff7b86bc4482abb44d0df084c19a255",
+                                    "content": "Pneumonia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7517caca591707f61d5ea91769947b57",
+                                    "content": " Pulmonary edema"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fdc0687a79cc97dbd9c24614a67e1df7",
+                                    "content": "Carcinoma"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>以下哪个术语与肺癌有关？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>Carcinoma（癌）是一种恶性肿瘤，与肺癌有关。</p>",
+                        "id": "0f3017b7336b452dbbac50c2cb871e23",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3d13c329a4c47bbb64663cb5c4802b5",
+                                "content": "Fatigue"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fae86c92a9ae4388bd005685f3384763",
+                                "content": "Pale skin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43b1c17193ff487095a8ab766b33439a",
+                                "content": " Hematoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b08310a80bc4ecd85dcd6e30e03b654",
+                                "content": "Dizziness"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3d13c329a4c47bbb64663cb5c4802b5",
+                                    "content": "Fatigue"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fae86c92a9ae4388bd005685f3384763",
+                                    "content": "Pale skin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43b1c17193ff487095a8ab766b33439a",
+                                    "content": " Hematoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b08310a80bc4ecd85dcd6e30e03b654",
+                                    "content": "Dizziness"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个症状与贫血无关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Hematoma（血肿）是出血形成的肿块，与贫血无关。",
+                        "id": "10897ac962df40f0a75118fd3eabb903",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3364475d110b4d609f504ae8e5f88e69",
+                                "content": " Presbyopia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec8cd8f75938492992a861f9cac6dbd0",
+                                "content": "Dementia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b0e2e1c599864335aceacce93205d428",
+                                "content": "Diabetes mellitus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db49f743c6414002b3ba4bf48564a2fc",
+                                "content": "Osteoporosis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3364475d110b4d609f504ae8e5f88e69",
+                                    "content": " Presbyopia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec8cd8f75938492992a861f9cac6dbd0",
+                                    "content": "Dementia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b0e2e1c599864335aceacce93205d428",
+                                    "content": "Diabetes mellitus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db49f743c6414002b3ba4bf48564a2fc",
+                                    "content": "Osteoporosis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "哪种疾病与年龄相关的精神衰退有关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "与年龄相关的精神衰退是痴呆的症状，正确答案是B. Dementia。",
+                        "id": "11678c0be8474e91bf2adca9d29290d7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "529a7c22750d4edf973f5c48ce7e10a3",
+                                "content": "Osteoporosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0075b70a4bee41da80e4c9b666b58040",
+                                "content": "Osteoarthritis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa0299278ca64581a9a23f17c9ab0899",
+                                "content": "Osteomalacia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "93520c6cecee424f8292f3852c07af9f",
+                                "content": "Ankylosing spondylitis"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "529a7c22750d4edf973f5c48ce7e10a3",
+                                    "content": "Osteoporosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0075b70a4bee41da80e4c9b666b58040",
+                                    "content": "Osteoarthritis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa0299278ca64581a9a23f17c9ab0899",
+                                    "content": "Osteomalacia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "93520c6cecee424f8292f3852c07af9f",
+                                    "content": "Ankylosing spondylitis"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "骨质疏松症的英文是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "骨质疏松症导致骨骼变脆，正确答案是A. Osteoporosis。",
+                        "id": "11bde5ae9db94af1adc09e05d8cfe5bf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b749e27ba1fa324d636e8cfcc9afe80",
+                                "content": "Magnetic Resonance Imaging (MRI)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47496a075e0408554a157fc2e210b444",
+                                "content": "Colonoscopy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e79b0b2b0ec8611ac13856821c683c8",
+                                "content": " Glaucoma test"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3020ebc59d2c1bf9ceaafc4387ccadb4",
+                                "content": " Audiometry"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b749e27ba1fa324d636e8cfcc9afe80",
+                                    "content": "Magnetic Resonance Imaging (MRI)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47496a075e0408554a157fc2e210b444",
+                                    "content": "Colonoscopy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e79b0b2b0ec8611ac13856821c683c8",
+                                    "content": " Glaucoma test"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3020ebc59d2c1bf9ceaafc4387ccadb4",
+                                    "content": " Audiometry"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>以下哪个选项是消化系统的检查方法？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>Colonoscopy（结肠镜检查）是检查结肠和直肠的消化系统检查方法。</p>",
+                        "id": "16517f3f3f244b11a3e596279a9836ee",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf41b0cf11e08ecae04b84346e51bded",
+                                "content": "Menopause"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b672e697cf0d251b2e3f76dfc8717e90",
+                                "content": "Perimenopause"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d87c3fa86f42c6f8de0a9901f04c4cd",
+                                "content": "Intercourse"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71323a8c1c9d5e97ea0e389555ff0ae0",
+                                "content": "Burning pain"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf41b0cf11e08ecae04b84346e51bded",
+                                    "content": "Menopause"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b672e697cf0d251b2e3f76dfc8717e90",
+                                    "content": "Perimenopause"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d87c3fa86f42c6f8de0a9901f04c4cd",
+                                    "content": "Intercourse"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71323a8c1c9d5e97ea0e389555ff0ae0",
+                                    "content": "Burning pain"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>绝经的英文是什么？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>绝经是女性生理现象，正确答案是A. Menopause。</p>",
+                        "id": "426ab4e3892a4fd291a83db65d40678b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79dfb75832c648c39168eb731fbb8e62",
+                                "content": "Basal cell carcinoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d12eb0e68db4b59bfa6641cba548942",
+                                "content": "Osteoporosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "025651af40594caa8d89bc70b4915918",
+                                "content": " Diabetes mellitus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "78733b1264994dacb179b1dd1cdd7f42",
+                                "content": "Emphysema"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79dfb75832c648c39168eb731fbb8e62",
+                                    "content": "Basal cell carcinoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d12eb0e68db4b59bfa6641cba548942",
+                                    "content": "Osteoporosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "025651af40594caa8d89bc70b4915918",
+                                    "content": " Diabetes mellitus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "78733b1264994dacb179b1dd1cdd7f42",
+                                    "content": "Emphysema"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个选项是皮肤癌的一种？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "基底细胞癌是一种皮肤癌",
+                        "id": "49f244f732f34a279a2d99b5fe1f6f60",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f02827e53ba4724a84c31ee5639eafc",
+                                "content": "Glaucoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85973709a34648d7a03954dc91fcfb3e",
+                                "content": "Cataract"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "700b91207be34318a305185955df6be8",
+                                "content": "Presbyopia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd3c05b81360410bad4334cd47813915",
+                                "content": "Myopia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f02827e53ba4724a84c31ee5639eafc",
+                                    "content": "Glaucoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85973709a34648d7a03954dc91fcfb3e",
+                                    "content": "Cataract"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "700b91207be34318a305185955df6be8",
+                                    "content": "Presbyopia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd3c05b81360410bad4334cd47813915",
+                                    "content": "Myopia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "老花眼在医学上被称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "老花眼是随着年龄增长而出现的视力问题，正确答案是C. Presbyopia。",
+                        "id": "4cf52b88baa34ba5ab2b99b279bff751",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82f7a8ff9d114b6aa3b38cf0ce8c68fa",
+                                "content": "Emphysema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5aa44b5d8554b0aa754ab10c918935c",
+                                "content": "Hyperglycemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6438dee1f8e0460aa29e0cc36728e564",
+                                "content": "Hypotension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d294618181cf4228b729c18f08ab2eb3",
+                                "content": "Hypertension"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82f7a8ff9d114b6aa3b38cf0ce8c68fa",
+                                    "content": "Emphysema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5aa44b5d8554b0aa754ab10c918935c",
+                                    "content": "Hyperglycemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6438dee1f8e0460aa29e0cc36728e564",
+                                    "content": "Hypotension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d294618181cf4228b729c18f08ab2eb3",
+                                    "content": "Hypertension"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个术语与肺部疾病有关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Emphysema（肺气肿）是肺部疾病的一种。",
+                        "id": "6a00b012004b405bb66203d75e5c7a8b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "81828829452f439cae937632b2b87282",
+                                "content": "Eczema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e651ed22aaf49f8aa0b274ffd6aa75f",
+                                "content": "Hypertension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75ff306992294ab88a712bf18f9315d0",
+                                "content": "Tumor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "206f8f80fb8f48528b9d6ef9e7455f00",
+                                "content": "Hematoma\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "81828829452f439cae937632b2b87282",
+                                    "content": "Eczema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e651ed22aaf49f8aa0b274ffd6aa75f",
+                                    "content": "Hypertension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75ff306992294ab88a712bf18f9315d0",
+                                    "content": "Tumor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "206f8f80fb8f48528b9d6ef9e7455f00",
+                                    "content": "Hematoma\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个选项是皮肤病变？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "湿疹是皮肤病变的一种，正确答案是A. Eczema。",
+                        "id": "7398b8c1755f403d857632fd5e5e0634",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "18ad752550b40a98d9ec69e71d22f558",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 329000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:15:30",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

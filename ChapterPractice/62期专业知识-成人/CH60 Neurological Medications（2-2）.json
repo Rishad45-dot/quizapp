@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:09:17",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:09:17",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:12:00",
+            "id": "650765d04db526be19a183efaed97a67",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02585356bf8c4b4e889498497482689c",
+                                "content": "Discard the syringe and obtain another vial."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "021f6dde1e3d41daa7a14c494c103ca4",
+                                "content": "Add sterile water to dissolve the precipitate."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71cd84460137455daa57875dce62f712",
+                                "content": "Draw up an additional 1 mL of normal saline into the syringe."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ccdef557d7484476a1aadc5b25ffc05d",
+                                "content": "Chart the medication as \"not given,\" and write a note in the medical record."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02585356bf8c4b4e889498497482689c",
+                                    "content": "Discard the syringe and obtain another vial."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "021f6dde1e3d41daa7a14c494c103ca4",
+                                    "content": "Add sterile water to dissolve the precipitate."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71cd84460137455daa57875dce62f712",
+                                    "content": "Draw up an additional 1 mL of normal saline into the syringe."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ccdef557d7484476a1aadc5b25ffc05d",
+                                    "content": "Chart the medication as \"not given,\" and write a note in the medical record."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has a medication prescription for phenytoin to be administered by the intravenous route. After drawing up the medication from the vial, the nurse notes the presence of precipitate in the syringe. Which action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf the injectable solution is not clear or if precipitate is present, the medication would not be used and needs to be discarded. The nurse may have to call the pharmacy department to obtain another vial of the medication. The remaining options are inaccurate actions.",
+                        "id": "00fd9ea45e2540a691f359f7e3a0009b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "188e7b561c77431c8c586df15c4585e9",
+                                "content": "Weigh the client daily."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5286290b86e648d18f613428ee80f9e4",
+                                "content": "Institute seizure precautions."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "074361e3114a49489047e47e3e1e9374",
+                                "content": "Monitor blood glucose levels."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9bf97266d304b618c87db797c6568f7",
+                                "content": "Observe for areas of ecchymosis."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "188e7b561c77431c8c586df15c4585e9",
+                                    "content": "Weigh the client daily."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5286290b86e648d18f613428ee80f9e4",
+                                    "content": "Institute seizure precautions."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "074361e3114a49489047e47e3e1e9374",
+                                    "content": "Monitor blood glucose levels."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9bf97266d304b618c87db797c6568f7",
+                                    "content": "Observe for areas of ecchymosis."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is having the dosage of clonazepam adjusted. The nurse would plan to perform which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nClonazepam is a benzodiazepine that is used as an anticonvulsant. During initial therapy and during periods of dosage adjustment, the nurse would initiate seizure precautions for the client. Weight, glucose levels, and ecchymosis are unrelated to this medication.",
+                        "id": "0a06adc9db0142ccb6613af8e702920a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "882c158be8994ab5b1510d7181a03b51",
+                                "content": "Discard the vial."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "011b4eaebdb34355bcca26d99293f4cc",
+                                "content": "Place the vial in warm water."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd310e43966f41cf89725835e9fde136",
+                                "content": "Send the vial back to the pharmacy."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d29c1d7558e42fd8b67914c95f30fff",
+                                "content": "Shake the vial to dissolve the crystals."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "882c158be8994ab5b1510d7181a03b51",
+                                    "content": "Discard the vial."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "011b4eaebdb34355bcca26d99293f4cc",
+                                    "content": "Place the vial in warm water."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd310e43966f41cf89725835e9fde136",
+                                    "content": "Send the vial back to the pharmacy."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d29c1d7558e42fd8b67914c95f30fff",
+                                    "content": "Shake the vial to dissolve the crystals."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client receiving mannitol via intravenous (IV) infusion. A vial is sent from the pharmacy, and in preparing the medication the nurse notes that the vial contains crystals. What is the most appropriate nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCrystals form in a mannitol solution if the solution is cooled, but they will quickly dissolve if the container is placed in warm water and then cooled to body temperature before administration. However, if crystals remain after the warming procedure, the medication would not be used and would need to be returned to the pharmacy. The nurse would not discard the medication. The medication is not initially returned to the pharmacy because it is not defective. Shaking the vial would not be done and will not dissolve the crystals.",
+                        "id": "0d0313e742694326ad1cbdb97b8f21f1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "88364b6608924034af34cb6477862123",
+                                "content": "Joint pain for the next 15 minutes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b9276397771c489f9ff1abd6f34b0efd",
+                                "content": "An immediate increase in blood pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f220cd35efe4c7eb37cab6e18e0ff57",
+                                "content": "An increase in muscle strength within 1 to 3 minutes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1fa20d0a63c142a09eee7acc1673db77",
+                                "content": "Feelings of faintness or dizziness for 5 to 10 minutes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "88364b6608924034af34cb6477862123",
+                                    "content": "Joint pain for the next 15 minutes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b9276397771c489f9ff1abd6f34b0efd",
+                                    "content": "An immediate increase in blood pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f220cd35efe4c7eb37cab6e18e0ff57",
+                                    "content": "An increase in muscle strength within 1 to 3 minutes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1fa20d0a63c142a09eee7acc1673db77",
+                                    "content": "Feelings of faintness or dizziness for 5 to 10 minutes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assisting in the care of a client who is being evaluated for possible myasthenia gravis. The primary health care provider gives a test dose of edrophonium. Evaluation of the results indicates that the test is positive. Which would be the expected response noted by the nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nEdrophonium is a short-acting acetylcholinesterase inhibitor used to diagnose myasthenia gravis. An increase in muscle strength would be seen in 1 to 3 minutes following the test dose if the client does have the disease. If no response occurs, another dose is given over the next 2 minutes and muscle strength is tested again. If no increase in muscle strength occurs with this higher dose, the muscle weakness is not caused by myasthenia gravis. Clients who receive injections of this medication commonly demonstrate a drop in blood pressure, feel faint and dizzy, and are flushed.",
+                        "id": "0fc70b418e4747b1965ea469950fa9c9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d971a624ec0495ca2b3dea7f469544b",
+                                "content": "Intake and output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "600cb015d9c44a8a811c5f5dce8470de",
+                                "content": "The prothrombin time"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "488810d4791947ba8342a5c190609dc8",
+                                "content": "The pupillary response"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d3f7bc2ade44f579c0e1fa73504b7c4",
+                                "content": "The partial thromboplastin time"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d971a624ec0495ca2b3dea7f469544b",
+                                    "content": "Intake and output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "600cb015d9c44a8a811c5f5dce8470de",
+                                    "content": "The prothrombin time"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "488810d4791947ba8342a5c190609dc8",
+                                    "content": "The pupillary response"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d3f7bc2ade44f579c0e1fa73504b7c4",
+                                    "content": "The partial thromboplastin time"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is taking oral benztropine mesylate daily. What is the priority nursing assessment for the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nUrinary retention is a side effect of benztropine mesylate. The nurse needs to observe for dysuria, distended abdomen, infrequent voiding of small amounts, and overflow incontinence. The remaining options are unrelated to the side effects of this medication.",
+                        "id": "11813c34a04943888ff72bebb5d45d31",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f56e1c04fa34e309a4761b1af463c13",
+                                "content": "These symptoms probably result from interaction with another medication."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef3e77ffd31d4934aad2cb31680dc0c2",
+                                "content": "These symptoms usually occur when the client takes the medication with food."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11971695fd44474ba9a2ba1f9a8d66b7",
+                                "content": "These symptoms indicate that the client is experiencing a severe adverse reaction to the medication."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bd27550b032242b7aa2c9c3881e47ee3",
+                                "content": "These symptoms are most severe during initial therapy and decrease or disappear with long-term use."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f56e1c04fa34e309a4761b1af463c13",
+                                    "content": "These symptoms probably result from interaction with another medication."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef3e77ffd31d4934aad2cb31680dc0c2",
+                                    "content": "These symptoms usually occur when the client takes the medication with food."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11971695fd44474ba9a2ba1f9a8d66b7",
+                                    "content": "These symptoms indicate that the client is experiencing a severe adverse reaction to the medication."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bd27550b032242b7aa2c9c3881e47ee3",
+                                    "content": "These symptoms are most severe during initial therapy and decrease or disappear with long-term use."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who was started on clonazepam tells the nurse of increasing clumsiness and unsteadiness since starting the medication. The client is visibly upset by these manifestations and asks the nurse what to do. The nurse's response is based on which understanding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nClonazepam is classified as a benzodiazepine and is used as an anticonvulsant and antianxiety agent. Drowsiness, unsteadiness, and clumsiness are expected effects of the medication during early therapy. They are dose related and usually diminish or disappear altogether with continued use of the medication. They are unrelated to an interaction with another medication. The client is encouraged to take this medication with food to minimize gastrointestinal upset. These symptoms do not indicate that an adverse effect is occurring.",
+                        "id": "11ab909939764b5193db8029ac43b6e1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7faed80f971e4d5494e50c60e3d04633",
+                                "content": "Lipase level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e897d75635e841fba609093afab9f394",
+                                "content": "Amylase level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0f7ac38ea0d4f7ea7130b092e182b21",
+                                "content": "Ammonia level"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0c0a36dee03407f9a12350dd429ea43",
+                                "content": "Complete blood cell (CBC) count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7faed80f971e4d5494e50c60e3d04633",
+                                    "content": "Lipase level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e897d75635e841fba609093afab9f394",
+                                    "content": "Amylase level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0f7ac38ea0d4f7ea7130b092e182b21",
+                                    "content": "Ammonia level"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0c0a36dee03407f9a12350dd429ea43",
+                                    "content": "Complete blood cell (CBC) count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Carbamazepine has been prescribed for a client. The nurse would tell the client that which blood test will be done periodically while the client is taking this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCarbamazepine is classified as an iminostilbene derivative and is used as an anticonvulsant, antineuralgic, antimanic, and antipsychotic. The medication can cause blood dyscrasias as an adverse effect, and the client would have a CBC count done before therapy and periodically during therapy. Additional laboratory tests that need to be done include a serum iron determination, urinalysis, blood urea nitrogen determination, and carbamazepine level. The tests identified in the remaining options are unnecessary.",
+                        "id": "132dc0664ee64fb6bbe843b4cdd10787",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c71c5f89df264345be25014a8f67729a",
+                                "content": "Decreased voiding"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a20187b7fa324081ad4fbe33b2bbd82c",
+                                "content": "Decreased blood pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c2336fc568641fd8a1453b3fbb3c78c",
+                                "content": "Decreased rigidity and akinesia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac635d8f3fdc4cc4bd748b30e6774ac9",
+                                "content": "Decreased white blood cell count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c71c5f89df264345be25014a8f67729a",
+                                    "content": "Decreased voiding"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a20187b7fa324081ad4fbe33b2bbd82c",
+                                    "content": "Decreased blood pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c2336fc568641fd8a1453b3fbb3c78c",
+                                    "content": "Decreased rigidity and akinesia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac635d8f3fdc4cc4bd748b30e6774ac9",
+                                    "content": "Decreased white blood cell count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client began taking amantadine approximately 2 weeks ago. The nurse determines that the medication is having a therapeutic effect if the client exhibits which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAmantadine is an antiparkinson agent that potentiates the action of dopamine in the central nervous system. The expected effect of therapy is a decrease in akinesia and rigidity. Urinary retention, hypotension, and leukopenia are adverse effects of the medication.",
+                        "id": "14c1ff545455490eb77f82fced086b14",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e7356860eea84ffeaf149d9d48b241b6",
+                                "content": "Pruritus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "205c8d6e320449788508cfd5f42546ca",
+                                "content": "Tachycardia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1a7da01d52e41b09d098d5704022f7f",
+                                "content": "Hypertension"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "415c21b13c6b43cc89e85131325bd58f",
+                                "content": "Impaired voluntary movements"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e7356860eea84ffeaf149d9d48b241b6",
+                                    "content": "Pruritus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "205c8d6e320449788508cfd5f42546ca",
+                                    "content": "Tachycardia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1a7da01d52e41b09d098d5704022f7f",
+                                    "content": "Hypertension"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "415c21b13c6b43cc89e85131325bd58f",
+                                    "content": "Impaired voluntary movements"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Carbidopa-levodopa is prescribed for a client with Parkinson's disease. The nurse monitors the client for side and adverse effects of the medication. Which finding indicates that the client is experiencing an adverse effect?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDyskinesia and impaired voluntary movements may occur with high carbidopa-levodopa dosages. Nausea, anorexia, dizziness, orthostatic hypotension, bradycardia, and akinesia are frequent side effects of the medication.",
+                        "id": "1bf1e5a8abe940bcb9739623a953b4eb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cf67e83aa7a449c99469cb41d84fa39",
+                                "content": "5% dextrose in water"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "41fd13e34a664e6ea02db64965250275",
+                                "content": "0.9% sodium chloride"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c094cf4bcb64938924c602558a8b196",
+                                "content": "Lactated Ringer's solution"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ee22c6cb74b44c1869dc9a798129db7",
+                                "content": "5% dextrose and 0.45% sodium chloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cf67e83aa7a449c99469cb41d84fa39",
+                                    "content": "5% dextrose in water"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "41fd13e34a664e6ea02db64965250275",
+                                    "content": "0.9% sodium chloride"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c094cf4bcb64938924c602558a8b196",
+                                    "content": "Lactated Ringer's solution"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ee22c6cb74b44c1869dc9a798129db7",
+                                    "content": "5% dextrose and 0.45% sodium chloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is observing a new nursing graduate who is preparing an intermittent intravenous (IV) infusion of phenytoin for a client with a diagnosis of seizures. Which solution used by the nursing graduate would indicate to the nurse an understanding of proper preparation of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIntermittent IV infusion of phenytoin is administered by injection into a large vein, using normal saline solution. Dextrose solutions are avoided because the medication will precipitate in these solutions. Therefore, the options containing dextrose identify incorrect solutions for IV administration with this medication. In addition, lactated Ringer's solution contains electrolytes that can interfere with phenytoin administration.",
+                        "id": "209a188865c54a85a3d898c74854d87d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "5a9796eae5b4838135709db6a37818ae",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 161000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:12:01",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Others,Antimyasthenic Medications,Antiseizure Medications,Antiparkinsonian Medication",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 12:24:05",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 12:24:05",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 12:24:08",
+            "id": "0d7c7598b792a1f30b5b2f18e68b180d",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a9d010c4242409c82b773f03a099831",
+                                "content": "Phlebitis of the vein"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ea75b02af3f4f96ba88c4aca273e070",
+                                "content": "Infiltration of the IV line"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "989b955cc84641d4becac946f25ab6b7",
+                                "content": "Hypersensitivity to the IV solution"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9e62ef4381b64774a850b160426ce2e2",
+                                "content": "Allergic reaction to the IV catheter material"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a9d010c4242409c82b773f03a099831",
+                                    "content": "Phlebitis of the vein"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ea75b02af3f4f96ba88c4aca273e070",
+                                    "content": "Infiltration of the IV line"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "989b955cc84641d4becac946f25ab6b7",
+                                    "content": "Hypersensitivity to the IV solution"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9e62ef4381b64774a850b160426ce2e2",
+                                    "content": "Allergic reaction to the IV catheter material"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse notes that the site of a client's peripheral intravenous (IV) catheter is reddened, warm, painful, and slightly edematous proximal to the insertion point of the IV catheter. After taking appropriate steps to care for the client, the nurse would document in the medical record that the client experienced which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPhlebitis at an IV site can be distinguished by client discomfort at the site and by redness, warmth, and swelling proximal to the catheter. If phlebitis occurs, the nurse would discontinue the IV line and insert a new IV line at a different site. Coolness at the site would be noted if the IV catheter were infiltrated. An allergic reaction produces a rash, redness, and itching. A major reaction, such as hypersensitivity, can cause dyspnea, a swollen tongue, and cyanosis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Integumentary: Inflammation/Infection\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Clinical Judgment, Communication\nStrategies: Comparable or Alike Options                         Test-Taking Strategy:\nHypersensitivity and allergic reaction are comparable or alike and therefore are eliminated first. Choose the correct option over infiltration after recalling that warmth is noted with phlebitis and coolness is noted with infiltration.",
+                        "id": "07735feadc944f71ae09f6b9add632b1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "020e8a9f7f604f28a87776ff818746e4",
+                                "content": "Vitamin K"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a63b9fe96d8140cd8cf97be90046e494",
+                                "content": "Phentolamine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0e0f57f3e5d48628238d1a3f3e11ef0",
+                                "content": "Atropine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f007e9af5707420898174299483d14a4",
+                                "content": "Protamine sulfate"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "020e8a9f7f604f28a87776ff818746e4",
+                                    "content": "Vitamin K"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a63b9fe96d8140cd8cf97be90046e494",
+                                    "content": "Phentolamine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0e0f57f3e5d48628238d1a3f3e11ef0",
+                                    "content": "Atropine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f007e9af5707420898174299483d14a4",
+                                    "content": "Protamine sulfate"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client in shock is receiving dopamine hydrochloride by intravenous (IV) infusion. The nurse would have which medication available for local injection if IV infiltration and medication extravasation occur?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPhentolamine is an alpha-adrenergic blocking agent that prevents dermal necrosis and sloughing after infiltration of norepinephrine or dopamine. Vitamin K is the antidote for warfarin. Atropine sulfate is the antidote for cholinergic crisis. Protamine sulfate is the antidote for heparin.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Integumentary: Inflammation/Infection\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, dopamine hydrochloride, and note the words local injection. Alternatively, if you know the classifications for the medications in the remaining options and their uses as antidotes, you will choose correctly.",
+                        "id": "0c620ab2c9dd476f95172da8aead137a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0c5525a85da4570ac348595fab62205",
+                                "content": "Obtain a new IV bag."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d8ae252eb864b4c96ba70b9edcf2fab",
+                                "content": "Obtain new IV tubing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "586e4c31fd034e09bddef861c90d20ae",
+                                "content": "Wipe the spike end of the tubing with povidone-iodine."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd4ceee264484f99bd3f6f38709eba84",
+                                "content": "Scrub the spike end of the tubing with an alcohol swab."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0c5525a85da4570ac348595fab62205",
+                                    "content": "Obtain a new IV bag."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d8ae252eb864b4c96ba70b9edcf2fab",
+                                    "content": "Obtain new IV tubing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "586e4c31fd034e09bddef861c90d20ae",
+                                    "content": "Wipe the spike end of the tubing with povidone-iodine."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd4ceee264484f99bd3f6f38709eba84",
+                                    "content": "Scrub the spike end of the tubing with an alcohol swab."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing a continuous intravenous (IV) infusion at the medication cart. As the nurse goes to insert the spike end of the IV tubing into the IV bag, the tubing drops and the spike end hits the top of the medication cart. The nurse would take which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse needs to obtain new IV tubing because contamination has occurred and could cause systemic infection in the client. There is no need to obtain a new IV bag because the bag was not contaminated. Wiping with povidone-iodine or alcohol is insufficient and is contraindicated because the spike will be inserted into the IV bag.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Intravenous Therapy\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, that the tubing was contaminated. Use knowledge of basic infection control measures and IV therapy concepts to answer this question. Clearly, only one option is correct. Remember that if an item is contaminated, you need to discard it and obtain a new sterile item.",
+                        "id": "105f16f3593342fe93dede3e44d06247",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e06a85a9b339454dbd71a664dc9989cb",
+                                "content": "Mixed in solution with the IV antibiotics"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db4c776da1b446d0bc1a725fd8427489",
+                                "content": "Giving it slowly over 30 to 90 minutes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dcef4df43961408b887555c559d1527f",
+                                "content": "Piggybacked into the packed red blood cells"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f7e11f1e9be451fb43bfe2724a34ab9",
+                                "content": "Giving it rapidly over 5 minutes by IV bolus"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e06a85a9b339454dbd71a664dc9989cb",
+                                    "content": "Mixed in solution with the IV antibiotics"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db4c776da1b446d0bc1a725fd8427489",
+                                    "content": "Giving it slowly over 30 to 90 minutes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dcef4df43961408b887555c559d1527f",
+                                    "content": "Piggybacked into the packed red blood cells"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f7e11f1e9be451fb43bfe2724a34ab9",
+                                    "content": "Giving it rapidly over 5 minutes by IV bolus"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has a closed head injury with increased intracranial pressure (ICP). The increased ICP is being managed by mannitol 25 g by the intravenous (IV) route every 2 hours. The nurse is planning to administer this medication via IV pump in what manner?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMannitol is an osmotic diuretic. When used to treat increased ICP, it is given slowly over 30 to 90 minutes, not rapidly and not via IV bolus. Mannitol would not be mixed in solutions with antibiotics, and nothing would be piggybacked with packed red blood cells.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Neurological: Head Injury/Trauma\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Intracranial Regulation, Safety\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, the procedure for administering mannitol. Eliminate the option with the word rapidly first (option 4). To select from the remaining options, remember that no medication would be mixed in solutions with IV antibiotics. In addition, no medications would be piggybacked into packed red blood cells.",
+                        "id": "10ad196961c248bf9800851cf9bcb99a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "205cd2e83bf54199ac77ebecde5760df",
+                                "content": "1 hour"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f4bbb0217f74645a49c500c6b382171",
+                                "content": "4 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19ab029b652847e585638b75404c385f",
+                                "content": "15 minutes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "93a1a5502ee641f78c12214d7c584a99",
+                                "content": "30 minutes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "205cd2e83bf54199ac77ebecde5760df",
+                                    "content": "1 hour"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f4bbb0217f74645a49c500c6b382171",
+                                    "content": "4 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19ab029b652847e585638b75404c385f",
+                                    "content": "15 minutes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "93a1a5502ee641f78c12214d7c584a99",
+                                    "content": "30 minutes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Quinupristin-dalfopristin is prescribed as an intermittent intravenous (IV) infusion. The nurse would adjust the drip rate so that the dose is administered over what period of time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nQuinupristin-dalfopristin is an antimicrobial medication used to treat endocarditis, bacteremia, and infections of the skin. It also is used to treat infections of the urinary tract; central catheter infections; and bone, joint, and respiratory system infections. For intermittent IV infusion (piggyback), the medication would be infused over a 1-hour period.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Immune: Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                    Test-Taking Strategy:\nFocus on the subject, the time for administering an intravenous medication. Options 2 and 3 can be eliminated first because they are both extreme (too long and too short) lengths of time. Regarding the remaining options, it is necessary to know that this medication would be infused over 1 hour.",
+                        "id": "1dbc9b8f636443f98a9f6105ec69a126",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "74f14ec1773e40d799144b3e7f9baaea",
+                                "content": "Once a week"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "662064b8b83a4bafa77779b0915de0a6",
+                                "content": "At the change of each shift"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2de8392a3294a90957b4338d84e66c2",
+                                "content": "After administration of each medication"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6871b78d663d420d9949dee2900f4539",
+                                "content": "Whenever blood is drawn from the lumen"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "74f14ec1773e40d799144b3e7f9baaea",
+                                    "content": "Once a week"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "662064b8b83a4bafa77779b0915de0a6",
+                                    "content": "At the change of each shift"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2de8392a3294a90957b4338d84e66c2",
+                                    "content": "After administration of each medication"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6871b78d663d420d9949dee2900f4539",
+                                    "content": "Whenever blood is drawn from the lumen"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is making a note in the care plan for a client who has a multilumen central venous catheter. The nurse would write to change the injection caps on the lumens at which times?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nChanging the injection caps is done to reduce systemic infection, which can be caused by contaminated caps. The injection cap needs to be discarded and a new one applied once it has been removed from the actual lumen. It is removed whenever blood work is drawn from the lumen. Once a week is too infrequent. At the change of shift is too frequent. It is not necessary to change the injection caps after administration of each medication because it is unnecessary to remove the cap to administer medication. In addition, agencies have policies that guide the frequency of routine injection cap changes (often every 48 hours). Agency policies would always be followed.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Complex Care: Intravenous Therapy\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Infection, Safety\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, changing the injection caps on a multilumen catheter. To answer this question correctly, you must understand the uses of the lumens on a central venous catheter and must be able to recall the basic principles involved in controlling infection with them. Remember that the injection cap needs to be discarded and a new one applied once it has been removed from the actual lumen.",
+                        "id": "1dffbc5d71ae4f7b812c6c27d936cc3b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aba2ccb0bcde4a7083d7931f93d54228",
+                                "content": "Applying a nonrebreather mask"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6301043bd54f49c98491302c3ed338e2",
+                                "content": "Discontinuing the infusion after 24 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5aaa52be3f904a639f2efd7b6c20330f",
+                                "content": "Monitoring the cardiac rhythm every hour"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6acb1a18e2f9488d80ff50f43629d0d1",
+                                "content": "Administering the IV bolus over 2 to 3 seconds"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aba2ccb0bcde4a7083d7931f93d54228",
+                                    "content": "Applying a nonrebreather mask"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6301043bd54f49c98491302c3ed338e2",
+                                    "content": "Discontinuing the infusion after 24 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5aaa52be3f904a639f2efd7b6c20330f",
+                                    "content": "Monitoring the cardiac rhythm every hour"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6acb1a18e2f9488d80ff50f43629d0d1",
+                                    "content": "Administering the IV bolus over 2 to 3 seconds"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with rapid-rate atrial fibrillation has a new prescription for diltiazem hydrochloride by intravenous (IV) bolus followed by a continuous IV infusion of the same medication. What would the nurse plan for with the administration of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDiltiazem hydrochloride is a calcium channel blocker used in the treatment of atrial flutter and fibrillation. It decreases myocardial contractility and workload, thereby decreasing the need for oxygen. A bolus of 0.25 mg/kg is given slowly over 2 minutes, and a continuous infusion of 5 to 10 mg/hour may be administered for up to 24 hours. Therefore, the nurse would prepare to discontinue the infusion after 24 hours. Upon discontinuation of the infusion, heart rate reduction may last from 0.5 hours to more than 10 hours (median duration 7 hours). A nonrebreather mask is unnecessary. The client's cardiac rhythm is monitored continuously.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Perfusion, Safety\nStrategies: Subject                   Test-Taking Strategy:\nFocus on the subject, a continuous IV infusion of diltiazem hydrochloride. Specific knowledge of the classification, action, and administration by the IV route of this medication will assist in eliminating the options of applying a nonrebreather mask and monitoring the cardiac rhythm hourly. Eliminate the option that indicates giving the medication over 2 to 3 seconds due to the short time frame.",
+                        "id": "2e564c40e1bb45bb9b93ea720b3d2368",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b15915d413f34098bf48d4227bf33228",
+                                "content": "Elevate the extremity."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5278f3f8a9b9437f93a36c9d4df2ce3c",
+                                "content": "Remove the IV catheter."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c92934883cd4d9da1e3a39a796c5514",
+                                "content": "Assess for signs of infection."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8edfbf25cd7c44dda1ed302ec7c7b86e",
+                                "content": "Decrease the rate of infusion."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b15915d413f34098bf48d4227bf33228",
+                                    "content": "Elevate the extremity."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5278f3f8a9b9437f93a36c9d4df2ce3c",
+                                    "content": "Remove the IV catheter."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c92934883cd4d9da1e3a39a796c5514",
+                                    "content": "Assess for signs of infection."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8edfbf25cd7c44dda1ed302ec7c7b86e",
+                                    "content": "Decrease the rate of infusion."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse notes that the client's intravenous (IV) site is cool, pale, and swollen and that the solution is not infusing. What is the nurse's priority action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe client's IV has infiltrated. An infiltrated IV is one that has dislodged from the vein and is lying in subcutaneous tissue. Pallor, coolness, and swelling are the results of IV fluid being deposited in the subcutaneous tissue. When the pressure in the tissues exceeds the pressure in the tubing, the flow of the IV solution will stop. The corrective action is to remove the catheter and start a new IV line at another site. Infection, phlebitis, and thrombosis are likely to be accompanied by warmth at the site, not coolness. Elevating the extremity should be implemented after removing the IV to reduce swelling.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Integumentary: Inflammation/Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Data in the Question, Strategic Words           Test-Taking Strategy:\nNote the strategic word, priority. This suggests that more than one action may be carried out but only one is done first. Note the data in the question—a cool, pale, and swollen IV site. Remember that pallor, coolness, and swelling are signs of infiltration.",
+                        "id": "34af6000b2a04bcd8625e71d622e9500",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "111f0e53acc1451488a39dc67037b64f",
+                                "content": "Stop the infusion."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bfcba00f80bc4e85bcaf5c467cbed6de",
+                                "content": "Change the dressing bandage."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb4f93f2470a4ae7b8822c82d1a91d4a",
+                                "content": "Remove the epidural catheter."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6efeafce9161493f85c2e455f2789027",
+                                "content": "Notify the primary health care provider (PHCP)."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "111f0e53acc1451488a39dc67037b64f",
+                                    "content": "Stop the infusion."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bfcba00f80bc4e85bcaf5c467cbed6de",
+                                    "content": "Change the dressing bandage."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb4f93f2470a4ae7b8822c82d1a91d4a",
+                                    "content": "Remove the epidural catheter."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6efeafce9161493f85c2e455f2789027",
+                                    "content": "Notify the primary health care provider (PHCP)."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has an epidural catheter in place after colon surgery and is receiving pain medication through the catheter. During the night, the client calls the nurse and says, \"I have a terrible headache that just started now.\" The nurse checks the epidural catheter insertion site and notes a small amount of clear drainage leaking from the bandage. What is the first action the nurse would take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIf a client complains of a sudden headache and clear drainage is present near the epidural insertion site, it is possible that the catheter has migrated. The immediate actions by the nurse are to stop the infusion and then to notify the PHCP. The PHCP needs to be notified, but the nurse can delegate that task to a colleague while caring for the client. It is inappropriate for the nurse to remove the epidural catheter without a prescription. Simply changing the bandage does not address the critical problem.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Complex Care: Invasive Devices\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Intracranial Regulation, Clinical Judgment\nStrategies: Strategic Words, Subject                    Test-Taking Strategy:\nNote the strategic word, first. Focus on the subject, principles of epidural catheter safety. It is important to recognize that the sudden headache and clear drainage at the insertion site indicate that the catheter may have moved to the subarachnoid space. If the infusion were to continue, the medication would be delivered into the subarachnoid space instead of the epidural space. The immediate action that is needed is to stop the infusion.",
+                        "id": "39fad13b5daa449995e7805a9ec880a5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae7ca165432c47eaa378657bb10a920a",
+                                "content": "Hematoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bd91167d5b84922b13bd0503756b834",
+                                "content": "Air embolism"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2feec9aac8174de2bbd6de4e4b9888e2",
+                                "content": "Systemic infection"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2bcf22918794af3a4f17f691030c33f",
+                                "content": "Circulatory overload"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae7ca165432c47eaa378657bb10a920a",
+                                    "content": "Hematoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bd91167d5b84922b13bd0503756b834",
+                                    "content": "Air embolism"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2feec9aac8174de2bbd6de4e4b9888e2",
+                                    "content": "Systemic infection"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2bcf22918794af3a4f17f691030c33f",
+                                    "content": "Circulatory overload"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with the recent diagnosis of myocardial infarction and impaired renal function is recuperating on the cardiac step-down unit. The client's blood pressure has been borderline low, and intravenous (IV) fluids have been infusing at 100 mL/hour via a central line catheter in the right internal jugular vein for approximately 24 hours to increase renal output and maintain the blood pressure. Upon entering the client's room, the nurse notes that the client is breathing rapidly and is coughing. The nurse determines that the client is most likely experiencing which complication of IV therapy?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCirculatory (fluid) overload is a complication of IV therapy. Signs include rapid breathing, dyspnea, a moist cough, and crackles. When circulatory overload is present, the client's blood pressure also increases. Hematoma is characterized by ecchymosis, swelling, and leakage at the IV insertion site, as well as hard and painful lumps at the site. Air embolism is characterized by tachycardia, dyspnea, hypotension, cyanosis, and decreased level of consciousness. Systemic infection is characterized by chills, fever, malaise, headache, nausea, vomiting, backache, and tachycardia.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Intravenous Therapy\nHealth Problem: Adult Health: Cardiovascular: Myocardial Infarction\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Data in the Question, Strategic Words           Test-Taking Strategy:\nFocus on the data in the question and note the strategic words, most likely. Noting that the client is experiencing rapid breathing and is coughing will assist in directing you to the correct option.",
+                        "id": "3a8fa8c842064485a35bb7e907c5fd5c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "a82d730b082149cdbddfc4397db86648",
+            "lessonItemId": "6f973732be87750d287813df3ee393fb",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 2000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 12:24:09",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Administration of Intravenous (IV) Fluid",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

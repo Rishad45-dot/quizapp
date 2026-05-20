@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:45:04",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:45:04",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:48:06",
+            "id": "a890e2ec70ece132936aec93b9befd1f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e15abfb03cc8495cbf0de30272922022",
+                                "content": "Pacemaker"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "555d20ddd4d2436f94e8942c5073b544",
+                                "content": "Osteoporosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70987a852a9c476c9178729057b65ba8",
+                                "content": "Alcohol abuse"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3791fef498d54e6b92e5fc0a953da206",
+                                "content": "Peptic ulcer disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e15abfb03cc8495cbf0de30272922022",
+                                    "content": "Pacemaker"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "555d20ddd4d2436f94e8942c5073b544",
+                                    "content": "Osteoporosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70987a852a9c476c9178729057b65ba8",
+                                    "content": "Alcohol abuse"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3791fef498d54e6b92e5fc0a953da206",
+                                    "content": "Peptic ulcer disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing a client who had abdominal surgery earlier in the day. Which preexisting medical condition would place the client at most risk for postoperative complications?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA client with a history of alcohol abuse is at risk for liver disease, including altered metabolism and elimination of medications, impaired wound healing, and clotting and bleeding abnormalities. A client with this risk factor also would be at risk for experiencing alcohol withdrawal during the postoperative period. Clients with a pacemaker, osteoporosis, and peptic ulcer disease need to be monitored closely but are not at risk for major complications, as is the client with alcohol abuse and liver disease.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Perioperative Care\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Strategic Words, Subject\n  Test-Taking Strategy:\nNote the strategic word, most, and focus on the subject, the client at risk for complications after abdominal surgery. Thinking about the pathophysiological alterations that occur as a result of alcohol abuse will direct you to the correct option.\n \n  ",
+                        "id": "00e772d4b0ad488cb2a9ac609f16a792",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46c029d8fdce4433a0ffaa6eb599e13b",
+                                "content": "Hard reddened skin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ad4c875c5914d8b81bd82fe721cea35",
+                                "content": "Serous drainage"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "565db8b0dfff4af59e994ffda5fb94a6",
+                                "content": "Purulent drainage"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a38b170202ec4e17b4070e54a77d672d",
+                                "content": "Warm, tender skin"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46c029d8fdce4433a0ffaa6eb599e13b",
+                                    "content": "Hard reddened skin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ad4c875c5914d8b81bd82fe721cea35",
+                                    "content": "Serous drainage"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "565db8b0dfff4af59e994ffda5fb94a6",
+                                    "content": "Purulent drainage"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a38b170202ec4e17b4070e54a77d672d",
+                                    "content": "Warm, tender skin"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse assesses a client's surgical incision for signs of infection. Which finding by the nurse would be interpreted as a normal finding at the surgical site?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSerous drainage is an expected finding at a surgical site. The other options indicate signs of wound infection. Signs and symptoms of infection include warm, red, and tender skin around the incision. Wound infection usually appears 3 to 6 days after surgery. The client also may have a fever and chills. Purulent material may exit from drains or from separated wound edges. Infection may be caused by poor aseptic technique or a contaminated wound before surgical exploration; existing client conditions such as diabetes mellitus or immunocompromise may place the client at risk.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Foundations of Care: Perioperative Care\nHealth Problem: Adult Health: Integumentary: Wounds\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Infection, Tissue Integrity\nStrategies: Comparable or Alike Options, Subject\n Test-Taking Strategy:\nFocus on the subject, normal findings in the postoperative period. Eliminate options 1, 3, and 4 because they are comparable or alike and are manifestations of infection.\n \n ",
+                        "id": "01c07c8d2cbb4ad98c7f42d205fdd6d9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6923e045e8dd078026193cd9f5e1b296",
+                                "content": "Document the findings."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ef44c9e65b2379f85ee0b68efdeb5fe",
+                                "content": "Apply a sterile nonadherent dressing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50eee3e0460da1ebd4dcbd378a779437",
+                                "content": "Redress the wound with a dry sterile dressing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4622a2ea9912011def6bd3d6b11ec907",
+                                "content": "Ask the client to cough to assess for protrusion of the internal structures."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6923e045e8dd078026193cd9f5e1b296",
+                                    "content": "Document the findings."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ef44c9e65b2379f85ee0b68efdeb5fe",
+                                    "content": "Apply a sterile nonadherent dressing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50eee3e0460da1ebd4dcbd378a779437",
+                                    "content": "Redress the wound with a dry sterile dressing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4622a2ea9912011def6bd3d6b11ec907",
+                                    "content": "Ask the client to cough to assess for protrusion of the internal structures."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is assigned to change the surgical dressing on a client who has undergone abdominal surgery. After removing the old dressing, the nurse assesses the surgical site. Which would be the nurse's initial action if the appearance shown in the figure is observed? Refer to figure.<img src=\"https://class.nursingonline.cn/static/file/img/1723528271730.jpg\"></p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "<p>Rationale:</p><p>Wound dehiscence is a partial or complete separation of the outer layers of the wound, sometimes described as splitting open of the wound. If this is noted, the nurse applies a sterile nonadherent dressing, such as a Telfa dressing or a saline dressing, to the wound and notifies the surgeon. The nurse would document the findings, but this would not be the initial action. A dry dressing could disrupt the integrity of the underlying tissues. Asking the client to cough could cause an extension of the separation of the outer layers of the wound.</p><p><br></p><p>Client Needs: Physiological Integrity</p><p>Clinical Judgment/Cognitive Skill(s): Take Action</p><p>Cognitive Ability: Applying</p><p>Content Area: Foundations of Care: Perioperative Care</p><p>Health Problem: Adult Health: Integumentary: Wounds</p><p>Integrated Process: Nursing Process/Implementation</p><p>Priority Concepts: Tissue Integrity, Clinical Judgment</p><p>Strategies: Strategic Words</p><p> Test-Taking Strategy:</p><p>Note the strategic word, initial. Observe that separation of the skin layers has occurred. Focus on this observation, and note the word nonadherent in the correct option.</p><p> </p><p> </p>",
+                        "id": "056f6b1e7f0d49939b37a9b5a205ff54",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27a10cbd80014e6b81f81251452db438",
+                                "content": "Prednisone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00c136ab36c1456e8536919ae9c7c1a7",
+                                "content": "Ferrous sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f7c71a76bf54cbb81f6c8f21d3480b4",
+                                "content": "Cyclobenzaprine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0705e085964d45d2b1e363f111ec35c5",
+                                "content": "Conjugated estrogen"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27a10cbd80014e6b81f81251452db438",
+                                    "content": "Prednisone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00c136ab36c1456e8536919ae9c7c1a7",
+                                    "content": "Ferrous sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f7c71a76bf54cbb81f6c8f21d3480b4",
+                                    "content": "Cyclobenzaprine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0705e085964d45d2b1e363f111ec35c5",
+                                    "content": "Conjugated estrogen"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing a surgeon's prescription sheet for a preoperative client that states that the client must be nothing by mouth (NPO) after midnight. The nurse would call the surgeon to clarify that which medication would be given to the client and not withheld?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPrednisone is a corticosteroid. With prolonged use, corticosteroids cause adrenal atrophy, which reduces the ability of the body to withstand stress. When stress is severe, corticosteroids are essential to life. Before and during surgery, dosages may be increased temporarily and may be given parenterally rather than orally. Ferrous sulfate is an oral iron preparation used to treat iron-deficiency anemia. Cyclobenzaprine is a skeletal muscle relaxant. Conjugated estrogen is an estrogen used for hormone replacement therapy in postmenopausal women. These last three medications may be withheld before surgery without undue effects on the client.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Perioperative Care\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Collaboration\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, the medication that needs to be administered in the preoperative period. Use knowledge about medications that may have special implications for the surgical client. Prednisone is a corticosteroid. Recall that when stress is severe, such as with surgery, corticosteroids are essential to life.\n \n  ",
+                        "id": "0ba984d48fec47249ed26677515e5a52",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d8b362ab7b244e7b97f6b0df0dd1494",
+                                "content": "Serous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "74630545949b4e47b3801e7a1c083373",
+                                "content": "Grossly bloody"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7ec2a7f7fcb470691d51478e1244e69",
+                                "content": "Serosanguineous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4665bff7e6584040b4f80bc4bec4f8c0",
+                                "content": "Serous with sputum"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d8b362ab7b244e7b97f6b0df0dd1494",
+                                    "content": "Serous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "74630545949b4e47b3801e7a1c083373",
+                                    "content": "Grossly bloody"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7ec2a7f7fcb470691d51478e1244e69",
+                                    "content": "Serosanguineous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4665bff7e6584040b4f80bc4bec4f8c0",
+                                    "content": "Serous with sputum"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who has just returned from the postanesthesia care unit after radical neck dissection. The nurse would assess for which characteristic of wound drainage expected in the immediate postoperative period?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nImmediately after radical neck dissection, the client will have a wound drain in the neck attached to portable suction that drains serosanguineous fluid. In the first 24 hours after surgery, the drainage may total 80 to 120 mL. The remaining options are not expected findings.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Skills: Wound Care\nHealth Problem: Adult Health: Integumentary: Wounds\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Safety\nStrategies: Strategic Words\n Test-Taking Strategy:\nNote the strategic word, immediate. Because the wound suction tube is not placed in the airway, option 4 is eliminated. Because serous drainage contains no blood, this is not likely to be noted in the immediate postoperative period. Regarding the remaining choices, knowing that grossly bloody drainage indicates active bleeding or hemorrhage will direct you to the correct option.\n \n ",
+                        "id": "0f1eaa3108fe4fb69addfe8d05b8f22f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "baf1113baa6d4843afd238848ac4f427",
+                                "content": "Avoid using medications from glass ampules."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5dec5e48f1b4bb7a67bd1999d1e27ed",
+                                "content": "Use medications that are from ampules with rubber stoppers."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63f405a698684eb29956c3f3e022b9ed",
+                                "content": "Avoid using intravenous tubing that is made of polyvinyl chloride."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0643b64de2e643e680b2b0cd52a35d34",
+                                "content": "Apply a cloth barrier to the client's arm under a blood pressure cuff when taking the blood pressure."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "baf1113baa6d4843afd238848ac4f427",
+                                    "content": "Avoid using medications from glass ampules."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5dec5e48f1b4bb7a67bd1999d1e27ed",
+                                    "content": "Use medications that are from ampules with rubber stoppers."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63f405a698684eb29956c3f3e022b9ed",
+                                    "content": "Avoid using intravenous tubing that is made of polyvinyl chloride."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0643b64de2e643e680b2b0cd52a35d34",
+                                    "content": "Apply a cloth barrier to the client's arm under a blood pressure cuff when taking the blood pressure."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a plan of care for a preoperative client who has a latex allergy. Which intervention would be included in the plan?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf a client has a latex allergy, a cloth barrier needs to be applied to the arm under a blood pressure cuff to prevent skin contact with the cuff. Medications from glass ampules are safe to use, and medications from ampules with rubber stoppers are unsafe to use. Latex-safe intravenous tubing made of polyvinyl chloride would be used for a client with a latex allergy. Additionally, agency procedures would be followed for a client with a latex allergy; usually, a latex allergy cart containing latex-free supplies is kept in the client's room.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Foundations of Care: Perioperative Care\nHealth Problem: Adult Health: Immune: Hypersensitivity Reactions and Allergy\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Immunity, Safety\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, latex allergy. Recalling the causes of a latex allergy and the items that contain latex will direct you to the correct option.\n \n   ",
+                        "id": "0fca43a53f3846139f0db6fbaa7f73b7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd033027390c435e8fcefeb869cabf23",
+                                "content": "Assess the patency of the airway."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9345c40ecd33493fb253d4168878e953",
+                                "content": "Check tubes or drains for patency."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b5926fb092d8481189ff2f42691fb06b",
+                                "content": "Check the dressing to assess for bleeding."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "309d9f5512434ff59fa3d98a98220aca",
+                                "content": "Assess the vital signs to compare with preoperative measurements."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd033027390c435e8fcefeb869cabf23",
+                                    "content": "Assess the patency of the airway."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9345c40ecd33493fb253d4168878e953",
+                                    "content": "Check tubes or drains for patency."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b5926fb092d8481189ff2f42691fb06b",
+                                    "content": "Check the dressing to assess for bleeding."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "309d9f5512434ff59fa3d98a98220aca",
+                                    "content": "Assess the vital signs to compare with preoperative measurements."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse receives a telephone call from the postanesthesia care unit stating that a client who had abdominal surgery is being transferred to the surgical unit. The nurse plans to take which action first on arrival of the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe first action of the nurse is to assess the patency of the airway and respiratory function. If the airway is not patent, the nurse must take immediate measures for the survival of the client. The nurse then takes vital signs followed by checking the dressing and the tubes or drains. The other nursing actions would be performed after a patent airway has been established.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Perioperative Care\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Care Coordination\nStrategies: ABCs—Airway, Breathing, Circulation, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, first. Use the principles of prioritization to answer this question. Use the ABCs—airway, breathing, and circulation. Ensuring airway patency is the first action to be taken, directing you to the correct option.\n \n   ",
+                        "id": "0fd310ec934d452b87e62315c46eca42",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ffedba118dc4e7a889c71420c25873d",
+                                "content": "\"Aspirin can cause bleeding after surgery.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e1c3742ec784286906ad708822e57b5",
+                                "content": "\"Aspirin can cause my ability to clot blood to be abnormal.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27f4ede003544f93aceacc3697dd3249",
+                                "content": "\"I need to continue to take the aspirin until the day of surgery.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db4bef71866945e194cfe09304db8bc3",
+                                "content": "\"I need to check with my surgeon about the need to stop the aspirin before the scheduled surgery.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ffedba118dc4e7a889c71420c25873d",
+                                    "content": "\"Aspirin can cause bleeding after surgery.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e1c3742ec784286906ad708822e57b5",
+                                    "content": "\"Aspirin can cause my ability to clot blood to be abnormal.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27f4ede003544f93aceacc3697dd3249",
+                                    "content": "\"I need to continue to take the aspirin until the day of surgery.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db4bef71866945e194cfe09304db8bc3",
+                                    "content": "\"I need to check with my surgeon about the need to stop the aspirin before the scheduled surgery.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has conducted preoperative teaching for a client scheduled for surgery in 1 week. The client has a history of rheumatoid arthritis and has been taking acetylsalicylic acid. The nurse determines that the client needs additional teaching if the client makes which statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAntiplatelets alter normal clotting factors and increase the risk of bleeding after surgery. Aspirin has properties that can alter platelet aggregation and needs to be discontinued at least 48 hours before surgery. However, the client would always check with the surgeon regarding when to stop taking the aspirin when a surgical procedure is scheduled. Options 1, 2, and 4 are accurate client statements.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Perioperative Care\nHealth Problem: Adult Health: Musculoskeletal: Rheumatoid Arthritis and Osteoarthritis\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: Comparable or Alike Options, Negative Event Query, Strategic Words\n Test-Taking Strategy:\nNote the strategic words, needs additional teaching. These words indicate a negative event query and that you need to select the incorrect client statement. Eliminate options 1 and 2 first because they are comparable or alike. From the remaining options, recalling that aspirin has properties that can alter platelet aggregation will direct you to the correct option.\n ",
+                        "id": "110d285ab86e491fa12689af8a1d7adf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "141698747373420b882a6ae80bb913ab",
+                                "content": "Sit upright when using the device."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b2b76041ed6340e2971b3843414e5b82",
+                                "content": "Inhale slowly, maintaining a constant flow."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1adebbf019c14426a76f8e66b75f97e0",
+                                "content": "Place the lips completely over the mouthpiece."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "009e3c2be0b149af89e99330a9c5a9c6",
+                                "content": "After maximal inspiration, hold the breath for 10 seconds and then exhale."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "141698747373420b882a6ae80bb913ab",
+                                    "content": "Sit upright when using the device."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b2b76041ed6340e2971b3843414e5b82",
+                                    "content": "Inhale slowly, maintaining a constant flow."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1adebbf019c14426a76f8e66b75f97e0",
+                                    "content": "Place the lips completely over the mouthpiece."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "009e3c2be0b149af89e99330a9c5a9c6",
+                                    "content": "After maximal inspiration, hold the breath for 10 seconds and then exhale."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides instructions to a preoperative client about the use of an incentive spirometer. The nurse determines that the client needs further instruction if the client indicates will take which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nFor optimal lung expansion with the incentive spirometer, the client would assume a semi-Fowler's or high-Fowler's position. The mouthpiece would be covered completely and tightly while the client inhales slowly, with a constant flow through the unit. When maximal inspiration is reached, the client would hold the breath for 2 or 3 seconds and then exhale slowly.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Foundations of Care: Perioperative Care\nIntegrated Process: Teaching and Learning\nPriority Concepts: Gas Exchange, Patient Education\nStrategies: Negative Event Query, Strategic Words\n Test-Taking Strategy:\nNote the strategic words, needs further instruction. These words indicate a negative event query and the need to select the incorrect statement. Visualizing the procedure and each of the items in the options will assist in directing you to option 4. Holding the breath for 10 seconds is excessive.\n \n ",
+                        "id": "1131a6567bbe458e9142282a95eb1304",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bcffb4a33e4e42099dcd78ea3e7dc60e",
+                                "content": "A beta-blocker"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "28e45b68e31d4ae88312ea815337b969",
+                                "content": "An antibiotic"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "36e0fabb66754c96bcc75e4a18dc34b7",
+                                "content": "An anticoagulant"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cad3d7d74031406f9a98ea4e931e2599",
+                                "content": "A calcium-channel blocker"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bcffb4a33e4e42099dcd78ea3e7dc60e",
+                                    "content": "A beta-blocker"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "28e45b68e31d4ae88312ea815337b969",
+                                    "content": "An antibiotic"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "36e0fabb66754c96bcc75e4a18dc34b7",
+                                    "content": "An anticoagulant"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cad3d7d74031406f9a98ea4e931e2599",
+                                    "content": "A calcium-channel blocker"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to the ambulatory surgery center for elective surgery. The nurse asks the client whether any food, fluid, or medication was taken today. Which medication, if taken by the client, would indicate to the nurse the need to contact the surgeon?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAn anticoagulant suppresses coagulation by inhibiting clotting factors. A client admitted for elective surgery would have been instructed to discontinue the anticoagulant 7 to 10 days preoperatively. Even if this were unscheduled surgery, the nurse needs to notify the surgeon. Vitamin K can be given for reversal of its action, but the client may still have an increased risk of bleeding. The other medications listed are commonly taken and do not constitute an increased risk for the client.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Foundations of Care: Perioperative Care\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Comparable or Alike Options\n  Test-Taking Strategy:\nEliminate options 1 and 4 first because they are comparable or alike (both are cardiac medications). From the remaining choices, select the correct option by knowing that bleeding poses a risk after surgery.\n \n  ",
+                        "id": "15ffaa4ea17f45d488204ad10f7fba64",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "dfd27b995db26047b514990c324f4b56",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 180000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:48:06",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Wound Care,Perioperative Car",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

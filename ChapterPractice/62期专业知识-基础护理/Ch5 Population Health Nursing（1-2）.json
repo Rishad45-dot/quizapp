@@ -1,0 +1,862 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 00:17:51",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 00:17:51",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:29:23",
+            "id": "a4a1b5b3f47353285aca9dc8fb7e94a3",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6aa1a97f809548abbd6396f775f27d62",
+                                "content": "\"I do not hate it, but it is very frustrating.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "407878641c804b37bac3ab91435c350e",
+                                "content": "\"You should not say things like that; this is our job.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4d006c9ffa54f329892d694801b4259",
+                                "content": "\"This client is a liar. The client's health history changes every visit.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "972afc24875b4e63966d754194e82a0b",
+                                "content": "\"The communication barriers present are frustrating, but we work through it.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6aa1a97f809548abbd6396f775f27d62",
+                                    "content": "\"I do not hate it, but it is very frustrating.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "407878641c804b37bac3ab91435c350e",
+                                    "content": "\"You should not say things like that; this is our job.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4d006c9ffa54f329892d694801b4259",
+                                    "content": "\"This client is a liar. The client's health history changes every visit.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "972afc24875b4e63966d754194e82a0b",
+                                    "content": "\"The communication barriers present are frustrating, but we work through it.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The primary nurse is caring for a client who is intellectually disabled. Another nurse states, \"I hate when this client comes in.\" What response made by the primary nurse is best?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCommunication barriers between health care professionals and those with an intellectual disability present unique challenges in identifying and managing health care needs. These clients are often poor historians and may require more time for questioning and care. The nurse needs to recognize personal biases or misunderstandings about those in this population. Equitable and fair treatment for the client is expressed in option 4. The nurse recognizes an obstacle but does not hinder the care provided. Options 1 and 3 are nontherapeutic statements. Option 2, although correct, is not the best statement and minimizes the individualized needs of a person in this population.\n\nTest-Taking Strategy:\nNote the strategic word, best. Use of therapeutic communication techniques will direct you to the correct option.",
+                        "id": "017b05b36304436fbe5d34e286ed075b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "365295756ea9493e9d3339ad8049f032",
+                                "content": "The clients are unemployed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ce5198a87e24474aaf4574c00665db6",
+                                "content": "The clinic has payment options."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "67629427b6e34d628e734109a1db18db",
+                                "content": "The clients lack access to preventive health care."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d365d7f56d94778b1069fe8341dc6d4",
+                                "content": "The clinic can qualify them for Medicaid coverage."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "365295756ea9493e9d3339ad8049f032",
+                                    "content": "The clients are unemployed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ce5198a87e24474aaf4574c00665db6",
+                                    "content": "The clinic has payment options."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "67629427b6e34d628e734109a1db18db",
+                                    "content": "The clients lack access to preventive health care."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d365d7f56d94778b1069fe8341dc6d4",
+                                    "content": "The clinic can qualify them for Medicaid coverage."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is working in a very busy outpatient clinic that cares primarily for uninsured clients. The nurse plans care, knowing that the most likely reason for this clinic being so busy is which factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe underinsured or uninsured client is at increased risk for health disorders due to a lack of access to care. Additionally, preventive care or treatment for chronic diseases is decreased among this population as well. A client can be employed and still be uninsured. There are no data to indicate that the clinic has payment options or that the clinic can qualify clients for Medicaid. Qualifying for Medicaid needs to be done through the state or federal social services department.\n\nTest-Taking Strategy:\nNote the strategic words, most likely, and the subject, the reason that the clinic is so busy. From the options, you must choose the best answer. Recalling that clients who are underinsured or uninsured often do not have adequate access to preventive health care will direct you to option 3.",
+                        "id": "14ff44b3a934480bbd6c89fcfca1cd68",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87ddbb2622884cf2852dd66c6c1ef333",
+                                "content": "Low household income"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "584da54244184edbbafb674699692a72",
+                                "content": "Lack of insurance coverage"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bea5b9cb11704d3f9424828d2e5f19e8",
+                                "content": "Ineffective communication with the primary health care provider (PHCP)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cb7263ec54c540b38199254b686eba15",
+                                "content": "Adherence to health care follow-up is not an issue for minority groups"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87ddbb2622884cf2852dd66c6c1ef333",
+                                    "content": "Low household income"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "584da54244184edbbafb674699692a72",
+                                    "content": "Lack of insurance coverage"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bea5b9cb11704d3f9424828d2e5f19e8",
+                                    "content": "Ineffective communication with the primary health care provider (PHCP)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cb7263ec54c540b38199254b686eba15",
+                                    "content": "Adherence to health care follow-up is not an issue for minority groups"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse would recognize that some minority groups are hesitant to seek health care because of which most likely factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSome ethnic minorities report hesitancy in seeking health care due to a language barrier. Effective communication is essential to understand and treat the client. Ineffective communication affects the client's safety or willingness to comply with treatment or follow-up care. A low household income and a lack of insurance coverage may be factors but are less likely than the communication problem.\n\nTest-Taking Strategy:\nNote the strategic words, most likely, and focus on the option that could apply to various ethnic groups. Option 4 is incorrect because it states that minority groups have no issues with adherence to health care follow-up. To select from the remaining options, recalling that ineffective communication is a major barrier to seeking health care will assist in answering correctly.",
+                        "id": "5c80975bbe7646159a08436dbebd6d76",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4b66f198ab94e0da33f4f68a522ae5a",
+                                "content": "Teach-back"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b13e912684d142e092822813cc82637a",
+                                "content": "Video instruction"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f64df8b1007458cb1a5a9f4c60a1751",
+                                "content": "Written materials"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0c10069fedcd4467992a3f3222a0014b",
+                                "content": "Verbal explanation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4b66f198ab94e0da33f4f68a522ae5a",
+                                    "content": "Teach-back"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b13e912684d142e092822813cc82637a",
+                                    "content": "Video instruction"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f64df8b1007458cb1a5a9f4c60a1751",
+                                    "content": "Written materials"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0c10069fedcd4467992a3f3222a0014b",
+                                    "content": "Verbal explanation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which teaching method is most effective when providing health care instructions to members of specific populations?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWhen providing health care instructions to members of specific populations, return explanation and demonstration (teach-back) are of particular importance to ensure safety and mutual understanding. This method is the most reliable in confirming client understanding of the instructions. Video instruction, written materials, and verbal explanation are helpful and may be incorporated with the teach-back method.\n\nTest-Taking Strategy:\nNote the strategic words, most effective. Note that the correct option—the teach-back method—is the umbrella option, which encompasses all other options. Recall that asking the client to perform a return demonstration is the best way to confirm understanding.",
+                        "id": "adbea2caa0664b61986742148e2f23e1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b0dbc2b36e94527b0f3e6de7c7b5e38",
+                                "content": "Blood pressure 154/72 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6dd188a49ce748229580547983ab82f4",
+                                "content": "Visual acuity of 20/200 in both eyes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "093ab3089e4545629d3bf4b67a7c5d3e",
+                                "content": "Random blood glucose level of 206 mg/dL (11.77 mmol/L)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa8403cb5b19439fb8f554ed1d17c872",
+                                "content": "Complaints of pain associated with numbness and tingling in both feet"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b0dbc2b36e94527b0f3e6de7c7b5e38",
+                                    "content": "Blood pressure 154/72 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6dd188a49ce748229580547983ab82f4",
+                                    "content": "Visual acuity of 20/200 in both eyes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "093ab3089e4545629d3bf4b67a7c5d3e",
+                                    "content": "Random blood glucose level of 206 mg/dL (11.77 mmol/L)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa8403cb5b19439fb8f554ed1d17c872",
+                                    "content": "Complaints of pain associated with numbness and tingling in both feet"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is volunteering with an outreach program to provide basic health care for homeless people. Which finding, if noted, must be addressed first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse needs to address the complaints of pain and numbness and tingling in both feet first with this population. If the client perceives value to the service provided and the complaint is addressed, the client will be more likely to return for follow-up care. While the blood pressure, blood glucose, and vision results need follow-up, the client's stated concern must be addressed first.\n\nTest-Taking Strategy:\nNote the subject, the finding to be addressed, and focus on the strategic word, first. Recalling that adherence is a problem for this population will direct you to the correct option. Also note that the correct option is the only subjective finding.",
+                        "id": "b055c176e366444284673f5a4c0d069c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5496e44800314db385f94d94ce39f98a",
+                                "content": "The homeless population can be victims of physical and emotional trauma."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dbea8e4d52ba4b85b930a406b3d2d95c",
+                                "content": "The homeless population is at risk for prolonged environmental exposures."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63a7af8b1b4d4639a4cf2df67ba86b1c",
+                                "content": "The homeless population has an increased risk for mental health-related issues. "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d009d3c803a4a129fe5d48bd0e3e4ad",
+                                "content": "The homeless population is comprised primarily of physically and mentally disabled persons."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5496e44800314db385f94d94ce39f98a",
+                                    "content": "The homeless population can be victims of physical and emotional trauma."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dbea8e4d52ba4b85b930a406b3d2d95c",
+                                    "content": "The homeless population is at risk for prolonged environmental exposures."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63a7af8b1b4d4639a4cf2df67ba86b1c",
+                                    "content": "The homeless population has an increased risk for mental health-related issues. "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d009d3c803a4a129fe5d48bd0e3e4ad",
+                                    "content": "The homeless population is comprised primarily of physically and mentally disabled persons."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client in the emergency department who states they are homeless. Which statement, if made by the nurse, requires the need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIndividuals affected by homelessness are at increased risk for death related to chronic illness, environmental exposures, communicable diseases, mental illnesses, and many other conditions. Homeless individuals can also experience violence, and physical and emotional trauma. There are many reasons leading to homelessness, and disability is one factor but not necessarily the primary factor.\n\nTest-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and the need to focus on the option that is incorrect. Think about the characteristics of the homeless population; noting the word primarily in option 4 will direct you to this option.",
+                        "id": "d932b09c20bb49a3991b9d618c7408c6",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9a6c522b58540398a6634840743dd55",
+                                "content": "Using identified pronouns"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df041408157f4e5194fe8323fd3dd974",
+                                "content": "Using their first name to address them"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad10b3501d4c4054970be06117f7075a",
+                                "content": "Using pronouns associated with birth sex"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b31aa5e2bd694475a150a11741b5f846",
+                                "content": "Anticipating the client's needs and making suggestions"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9a6c522b58540398a6634840743dd55",
+                                    "content": "Using identified pronouns"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df041408157f4e5194fe8323fd3dd974",
+                                    "content": "Using their first name to address them"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad10b3501d4c4054970be06117f7075a",
+                                    "content": "Using pronouns associated with birth sex"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b31aa5e2bd694475a150a11741b5f846",
+                                    "content": "Anticipating the client's needs and making suggestions"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which is most appropriate when communicating with a transgender person?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse needs to address the client with the name and pronouns that the client identifies with, and the first name may not necessarily be what they use. For the transgender person, it is likely that they would expect to be addressed using pronouns associated with the sex they identify with now, which typically is not their birth sex. Anticipating the client's needs and making suggestions may be seen as judgmental, so the nurse needs to refrain from doing this.\n\nTest-Taking Strategy:\nNote the strategic words, most appropriate. Recalling that clarification regarding name identity is important for any client will assist you in eliminating option 2. Recalling that use of pronouns associated with birth sex is inappropriate will assist you in eliminating option 3. Noting the word making suggestions in option 4 will assist you in eliminating this option.",
+                        "id": "e8118897b4ac42b1b60e363c0fa50694",
+                        "mark": "0",
+                        "collectionState": "1"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6b87091d3c114122ae8abfb1f07637c3",
+                                "content": "Age"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79522287a83742b9be7ddd00f3d5f5f2",
+                                "content": "Gender"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d84f45e45bd74d3c9ae9cbe0b6a1e3ff",
+                                "content": "Living conditions"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7168c7aa8164c1b9b468ceeee272eb0",
+                                "content": "Working conditions"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44bfb8befa9e4b53af05229a2796fd08",
+                                "content": "Access to health care"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6b87091d3c114122ae8abfb1f07637c3",
+                                    "content": "Age"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79522287a83742b9be7ddd00f3d5f5f2",
+                                    "content": "Gender"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d84f45e45bd74d3c9ae9cbe0b6a1e3ff",
+                                    "content": "Living conditions"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7168c7aa8164c1b9b468ceeee272eb0",
+                                    "content": "Working conditions"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44bfb8befa9e4b53af05229a2796fd08",
+                                    "content": "Access to health care"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "The nurse is caring for a minority client. When assessing for social inequities, which social determinants would be most appropriate for the nurse to consider? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAge and gender are not social determinants. Age is biological, and gender may also be considered biological. Gender is a term also used more broadly to denote a range of identities that do not correspond to established ideas of male and female. Where minority clients live and work and their access to health care play a major role in managing health care maintenance. Without adequate living or working conditions, or with little to no access to health care, health inequities and disparities are created.\n\nTest-Taking Strategy:\nFocus on the strategic words, most appropriate. Note that you are looking for social determinants of health care inequities. Options 1 and 2 can be eliminated because they are not social determinants.",
+                        "id": "382a3550e8764e8888e079aa93dc2d9d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c23110b4ffe49f0a3d18a64dc77dd5d",
+                                "content": "Asthma"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a5fd33a4f044d51808aff2b44598751",
+                                "content": "Anemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4780dbe1276d4d6d99dd94345d86fd4a",
+                                "content": "Obesity"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0e28e53e88a44627b0472a587b8284bf",
+                                "content": "Ear infections "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "306cab22ae2e43c9ab18d9e340565753",
+                                "content": "Lead poisoning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e8e323ebfc649c199ddebbee18848ea",
+                                "content": "Diabetes mellitus"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c23110b4ffe49f0a3d18a64dc77dd5d",
+                                    "content": "Asthma"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a5fd33a4f044d51808aff2b44598751",
+                                    "content": "Anemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4780dbe1276d4d6d99dd94345d86fd4a",
+                                    "content": "Obesity"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0e28e53e88a44627b0472a587b8284bf",
+                                    "content": "Ear infections "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "306cab22ae2e43c9ab18d9e340565753",
+                                    "content": "Lead poisoning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e8e323ebfc649c199ddebbee18848ea",
+                                    "content": "Diabetes mellitus"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "A homeless parent brings their 1-year-old child to an emergency clinic. The nurse caring for this child understands that children affected by homelessness are most at risk for which problems? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHomeless children will often be victims of malnourishment, leading to anemia, and while they may be diabetic, being homeless does not put them at greater risk for having diabetes. Typically, homeless children are underweight, not obese. Environmental exposures increase their risk of being asthmatics or getting ear infections. This pediatric population is sick more often and will have an increased incidence of mental health and behavioral problems.\n\nTest-Taking Strategy:\nNote the strategic word, most, to help guide your answer. Thinking about what health disparities affect the pediatric population without adequate access to shelter, food, or a primary health care provider will direct you to the correct options.",
+                        "id": "5b35be7f1b6643aeac9680fa878a4c30",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "119acdf2f7ac4179adad9bbbbfaee0c5",
+                                "content": "Familial support"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b727477bc14462589772b276afb84d4",
+                                "content": "Access to education"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c031553624e40a68e4b89c092e6c8e7",
+                                "content": "Environmental safety"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ccbc03310ea24a01936c60bfd0e4c038",
+                                "content": "Living in a populated city"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ead715bea2484167b8bea5322724a2b9",
+                                "content": "Access to transportation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "119acdf2f7ac4179adad9bbbbfaee0c5",
+                                    "content": "Familial support"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b727477bc14462589772b276afb84d4",
+                                    "content": "Access to education"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c031553624e40a68e4b89c092e6c8e7",
+                                    "content": "Environmental safety"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ccbc03310ea24a01936c60bfd0e4c038",
+                                    "content": "Living in a populated city"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ead715bea2484167b8bea5322724a2b9",
+                                    "content": "Access to transportation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "1",
+                        "version": 0,
+                        "content": "Which factors are most likely to affect health care access and health outcomes? Select all that apply.",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nSocioeconomic status, education level, familial and social support, community safety, and access to transportation are factors that influence health care access and health outcomes. Living in a populated city is not specifically associated with health access and outcomes.\n\nTest-Taking Strategy:\nNote the strategic words, most likely, and focus on selecting the options that would answer the question the best. The subject of the question relates to factors affecting health care access and outcomes. Keep this in mind as you answer the question. Living in a populated city does not have a direct correlation with health care access or health outcomes.",
+                        "id": "d43f66a04ddd43f785427a309e0c56c2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "00f767698132fa4c0a7ee2c9e605ba74",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 56000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:29:24",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Socioeconomically Disadvantaged,Homeless,Intellectually Disabled Individuals,Uninsured and Underinsured Individuals,LGBTQIA,Minority Group",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

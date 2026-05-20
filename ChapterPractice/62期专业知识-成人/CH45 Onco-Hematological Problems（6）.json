@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:07:16",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:07:16",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:24:48",
+            "id": "2e39d062afa17d81d06d924e3d0055ec",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cff6c0b8e83a433996c854c6044b8222",
+                                "content": "Elevated hemoglobin level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "003edc92a0ec45628a459bef3101bbdd",
+                                "content": "Decreased reticulocyte count"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "573effa7d68446709651f461b06dd4db",
+                                "content": "Elevated red blood cell count"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9fcff3eee3394a6a86c2e0103c39bbd8",
+                                "content": "Red blood cells that are microcytic and hypochromic"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cff6c0b8e83a433996c854c6044b8222",
+                                    "content": "Elevated hemoglobin level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "003edc92a0ec45628a459bef3101bbdd",
+                                    "content": "Decreased reticulocyte count"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "573effa7d68446709651f461b06dd4db",
+                                    "content": "Elevated red blood cell count"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9fcff3eee3394a6a86c2e0103c39bbd8",
+                                    "content": "Red blood cells that are microcytic and hypochromic"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Laboratory studies are performed for a client suspected to have iron-deficiency anemia. The nurse reviews the laboratory results, knowing that which result indicates this type of anemia?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nIn iron-deficiency anemia, iron stores are depleted, resulting in a decreased supply of iron for the manufacture of hemoglobin in red blood cells. The results of a complete blood cell count in clients with iron-deficiency anemia show decreased hemoglobin levels and microcytic and hypochromic red blood cells. The red blood cell count is decreased. The reticulocyte count is usually normal or slightly elevated.",
+                        "id": "04806706ea894b21966cb39c6cc92fa6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cc20d7f0abe54fab8c1e0dde09385dc6",
+                                "content": "An increase in testosterone levels"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "680c45cca8744afcb117660947e62e3f",
+                                "content": "An increase in prostaglandin levels"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "672d62c4079047c29b48310b1a843bce",
+                                "content": "An increase the amount of circulating androgens"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "60666860118b449b8031b8e415133f14",
+                                "content": "A decline in the amount of circulating androgens"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cc20d7f0abe54fab8c1e0dde09385dc6",
+                                    "content": "An increase in testosterone levels"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "680c45cca8744afcb117660947e62e3f",
+                                    "content": "An increase in prostaglandin levels"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "672d62c4079047c29b48310b1a843bce",
+                                    "content": "An increase the amount of circulating androgens"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "60666860118b449b8031b8e415133f14",
+                                    "content": "A decline in the amount of circulating androgens"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with prostate cancer who is being treated with a hormone therapy. What would the nurse monitor for in order to evaluate the effect of this treatment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nHormone therapy (androgen deprivation) is a mode of treatment for prostatic cancer. The goal is to limit the amount of circulating androgens because prostate cells depend on androgen for cellular maintenance. Deprivation of androgen often can lead to regression of disease and improvement of symptoms. The remaining options do not identify the goals of this form of treatment.",
+                        "id": "1c2bd158b69749b7aa731753426df163",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b3c94394469481ea3db0a70cbf0babe",
+                                "content": "Calcium level of 15 mg/dL (3.75 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b21013ae96f945cc8fa56e6edcc7813a",
+                                "content": "Potassium level of 3.8 mEq/L (3.8 mmol/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "889463507a0a41a7af64dc7fed7f0ba3",
+                                "content": "Platelet count of 200,000 mm3 (200 × 109/L)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "69b48f2fb24543cda2a908bdc6b36788",
+                                "content": "White blood cell (WBC) count of 6000 mm3 (6 × 109/L)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b3c94394469481ea3db0a70cbf0babe",
+                                    "content": "Calcium level of 15 mg/dL (3.75 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b21013ae96f945cc8fa56e6edcc7813a",
+                                    "content": "Potassium level of 3.8 mEq/L (3.8 mmol/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "889463507a0a41a7af64dc7fed7f0ba3",
+                                    "content": "Platelet count of 200,000 mm3 (200 × 109/L)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "69b48f2fb24543cda2a908bdc6b36788",
+                                    "content": "White blood cell (WBC) count of 6000 mm3 (6 × 109/L)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the laboratory test results for a client with bladder cancer with bone metastasis. The nurse would contact the primary health care provider (PHCP) if which finding is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypercalcemia is a serum calcium level greater than 10.5 mg/dL (2.6 mmol/L). It most often occurs in clients who have bone metastasis and is a late manifestation of extensive malignancy. The presence of cancer in the bone causes the bone to release calcium into the bloodstream. Hypercalcemia is an oncological emergency, and the PHCP needs to be notified. Options 2, 3, and 4 indicate normal laboratory values.",
+                        "id": "278d73a22ee44191b8c1c7820a527009",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a3ff828088474ce180f465259f1bd76c",
+                                "content": "A child of Mexican descent"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ba9697abcdc4d54b86fb6c88e562091",
+                                "content": "A child of Mediterranean descent"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3a550a17e0e48e19f2b88ce16e87084",
+                                "content": "A child whose intake of iron is extremely poor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38d769d04a2b48ecb3356754f5e5913c",
+                                "content": "A breast-fed/chest fed child of a parent with chronic anemia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a3ff828088474ce180f465259f1bd76c",
+                                    "content": "A child of Mexican descent"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ba9697abcdc4d54b86fb6c88e562091",
+                                    "content": "A child of Mediterranean descent"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3a550a17e0e48e19f2b88ce16e87084",
+                                    "content": "A child whose intake of iron is extremely poor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38d769d04a2b48ecb3356754f5e5913c",
+                                    "content": "A breast-fed/chest fed child of a parent with chronic anemia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing student is presenting a clinical conference and discusses the cause of β-thalassemia. The nursing student informs the group that a child at greatest risk of developing this disorder is which of these?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nβ-Thalassemia is an autosomal recessive disorder characterized by the reduced production of one of the globin chains in the synthesis of hemoglobin (both parents must be carriers to produce a child with β-thalassemia major). This disorder is found primarily in individuals of Mediterranean descent. Options 1, 3, and 4 are incorrect.",
+                        "id": "2fdb8c61e2d54442812cc3dbb46111e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ab0dfb66ba747f3abe9d7811e8c422c",
+                                "content": "Urinate immediately."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ca59d7db2454726928351dd42d6a67d",
+                                "content": "Maintain strict bed rest."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa31203c79ac4b40a7e5f8baee626a6c",
+                                "content": "Change position every 15 minutes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "597cec2ac08c494e9a94a70430a1f47b",
+                                "content": "Retain the instillation fluid for 30 minutes."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ab0dfb66ba747f3abe9d7811e8c422c",
+                                    "content": "Urinate immediately."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ca59d7db2454726928351dd42d6a67d",
+                                    "content": "Maintain strict bed rest."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa31203c79ac4b40a7e5f8baee626a6c",
+                                    "content": "Change position every 15 minutes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "597cec2ac08c494e9a94a70430a1f47b",
+                                    "content": "Retain the instillation fluid for 30 minutes."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client after intravesical instillation of an alkylating chemotherapeutic agent for the treatment of bladder cancer. What would the nurse instruct the client to do after the instillation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nWith intravesical instillation, normally the medication is injected into the bladder through a urethral catheter, the catheter is clamped or removed, and the client is asked to retain the fluid for 2 hours. The client changes position every 15 to 30 minutes, usually from side to side and from supine to prone. The client then voids and is instructed to drink water to flush the bladder.",
+                        "id": "30ca00b976a14d3784091d004527945e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ce6b719d11743dfbcd1fbffe08b2d0e",
+                                "content": "Administer the iron at mealtimes."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d23f332d41ee42c8993887dfb5ba7d7b",
+                                "content": "Administer the iron through a straw."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1550f999700d49ed8cead8b69d3b0504",
+                                "content": "Mix the iron with cereal to administer."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29fb85d5f7eb45a58ec84410ea8126f5",
+                                "content": "Add the iron to apple juice for easy administration."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ce6b719d11743dfbcd1fbffe08b2d0e",
+                                    "content": "Administer the iron at mealtimes."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d23f332d41ee42c8993887dfb5ba7d7b",
+                                    "content": "Administer the iron through a straw."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1550f999700d49ed8cead8b69d3b0504",
+                                    "content": "Mix the iron with cereal to administer."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29fb85d5f7eb45a58ec84410ea8126f5",
+                                    "content": "Add the iron to apple juice for easy administration."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is instructing a client with iron-deficiency anemia regarding the administration of a liquid oral iron supplement. Which instruction would the nurse tell the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn iron-deficiency anemia, iron stores are depleted, resulting in a decreased supply of iron for the manufacture of hemoglobin in red blood cells. An oral iron supplement needs to be administered through a straw or medicine dropper placed at the back of the mouth, because the iron stains the teeth. Clients need to be instructed to brush or wipe their teeth after administration. Iron is administered between meals, because absorption is decreased if there is food in the stomach. Iron requires an acid environment to facilitate its absorption in the duodenum. Iron is not mixed with liquids, cereal, or other food items.",
+                        "id": "37ed7112b0da49f3be1ff403e32874ca",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0715b7e8a1fc4706ab092b0c888a7127",
+                                "content": "\"The work of breathing is increased when the client is anemic.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32b15b0167f64602851a499e870043ee",
+                                "content": "\"Blood flows more slowly when the hemoglobin or hematocrit is low.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f212247e5d4420a9321c6caf72c6ca5",
+                                "content": "\"The body has to work harder to fight infection in the presence of anemia.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c9670d10015246b28d6a4e04db9721ac",
+                                "content": "\"Adequate amounts of hemoglobin are needed to carry oxygen for tissue metabolism.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0715b7e8a1fc4706ab092b0c888a7127",
+                                    "content": "\"The work of breathing is increased when the client is anemic.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32b15b0167f64602851a499e870043ee",
+                                    "content": "\"Blood flows more slowly when the hemoglobin or hematocrit is low.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f212247e5d4420a9321c6caf72c6ca5",
+                                    "content": "\"The body has to work harder to fight infection in the presence of anemia.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c9670d10015246b28d6a4e04db9721ac",
+                                    "content": "\"Adequate amounts of hemoglobin are needed to carry oxygen for tissue metabolism.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with iron-deficiency anemia complains of feeling fatigued almost all of the time. The nurse would respond with which statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nOxygen is required to meet the metabolic needs of the body. With decreased hemoglobin, such as in iron-deficiency anemia, the oxygen-carrying capacity of the blood is less than normal. The client feels the effects of this change as fatigue. The statements in the remaining options are incorrect.\n\nTest-Taking Strategy:\nFocus on the subject, iron-deficiency anemia. Think about the pathophysiology associated with iron-deficiency anemia. Recalling that hemoglobin transports most of the oxygen needed for cellular respiration will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Hematological: Anemias\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: Subject",
+                        "id": "40108c94b7134d0aab1a36b7d1263f10",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c927870cd2c34584852c161761e42a61",
+                                "content": "Avoid driving the car for a few days."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0c80632be0d4770aefdd6a36caa9c7b",
+                                "content": "Restrict fluid intake to prevent incontinence."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "993434d2c3284ea98a1f65199d808ddb",
+                                "content": "Avoid lifting objects heavier than 20 lb (9 kg) for at least 6 weeks."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a84a3db08b8442a97bbe8d263c89ea4",
+                                "content": "Notify the primary health care provider if small blood clots are noticed during urination."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c927870cd2c34584852c161761e42a61",
+                                    "content": "Avoid driving the car for a few days."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0c80632be0d4770aefdd6a36caa9c7b",
+                                    "content": "Restrict fluid intake to prevent incontinence."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "993434d2c3284ea98a1f65199d808ddb",
+                                    "content": "Avoid lifting objects heavier than 20 lb (9 kg) for at least 6 weeks."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a84a3db08b8442a97bbe8d263c89ea4",
+                                    "content": "Notify the primary health care provider if small blood clots are noticed during urination."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with cancer of the prostate who has undergone a prostatectomy. Which action would the nurse plan to include in discharge instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client who has undergone a prostatectomy needs to avoid lifting objects heavier than 20 lb (9 kg) for at least 6 weeks. Driving a car and sitting for long periods are restricted for at least 3 weeks. A high daily fluid intake would be maintained to limit clot formation and prevent infection. Small pieces of tissue or blood clots may be passed during urination for up to 2 weeks after surgery; this is an expected occurrence.",
+                        "id": "49e8c05481db49878dd4caf294f468cc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "682bf73bf9ff49ceaa80ce4cdc6c05db",
+                                "content": "Bladder cancer most often occurs in women."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3bc6c10dcac46c6bab00e0d87fb07cb",
+                                "content": "Using cigarettes and drinking coffee can increase the risk."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dcbfe567c54f451586b1cf51b5f0314e",
+                                "content": "Bladder cancer generally is seen in clients older than age 40."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a768cbb8f7e4ca38597c11115dc49bb",
+                                "content": "Environmental health hazards have been implicated as a cause."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "682bf73bf9ff49ceaa80ce4cdc6c05db",
+                                    "content": "Bladder cancer most often occurs in women."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3bc6c10dcac46c6bab00e0d87fb07cb",
+                                    "content": "Using cigarettes and drinking coffee can increase the risk."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dcbfe567c54f451586b1cf51b5f0314e",
+                                    "content": "Bladder cancer generally is seen in clients older than age 40."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a768cbb8f7e4ca38597c11115dc49bb",
+                                    "content": "Environmental health hazards have been implicated as a cause."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The oncology nurse is providing a teaching session for a group of nursing students regarding the risks and causes of bladder cancer. Which statement by a student would indicate a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe incidence of bladder cancer is greater in men than in women and affects white people twice as often as black people. The remaining options describe risks associated with bladder cancer.",
+                        "id": "64f666c7bd544a419b785efe10cfb264",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "644f5ba6ecf242e9b5e23d84e289edd8",
+                                "content": "Administer the iron at mealtimes."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "08ddd5c97eed442f95130fe9c9a7d7a4",
+                                "content": "Administer the iron through a straw."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5200bb10e79049a1b668ef236632b3cb",
+                                "content": "Mix the iron with cereal to administer."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2d1c7497db9f4f43b302e1ab02c174c5",
+                                "content": "Add the iron to formula for easy administration."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "644f5ba6ecf242e9b5e23d84e289edd8",
+                                    "content": "Administer the iron at mealtimes."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "08ddd5c97eed442f95130fe9c9a7d7a4",
+                                    "content": "Administer the iron through a straw."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5200bb10e79049a1b668ef236632b3cb",
+                                    "content": "Mix the iron with cereal to administer."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2d1c7497db9f4f43b302e1ab02c174c5",
+                                    "content": "Add the iron to formula for easy administration."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing to instruct the parents of a child with iron-deficiency anemia regarding the administration of a liquid oral iron supplement. Which instruction would the nurse give the parents?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn iron-deficiency anemia, iron stores are depleted, resulting in a decreased supply of iron for the manufacture of hemoglobin in red blood cells. An oral iron supplement needs to be administered through a straw or medicine dropper placed at the back of the mouth, because the iron stains the teeth. The parents would be instructed to brush or wipe the child's teeth or have the child brush the teeth after administration. Iron is administered between meals because absorption is decreased if there is food in the stomach. Iron requires an acid environment to facilitate its absorption in the duodenum. Iron is not added to formula or mixed with cereal or other food items.\n",
+                        "id": "79eec64fb867409b922cbc8ac78c085c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "b439912ae600bcd48b5c01ca7e8313eb",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 322000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:24:49",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Bladder and Kidney Cancer,Anemias,Prostate Cance",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

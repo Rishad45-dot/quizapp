@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:13:59",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:13:59",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:17:58",
+            "id": "335951c59a8a3e0206838f1c72ab4797",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7efc9e0dfa1f49d8813da1cefcc25098",
+                                "content": "The child may be allergic to antibiotics."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "370261a93f59469cad42d5e3f5ab0654",
+                                "content": "\"The child is too young to receive antibiotics.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b22e4267dadc443cb594e3a7195413d4",
+                                "content": "\"Antibiotics are not indicated unless a bacterial infection is present.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31e1c691bf3144b7adfaa1d2f8e2e0af",
+                                "content": "\"The child still has the maternal antibodies from birth and does not need antibiotics.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7efc9e0dfa1f49d8813da1cefcc25098",
+                                    "content": "The child may be allergic to antibiotics."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "370261a93f59469cad42d5e3f5ab0654",
+                                    "content": "\"The child is too young to receive antibiotics.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b22e4267dadc443cb594e3a7195413d4",
+                                    "content": "\"Antibiotics are not indicated unless a bacterial infection is present.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31e1c691bf3144b7adfaa1d2f8e2e0af",
+                                    "content": "\"The child still has the maternal antibodies from birth and does not need antibiotics.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The parent of a hospitalized 2-year-old child with viral laryngotracheobronchitis (croup) asks the nurse why the pediatrician did not prescribe antibiotics. Which response would the nurse make?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLaryngotracheobronchitis (croup) is the inflammation of the larynx, trachea, and bronchi and is the most common type of croup. It can be viral or bacterial. Antibiotics are not indicated in the treatment of croup unless a bacterial infection is present. Options 1, 2, and 4 are incorrect. In addition, no supporting data in the question indicate that the child may be allergic to antibiotics.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Croup\nIntegrated Process: Teaching and Learning\nPriority Concepts: Immunity, Inflammation\nStrategies: Subject               Test-Taking Strategy:\nFocus on the subject, indications for the use of antibiotics. Eliminate option 1 because there are no supporting data in the question regarding the potential for allergies. Noting the word viral in the question and noting the age of the child will assist in eliminating options 2 and 4.",
+                        "id": "0601948a850d49b382ce8a520aa5e8c5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0369a71d769240bc8d848c0ea323274d",
+                                "content": "Positive"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f48eb2cf8406444391606880b8ccc973",
+                                "content": "Negative"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00e7d267b8e84f7db06da0710a77848b",
+                                "content": "Inconclusive"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de41d6d3449c47519ceab5755346777a",
+                                "content": "Requires a repeat test"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0369a71d769240bc8d848c0ea323274d",
+                                    "content": "Positive"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f48eb2cf8406444391606880b8ccc973",
+                                    "content": "Negative"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00e7d267b8e84f7db06da0710a77848b",
+                                    "content": "Inconclusive"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de41d6d3449c47519ceab5755346777a",
+                                    "content": "Requires a repeat test"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse reviews the health record of a 2-year-old child. The primary health care provider has documented that the results of a tuberculin skin test have indicated an area of induration measuring 5 mm. How would the nurse interpret these results?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nInduration measuring 10 mm or greater is considered to be a positive result in children younger than 4 years. A reaction of 5 mm or greater is considered to be a positive result for the highest risk groups.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Tuberculosis\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Infection, Clinical Judgment\nStrategies: Comparable or Alike Options, Subject               Test-Taking Strategy:\nFocus on the subject, interpretation of results of a tuberculin skin test. Knowledge regarding these results in children is required to answer this question. Options 3 and 4 can be easily eliminated first because they are comparable or alike. Note the child's age in the question to determine the correct option from the remaining two. Also, note that there is no indication in the question that the child is in a high-risk group.",
+                        "id": "12d46f89123143d09fa40830f6f2a1e3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "616408b6a598424fa8906f42b74575a8",
+                                "content": "Warm, dry skin"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "baa3f5e4b31a412e958e4488e995a435",
+                                "content": "Decreased wheezing"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dead9c7988b2485d9bc6a83f2c8c6a0f",
+                                "content": "Pulse rate of 90 beats per minute"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "89e3d8bd7a2a4f71a2d3ca75870484e0",
+                                "content": "Respirations of 18 breaths per minute"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "616408b6a598424fa8906f42b74575a8",
+                                    "content": "Warm, dry skin"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "baa3f5e4b31a412e958e4488e995a435",
+                                    "content": "Decreased wheezing"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dead9c7988b2485d9bc6a83f2c8c6a0f",
+                                    "content": "Pulse rate of 90 beats per minute"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "89e3d8bd7a2a4f71a2d3ca75870484e0",
+                                    "content": "Respirations of 18 breaths per minute"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A 10-year-old child with asthma is treated for acute exacerbation in the emergency department. The nurse caring for the child would monitor for which sign, knowing that it indicates a worsening of the condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAsthma is a chronic inflammatory disease of the airways. Decreased wheezing in a child with asthma may be interpreted incorrectly as a positive sign when it may actually signal an inability to move air. A \"silent chest\" is an ominous sign during an asthma episode. With treatment, increased wheezing actually may signal that the child's condition is improving. Warm, dry skin indicates an improvement in the child's condition, because the child is normally diaphoretic during exacerbation. The normal pulse rate in a 10-year-old is 70 to 110 beats per minute. The normal respiratory rate in a 10-year-old is 16 to 20 breaths per minute.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Adult Health: Respiratory: Asthma\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Gas Exchange\nStrategies: Comparable or Alike Options                      Test-Taking Strategy:\nNote the word worsening in the question. Options 3 and 4 can be eliminated because they are comparable or alike in that they are normal vital signs. From the remaining options, recall that a \"silent chest\" is an ominous sign during an asthma episode and indicates severe bronchial spasm or obstruction.",
+                        "id": "140b8e022bf34055bab99757427abfc2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72b040d7e41a48df8a8a891ddabfe2d4",
+                                "content": "Tell the parent that the child must stay in the tent."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ab879d3e3d9413e95e48808ec535891",
+                                "content": "Place a toy in the tent to make the child feel more comfortable."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6d48c1b9ba294273a63eddf7230d730c",
+                                "content": "Call the pediatrician and obtain a prescription for a mild sedative."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fff5e1ff7889453584afa2455e36d7dc",
+                                "content": "Let the parent hold the child and direct the cool mist over the child's face."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72b040d7e41a48df8a8a891ddabfe2d4",
+                                    "content": "Tell the parent that the child must stay in the tent."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ab879d3e3d9413e95e48808ec535891",
+                                    "content": "Place a toy in the tent to make the child feel more comfortable."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6d48c1b9ba294273a63eddf7230d730c",
+                                    "content": "Call the pediatrician and obtain a prescription for a mild sedative."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fff5e1ff7889453584afa2455e36d7dc",
+                                    "content": "Let the parent hold the child and direct the cool mist over the child's face."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child with laryngotracheobronchitis (croup) is placed in a cool mist tent. The parent becomes concerned because the child is frightened, consistently crying, and trying to climb out of the tent. Which is the most appropriate nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLaryngotracheobronchitis (croup) is the inflammation of the larynx, trachea, and bronchi and is the most common type of croup. Cool mist therapy may be prescribed to liquefy secretions and to assist in breathing. If the use of a tent or hood is causing distress, treatment may be more effective if the child is held by the parent and a cool mist is directed toward the child's face (blow-by). A mild sedative would not be administered to the child. Crying would increase hypoxia and aggravate laryngospasm, which may cause airway obstruction. Options 1 and 2 would not alleviate the child's fear.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Croup\nIntegrated Process: Caring\nPriority Concepts: Caregiving, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words, Subject, Subject         Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, the child's fear. Options 1, 2, and 3 are comparable or alike in that they do not address the fear. The correct option is the one that addresses the subject of the question.",
+                        "id": "141f047d44e74b27998cd40c8a5f2cbc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1434bc7f77ab464fa008af1ca617f9d1",
+                                "content": "Oral antibiotics"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b68a005008a941538a1786c47f0c03cd",
+                                "content": "Supportive treatment"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5f47d49215674556ac3a94fa887d53c5",
+                                "content": "Hospitalization and IV antibiotics"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cbdd6966914a4e9ea8a0251e72aacaac",
+                                "content": "Intravenous (IV) fluid administration"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1434bc7f77ab464fa008af1ca617f9d1",
+                                    "content": "Oral antibiotics"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b68a005008a941538a1786c47f0c03cd",
+                                    "content": "Supportive treatment"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5f47d49215674556ac3a94fa887d53c5",
+                                    "content": "Hospitalization and IV antibiotics"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cbdd6966914a4e9ea8a0251e72aacaac",
+                                    "content": "Intravenous (IV) fluid administration"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A parent arrives at the clinic with a 3-year-old child. The parent tells the nurse that the child has had a fever and a cough for the past 2 days and that this morning the child began to wheeze. Viral pneumonia is diagnosed. Based on the diagnosis, the nurse anticipates that which will be a component of the treatment plan?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWith viral pneumonia, treatment is supportive. Children who are more severely ill may be hospitalized and given oxygen, chest physiotherapy, and IV fluids. Antibiotics are not given. Bacterial pneumonia, however, is treated with antibiotic therapy.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Pneumonia\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Gas Exchange, Infection\nStrategies: Data in the Question, Umbrella Option          Test-Taking Strategy:\nNote the word viral in the question. Recalling that antibiotics are ineffective in treating viruses will assist you in eliminating options 1 and 3 because they both include antibiotics. There are no data in the question to support the need for IV fluid administration. The correct option is also the umbrella option.",
+                        "id": "147072c7cfeb4105b704972af94a0f5d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7afbfefc1fa0431a8a4fa8563ce2a0c8",
+                                "content": "Ginger ale"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "382753148d6d49e6917d48ac2e1148be",
+                                "content": "Green gelatin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75db26df3a394b84ab353c534944b0fa",
+                                "content": "A glass of milk"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "16fd52a534f14a80966d3124b6908477",
+                                "content": "Cherry Kool-Aid"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7afbfefc1fa0431a8a4fa8563ce2a0c8",
+                                    "content": "Ginger ale"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "382753148d6d49e6917d48ac2e1148be",
+                                    "content": "Green gelatin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75db26df3a394b84ab353c534944b0fa",
+                                    "content": "A glass of milk"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "16fd52a534f14a80966d3124b6908477",
+                                    "content": "Cherry Kool-Aid"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A pediatric nurse in the ambulatory surgery unit is caring for a child following a tonsillectomy. The child is complaining of a dry throat. Which item would the nurse offer to the child?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nFollowing tonsillectomy, cool, clear liquids should be administered. Citrus-flavored, carbonated, and extremely hot or cold liquids would be avoided because they may irritate the throat. Red liquids are avoided because they give the appearance of blood if the child vomits. Milk and milk products, including pudding, are avoided because they coat the throat and cause the child to clear the throat, thus increasing the risk of bleeding.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Tonsillitis and Adenoiditis\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Nutrition, Clinical Judgment\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject,, foods and fluids allowed following tonsillectomy. First, eliminate foods and fluids that may irritate or cause bleeding, which are ginger ale and a glass of milk. The word cherry in option 4 would be the clue that this is not an appropriate food item.",
+                        "id": "2036523c2a2e401e8e22af9da8d87937",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0e77b1908924a21a1e48d97c48b2146",
+                                "content": "Prone"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8d747f2baa3e462f92186c28f9ba8392",
+                                "content": "Supine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "782140054dec42e3b39451fda7402466",
+                                "content": "Lying on the left side"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8ed3f5d3e90461fa14670e49f13edb7",
+                                "content": "Lying on the right side"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0e77b1908924a21a1e48d97c48b2146",
+                                    "content": "Prone"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8d747f2baa3e462f92186c28f9ba8392",
+                                    "content": "Supine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "782140054dec42e3b39451fda7402466",
+                                    "content": "Lying on the left side"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8ed3f5d3e90461fa14670e49f13edb7",
+                                    "content": "Lying on the right side"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is discussing measures to take to prevent sudden infant death syndrome (SIDS) with a new parent. Which position would the nurse specify is the appropriate sleep position for the infant related to the prevention of SIDS?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nEvidence has demonstrated that placing the infant in a supine position on the back on a firm mattress with a fitted sheet is the safest sleeping position for the infant related to decreasing the risk of SIDS. Infants would not be positioned prone or on either side to sleep as this could result in accidental asphyxiation. Therefore, option 2 is correct.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Sudden Infant Death Syndrome (SIDS)\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, the safest sleeping position for the infant. Use knowledge about the risk factors associated with SIDS. Remember that the infant would be placed on the back to sleep on a firm, not soft, mattress with a fitted sheet. No other objects, toys, or blankets can be in the crib.\n ",
+                        "id": "246cc58c95bd4a67b1050f8886da72f9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bd1bfa8d01a84c3eb2c0b97476687506",
+                                "content": "Monitor for bleeding."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e148b8ec1534402d91390bbe3b7e701b",
+                                "content": "Suction every 2 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb4d01ef50de416f8dfcafc344b94725",
+                                "content": "Give no milk or milk products."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "768f2fd238af45429be6cf4b1588d60f",
+                                "content": "Give clear, cool liquids when awake and alert."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bd1bfa8d01a84c3eb2c0b97476687506",
+                                    "content": "Monitor for bleeding."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e148b8ec1534402d91390bbe3b7e701b",
+                                    "content": "Suction every 2 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb4d01ef50de416f8dfcafc344b94725",
+                                    "content": "Give no milk or milk products."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "768f2fd238af45429be6cf4b1588d60f",
+                                    "content": "Give clear, cool liquids when awake and alert."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "After a tonsillectomy, the nurse reviews the surgeon's postoperative prescriptions. Which prescription would the nurse question?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA tonsillectomy is the surgical removal of the tonsils. After tonsillectomy, suction equipment needs to be available, but suctioning is not performed unless there is an airway obstruction because of the risk of trauma to the surgical site. Monitoring for bleeding is an important nursing intervention after any type of surgery. Milk and milk products are avoided initially because they coat the throat, cause the child to clear the throat, and increase the risk of bleeding. Clear, cool liquids are encouraged.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Tonsillitis and Adenoiditis\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Collaboration, Safety\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, the prescription that the nurse questions. Option 1 can be eliminated first because this is a nursing action, not a medical prescription. From the remaining options, consider the anatomical location of the surgery. This would direct you to the correct option.",
+                        "id": "26ad01f3127d4b0284384d4715d675b8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac818b87642d4167952ee431f2fc3e7c",
+                                "content": "\"Is your child crying and irritable?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb150579e4ec455abea0b26c0865e7d1",
+                                "content": "\"Does your child have a productive cough?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9f47b14cd8ce4a0e99ceb63ba5732845",
+                                "content": "\"Did your child have a temperature last night of greater than 100° F (37.8° C)?\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ffcf46c320f3454b8e40d178d36f70ba",
+                                "content": "\"Is your child telling you at this time about having trouble breathing?\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac818b87642d4167952ee431f2fc3e7c",
+                                    "content": "\"Is your child crying and irritable?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb150579e4ec455abea0b26c0865e7d1",
+                                    "content": "\"Does your child have a productive cough?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9f47b14cd8ce4a0e99ceb63ba5732845",
+                                    "content": "\"Did your child have a temperature last night of greater than 100° F (37.8° C)?\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ffcf46c320f3454b8e40d178d36f70ba",
+                                    "content": "\"Is your child telling you at this time about having trouble breathing?\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A parent calls the primary health care provider's office, requesting an appointment for an 8-year-old child. The parent states that the child has asthma and that the child reports having trouble breathing last night and does not want to go to school. In triaging this child, which is the most important question to initially ask the parent?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAirway is always the most important indicator to determine whether the child can be seen in the primary health care provider's office or needs to be taken to the emergency department. Although all the assessment questions address manifestations of asthma, asking the child about difficulty breathing specifically addresses airway.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Asthma\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Gas Exchange, Clinical Judgment\nStrategies: ABCs—Airway, Breathing, Circulation,               Strategic Words                       Test-Taking Strategy:\nNote the strategic words, most important and initially. Use the ABCs—airway, breathing, and circulation. This will direct you to option 4 because this choice addresses airway.",
+                        "id": "392a46c15ee04a3daffa63fb2c3aae83",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00b746736026401e9f16bca29c8dee7f",
+                                "content": "Initiate strict enteric precautions."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbd8475cf57449edb065a5a11ba8b960",
+                                "content": "Move the infant to a private room."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e34ff092420a4f64a0aace16c5cbc6ae",
+                                "content": "Leave the infant in the present room, because RSV is not contagious."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "846ad23766af48c8ae6b7b26ae551a81",
+                                "content": "Inform the staff that using standard precautions is all that is necessary when caring for the child."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00b746736026401e9f16bca29c8dee7f",
+                                    "content": "Initiate strict enteric precautions."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbd8475cf57449edb065a5a11ba8b960",
+                                    "content": "Move the infant to a private room."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e34ff092420a4f64a0aace16c5cbc6ae",
+                                    "content": "Leave the infant in the present room, because RSV is not contagious."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "846ad23766af48c8ae6b7b26ae551a81",
+                                    "content": "Inform the staff that using standard precautions is all that is necessary when caring for the child."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for an infant with bronchiolitis, and diagnostic tests have confirmed respiratory syncytial virus (RSV). On the basis of this finding, which is the most appropriate nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nRSV is a highly communicable disorder and is transmitted via droplets and direct contact with respiratory secretions. The use of contact, droplet, and standard precautions during care is necessary. Good handwashing technique and protection with gloves, gown, and a mask are needed to prevent transmission. An infant with RSV would be placed in a private room to prevent transmission. Enteric precautions are unnecessary.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Throat/Respiratory\nHealth Problem: Pediatric-Specific: Bronchitis/Bronchiolitis/Respiratory Syncytial Virus\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Infection, Safety\nStrategies: Strategic Words, Subject                          Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, the method of transmission of RSV. Remember that the virus is transmitted via droplets and direct contact with respiratory secretions. An infant with RSV is contagious and needs to be placed in a private room.",
+                        "id": "39632260949a468bb5c31b5608dbf061",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "c9481d3be3909c826d734e931daaed9c",
+            "lessonItemId": "b607d2219bbc2dd7349f1af02adf958a",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 236000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:17:59",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Respiratory Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

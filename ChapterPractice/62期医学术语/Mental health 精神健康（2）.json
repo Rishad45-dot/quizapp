@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:07:20",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:07:20",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:15:55",
+            "id": "278ee1ed0ba17f7cb52ec9ab1fd6c542",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56528b4c417b46029489c5253355042f",
+                                "content": "心理学家"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f6a7fab0fa44abb85a25de1794bef4a",
+                                "content": "心理分析师"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ab06c1399024c19ae65c6963efdc826",
+                                "content": "心理治疗师"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5b7b3b4500449df8d18b5945befe50d",
+                                "content": "精神病医生"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56528b4c417b46029489c5253355042f",
+                                    "content": "心理学家"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f6a7fab0fa44abb85a25de1794bef4a",
+                                    "content": "心理分析师"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ab06c1399024c19ae65c6963efdc826",
+                                    "content": "心理治疗师"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5b7b3b4500449df8d18b5945befe50d",
+                                    "content": "精神病医生"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Psychoanalyst 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "心理分析师是专门从事心理分析的专家。",
+                        "id": "070caa137d8b436a88a37c041593df58",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "21e60942928c42a79b90dc98a5d0865a",
+                                "content": "认知疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a26d56e4323453c9b6657289ce640e1",
+                                "content": "环境疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03580aa959e24bd49a094bb6f0dffe04",
+                                "content": "行为疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49d24d920c2041c391dec2d0137fd23c",
+                                "content": "精神分析疗法"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "21e60942928c42a79b90dc98a5d0865a",
+                                    "content": "认知疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a26d56e4323453c9b6657289ce640e1",
+                                    "content": "环境疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03580aa959e24bd49a094bb6f0dffe04",
+                                    "content": "行为疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49d24d920c2041c391dec2d0137fd23c",
+                                    "content": "精神分析疗法"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cognitive Therapy 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "认知疗法是一种治疗方法，专注于改变导致情绪和行为问题的负面思维模式。",
+                        "id": "0749993711b24751852fcb0ee3945681",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec3054c5c3264933a267ff83e669001e",
+                                "content": "将自己的感受归咎于他人"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e4b69a68e5f1405aa17e9e0bdc7f1d63",
+                                "content": "一种情绪表达"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4b019def1d3487683308b99aac66df0",
+                                "content": "一种社交技巧"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65342f4cdf9a459fbc6f2fa000712aee",
+                                "content": "一种身体锻炼方式"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec3054c5c3264933a267ff83e669001e",
+                                    "content": "将自己的感受归咎于他人"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e4b69a68e5f1405aa17e9e0bdc7f1d63",
+                                    "content": "一种情绪表达"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4b019def1d3487683308b99aac66df0",
+                                    "content": "一种社交技巧"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65342f4cdf9a459fbc6f2fa000712aee",
+                                    "content": "一种身体锻炼方式"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Projection 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "投射是一种心理防御机制，个体将自己的感受或冲动归咎于他人。",
+                        "id": "1c2348b63e384aacb1fdbc5fb365002b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "711e3b70733746268ef6c886ed79cfa6",
+                                "content": "心理分析"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "94c0194307a74385af849d8ddf182a58",
+                                "content": "心理评估"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d96ee2dade144a1884f9276ab0963a4",
+                                "content": "心理治疗"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8bfb24f738074977939a039dffd77b89",
+                                "content": "心理测量"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "711e3b70733746268ef6c886ed79cfa6",
+                                    "content": "心理分析"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "94c0194307a74385af849d8ddf182a58",
+                                    "content": "心理评估"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d96ee2dade144a1884f9276ab0963a4",
+                                    "content": "心理治疗"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8bfb24f738074977939a039dffd77b89",
+                                    "content": "心理测量"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Psychoanalysis 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "心理分析是一种治疗方法，通过探索潜意识来理解个体的行为和情感。",
+                        "id": "1dcc456af9b148fca9adc5d2375144fa",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5234810a8aec8e350c7eaff28439c726",
+                                "content": "精神分裂症"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "40e67d16181b9614ab3c79042f01bb19",
+                                "content": "分离性身份障碍"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30a68490c770cdc206f9e70753827c43",
+                                "content": "强迫症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd83aba9127eb433dbf3f63636fa7e96",
+                                "content": "创伤后应激障碍"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5234810a8aec8e350c7eaff28439c726",
+                                    "content": "精神分裂症"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "40e67d16181b9614ab3c79042f01bb19",
+                                    "content": "分离性身份障碍"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30a68490c770cdc206f9e70753827c43",
+                                    "content": "强迫症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd83aba9127eb433dbf3f63636fa7e96",
+                                    "content": "创伤后应激障碍"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Dissociative Identity Disorder (DID) 是什么？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>分离性身份障碍是一种心理障碍，个体表现出两个或更多不同的人格状态。</p>",
+                        "id": "27e8a670fb184c4399f3c2782c791080",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b28118548d64079b499d90531fec452",
+                                "content": "心理障碍"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "12f86ab0ed7e412dab2bb21c39af22e5",
+                                "content": "身体疾病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e59c1fa2ce5426bad5ad1bd93d1bc38",
+                                "content": "神经疾病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7c8f3809f4bf4fdc9281132e565f6e71",
+                                "content": "情绪问题"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b28118548d64079b499d90531fec452",
+                                    "content": "心理障碍"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "12f86ab0ed7e412dab2bb21c39af22e5",
+                                    "content": "身体疾病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e59c1fa2ce5426bad5ad1bd93d1bc38",
+                                    "content": "神经疾病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7c8f3809f4bf4fdc9281132e565f6e71",
+                                    "content": "情绪问题"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Mental Disorders 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "心理障碍是影响情绪、行为和心理过程的一系列健康问题。",
+                        "id": "2ba78857ee5748c88b4166113bf7b211",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "737c267249474d16b23ad09b9325cb1c",
+                                "content": "心理分析疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f907bd74955f4a96990ebf4e80482917",
+                                "content": "认知疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ddbc77509c14ca8a5c347aa4c341118",
+                                "content": "行为疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9452c0224cbb4a31b49aa90282cbffbb",
+                                "content": "环境疗法"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "737c267249474d16b23ad09b9325cb1c",
+                                    "content": "心理分析疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f907bd74955f4a96990ebf4e80482917",
+                                    "content": "认知疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ddbc77509c14ca8a5c347aa4c341118",
+                                    "content": "行为疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9452c0224cbb4a31b49aa90282cbffbb",
+                                    "content": "环境疗法"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Interpersonal Psychotherapy 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "心理分析疗法是一种深入探讨潜意识的方法，以理解个体的行为和情感。",
+                        "id": "2d5e1e81ae414b15ad37a49ebeae0fac",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c0b77dfc514844448689390a51b1b3ff",
+                                "content": "神经性厌食症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0a19f86b3e564a768aaa2f5a1c1690cb",
+                                "content": "贪食症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1afd3c467b9d45fc8bd6ba91f9913875",
+                                "content": "暴食症"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3de4059bd4ef4979bf7acf4b75e138d5",
+                                "content": "神经性贪食症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c0b77dfc514844448689390a51b1b3ff",
+                                    "content": "神经性厌食症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0a19f86b3e564a768aaa2f5a1c1690cb",
+                                    "content": "贪食症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1afd3c467b9d45fc8bd6ba91f9913875",
+                                    "content": "暴食症"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3de4059bd4ef4979bf7acf4b75e138d5",
+                                    "content": "神经性贪食症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Bulimia Nervosa 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "神经性贪食症是一种饮食障碍，个体在短期内大量食用食物，之后可能采取不健康的方法来防止体重增加。",
+                        "id": "3148399f267046b5813490f628142fda",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0dc175d6bb517d2076c0eb2105172c54",
+                                "content": "精神分裂症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19d3f268158b2b9f49a84d7475f413fd",
+                                "content": "强迫症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "082c67baeafb2aa35946cdc35ef90e99",
+                                "content": "广泛性焦虑症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "adcb01ed1259c454e2fe9a992fc1b3a0",
+                                "content": "抑郁症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0dc175d6bb517d2076c0eb2105172c54",
+                                    "content": "精神分裂症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19d3f268158b2b9f49a84d7475f413fd",
+                                    "content": "强迫症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "082c67baeafb2aa35946cdc35ef90e99",
+                                    "content": "广泛性焦虑症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "adcb01ed1259c454e2fe9a992fc1b3a0",
+                                    "content": "抑郁症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Schizophrenia 是什么？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>精神分裂症是一种慢性精神障碍，影响思维、感知、情感和行为。</p>",
+                        "id": "3d8079079bc14be8b93548f3c62fd5eb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6692df9ed1640e6ad55c12e649c09d0",
+                                "content": "环境疗法"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32a926f6092d4d56889c277786bf5335",
+                                "content": "行为疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e100dbcecf974e9c893bf988685e455b",
+                                "content": "精神分析疗法"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "668a01e185cc4a6099d403f3a2582b90",
+                                "content": "认知疗法"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6692df9ed1640e6ad55c12e649c09d0",
+                                    "content": "环境疗法"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32a926f6092d4d56889c277786bf5335",
+                                    "content": "行为疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e100dbcecf974e9c893bf988685e455b",
+                                    "content": "精神分析疗法"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "668a01e185cc4a6099d403f3a2582b90",
+                                    "content": "认知疗法"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Behavior Therapy 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "行为疗法是一种治疗方法，专注于改变不良行为模式。",
+                        "id": "458b932704a64787b069274d7e788051",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "a4188b309b4b3e9da0d17a834ebda065",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 316000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:15:55",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:22",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:22",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:17:41",
+            "id": "9a0a0d7972d72ea1beb5c442d534edab",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "980a60dc0ff94bb98e3c089173a7343f",
+                                "content": "Take the medication with food only."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cb7e9146f7d41b8b47b3624fdeb05ea",
+                                "content": "Discontinue the medication if nausea occurs."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a1cc415ad3fe4bc291c376757fb423bd",
+                                "content": "Rise slowly from a reclining to a sitting position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "66d6a702094242eaaa995358a4cd0485",
+                                "content": "Expect to note a full therapeutic effect immediately."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "980a60dc0ff94bb98e3c089173a7343f",
+                                    "content": "Take the medication with food only."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cb7e9146f7d41b8b47b3624fdeb05ea",
+                                    "content": "Discontinue the medication if nausea occurs."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a1cc415ad3fe4bc291c376757fb423bd",
+                                    "content": "Rise slowly from a reclining to a sitting position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "66d6a702094242eaaa995358a4cd0485",
+                                    "content": "Expect to note a full therapeutic effect immediately."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Lisinopril has been prescribed for a client with hypertension. What would the nurse instruct the client about this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nLisinopril is an angiotensin-converting enzyme inhibitor used in the treatment of hypertension. The client would be instructed to rise slowly from a reclining to a sitting position and to dangle the legs from the bed for a few moments before standing to reduce the hypotensive effect. It is not necessary to take the medication with food. If nausea occurs, the client would drink a noncola carbonated beverage and eat salted crackers or dry toast. A full therapeutic effect may be achieved in 1 to 2 weeks.\n\nTest-Taking Strategy:\nFocus on the subject, a medication instruction. Recall that this medication is an antihypertensive. Next, apply the principles of care that are relevant with this class of medication. Remember that antihypertensives can cause orthostatic hypotension.\n \n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Angiotensin-Converting Enzyme (ACE) Inhibitors\nHealth Problem: Adult Health: Cardiovascular: Hypertension\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Patient Education\nStrategies: Subject",
+                        "id": "000a283bcb5a419cb7374c0c588eaae2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31b44b31cd7b47f58bda08ac83019c99",
+                                "content": "Slows the heart rate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8e6f63ca937e4c329d32f394daae3a1c",
+                                "content": "Increases cardiac output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef97ef3231304876a0caeb19e4c065a4",
+                                "content": "Increases myocardial oxygen demand"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7de9c57e33f446a181e22e7eeaf161ca",
+                                "content": "Maintains the blood pressure at a level within the 140/90 mm Hg range"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31b44b31cd7b47f58bda08ac83019c99",
+                                    "content": "Slows the heart rate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8e6f63ca937e4c329d32f394daae3a1c",
+                                    "content": "Increases cardiac output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef97ef3231304876a0caeb19e4c065a4",
+                                    "content": "Increases myocardial oxygen demand"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7de9c57e33f446a181e22e7eeaf161ca",
+                                    "content": "Maintains the blood pressure at a level within the 140/90 mm Hg range"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Atenolol has been prescribed for a client, and the client asks the nurse about the action of the medication. How would the nurse respond regarding the action of this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nAtenolol is a beta-adrenergic blocker that is used as an antihypertensive, antianginal, and antidysrhythmic. It blocks beta-adrenergic receptors in cardiac tissue and produces the therapeutic effects of slowing the heart rate, decreasing cardiac output, decreasing myocardial oxygen demand, and decreasing blood pressure.\n\n\nTest-Taking Strategy:\nNote the subject, the action of atenolol. Focus on the name of the medication. Recalling that medications with names that end in -olol are beta-adrenergic blockers and that beta-adrenergic blockers slow the heart rate will direct you to the correct option.\n \nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Beta Blockers\nHealth Problem: Adult Health: Cardiovascular: Hypertension\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Patient Education\nStrategies: Subject",
+                        "id": "0361dcd2665c4d16b728b1481838fdee",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6702047bbf6441148205730fdbbb1d31",
+                                "content": "Increased pulse"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f7e54df3d8647029022e6c5da50af4c",
+                                "content": "Increased platelet count"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0da61efa241541fd978bb26e686c7c8d",
+                                "content": "Decreased blood pressure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee38a373f3754cf8b4ef63eda2e130bd",
+                                "content": "Decreased blood glucose level"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6702047bbf6441148205730fdbbb1d31",
+                                    "content": "Increased pulse"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f7e54df3d8647029022e6c5da50af4c",
+                                    "content": "Increased platelet count"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0da61efa241541fd978bb26e686c7c8d",
+                                    "content": "Decreased blood pressure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee38a373f3754cf8b4ef63eda2e130bd",
+                                    "content": "Decreased blood glucose level"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who began medication therapy with prazosin hydrochloride 1 week earlier arrives at the health care clinic for follow-up evaluation and care. The nurse interprets that the client is experiencing the expected benefit of therapy if which is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nPrazosin hydrochloride is an antihypertensive medication used to treat high blood pressure. A decrease in blood pressure indicates a therapeutic effect from the medication. The items listed in the remaining options are unrelated to the use of this medication.\n\nTest-Taking Strategy:\nFocus on the subject, expected benefit of therapy. It is necessary to recall that this medication is an antihypertensive. This would guide you to the correct option, the action of lowering blood pressure.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Antihypertensives\nHealth Problem: Adult Health: Cardiovascular: Hypertension\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject",
+                        "id": "063f59c77ac84236ad1e88500db37d43",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c84dfa42040f496b9d34ee1681dc2c5f",
+                                "content": "\"I need to change positions slowly.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "83b925b8b7e74387ba7a19d4ba476e5e",
+                                "content": "\"I need to avoid taking hot baths or showers.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca6473d4aad74024a439fe709ebd7965",
+                                "content": "\"I need to drink at least 4 quarts (4 liters) of water daily.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e274e7c41bf742b29fa43d6f34343c0d",
+                                "content": "\"I need to sit down and rest if dizziness or light-headedness occurs.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c84dfa42040f496b9d34ee1681dc2c5f",
+                                    "content": "\"I need to change positions slowly.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "83b925b8b7e74387ba7a19d4ba476e5e",
+                                    "content": "\"I need to avoid taking hot baths or showers.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca6473d4aad74024a439fe709ebd7965",
+                                    "content": "\"I need to drink at least 4 quarts (4 liters) of water daily.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e274e7c41bf742b29fa43d6f34343c0d",
+                                    "content": "\"I need to sit down and rest if dizziness or light-headedness occurs.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The clinic nurse is providing instructions to a client with hypertension who will be taking captopril. Which statement by the client indicates a need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nCaptopril is an antihypertensive medication (angiotensin-converting enzyme [ACE] inhibitor). Orthostatic hypotension can occur in clients taking this medication. Adequate fluid is important, but 4 quarts (4 liters) of water daily could actually aggravate the hypertension. Clients are advised to avoid standing in one position for long periods, to change positions slowly, and to avoid extreme warmth such as with baths, showers, or heat from the sun in warm weather. The client would be instructed to monitor for signs of orthostatic hypotension, such as dizziness, light-headedness, weakness, and syncope.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. This phrasing indicates a negative event query and directs you to select an incorrect statement. Note that the client has hypertension. Also, focus on the name of the medication and the suffix -pril. This suffix provides you with the clue that the medication is an ACE inhibitor. Use knowledge of the effects of an antihypertensive to direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Angiotensin-Converting Enzyme (ACE) Inhibitors\nHealth Problem: Adult Health: Cardiovascular: Hypertension\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Safety\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "0b81c79333ec42b0afe57740b5239d24",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afe4555c7cac4974a9f07a329103f366",
+                                "content": "Prothrombin time of 12.5 seconds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de2fc292f551434db7bd96b92c53519c",
+                                "content": "Activated partial thromboplastin time of 28 seconds"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9dfd39c754af4cebac24ebb3bb2ebb04",
+                                "content": "Activated partial thromboplastin time of 60 seconds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57f2cce9b7454c159d7a3947e1954650",
+                                "content": "Activated partial thromboplastin time longer than 120 seconds"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afe4555c7cac4974a9f07a329103f366",
+                                    "content": "Prothrombin time of 12.5 seconds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de2fc292f551434db7bd96b92c53519c",
+                                    "content": "Activated partial thromboplastin time of 28 seconds"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9dfd39c754af4cebac24ebb3bb2ebb04",
+                                    "content": "Activated partial thromboplastin time of 60 seconds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57f2cce9b7454c159d7a3947e1954650",
+                                    "content": "Activated partial thromboplastin time longer than 120 seconds"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with atrial fibrillation is receiving a continuous heparin infusion at 1000 units/hr. Which result would indicate to the nurse that the client is receiving a therapeutic dose?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nCommon laboratory ranges for activated partial thromboplastin time (aPTT) are 30 to 40 seconds. Because the aPTT should be 1.5 to 2.5 times the normal value, the client's aPTT would be considered therapeutic if it was 60 seconds. Prothrombin time assesses response to warfarin therapy.\n\nTest-Taking Strategy:\nFocus on the subject, the therapeutic effect of heparin. Prothrombin time is eliminated because it assesses response to warfarin therapy. The aPTT of 28 seconds is eliminated because this result indicates that the client is receiving no therapeutic effect from the continuous heparin infusion. Finally, the aPTT greater than 120 seconds can be eliminated because this value is beyond the therapeutic range and the client is at risk for bleeding.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Clotting, Safety\nStrategies: Subject",
+                        "id": "0c23fa97d2bf44c199c760717bbcaa0a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b101ab263214f668b3104ee57c02046",
+                                "content": "Insomnia and headache"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d98762af305b42a0abf2f9fd6091c436",
+                                "content": "Nausea and constipation"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "625b3c55528a4e308083bd61fc862fa1",
+                                "content": "Night cough and dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5d7d43c77e946e595de2a7378a65da1",
+                                "content": "Drowsiness and nightmares"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b101ab263214f668b3104ee57c02046",
+                                    "content": "Insomnia and headache"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d98762af305b42a0abf2f9fd6091c436",
+                                    "content": "Nausea and constipation"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "625b3c55528a4e308083bd61fc862fa1",
+                                    "content": "Night cough and dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5d7d43c77e946e595de2a7378a65da1",
+                                    "content": "Drowsiness and nightmares"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with cardiac disease has begun taking propranolol (Inderal LA), and the nurse provides information to the client about the medication. The nurse should tell the client to contact the health care provider (HCP) if which symptoms develop?\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nPropranolol is a beta-adrenergic blocker that is used as an antihypertensive, antianginal, antidysrhythmic, and antimigraine medication. It may precipitate heart failure or myocardial infarction in clients with cardiac disease. Signs of heart failure include dyspnea (particularly on exertion or lying down), night cough, peripheral edema, and distended neck veins. If signs of heart failure occur, the PHCP needs to be notified. The symptoms noted in the remaining options identify effects of this medication that do not warrant PHCP notification if they occur.\n\nTest-Taking Strategy:\nFocus on the subject, symptoms that warrant the need to contact the PHCP. Use the ABCs—airway, breathing, and circulation. This will direct you to the correct option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Beta Blockers\nHealth Problem: Adult Health: Cardiovascular: Coronary Artery Disease\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: ABCs—Airway, Breathing, Circulation",
+                        "id": "0c848cd8f0d64832b69f9a2126082014",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa116d96947e45c4b562083d39e9691b",
+                                "content": "Collaborate with the primary health care provider (PHCP) to discontinue the heparin infusion and administer the warfarin sodium as prescribed."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "447c1412804e49e6a0fae5ddfdcfbd85",
+                                "content": "Collaborate with the PHCP to obtain a prescription to increase the heparin infusion and continue the warfarin sodium as prescribed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9adfe3748064947a08e85cde5d4b871",
+                                "content": "Collaborate with the PHCP to withhold the warfarin sodium since the client is receiving a heparin infusion and the aPTT is within the therapeutic range."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9baa42c8b034f6fb2348987e4af2c6d",
+                                "content": "Collaborate with the PHCP to continue the heparin infusion at the same rate and to discuss use of dabigatran etexilate in place of warfarin sodium."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa116d96947e45c4b562083d39e9691b",
+                                    "content": "Collaborate with the primary health care provider (PHCP) to discontinue the heparin infusion and administer the warfarin sodium as prescribed."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "447c1412804e49e6a0fae5ddfdcfbd85",
+                                    "content": "Collaborate with the PHCP to obtain a prescription to increase the heparin infusion and continue the warfarin sodium as prescribed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9adfe3748064947a08e85cde5d4b871",
+                                    "content": "Collaborate with the PHCP to withhold the warfarin sodium since the client is receiving a heparin infusion and the aPTT is within the therapeutic range."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9baa42c8b034f6fb2348987e4af2c6d",
+                                    "content": "Collaborate with the PHCP to continue the heparin infusion at the same rate and to discuss use of dabigatran etexilate in place of warfarin sodium."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with valvular heart disease who has a clot in the right atrium is receiving a heparin sodium infusion at 1000 units/hr and warfarin sodium 7.5 mg at 1600 daily. The morning laboratory results are as follows: activated partial thromboplastin time (aPTT), 32 seconds; international normalized ratio (INR), 1.3. Which action would the nurse take based on the client's laboratory results?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWhen a client is receiving warfarin for clot prevention due to atrial fibrillation, an INR of 2 to 3 is appropriate for most clients. Until the INR has achieved a therapeutic range, the client should be maintained on a continuous heparin infusion with the aPTT ranging between 60 and 80 seconds. Therefore, the nurse would collaborate with the PHCP to obtain a prescription to increase the heparin infusion and to administer the warfarin as prescribed.\n\nTest-Taking Strategy:\nFocus on the subject, laboratory result analysis related to these medications. First, eliminate the option that indicates to discuss use of dabigatran etexilate, recalling that it is contraindicated for use in atrial fibrillation associated with valvular heart disease. Next, recall that if the warfarin sodium has achieved the therapeutic range for the INR for clot prevention in atrial fibrillation, the heparin infusion is no longer necessary. This will help you eliminate the option that indicates to withhold the warfarin sodium because the INR is not therapeutic. Last, keep in mind that if both the aPTT and the INR are not within therapeutic range, the client is left unprotected from clot formation.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clotting, Collaboration\nStrategies: Subject",
+                        "id": "13d051e5db9043f0ac7fe03c28fa368f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e61624d8c75449993c0cbf3a7fabfb1",
+                                "content": "\"The medication may need to be changed.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d32f88eb82e74611924ea77cdbd49894",
+                                "content": "\"The cough must be the start of a respiratory infection.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "754754c18a974f1a872e8019c3ecf9ac",
+                                "content": "\"The medication needs to be taken with large amounts of water to prevent the cough.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6a3b7884f9844ec4aac113a5a7711db5",
+                                "content": "\"This sometimes happens, and you will need to take a cough medication with each dose of medication.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e61624d8c75449993c0cbf3a7fabfb1",
+                                    "content": "\"The medication may need to be changed.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d32f88eb82e74611924ea77cdbd49894",
+                                    "content": "\"The cough must be the start of a respiratory infection.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "754754c18a974f1a872e8019c3ecf9ac",
+                                    "content": "\"The medication needs to be taken with large amounts of water to prevent the cough.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6a3b7884f9844ec4aac113a5a7711db5",
+                                    "content": "\"This sometimes happens, and you will need to take a cough medication with each dose of medication.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client taking an angiotensin-converting enzyme (ACE) inhibitor to treat hypertension calls the clinic nurse and reports a dry, nonproductive cough that is very bothersome. The nurse would respond by making which statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nAn ACE inhibitor is used to treat hypertension or heart failure. A side effect of ACE inhibitors is a characteristic dry, nonproductive cough. This can be quite bothersome to a client, and the medication may need to be changed. The cough is reversible with discontinuation of therapy. The remaining options are incorrect.\n\nTest-Taking Strategy:\nFocus on the subject, that the client reports that the cough is bothersome. Read each option carefully, and recall that a side effect of ACE inhibitors is a bothersome cough. Recalling that there are numerous medications that can be used to treat hypertension will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Angiotensin-Converting Enzyme (ACE) Inhibitors\nHealth Problem: Adult Health: Cardiovascular: Hypertension\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject",
+                        "id": "1615a29dba854d6d9d1b3fdc7c3a8690",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dc8453f61cda434a996e0358c7bb0f48",
+                                "content": "Renal calculi"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9109a3bdea1f42e990e22db5423ecc72",
+                                "content": "Chronic heart failure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f169535cae14a10a302c34348e9a595",
+                                "content": "Carcinoid of the liver"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87007ff2d4ae44c2b3b9ac8592f45929",
+                                "content": "Coronary artery disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dc8453f61cda434a996e0358c7bb0f48",
+                                    "content": "Renal calculi"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9109a3bdea1f42e990e22db5423ecc72",
+                                    "content": "Chronic heart failure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f169535cae14a10a302c34348e9a595",
+                                    "content": "Carcinoid of the liver"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87007ff2d4ae44c2b3b9ac8592f45929",
+                                    "content": "Coronary artery disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The primary health care provider (PHCP) writes a prescription for atorvastatin for a client who was admitted to the hospital. The nurse contacts the PHCP to verify the prescription if which finding is noted in the assessment data?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAtorvastatin is a (HMG-CoA) reductase inhibitor that is used to treat hypercholesterolemia and hypertriglyceridemia. Contraindications to the medication include active liver disease, unexplained elevated liver function tests, pregnancy, and lactation. The conditions noted in the remaining options are not contraindications to this medication.\n\nTest-Taking Strategy:\nFocus on the subject, contraindications for atorvastatin. Specific knowledge of the contraindications to atorvastatin is needed to help you answer this question. Recalling that this medication inhibits HMG-CoA reductase and recalling the physiology of cholesterol synthesis will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Antilipemics\nHealth Problem: Adult Health: Cancer: Liver\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Collaboration, Safety\nStrategies: Subject",
+                        "id": "16c49f6c1181440da996ecc4c9ba6005",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a4fabcc1514a4ef9bdbde2f66d1637bd",
+                                "content": "0.5 ng/mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71430f20cd7e4a95a351695d28a9fbd7",
+                                "content": "0.8 ng/mL"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0e031f6f4e44e1a9d418ecfd3d97896",
+                                "content": "1.6 ng/mL"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2f02f6ec78f84b9ca590ed465fe9fd8f",
+                                "content": "2.2 ng/mL"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a4fabcc1514a4ef9bdbde2f66d1637bd",
+                                    "content": "0.5 ng/mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71430f20cd7e4a95a351695d28a9fbd7",
+                                    "content": "0.8 ng/mL"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0e031f6f4e44e1a9d418ecfd3d97896",
+                                    "content": "1.6 ng/mL"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2f02f6ec78f84b9ca590ed465fe9fd8f",
+                                    "content": "2.2 ng/mL"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a history of heart failure who is receiving digoxin daily has a serum potassium level of 3 mEq/L (3 mmol/L) and is complaining of anorexia. The primary health care provider orders a serum digoxin level to be done. The nurse checks the results and would expect to note which level that is outside the therapeutic range?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nThe optimal therapeutic range for digoxin is 0.5 to 0.8 ng/mL, and the therapeutic serum level is 0.5 to 2 ng/mL. If the client is experiencing symptoms such as anorexia and is experiencing hypokalemia as evidenced by a low potassium level, digoxin toxicity is a concern. Therefore, option 4 is correct because it is outside the therapeutic level and an elevated level.\n\nTest-Taking Strategy:\nFocus on the subject, a digoxin level outside the therapeutic range. Additionally, determine whether an abnormality exists. Note that the client is experiencing anorexia and has a low serum potassium level. Therefore, it is best to select the option that identifies the highest level. Recall that in hypokalemia, the client is at greater risk for digoxin toxicity.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Cardiac Glycosides\nHealth Problem: Adult Health: Cardiovascular: Heart Failure\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Abnormality Exists, Subject",
+                        "id": "1851f0b2d09c454db11d1fb4bdcbc31a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "9812de5485f6bbc277f2cffe7b5e0a6a",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 315000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:17:41",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Thrombolytic Medications,Antianginal Medications,Angiotensin-Converting Enzyme (ACE) Inhibitors,β-Adrenergic Blockers,Antilipemic Medications,Calcium Channel Blockers,Antihypertensive Medications,Vasodilators,Antidysrhythmic Medications,Anticoagulants,Antiplatelet Medications,Cardiac Glycoside",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:51",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:51",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:14:41",
+            "id": "1fd8a57d16a059c9f95828a1bf1b58fe",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "179749cdd42f4032975202e39487347f",
+                                "content": "Safety measures"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e4b9cf743614944b2a31aceb72d2b13",
+                                "content": "Self-care measures"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "544752676f2c4509bd13ab29833f2db9",
+                                "content": "Food items to avoid"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3114e829faeb40f69ecda50cb5621fe5",
+                                "content": "Knowledge about medication therapy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "179749cdd42f4032975202e39487347f",
+                                    "content": "Safety measures"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e4b9cf743614944b2a31aceb72d2b13",
+                                    "content": "Self-care measures"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "544752676f2c4509bd13ab29833f2db9",
+                                    "content": "Food items to avoid"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3114e829faeb40f69ecda50cb5621fe5",
+                                    "content": "Knowledge about medication therapy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a plan of care for a client with a diagnosis of severe vertigo from Ménière's disease who is being admitted to the hospital. What is the priority nursing intervention in the plan of care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMénière's disease can cause severe vertigo in the client. The priority in the nursing care plan would focus on safety issues to prevent falls or injury to the client. Although self-care measures, dietary therapy, and medication therapy may be components of the plan of care, safety is the priority issue.\n",
+                        "id": "003ed50481e34ee5b64ed332069ebcf9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "482fe8dcc49d4eea8474a8921f0bfd26",
+                                "content": "It is okay to take a shower and wash my hair."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "61358e1f16224ed5b211989ace3262f9",
+                                "content": "I can resume my tennis lessons starting next week."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2797efbedb048c7b07b44b7525593dd",
+                                "content": "I need to drink liquids through a straw for the next 2 to 3 weeks."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0e3fe2361683486b9b074709aaa33b2e",
+                                "content": "I will take stool softeners as prescribed by my primary health care provider."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "482fe8dcc49d4eea8474a8921f0bfd26",
+                                    "content": "It is okay to take a shower and wash my hair."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "61358e1f16224ed5b211989ace3262f9",
+                                    "content": "I can resume my tennis lessons starting next week."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2797efbedb048c7b07b44b7525593dd",
+                                    "content": "I need to drink liquids through a straw for the next 2 to 3 weeks."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0e3fe2361683486b9b074709aaa33b2e",
+                                    "content": "I will take stool softeners as prescribed by my primary health care provider."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Which statement made by the client who had ear surgery to treat otosclerosis would indicate that the client understands postoperative home care instructions?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAfter ear surgery, the client needs to avoid straining when having a bowel movement. The client needs to be instructed to avoid drinking with a straw, air travel, and excessive coughing for 2 to 3 weeks. The client needs to avoid getting the head wet, washing the hair, and showering for 1 week and to avoid rapid movements of the head, bouncing, and bending over for 3 weeks.",
+                        "id": "0816b82917284585b0518641e045d7fd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbf539e988494853991937763c13abda",
+                                "content": "Tinnitus is common."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de9a3e8496a5493f8205ef25a5d17e9f",
+                                "content": "Disturbance in balance occurs."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34e19c3761ce4f15bccb926c0bc0ada2",
+                                "content": "Conduction hearing loss often happens."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79176979dc5e4754b49e12f3b180298d",
+                                "content": "Sensorineural hearing loss is not unusual."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbf539e988494853991937763c13abda",
+                                    "content": "Tinnitus is common."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de9a3e8496a5493f8205ef25a5d17e9f",
+                                    "content": "Disturbance in balance occurs."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34e19c3761ce4f15bccb926c0bc0ada2",
+                                    "content": "Conduction hearing loss often happens."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79176979dc5e4754b49e12f3b180298d",
+                                    "content": "Sensorineural hearing loss is not unusual."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The student nurse is working with a registered nurse (RN) in the clinic. The RN is educating the student nurse on dysfunction in the area of the semicircular canals of the ear. Which statement by the student nurse indicates that the teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe semicircular canals function to aid the client's sense of balance. These canals do not relate to hearing function or the presence of tinnitus.\n",
+                        "id": "102fd7f6bfdf4deab21e49eac0467998",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65c90d636cd840f097b0423921d0141e",
+                                "content": "The hearing aid would not be worn if an ear infection is present."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2730eae30a5f44f991e236002a3146bf",
+                                "content": "The ear mold for the hearing aid needs to be washed with mild soap and water once a month."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "631e9e9b579046b4a23b2143408acc1b",
+                                "content": "The hearing aid needs to be removed from the ear at the end of the day and then turned off after removal."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ade598e5c234a05b86d2e44a1ebd7e0",
+                                "content": "The hearing aid contains a lifelong battery, so you will not need to be concerned about changing batteries."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65c90d636cd840f097b0423921d0141e",
+                                    "content": "The hearing aid would not be worn if an ear infection is present."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2730eae30a5f44f991e236002a3146bf",
+                                    "content": "The ear mold for the hearing aid needs to be washed with mild soap and water once a month."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "631e9e9b579046b4a23b2143408acc1b",
+                                    "content": "The hearing aid needs to be removed from the ear at the end of the day and then turned off after removal."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ade598e5c234a05b86d2e44a1ebd7e0",
+                                    "content": "The hearing aid contains a lifelong battery, so you will not need to be concerned about changing batteries."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse in the health care clinic is providing instructions to a client regarding the use of a hearing aid. Which statement is most appropriate for the nurse to include?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client needs to be instructed that the hearing aid would not be worn if an ear infection is present. The client needs to wash the ear mold frequently with mild soap and water and use a pipe cleaner to clean the cannula of the hearing aid. The client needs to be instructed to turn off the hearing aid before removing it from the ear to prevent any squealing feedback. The hearing aid needs to be turned off when not in use, and the client would keep extra batteries on hand at all times.",
+                        "id": "196811338b534ed1a955476b3cdeffbc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eeb47c1000d64d8d897fceb053a4b90e",
+                                "content": "I need to restrict my carbohydrate intake."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9ccb6ee855334e28b2d9536e276f0bf0",
+                                "content": "I need to drink at least 3 L of fluid per day."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "131bf2e3895b414f948ff9a5a27f107a",
+                                "content": "I need to maintain a low-fat and low-cholesterol diet."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de5113e5744e4b42879555ff411ccd04",
+                                "content": "I need to be sure to consume foods that are low in sodium."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eeb47c1000d64d8d897fceb053a4b90e",
+                                    "content": "I need to restrict my carbohydrate intake."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9ccb6ee855334e28b2d9536e276f0bf0",
+                                    "content": "I need to drink at least 3 L of fluid per day."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "131bf2e3895b414f948ff9a5a27f107a",
+                                    "content": "I need to maintain a low-fat and low-cholesterol diet."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de5113e5744e4b42879555ff411ccd04",
+                                    "content": "I need to be sure to consume foods that are low in sodium."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing diet instructions to a client with Ménière's disease who is being discharged from the hospital after admission for an acute attack. Which statement, if made by the client, indicates an understanding of the dietary measures to take to help prevent further attacks?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nDietary changes, such as salt and fluid restrictions, that reduce the amount of endolymphatic fluid are sometimes prescribed for the client with Ménière's disease. The client would be instructed to consume a low-sodium diet and restrict fluids as prescribed. Although helpful to treat other disorders, low-fat, low-carbohydrate, and low-cholesterol diets are not specifically prescribed for the client with Ménière's disease.",
+                        "id": "27b43f2908754f058de30dc1a5ffd938",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "01f439004f3f4dc393877a7fd6f16d93",
+                                "content": "This procedure involves removing a bone from the ear."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7f7f3d426c0476ab4a4d49bf870767f",
+                                "content": "This procedure will reduce the pressure you feel in your ear and allow fluid to drain."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "933311cea38a4d00be58e03fd12bc206",
+                                "content": "This procedure involves removing the eardrum and inserting a mechanical bone in the ear."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f16b2afd08a4ebea5d021c662abb6a7",
+                                "content": "This procedure involves removal of the middle ear and insertion of a ring around the ear bones that will vibrate on sound to promote better hearing."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "01f439004f3f4dc393877a7fd6f16d93",
+                                    "content": "This procedure involves removing a bone from the ear."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7f7f3d426c0476ab4a4d49bf870767f",
+                                    "content": "This procedure will reduce the pressure you feel in your ear and allow fluid to drain."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "933311cea38a4d00be58e03fd12bc206",
+                                    "content": "This procedure involves removing the eardrum and inserting a mechanical bone in the ear."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f16b2afd08a4ebea5d021c662abb6a7",
+                                    "content": "This procedure involves removal of the middle ear and insertion of a ring around the ear bones that will vibrate on sound to promote better hearing."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client being prepared for a myringotomy asks the nurse about the procedure. The nurse would respond by making which statement?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nA myringotomy is a surgical procedure that allows fluid to drain from the middle ear. A small incision is created in the eardrum (tympanic membrane) to relieve pressure that may be caused by excessive buildup of fluid. A tympanostomy tube is inserted into the eardrum to keep the middle ear aerated and to prevent reaccumulation of fluid. A mastoidectomy, in which the mastoid bone is removed or partially removed, may be recommended to treat chronic otitis media that is resistant to other therapies. The tympanic membrane is a structure needed to transmit sound from the air to the ossicles inside the middle ear and then to the oval window in the fluid-filled cochlea. Thus, it ultimately converts and amplifies vibration in air to vibration in fluid. Therefore, options 1, 3, and 4 are incorrect descriptions.",
+                        "id": "29d652b30caa46be9332026100b8c6c4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c657a5421a204b5a9c180cf49ca2681f",
+                                "content": "Speak loudly to the client to facilitate hearing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5f9add720314444b35a0f39cd0cb113",
+                                "content": "Speak directly into the impaired ear to facilitate hearing."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a7cad7cce364e4da5f1f6d419008010",
+                                "content": "Speak in a normal tone and face the client when speaking."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da16b47a869c4b81889dbd4bacd31b98",
+                                "content": "Speak frequently to the client to provide sensory stimulation."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c657a5421a204b5a9c180cf49ca2681f",
+                                    "content": "Speak loudly to the client to facilitate hearing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5f9add720314444b35a0f39cd0cb113",
+                                    "content": "Speak directly into the impaired ear to facilitate hearing."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a7cad7cce364e4da5f1f6d419008010",
+                                    "content": "Speak in a normal tone and face the client when speaking."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da16b47a869c4b81889dbd4bacd31b98",
+                                    "content": "Speak frequently to the client to provide sensory stimulation."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The home care nurse is visiting a client who was recently diagnosed with a hearing impairment. The nurse would prepare to instruct the client's spouse in which measure that will facilitate communication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMeasures that facilitate hearing in the client with a hearing impairment include speaking in a normal tone, avoiding shouting, talking directly to the client while facing the client, and speaking clearly. If the client does not seem to understand what is said, the statement needs to be expressed differently. Moving closer to the client and toward the better ear may facilitate communication, but talking directly into the impaired ear needs to be avoided.",
+                        "id": "2ae5e29a9b5c4bd5ae626bad3844bcb1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c2d1f7158ee458eb874a459d752c580",
+                                "content": "Pruritus"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f211860ffc7a4762b5f277b1428c6d41",
+                                "content": "Tinnitus"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f614319125b84251bb705aa0ede6bd0f",
+                                "content": "Hearing loss"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "92249cc893fb49fbbffece322ebcdf49",
+                                "content": "Burning in the ear"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c2d1f7158ee458eb874a459d752c580",
+                                    "content": "Pruritus"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f211860ffc7a4762b5f277b1428c6d41",
+                                    "content": "Tinnitus"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f614319125b84251bb705aa0ede6bd0f",
+                                    "content": "Hearing loss"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "92249cc893fb49fbbffece322ebcdf49",
+                                    "content": "Burning in the ear"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is diagnosed with a problem involving the inner ear. Which is the most common client complaint associated with a problem involving this part of the ear?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nTinnitus is the most common complaint of clients with otological problems, especially problems involving the inner ear. Symptoms of tinnitus range from mild ringing in the ear, which can go unnoticed during the day, to a loud roaring in the ear, which can interfere with the client's thinking process and attention span. Options 1, 3, and 4 are not associated specifically with problems of the inner ear.",
+                        "id": "2b86443b91a04ccf988ffecb0dfc182b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c6843095fdec4f8e81961841b33cd116",
+                                "content": "Dizziness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c81147c4d35444ca9883bb023d671833",
+                                "content": "Photophobia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "867fe4e8eb9e4fa384c10f979236ddd2",
+                                "content": "Hemianopsia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64f03d529d5b49c4910afc95112a4f82",
+                                "content": "Blurred vision"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c6843095fdec4f8e81961841b33cd116",
+                                    "content": "Dizziness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c81147c4d35444ca9883bb023d671833",
+                                    "content": "Photophobia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "867fe4e8eb9e4fa384c10f979236ddd2",
+                                    "content": "Hemianopsia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64f03d529d5b49c4910afc95112a4f82",
+                                    "content": "Blurred vision"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client diagnosed with Ménière's disease. The nurse plans care, understanding that this disorder is characterized by which manifestation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMénière's disease is a disorder of the inner ear characterized by dizziness and loss of balance. This requires the addition of safety to the care plan. The clinical manifestations in the remaining options are not found with Ménière's disease.",
+                        "id": "309229ef16c0495095174ee45b26d36d",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce32e32dd30543469cde37e09b40bcee",
+                                "content": "Maintain a supine position."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0b284d27d4d49c19ea21d6d21490f77",
+                                "content": "Change the ear dressing daily."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac842d4a90ca438b8924f4cd7d5c535c",
+                                "content": "Monitor for signs of facial nerve injury."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b95b30cc42441f38ccaa4c5223993d9",
+                                "content": "Position the client on the affected side to promote drainage."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce32e32dd30543469cde37e09b40bcee",
+                                    "content": "Maintain a supine position."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0b284d27d4d49c19ea21d6d21490f77",
+                                    "content": "Change the ear dressing daily."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac842d4a90ca438b8924f4cd7d5c535c",
+                                    "content": "Monitor for signs of facial nerve injury."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b95b30cc42441f38ccaa4c5223993d9",
+                                    "content": "Position the client on the affected side to promote drainage."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assigned to care for a client after a mastoidectomy. Which nursing intervention would be a priority in the care of this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter mastoidectomy, the nurse would assess for signs of facial nerve injury (cranial nerve VII), such as facial drooping. The nurse needs to monitor vital signs and inspect the dressing for drainage or bleeding. The nurse also would monitor for signs of pain, dizziness, or nausea. The client needs to be instructed to lie on the unaffected side to prevent disruption of the surgical site. The head of the bed needs to be elevated at least 30 degrees. The client probably will have sutures, an outer ear packing, and a bulky dressing, which is removed on approximately the sixth day postoperatively.",
+                        "id": "331d4c4a3d664d93b8e9cad72a9f49dc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "a5b2a8ad1cb57b874aafd51689108c3f",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 312000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:14:42",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Problems of the Ea",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

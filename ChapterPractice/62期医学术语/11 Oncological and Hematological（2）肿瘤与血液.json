@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:19:57",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:19:57",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:26:06",
+            "id": "423cf8432619548f5dfc16eac3e07eaf",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57025289ec7c4b6a8b3a9f1be514817b",
+                                "content": "血细胞比容"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c071ba0b32c7469e91ad12884a7dfe91",
+                                "content": "血细胞压积"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86fc09a82adb4953ab38986619233fa0",
+                                "content": "红细胞沉降率"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "770eae23d63142dd88e3fa6a2650b9bc",
+                                "content": "红细胞成熟率"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57025289ec7c4b6a8b3a9f1be514817b",
+                                    "content": "血细胞比容"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c071ba0b32c7469e91ad12884a7dfe91",
+                                    "content": "血细胞压积"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86fc09a82adb4953ab38986619233fa0",
+                                    "content": "红细胞沉降率"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "770eae23d63142dd88e3fa6a2650b9bc",
+                                    "content": "红细胞成熟率"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "erythrocyte sedimentation rate",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "红细胞沉降率",
+                        "id": "0598fa7176b2451994f507f4388d3709",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0595204d944c907d74a591d84ac2d93",
+                                "content": "扩散"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab2ba921a07550e24b5b2e26941186de",
+                                "content": "转移"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05a1ef0fa6b7cb297b2185ef26b7d43c",
+                                "content": "渗透作用"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2eb5efa44cd9e7c0d4c44f0718b5b674",
+                                "content": "药膏"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0595204d944c907d74a591d84ac2d93",
+                                    "content": "扩散"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab2ba921a07550e24b5b2e26941186de",
+                                    "content": "转移"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05a1ef0fa6b7cb297b2185ef26b7d43c",
+                                    "content": "渗透作用"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2eb5efa44cd9e7c0d4c44f0718b5b674",
+                                    "content": "药膏"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "osmosis",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "渗透作用",
+                        "id": "09181f0fdcaa4476b0f1a46a83abdb32",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a29bb234403a4b256babfee8988a688b",
+                                "content": "增生"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f75ce6b7014856b29a7a7f6efbd808f",
+                                "content": "肿大"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d7557ec324074c0ce3fcb866fd9a8e18",
+                                "content": "巨噬细胞"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6efc75fae713845171f25ebb67480899",
+                                "content": "吞噬作用"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a29bb234403a4b256babfee8988a688b",
+                                    "content": "增生"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f75ce6b7014856b29a7a7f6efbd808f",
+                                    "content": "肿大"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d7557ec324074c0ce3fcb866fd9a8e18",
+                                    "content": "巨噬细胞"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6efc75fae713845171f25ebb67480899",
+                                    "content": "吞噬作用"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "macrophages",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "巨噬细胞",
+                        "id": "0b3b45c23d4f4f2cbfaa544c139702cf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a006d822f8654b9fe5dd6052b4f0ebe",
+                                "content": "下腹部"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2dfd52d3eeab7c901be0e5714676ed0a",
+                                "content": "上腹部"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5a5415b08d946afacd635437973e7bb",
+                                "content": "食管部"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "957f8cd28a4fd599731702472573170e",
+                                "content": "壶腹部"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a006d822f8654b9fe5dd6052b4f0ebe",
+                                    "content": "下腹部"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2dfd52d3eeab7c901be0e5714676ed0a",
+                                    "content": "上腹部"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5a5415b08d946afacd635437973e7bb",
+                                    "content": "食管部"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "957f8cd28a4fd599731702472573170e",
+                                    "content": "壶腹部"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "epigastric",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "上腹部",
+                        "id": "0c9c1d1325124e44bda944005ae2df77",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dc781560b69d4b9f9f95580fc005d8a9",
+                                "content": "良性肿瘤"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f67441cf35c84678b2f793300517ff02",
+                                "content": "浸润性肿瘤"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a768aa7b6484a67b94e34892623baf4",
+                                "content": "停止生长的肿瘤"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f957d5da692f4fa3992a7e9e746cb346",
+                                "content": "恶性肿瘤后缀"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dc781560b69d4b9f9f95580fc005d8a9",
+                                    "content": "良性肿瘤"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f67441cf35c84678b2f793300517ff02",
+                                    "content": "浸润性肿瘤"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a768aa7b6484a67b94e34892623baf4",
+                                    "content": "停止生长的肿瘤"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f957d5da692f4fa3992a7e9e746cb346",
+                                    "content": "恶性肿瘤后缀"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "carcinoma",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "恶性肿瘤后缀",
+                        "id": "1195f5d3ce5f4f5ba9acae19c3bef337",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1bbaa747f7884ea99c86574ee39d3624",
+                                "content": "气管"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1d44c72f91d14f91a49771f0f40efcc5",
+                                "content": "肺泡"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de92166ef31e414e8aae1bbc5ac1b170",
+                                "content": "胸腔"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1de6975f7b324fde9d87556073d396ee",
+                                "content": "血栓"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1bbaa747f7884ea99c86574ee39d3624",
+                                    "content": "气管"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1d44c72f91d14f91a49771f0f40efcc5",
+                                    "content": "肺泡"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de92166ef31e414e8aae1bbc5ac1b170",
+                                    "content": "胸腔"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1de6975f7b324fde9d87556073d396ee",
+                                    "content": "血栓"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "thrombus",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "血栓",
+                        "id": "11ae2d24e8594329b8c860ad408ebb42",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49276b9b58eeffe01f9dae25adba2064",
+                                "content": "遵医嘱的"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb1654a04c04a94e0e6b88445dfcff80",
+                                "content": "肥胖"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3dfa151e8fc15473795e29e83a318196",
+                                "content": "反叛的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58c87fdc20323a78e3b123136d8db3b7",
+                                "content": "观察细致的"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49276b9b58eeffe01f9dae25adba2064",
+                                    "content": "遵医嘱的"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb1654a04c04a94e0e6b88445dfcff80",
+                                    "content": "肥胖"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3dfa151e8fc15473795e29e83a318196",
+                                    "content": "反叛的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58c87fdc20323a78e3b123136d8db3b7",
+                                    "content": "观察细致的"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "obesity",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "肥胖",
+                        "id": "11e42d4f0f694e5383240b08b3b59339",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe62a45659716806edc546261e2516cf",
+                                "content": "白血球"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7606f14384540611a4108b67571da3b4",
+                                "content": "血色素"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fec7ebd9cf9679654bc3b7a2884636e0",
+                                "content": "红外线"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e2480b20706d9a8d90c5f042b279abf",
+                                "content": "红细胞"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe62a45659716806edc546261e2516cf",
+                                    "content": "白血球"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7606f14384540611a4108b67571da3b4",
+                                    "content": "血色素"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fec7ebd9cf9679654bc3b7a2884636e0",
+                                    "content": "红外线"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e2480b20706d9a8d90c5f042b279abf",
+                                    "content": "红细胞"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Erythrocytes",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "红细胞",
+                        "id": "17d3b56789e648bfb18d36a893d91a13",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3e4814d19e2b00521693417a1c54a442",
+                                "content": "淋巴细胞"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f3ca45c5be7116293591ed8c467a5c6",
+                                "content": "淋巴结"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ba1e33780ab7368bb7e696a96dd7405",
+                                "content": "淋巴的，淋巴管"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2925efba27d98cb6117658bae61cb4fa",
+                                "content": "淋巴液"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3e4814d19e2b00521693417a1c54a442",
+                                    "content": "淋巴细胞"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f3ca45c5be7116293591ed8c467a5c6",
+                                    "content": "淋巴结"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ba1e33780ab7368bb7e696a96dd7405",
+                                    "content": "淋巴的，淋巴管"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2925efba27d98cb6117658bae61cb4fa",
+                                    "content": "淋巴液"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>lymphatic</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "<p><strong>lymphatic</strong></p><p><strong>1.形容词（adj.）</strong></p><p>核心释义：<strong>淋巴的；与淋巴系统相关的</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">2.名词（n.）</strong></p><p>核心释义：<strong>淋巴管；淋巴组织</strong>（常用复数形式&nbsp;lymphatics）</p><p><br></p>",
+                        "id": "206466f7a06346da8748463c67177bba",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b4c8a43f2f545f699bf27db1c20dceb",
+                                "content": "抗炎药"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e189fa6b57b4b70bf19ede0fab96c32",
+                                "content": "抗生素"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "052ba57e0f5d4ff6bad7c68f3b6b0a0e",
+                                "content": "免疫抑制药"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c16a17920d254c48a4fec855424014bd",
+                                "content": "抗代谢药物"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b4c8a43f2f545f699bf27db1c20dceb",
+                                    "content": "抗炎药"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e189fa6b57b4b70bf19ede0fab96c32",
+                                    "content": "抗生素"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "052ba57e0f5d4ff6bad7c68f3b6b0a0e",
+                                    "content": "免疫抑制药"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c16a17920d254c48a4fec855424014bd",
+                                    "content": "抗代谢药物"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "antimetabolites",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "抗代谢药物",
+                        "id": "26097fa55dfc4708a015ef004773f966",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "b01d39d18640dac414b8b3bdcfb1dcf6",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 317000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:26:07",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Oncological and hematological 肿瘤与血",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

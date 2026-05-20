@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:27",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:27",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:22:32",
+            "id": "d980bb9531a54ed0ac2fd438b0038d9f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8f4bba8fe1736e308752cf1b540e59fd",
+                                "content": "（名词后缀）有…特性的；充满…的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af28d543104143788951f761c6735cdc",
+                                "content": "穿透；贯穿"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a658703ebc568aa4fb38e717687a8d5e",
+                                "content": "截瘫；半身不遂"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c118a21fdadad8e94a6c219972965219",
+                                "content": "正常体温"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8f4bba8fe1736e308752cf1b540e59fd",
+                                    "content": "（名词后缀）有…特性的；充满…的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af28d543104143788951f761c6735cdc",
+                                    "content": "穿透；贯穿"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a658703ebc568aa4fb38e717687a8d5e",
+                                    "content": "截瘫；半身不遂"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c118a21fdadad8e94a6c219972965219",
+                                    "content": "正常体温"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-y”   例：myopathy",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "（名词后缀）有…特性的；充满…的   例：myopathy 肌病",
+                        "id": "05c0d1c655a148958c0ff69a0554d74a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7ad4c2a66775840510aeefad8b1cbbf",
+                                "content": "拐杖；支柱"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32965b226d6ca48b5f8293372a32c2dd",
+                                "content": "颅；头盖"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c5f885fb0e86c2bada03f90a3de9f4b",
+                                "content": "缝术；修复术"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f20c9c24ed7a4d461a0bdb27ecbc245",
+                                "content": "妥协；危害"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7ad4c2a66775840510aeefad8b1cbbf",
+                                    "content": "拐杖；支柱"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32965b226d6ca48b5f8293372a32c2dd",
+                                    "content": "颅；头盖"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c5f885fb0e86c2bada03f90a3de9f4b",
+                                    "content": "缝术；修复术"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f20c9c24ed7a4d461a0bdb27ecbc245",
+                                    "content": "妥协；危害"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-rrhaphy”   例：nephrorrhaphy",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "缝术；修复术   例：nephrorrhaphy 肾缝术",
+                        "id": "06d11ff74d5349a6bc8cee524099802c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a15c10b13c1d179fbb2cc915eaa97bf",
+                                "content": "眼内的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c63de300cc41168f9f4eee9cb433560b",
+                                "content": "间歇的；断断续续的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fbca90bf8c08e34778b8142a4419f2af",
+                                "content": "干涉；妨碍"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5038ba65a8bd68a0b2e93c66ea47168a",
+                                "content": "起源；由来；进化"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a15c10b13c1d179fbb2cc915eaa97bf",
+                                    "content": "眼内的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c63de300cc41168f9f4eee9cb433560b",
+                                    "content": "间歇的；断断续续的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fbca90bf8c08e34778b8142a4419f2af",
+                                    "content": "干涉；妨碍"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5038ba65a8bd68a0b2e93c66ea47168a",
+                                    "content": "起源；由来；进化"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-genesis”   例：lithogenesis",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "起源；由来；进化   例：lithogenesis 结石发生；结石形成",
+                        "id": "0843a8c0c60f4b21b72b5853dcfafc2f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "86272ec3d7375ce48658116d15f5f5e1",
+                                "content": "骨髓炎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b338cb46545ce08782f488659300d04",
+                                "content": "成骨细胞"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2a759f4babc71a7563231861a3abbb46",
+                                "content": "（名词后缀）血液成分的异常；血症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da44f394e0f366e43f0f10d97e47f8d6",
+                                "content": "骨关节炎"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "86272ec3d7375ce48658116d15f5f5e1",
+                                    "content": "骨髓炎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b338cb46545ce08782f488659300d04",
+                                    "content": "成骨细胞"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2a759f4babc71a7563231861a3abbb46",
+                                    "content": "（名词后缀）血液成分的异常；血症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da44f394e0f366e43f0f10d97e47f8d6",
+                                    "content": "骨关节炎"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-emia”     例：hyperglycemia",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "（名词后缀）血液成分的异常；血症   例：hyperglycemia 多糖症；高血糖症",
+                        "id": "0939ba828b4e407ebf3a443b8e9f6d7e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e97e34cff389b7d3e5c858e579349987",
+                                "content": "肾上腺皮质类脂醇"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "25cc99d13e03df5907b3d3ced1f9e37f",
+                                "content": "拥挤；拥塞"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de3480bcc4e91a0c9a9f9388587e7d95",
+                                "content": "（名词后缀）医疗术"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "704b4d7e19209b435d9827b0885453db",
+                                "content": "妥协；危害"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e97e34cff389b7d3e5c858e579349987",
+                                    "content": "肾上腺皮质类脂醇"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "25cc99d13e03df5907b3d3ced1f9e37f",
+                                    "content": "拥挤；拥塞"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de3480bcc4e91a0c9a9f9388587e7d95",
+                                    "content": "（名词后缀）医疗术"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "704b4d7e19209b435d9827b0885453db",
+                                    "content": "妥协；危害"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-iatry”      例：psychiatry",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "（名词后缀）医疗术   例：psychiatry 精神病学；精神病治疗法",
+                        "id": "09dcf987e2d241fa90bf4df1cec64e14",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7411fc25ed978289e4837e2786b3852a",
+                                "content": "吞咽困难"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6683aab4ca4cb0c5330a406962d92dbb",
+                                "content": " 肾上腺素"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0197072b5639b27f7c86b964f80c1340",
+                                "content": "向…方；向…侧"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba571b50b1d79f9ddcb459e19a9ab000",
+                                "content": "头晕"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7411fc25ed978289e4837e2786b3852a",
+                                    "content": "吞咽困难"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6683aab4ca4cb0c5330a406962d92dbb",
+                                    "content": " 肾上腺素"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0197072b5639b27f7c86b964f80c1340",
+                                    "content": "向…方；向…侧"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba571b50b1d79f9ddcb459e19a9ab000",
+                                    "content": "头晕"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-ad”  例：caudad",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "向…方；向…侧   例：caudad 近尾部",
+                        "id": "09e8ca77ab5245d685f162c0a73a6cfc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d482c191561f4c5308276a29420eb8b8",
+                                "content": "血栓形成；血栓症"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d948ed8111d9b5d12228bb776e19aea8",
+                                "content": "（名词后缀）小"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "908e719701fae83accf57fd578f569cb",
+                                "content": "丘脑"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f160660465026383339902b3706857e1",
+                                "content": "吞下；忍受"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d482c191561f4c5308276a29420eb8b8",
+                                    "content": "血栓形成；血栓症"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d948ed8111d9b5d12228bb776e19aea8",
+                                    "content": "（名词后缀）小"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "908e719701fae83accf57fd578f569cb",
+                                    "content": "丘脑"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f160660465026383339902b3706857e1",
+                                    "content": "吞下；忍受"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-ule”   例：venule",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "（名词后缀）小   例：venule 小静脉",
+                        "id": "0e135f5608fb4956bafe6e426f8a855a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f7261a24442f40ddb7f89e68cebc5b45",
+                                "content": "dermato-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "327df8e9f28542a69d1d920f385da836",
+                                "content": "-cardio-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9906fac39f44d188cf00d3f62e8f449",
+                                "content": "-logy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95f63e754cff45598852f24bef72675e",
+                                "content": "-pathy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f7261a24442f40ddb7f89e68cebc5b45",
+                                    "content": "dermato-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "327df8e9f28542a69d1d920f385da836",
+                                    "content": "-cardio-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9906fac39f44d188cf00d3f62e8f449",
+                                    "content": "-logy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95f63e754cff45598852f24bef72675e",
+                                    "content": "-pathy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Dermatology和\"Cardiology\"共同含有的词根是？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "两个单词都以\"-logy\"结尾，表示“学科”。",
+                        "id": "12280724d9cc40c4b624b94f13bd9d8a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "076b941512caa8118eec0e1051b296c9",
+                                "content": "保留"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b07b6f8535e88cd4837706701edbbd30",
+                                "content": "（adj.后缀）与…有关；…的"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c155085201963e77b48d921f77aa8080",
+                                "content": "n. 视力"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9b10a8f98eb3d469f84b82f3b129f69",
+                                "content": "n. 通风设备；空气流通"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "076b941512caa8118eec0e1051b296c9",
+                                    "content": "保留"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b07b6f8535e88cd4837706701edbbd30",
+                                    "content": "（adj.后缀）与…有关；…的"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c155085201963e77b48d921f77aa8080",
+                                    "content": "n. 视力"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9b10a8f98eb3d469f84b82f3b129f69",
+                                    "content": "n. 通风设备；空气流通"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "“-ary”       例：pulmonary",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ed63d2073da90e7563e993ca6fdcee3b",
+                        "difficulty": "中级",
+                        "textAnalysis": "（adj.后缀）与…有关；…的   例：pulmonary 肺的；肺部的；患肺部疾病的",
+                        "id": "17fb23a266ba424ca75f479878b698d3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f2d7552b85a42029bdace5d5b5f57a5",
+                                "content": "-ician"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da8c6f769b7d4f20b6b062849d05498d",
+                                "content": "-etic"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "653406ddd707431089e1b43811d3a52c",
+                                "content": "-ous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "abf61f12bf914678ba1e6f40010f9aad",
+                                "content": "-ic"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f2d7552b85a42029bdace5d5b5f57a5",
+                                    "content": "-ician"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da8c6f769b7d4f20b6b062849d05498d",
+                                    "content": "-etic"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "653406ddd707431089e1b43811d3a52c",
+                                    "content": "-ous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "abf61f12bf914678ba1e6f40010f9aad",
+                                    "content": "-ic"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "What suffix indicates a physician or specialist in a particular branch of medicine?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "used to form nouns referring to a person who specializes in a particular field",
+                        "id": "1a754147d10d46c2b0d8a64d70c76c3b",
+                        "mark": "0",
+                        "collectionState": "1"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "d13d0616ec27abc448ab3108f3aa92be",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 124000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:22:32",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "后",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

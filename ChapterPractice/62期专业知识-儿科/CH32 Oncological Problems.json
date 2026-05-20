@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:59:23",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:59:23",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:03:56",
+            "id": "843cf590fc973278d343587d4133dc75",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3296c032c48a4fedac54139d44a7dba2",
+                                "content": "Reinforce the dressing."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82545902bb6346f994d1a1dc12841566",
+                                "content": "Notify the surgeon."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0729a73b74064237bd2aaab273509ef2",
+                                "content": "Document the findings and continue to monitor."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75d450fd084d491091c4752bf9545af9",
+                                "content": "Circle the area of drainage and continue to monitor."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3296c032c48a4fedac54139d44a7dba2",
+                                    "content": "Reinforce the dressing."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82545902bb6346f994d1a1dc12841566",
+                                    "content": "Notify the surgeon."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0729a73b74064237bd2aaab273509ef2",
+                                    "content": "Document the findings and continue to monitor."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75d450fd084d491091c4752bf9545af9",
+                                    "content": "Circle the area of drainage and continue to monitor."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a child for bleeding after surgery for removal of a brain tumor. The nurse checks the head dressing for the presence of blood and notes a colorless drainage on the back of the dressing. Which intervention would the nurse perform immediately?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nColorless drainage on the dressing in a child after craniotomy indicates the presence of cerebrospinal fluid and would be reported to the surgeon immediately. Options 1, 3, and 4 are not the immediate nursing intervention because they do not address the need for immediate intervention to prevent complications.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Intracranial Regulation, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words                            Test-Taking Strategy:\nNote the strategic word, immediately. Eliminate options 3 and 4 because they are comparable or alike and delay necessary intervention. Also, note the words colorless drainage. This would alert you quickly to the possibility of the presence of cerebrospinal fluid and direct you to the correct option.",
+                        "id": "0084383dd28946b08fc0a628a4d24b77",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c382c428bf0446a5a9df15cafefd289b",
+                                "content": "Aspiration of bone marrow from the child"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bef382e3e749410cab869e0e98401757",
+                                "content": "Obtaining bone marrow from the child's twin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "957c311cd07c41288696a7d560d679c0",
+                                "content": "Obtaining bovine (cow) bone marrow and administering it to the child"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "097ddf2bb1fe47f49ac57e0f4b7ed1cb",
+                                "content": "Obtaining bone marrow from a donor who matches the child's tissue type"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c382c428bf0446a5a9df15cafefd289b",
+                                    "content": "Aspiration of bone marrow from the child"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bef382e3e749410cab869e0e98401757",
+                                    "content": "Obtaining bone marrow from the child's twin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "957c311cd07c41288696a7d560d679c0",
+                                    "content": "Obtaining bovine (cow) bone marrow and administering it to the child"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "097ddf2bb1fe47f49ac57e0f4b7ed1cb",
+                                    "content": "Obtaining bone marrow from a donor who matches the child's tissue type"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child is scheduled for allogeneic bone marrow transplantation (BMT). The parent of the child asks the nurse about the procedure. The nurse would provide which description about the BMT?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn allogeneic BMT, a donor who matches the child's tissue type is found. That bone marrow is then given to the child. In autologous BMT, the child undergoes general anesthesia for aspiration of the bone marrow, which is then processed in the laboratory and frozen until that marrow needs to be infused back into the child. Syngeneic BMT is done when the child has an identical twin. Administering bovine bone marrow to the child is not used in BMT.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Cellular Regulation, Clinical Judgment\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, allogeneic bone marrow transplantation (BMT). Knowledge about the three types of BMT procedures is required to answer this question. Remember that in an allogeneic BMT, a donor who matches the child's tissue type is found.",
+                        "id": "067c7c0d95264ec7a18cde29d6656855",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e525338e583419bb7db87893a2e9b71",
+                                "content": "\"I would dress my child in loose-fitting clothing.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ee75c1ca7b54ae6a198ac82c64a3bc2",
+                                "content": "\"I won't need to limit the amount of sun that my child gets.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "348b5502ad494924a74e867c0b1b914d",
+                                "content": "\"My child may experience fatigue and need more rest periods.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "766879050ea346acb013cc8dcbf999c1",
+                                "content": "\"I need to try to provide food and fluids to prevent dehydration.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e525338e583419bb7db87893a2e9b71",
+                                    "content": "\"I would dress my child in loose-fitting clothing.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ee75c1ca7b54ae6a198ac82c64a3bc2",
+                                    "content": "\"I won't need to limit the amount of sun that my child gets.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "348b5502ad494924a74e867c0b1b914d",
+                                    "content": "\"My child may experience fatigue and need more rest periods.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "766879050ea346acb013cc8dcbf999c1",
+                                    "content": "\"I need to try to provide food and fluids to prevent dehydration.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is providing home care instructions to the parent of a child receiving radiation therapy. Which statement by the parent indicates a need for further teaching?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nSun protection is essential during radiation treatments. The child would not be exposed to sun during these treatments because of the risk of an alteration of skin integrity. The statements in the remaining options reflect appropriate measures for the child during radiation therapy.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Teaching and Learning\nPriority Concepts: Tissue Integrity, Patient Education\nStrategies: Negative Event Query, Strategic Words           Test-Taking Strategy:\nNote the strategic words, need for further teaching. These words indicate a negative event query and the need to select the incorrect statement. Read each option carefully, noting the words won't need to limit in option 2. Also recall that the risk for altered skin integrity is a concern with radiation therapy.",
+                        "id": "0ef351bfe86540438cc3dba81a9c0998",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c25faa5a1a784e7ab48f52175728cbdf",
+                                "content": "Fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cebf4b2cda69417a82699252f31ab1ed",
+                                "content": "Malaise"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22b484329fd94d18bcc0be9b8a296984",
+                                "content": "Painful lymph nodes in the supraclavicular area"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ea2d352bce2347d8bd354253506fa59f",
+                                "content": "Painless and movable lymph nodes in the cervical area"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c25faa5a1a784e7ab48f52175728cbdf",
+                                    "content": "Fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cebf4b2cda69417a82699252f31ab1ed",
+                                    "content": "Malaise"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22b484329fd94d18bcc0be9b8a296984",
+                                    "content": "Painful lymph nodes in the supraclavicular area"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ea2d352bce2347d8bd354253506fa59f",
+                                    "content": "Painless and movable lymph nodes in the cervical area"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the record of a 10-year-old child suspected of having Hodgkin's disease. Which characteristic manifestation would the nurse anticipate to be documented in the assessment notes?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nClinical manifestations specifically associated with Hodgkin's disease include painless, firm, and movable adenopathy in the cervical and supraclavicular areas. Hepatosplenomegaly is also noted. Although anorexia, weight loss, fever, and malaise are associated with Hodgkin's disease, these manifestations are vague and can be seen in many disorders.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Cellular Regulation, Clinical Judgment\nStrategies: Subject                          Test-Taking Strategy:\nFocus on the subject, characteristic manifestations of Hodgkin's disease. Eliminate options 1 and 2 first because these symptoms are general and vague. Next think about the pathophysiology associated with Hodgkin's disease. Recalling that painless adenopathy is associated with Hodgkin's disease will direct you to the correct option.",
+                        "id": "1353f9edf4c54a9caa9f1e146ca21621",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "93060e186de24684b6c59e56b165ef4f",
+                                "content": "Palpating the abdomen for a mass"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "868bd4c416c44842b89034ffbad3ddfc",
+                                "content": "Assessing the urine for the presence of hematuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "671eb48e300342e6a63b4db706977ce8",
+                                "content": "Monitoring the temperature for the presence of fever"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f761d23a97354660b7b75e3df7d8a7e2",
+                                "content": "Monitoring the blood pressure for the presence of hypertension"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "93060e186de24684b6c59e56b165ef4f",
+                                    "content": "Palpating the abdomen for a mass"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "868bd4c416c44842b89034ffbad3ddfc",
+                                    "content": "Assessing the urine for the presence of hematuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "671eb48e300342e6a63b4db706977ce8",
+                                    "content": "Monitoring the temperature for the presence of fever"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f761d23a97354660b7b75e3df7d8a7e2",
+                                    "content": "Monitoring the blood pressure for the presence of hypertension"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The parent of a 4-year-old child tells the pediatric nurse that the child's abdomen seems to be swollen. During further assessment, the parent tells the nurse that the child is eating well and that the activity level of the child is unchanged. The nurse, suspecting the possibility of Wilms' tumor, would plan to avoid which during the physical assessment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWilms' tumor is the most common intra-abdominal and kidney tumor of childhood. If Wilms' tumor is suspected, the tumor mass would not be palpated by the nurse. Excessive manipulation can cause seeding of the tumor and spread of the cancerous cells. Hematuria, fever, and hypertension are clinical manifestations associated with Wilms' tumor.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Cellular Regulation, Safety\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, the action to avoid. Knowledge that this tumor is an intra-abdominal and kidney tumor will assist in eliminating options 2 and 4 because of the relationship of these options to renal function. Next, thinking about the effect of palpating the tumor will direct you to the correct answer from the remaining options.",
+                        "id": "17537b59501b4a44a7e07900bf288856",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "461daa2459b842d5a4ea2cbfd86bcf90",
+                                "content": "There is no need to be concerned."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca9b9ffc31234fef94efd464d3a40d1f",
+                                "content": "\"Bring the child into the clinic for a vaccine.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "41aedecb68aa40b9b654e9d871ff1262",
+                                "content": "\"Keep the child out of school for a 2-week period.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c1bdbd15eaa04f6b85523fdff47e6e07",
+                                "content": "\"Monitor the child for an elevated temperature, and call the clinic if this happens.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "461daa2459b842d5a4ea2cbfd86bcf90",
+                                    "content": "There is no need to be concerned."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca9b9ffc31234fef94efd464d3a40d1f",
+                                    "content": "\"Bring the child into the clinic for a vaccine.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "41aedecb68aa40b9b654e9d871ff1262",
+                                    "content": "\"Keep the child out of school for a 2-week period.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c1bdbd15eaa04f6b85523fdff47e6e07",
+                                    "content": "\"Monitor the child for an elevated temperature, and call the clinic if this happens.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A 9-year-old child with leukemia is in remission and has returned to school. The school nurse calls the parents of the child and tells them that a classmate has just been diagnosed with chicken pox. The parents immediately call the clinic nurse because the leukemic child has never had chicken pox. Which is an appropriate response by the clinic nurse to the parents?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nImmunocompromised children are unable to fight varicella adequately. Chicken pox can be deadly to the immunocompromised child. If an immunocompromised child who has not had chicken pox is exposed to someone with varicella, the child would receive varicella-zoster immune globulin within 96 hours of exposure. All other options are incorrect because they do nothing to minimize the chances of developing the disease.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Infection, Safety\nStrategies: Subject                 Test-Taking Strategy:\nFocus on the subject, a child with leukemia who has never had chicken pox. Recall that a child with leukemia is immunocompromised and is unable to fight infection. Telling the parents that there is no need to be concerned is an incorrect statement and is nontherapeutic. Keeping the child out of school for 2 weeks and monitoring for fever do not protect the child from future encounters with chicken pox.",
+                        "id": "17a93a13ecb44ff2a9c5c9d13008d2a9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2dc4f350955e4c06a275d8a6c33039e3",
+                                "content": "Administer acetaminophen to the child."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "282bc228825f4a088cd3a8a77b2f1a99",
+                                "content": "Involve the child in a diversional activity."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90607de404894346853fae47c8aacef3",
+                                "content": "Ask the child about taking a \"baby aspirin.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0c56bd8f4ac4df591ce91e942be2ac9",
+                                "content": "Apply heat to the child's knees and elevate the knees on a pillow."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2dc4f350955e4c06a275d8a6c33039e3",
+                                    "content": "Administer acetaminophen to the child."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "282bc228825f4a088cd3a8a77b2f1a99",
+                                    "content": "Involve the child in a diversional activity."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90607de404894346853fae47c8aacef3",
+                                    "content": "Ask the child about taking a \"baby aspirin.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0c56bd8f4ac4df591ce91e942be2ac9",
+                                    "content": "Apply heat to the child's knees and elevate the knees on a pillow."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a 3-year-old child with a diagnosis of acute lymphocytic leukemia. The child is crying and complaining that the knees hurt. Which nursing intervention is most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAcetaminophen is acceptable and does not have anticoagulant properties. Diversional activities would not relieve the pain. Aspirin is not administered to the child with acute lymphocytic leukemia (ALL) because of its anticoagulant properties, and administering aspirin could lead to bleeding in the joints. Heat also would increase the pain by increasing circulation to the area.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Caring\nPriority Concepts: Pain, Clinical Judgment\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic words, most appropriate. Eliminate option 2 because it is unrelated to a physiological need. Knowing that aspirin would increase bleeding that may be occurring in a child with ALL will help to eliminate option 3. Regarding the remaining options, use the principles related to heat effects to eliminate option 4.",
+                        "id": "19eeef4b48e845a4b34e50fb351c7f79",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f8bb5f112bb48e38ee58e6190b0a302",
+                                "content": "Prepare to change the dressing."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "368a371b14644d969bbf877555738348",
+                                "content": "Recheck the dressing in 1 hour."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cbb97be1fa25468786fdf408fa4339af",
+                                "content": "Check the operative record to determine whether a drain is in place."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fb7043190fca4860adcb58573a6c859d",
+                                "content": "Document the findings and notify the primary health care provider immediately."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f8bb5f112bb48e38ee58e6190b0a302",
+                                    "content": "Prepare to change the dressing."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "368a371b14644d969bbf877555738348",
+                                    "content": "Recheck the dressing in 1 hour."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cbb97be1fa25468786fdf408fa4339af",
+                                    "content": "Check the operative record to determine whether a drain is in place."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fb7043190fca4860adcb58573a6c859d",
+                                    "content": "Document the findings and notify the primary health care provider immediately."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring for bleeding in a child following surgery for removal of a brain tumor. The nurse checks the head dressing and notes the presence of dried blood on the back of the dressing. The child is alert and oriented, and the vital signs and neurological signs are stable. Which nursing action is most appropriate initially?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe initial nursing action is to determine whether a drain is in place because the drainage seen on the dressing could be attributed to this. The nurse would not change the dressing without a primary health care provider's prescription. Rechecking the dressing is an appropriate action, but it is not the initial action. The findings would be documented; however, there is no reason to notify the primary health care provider immediately. The initial action would be to further assess the cause of the drainage.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Intracranial Regulation, Clinical Judgment\nStrategies: Steps of the Nursing Process, Strategic Words                                    Test-Taking Strategy:\nNote the strategic words, most appropriate initially. Read the information in the question carefully to answer the question. Note that the drainage is dried blood and that the child is alert with stable vital and neurological signs. Using the steps of the nursing process will direct you to option 3, the only assessment action.",
+                        "id": "1cf13f7f278348419403d10712369017",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "606b72b3e8e64ef78a60a49a2235b56b",
+                                "content": "Elevated vanillylmandelic acid urinary levels"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6dfc557de4de4a0eaaee16a0396750e5",
+                                "content": "The presence of blast cells in the bone marrow"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c35a54f7a6e4c1687a3da737bd13ea3",
+                                "content": "The presence of Epstein-Barr virus in the blood"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5973a836f39472d8530e0a83b1fc578",
+                                "content": "The presence of Reed-Sternberg cells in the lymph nodes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "606b72b3e8e64ef78a60a49a2235b56b",
+                                    "content": "Elevated vanillylmandelic acid urinary levels"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6dfc557de4de4a0eaaee16a0396750e5",
+                                    "content": "The presence of blast cells in the bone marrow"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c35a54f7a6e4c1687a3da737bd13ea3",
+                                    "content": "The presence of Epstein-Barr virus in the blood"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5973a836f39472d8530e0a83b1fc578",
+                                    "content": "The presence of Reed-Sternberg cells in the lymph nodes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A diagnosis of Hodgkin's disease is suspected in a 12-year-old child. Several diagnostic studies are performed to determine the presence of this disease. Which diagnostic test result will confirm the diagnosis of Hodgkin's disease?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHodgkin's disease (a type of lymphoma) is a malignancy of the lymph nodes. The presence of giant, multinucleated cells (Reed-Sternberg cells) is the classic characteristic of this disease. Elevated levels of vanillylmandelic acid in the urine may be found in children with neuroblastoma. The presence of blast cells in the bone marrow indicates leukemia. Epstein-Barr virus is associated with infectious mononucleosis.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Cellular Regulation, Clinical Judgment\nStrategies: Subject                           Test-Taking Strategy:\nFocus on the subject, confirmatory diagnostic tests for Hodgkin's disease. Think about the pathophysiology associated with Hodgkin's disease. Remember that the Reed-Sternberg cell is characteristic of Hodgkin's disease.",
+                        "id": "2b7b290b07be4dcb840380b947c875e2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f0dcdb2d0ea540ed88ab8c70466c2a44",
+                                "content": "Vomiting"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c69e5238dec41f79b2f02652a3af0a8",
+                                "content": "Bulging anterior fontanel"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c12044d0df1a421885cb53507651e96e",
+                                "content": "Increasing head circumference"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "428ab65736e5499b9f0dec59f2093da0",
+                                "content": "Complaints of a frontal headache"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f0dcdb2d0ea540ed88ab8c70466c2a44",
+                                    "content": "Vomiting"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c69e5238dec41f79b2f02652a3af0a8",
+                                    "content": "Bulging anterior fontanel"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c12044d0df1a421885cb53507651e96e",
+                                    "content": "Increasing head circumference"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "428ab65736e5499b9f0dec59f2093da0",
+                                    "content": "Complaints of a frontal headache"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a 3-year-old child for signs and symptoms of increased intracranial pressure (ICP) after a craniotomy. The nurse would plan to monitor for which early sign or symptom of increased ICP?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe brain, although well protected by the solid bony cranium, is highly susceptible to pressure that may accumulate within the enclosure. Volume and pressure must remain constant within the brain. A change in the size of the brain, such as occurs with edema or increased volume of intracranial blood or cerebrospinal fluid without a compensatory change, leads to an increase in ICP, which may be life-threatening. Vomiting, an early sign of increased ICP, can become excessive as pressure builds up and stimulates the medulla in the brainstem, which houses the vomiting center. Children with open fontanels (posterior fontanel closes at 2 to 3 months; anterior fontanel closes at 12 to 18 months) compensate for ICP changes by skull expansion and subsequent bulging fontanels. When the fontanels have closed, nausea, excessive vomiting, diplopia, and headaches become pronounced, with headaches becoming more prevalent in older children.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Oncological\nHealth Problem: Pediatric-Specific: Cancers\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Development, Intracranial Regulation\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, early; focus on the age of the child, and use age as the key to principles of growth and development. Knowing when the fontanels close and focusing on the child's age as 3 years eliminates options 2 and 3. The subjective symptom of headache in option 4 is unreliable in a 3-year-old, so eliminate this option.",
+                        "id": "3c12c17373e24c5a94b47f50ebb30499",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "32dcbb99ae8081f141ef3ed88202bc0a",
+            "lessonItemId": "d82235a21ed33830dc81b0689b69a66a",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 272000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:03:57",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Oncological Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

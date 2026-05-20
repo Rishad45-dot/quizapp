@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:18",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:18",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:23:26",
+            "id": "03a60bc836c53546cdfb4dbf5e9e651f",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "393f781301244fda95dd8d215074daeb",
+                                "content": "肥胖"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a84307e70e2047fba88738dc70a57e05",
+                                "content": "糖尿病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c7954dcdd342490fa5df20479e6a699e",
+                                "content": "中风"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d02acfc6cd1945eeb2a15337a9a36345",
+                                "content": "哮喘"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "393f781301244fda95dd8d215074daeb",
+                                    "content": "肥胖"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a84307e70e2047fba88738dc70a57e05",
+                                    "content": "糖尿病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c7954dcdd342490fa5df20479e6a699e",
+                                    "content": "中风"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d02acfc6cd1945eeb2a15337a9a36345",
+                                    "content": "哮喘"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Obesity 是什么",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Obesity 指的是身体质量指数（BMI）高到一定程度，表明身体脂肪过多，可能导致健康问题。",
+                        "id": "027dc255b8c848268ba1e5b0b4b7f54a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "74ed776d99a1496ab1de9441644bf852",
+                                "content": "性别"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05f090b9be7a414bafe03a16f2a1fe5a",
+                                "content": "性取向"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9e9047083844cc69950ab9c5e38b7fb",
+                                "content": "国籍"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0df459fa7bc4fa4b3bd3fe050f39cb7",
+                                "content": "宗教信仰"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "74ed776d99a1496ab1de9441644bf852",
+                                    "content": "性别"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05f090b9be7a414bafe03a16f2a1fe5a",
+                                    "content": "性取向"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9e9047083844cc69950ab9c5e38b7fb",
+                                    "content": "国籍"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0df459fa7bc4fa4b3bd3fe050f39cb7",
+                                    "content": "宗教信仰"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Sexual Orientation 指的是什么",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Sexual Orientation 指的是一个人在情感和性吸引方面的倾向，如异性恋、同性恋、双性恋等。",
+                        "id": "05c07a732d874e50a5190cd7f0ea9f05",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5997ebc16704ef89872b08e115e4362",
+                                "content": "双相情感障碍"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e48ef935d414417a93cdb613d05094ba",
+                                "content": "注意力缺陷多动障碍"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "270af3507e46410ebfed164b4839537c",
+                                "content": "抑郁症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62f43f7b0a2b45e1a6a7ed29a5b047d8",
+                                "content": "焦虑症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5997ebc16704ef89872b08e115e4362",
+                                    "content": "双相情感障碍"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e48ef935d414417a93cdb613d05094ba",
+                                    "content": "注意力缺陷多动障碍"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "270af3507e46410ebfed164b4839537c",
+                                    "content": "抑郁症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62f43f7b0a2b45e1a6a7ed29a5b047d8",
+                                    "content": "焦虑症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Bipolar Disorder 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Bipolar Disorder，也称双相情感障碍，是一种精神疾病，特征是情绪高涨（躁狂）和抑郁的极端波动。",
+                        "id": "0bb6a5fc2d134b908554ed35b3b6a838",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ac483a70a1ab4efcbc42d87734cf3ee5",
+                                "content": "药物储备柜"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b95f3b836999450d991119b7271274af",
+                                "content": "医疗废物容器"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3e82219862e48fb8d45173ab189b761",
+                                "content": "急救箱"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fffa60aa046e4c9dada735af7f208a06",
+                                "content": "手术工具箱"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ac483a70a1ab4efcbc42d87734cf3ee5",
+                                    "content": "药物储备柜"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b95f3b836999450d991119b7271274af",
+                                    "content": "医疗废物容器"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3e82219862e48fb8d45173ab189b761",
+                                    "content": "急救箱"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fffa60aa046e4c9dada735af7f208a06",
+                                    "content": "手术工具箱"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "First Aid Kit 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "First Aid Kit 是一个包含基本医疗用品和设备的箱子，用于在医疗救助到来前提供初步的急救。",
+                        "id": "0c1fd59add914d9eb64fa94a77713762",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a628bb34d0f741d69243885e3d5fe702",
+                                "content": "分类病人的严重程度"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ded8b04fb4346198a4e25edd0c3dec0",
+                                "content": "进行手术"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "878f868c0630456ab02a2ad2288dd539",
+                                "content": "医疗记录"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48a4ed3e41fa4e5b877f10ff069ba546",
+                                "content": "患者教育"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a628bb34d0f741d69243885e3d5fe702",
+                                    "content": "分类病人的严重程度"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ded8b04fb4346198a4e25edd0c3dec0",
+                                    "content": "进行手术"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "878f868c0630456ab02a2ad2288dd539",
+                                    "content": "医疗记录"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48a4ed3e41fa4e5b877f10ff069ba546",
+                                    "content": "患者教育"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Triage 在紧急医疗中的作用是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Triage 在紧急医疗中是根据病人的病情严重程度和紧急性进行分类，以确定治疗的优先顺序。",
+                        "id": "29f9d436f54448748c25cd01818d0f0c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee07ef7209bf4b6ab418dad033fb7345",
+                                "content": "性传播疾病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2618768bc97a49dd919e5af7676cacf1",
+                                "content": "严重创伤疾病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "14850b9fd600425081a25cc63fbcb078",
+                                "content": "严重疾病治疗"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ecbd58045824983a1c2db332661b4a5",
+                                "content": "睡眠障碍治疗"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee07ef7209bf4b6ab418dad033fb7345",
+                                    "content": "性传播疾病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2618768bc97a49dd919e5af7676cacf1",
+                                    "content": "严重创伤疾病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "14850b9fd600425081a25cc63fbcb078",
+                                    "content": "严重疾病治疗"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ecbd58045824983a1c2db332661b4a5",
+                                    "content": "睡眠障碍治疗"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "STD (Sexually Transmitted Disease) 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "STD 是指通过性行为传播的疾病，如淋病、梅毒、艾滋病等。",
+                        "id": "2a235d6934a348fbb73d9b47a9c5482c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4721cc714b4f419caaccaa8783722a27",
+                                "content": "健康平等"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6e4b075e11b8421ea95c757cefe48ddd",
+                                "content": "健康差异"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "430f5d8503834a46bba7dae7f68b709c",
+                                "content": "健康保险"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c05e0d57aae3465c923c0381195ea224",
+                                "content": "健康教育"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4721cc714b4f419caaccaa8783722a27",
+                                    "content": "健康平等"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6e4b075e11b8421ea95c757cefe48ddd",
+                                    "content": "健康差异"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "430f5d8503834a46bba7dae7f68b709c",
+                                    "content": "健康保险"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c05e0d57aae3465c923c0381195ea224",
+                                    "content": "健康教育"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Disparities 在健康领域通常指什么",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "在健康领域，disparities 通常指不同群体之间在健康结果和健康服务获取上的差异。",
+                        "id": "5105d3bf92104382849149443c1a3456",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e382f2815105d48038fa48ad4d4774da",
+                                "content": "安全、卫生、美观"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5593f122f23582debb2943ba886f7a99",
+                                "content": "利润最大化、效率、客户满意度"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02d91661c8200f3a3bc5069a3a6a4062",
+                                "content": "自主性、不伤害、行善、正义"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7c38e99980e17ad1382ccd8e52265b93",
+                                "content": "创新、竞争、技术"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e382f2815105d48038fa48ad4d4774da",
+                                    "content": "安全、卫生、美观"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5593f122f23582debb2943ba886f7a99",
+                                    "content": "利润最大化、效率、客户满意度"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02d91661c8200f3a3bc5069a3a6a4062",
+                                    "content": "自主性、不伤害、行善、正义"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7c38e99980e17ad1382ccd8e52265b93",
+                                    "content": "创新、竞争、技术"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>Ethics 在医疗领域通常涉及哪些原则？</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>在医疗领域，伦理通常涉及自主性（尊重患者的选择）、不伤害（避免对患者造成伤害）、行善（为患者的利益采取行动）、正义（公平地分配医疗资源）等原则。</p>",
+                        "id": "5eb5141834254088a43f097841db3e7e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7634261bf54e48e5985c84867ef6aee5",
+                                "content": "同意"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a72d8b22e2414d6b9f7e94ec48422ed2",
+                                "content": "投诉"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b33764b5d4b941f08b7f179d9702a178",
+                                "content": "咨询"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "76122d9f04b043a6940bc9b0bc5e841b",
+                                "content": "检查"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7634261bf54e48e5985c84867ef6aee5",
+                                    "content": "同意"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a72d8b22e2414d6b9f7e94ec48422ed2",
+                                    "content": "投诉"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b33764b5d4b941f08b7f179d9702a178",
+                                    "content": "咨询"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "76122d9f04b043a6940bc9b0bc5e841b",
+                                    "content": "检查"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Consent 在医疗领域是什么意思？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Consent 在医疗领域指的是患者对医疗程序或治疗的同意，通常需要是知情同意。",
+                        "id": "5f1b9982251f47f498782c8cdc474945",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "60745fb77c224fcfbc94239158d74282",
+                                "content": "癫痫发作"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31302daf794c4789897e0afc39153d8c",
+                                "content": "心脏病发作"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9d1b3ef0a3f4d0c8715db257098e371",
+                                "content": "中风"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c11885ccdc414d8da8c5ef27e33fdc51",
+                                "content": "呼吸困难"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "60745fb77c224fcfbc94239158d74282",
+                                    "content": "癫痫发作"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31302daf794c4789897e0afc39153d8c",
+                                    "content": "心脏病发作"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9d1b3ef0a3f4d0c8715db257098e371",
+                                    "content": "中风"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c11885ccdc414d8da8c5ef27e33fdc51",
+                                    "content": "呼吸困难"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Seizure 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Seizure 通常指的是癫痫发作，这是一种由大脑异常电活动引起的短暂症状，可能包括意识丧失、肌肉抽搐等。",
+                        "id": "63adda6d5fbb48c89fb5f3c059763417",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "5c8a770386867cc08c9f2ad4be11470d",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 99000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:23:26",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

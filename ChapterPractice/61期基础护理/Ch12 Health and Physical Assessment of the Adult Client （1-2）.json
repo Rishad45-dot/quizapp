@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:35:30",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:35:30",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:40:40",
+            "id": "acfafc6c5e2e8ef9a8fcdaecda561b52",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5a4b60cd7b8941dfb63730d5bbe315fa",
+                                "content": "Stop the IV infusion."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f417698db7c74b89b9e256a42a937488",
+                                "content": "Apply ice to the catheter site."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dbf2c041c3b240c7b8dfa4a721c50165",
+                                "content": "Readjust the rate of IV administration."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd7c777f877b4e04ac2e1721f23ae257",
+                                "content": "Contact the primary health care provider."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5a4b60cd7b8941dfb63730d5bbe315fa",
+                                    "content": "Stop the IV infusion."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f417698db7c74b89b9e256a42a937488",
+                                    "content": "Apply ice to the catheter site."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dbf2c041c3b240c7b8dfa4a721c50165",
+                                    "content": "Readjust the rate of IV administration."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd7c777f877b4e04ac2e1721f23ae257",
+                                    "content": "Contact the primary health care provider."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is making initial rounds on the nursing unit to check the condition of assigned clients. One client complains of discomfort at the intravenous (IV) site, and the nurse notes that the site is cool, pale, and swollen and that the solution is infusing slowly. What action would the nurse take first?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe IV must be stopped immediately because it has infiltrated. The remaining options allow the IV solution to continue to flow and further exacerbate the infiltration rather than intervene to stop it.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Health Assessment/Physical Exam: Integumentary\nHealth Problem: Adult Health: Integumentary: Inflammation/Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Data in the Question, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, first. Then note the data in the question—discomfort at the IV site and an IV site that is cool, pale, and swollen. These signs and symptoms indicate infiltration of the IV catheter, so the first action is to stop the flow of IV solution. The nurse would then remove the IV catheter. Eliminate options 2, 3, and 4 because these actions are not aimed at stopping the problem.\n \n   ",
+                        "id": "02dbcbb874114fbc8d6b56afb8d19656",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c2ee34677c342f0bd41dd139325ca21",
+                                "content": "Test the corneal reflexes."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "25ca289ab4ef4bf596f9a00143e6114d",
+                                "content": "Test the six cardinal positions of gaze."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c17821998024b01ad40f1b6c11b6e6d",
+                                "content": "Test visual acuity, using a Snellen eye chart."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f505ad52eb424661b2f8db5be2147daa",
+                                "content": "Test sensory function by asking the client to close the eyes and then lightly touching the forehead, cheeks, and chin."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c2ee34677c342f0bd41dd139325ca21",
+                                    "content": "Test the corneal reflexes."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "25ca289ab4ef4bf596f9a00143e6114d",
+                                    "content": "Test the six cardinal positions of gaze."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c17821998024b01ad40f1b6c11b6e6d",
+                                    "content": "Test visual acuity, using a Snellen eye chart."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f505ad52eb424661b2f8db5be2147daa",
+                                    "content": "Test sensory function by asking the client to close the eyes and then lightly touching the forehead, cheeks, and chin."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is testing the extraocular movements in a client to assess for muscle weakness in the eyes. The nurse would implement which assessment technique to assess for muscle weakness in the eye?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nTesting the six cardinal positions of gaze (diagnostic positions test) is done to assess for muscle weakness in the eyes. The client is asked to hold the head steady and then to follow movement of an object through the positions of gaze. The client should follow the object in a parallel manner with the two eyes. A Snellen eye chart assesses visual acuity and cranial nerve II (optic). Testing sensory function by having the client close the eyes and then lightly touching areas of the face and testing the corneal reflexes assess cranial nerve V (trigeminal).\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Ear, Nose, Throat\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Sensory Perception\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, assessing for muscle weakness in the eyes. Note the relationship between the words extraocular movements in the question and positions of gaze in the correct option.\n ",
+                        "id": "0d6785c1480a412b8a2fbf5ab718bf4a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65c2775ddc994242be834c31a1020be3",
+                                "content": "Assess for drainage from the wound."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cfad9a9264344b10a145db7fc5772408",
+                                "content": "Assess for redness around the wound edges."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f84a21b4d60d44a99a72d5004e8892fc",
+                                "content": "Palpate for swelling around the wound edges."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "77da00853a15490cb3f1cb5be85a1fc7",
+                                "content": "Palpate for increased skin temperature around the wound edges."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65c2775ddc994242be834c31a1020be3",
+                                    "content": "Assess for drainage from the wound."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cfad9a9264344b10a145db7fc5772408",
+                                    "content": "Assess for redness around the wound edges."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f84a21b4d60d44a99a72d5004e8892fc",
+                                    "content": "Palpate for swelling around the wound edges."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "77da00853a15490cb3f1cb5be85a1fc7",
+                                    "content": "Palpate for increased skin temperature around the wound edges."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a wound in a dark-skinned client for signs of erythema. How would the nurse best determine the presence of erythema?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nErythema is a form of macula characterized by diffuse redness of the skin. In a dark-skinned client, erythema is best determined by palpating for increased skin temperature. Redness around the wound edges may be difficult to note in the dark-skinned client. Swelling and drainage from the wound are not specific indicators of erythema.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Integumentary\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Tissue Integrity, Clinical Judgment\nStrategies: Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best. Focus on the words dark-skinned and erythema. Recalling that erythema refers to redness and inflammation and noting that the question describes a dark-skinned client will direct you to the correct option.\n \n   ",
+                        "id": "1442386d38224b9086397bd346b373e7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b3418d28a1048c6811726c4b214cff1",
+                                "content": "The history"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cea71be87a4141788b4d04da05f35a3e",
+                                "content": "The physical assessment"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a1464716fce4f84a07ca9216106b6d6",
+                                "content": "The nursing plan of care"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f755387c1e7248ec920a34efb083664d",
+                                "content": "The medication reconciliation"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b3418d28a1048c6811726c4b214cff1",
+                                    "content": "The history"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cea71be87a4141788b4d04da05f35a3e",
+                                    "content": "The physical assessment"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a1464716fce4f84a07ca9216106b6d6",
+                                    "content": "The nursing plan of care"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f755387c1e7248ec920a34efb083664d",
+                                    "content": "The medication reconciliation"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is completing the admission assessment of a client who is intellectually disabled. Which part of the client encounter may require more time to complete?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIntellectually disabled clients tend to have difficulty trying to remember their medical history. It may be necessary for the nurse to take more time to ask questions in a variety of different ways when collecting the history data. The physical assessment, nursing plan of care, and medication reconciliation portions, although they rely on the history, take less time because they require less client questioning.\n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Health History\nHealth Problem: Mental Health: Neurodevelopmental Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Communication, Functional Ability\nStrategies: Subject\n   Test-Taking Strategy:\nNote the subject, conducting an admission assessment for an intellectually disabled client and the part that may take more time to complete. Recall that individuals in this population group tend to have difficulty remembering their medical history. The use of questioning in a variety of ways may be necessary to obtain the necessary assessment data.\n \n   ",
+                        "id": "21056466fc2c49f0a7345c0a39062ce2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8d4eafe89fc48a5a5887df239088d22",
+                                "content": "Pull the pinna up and back before inserting the speculum."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1dd668786a994b62a44e1eaedf12d21a",
+                                "content": "Pull the earlobe down and back before inserting the speculum."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8b95be402b540398742df646aafa2eb",
+                                "content": "Tilt the client's head forward and down before inserting the speculum."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43b9d005745f4681848cbeb8fd9685a3",
+                                "content": "Use the smallest speculum available to decrease the discomfort of the exam."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8d4eafe89fc48a5a5887df239088d22",
+                                    "content": "Pull the pinna up and back before inserting the speculum."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1dd668786a994b62a44e1eaedf12d21a",
+                                    "content": "Pull the earlobe down and back before inserting the speculum."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8b95be402b540398742df646aafa2eb",
+                                    "content": "Tilt the client's head forward and down before inserting the speculum."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43b9d005745f4681848cbeb8fd9685a3",
+                                    "content": "Use the smallest speculum available to decrease the discomfort of the exam."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing to perform an otoscopic examination on an adult client. Which action would the nurse take to perform this examination?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe nurse tilts the client's head slightly away and holds the otoscope upside down as if it were a large pen. The pinna is pulled up and back, and the nurse visualizes the external canal while slowly inserting the speculum. The remaining options are incorrect procedures.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Ear, Nose, Throat\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Sensory Perception, Health Promotion\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the procedure for performing the otoscopic examination. Note that the question addresses the adult client. Use basic knowledge regarding the administration of ear medications to select the correct option. In the adult, the pinna is pulled up and back.\n \n   ",
+                        "id": "2dbaa17d81094285b96e9c72babedacb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ce3729885a845d596b2400ed43e0b1c",
+                                "content": "Pedal pulses are present."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb0434e4802741559759ccb5318ee0aa",
+                                "content": "Temperature is 99.6° F (37.6° C)."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ad93ea2c39e4c7aac6c71d39b4e406f",
+                                "content": "Client reports difficulty sleeping at night."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62e25ca37de0471a9cd10720b906675c",
+                                "content": "Client has an apical pulse rate of 56 beats/min."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ce3729885a845d596b2400ed43e0b1c",
+                                    "content": "Pedal pulses are present."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb0434e4802741559759ccb5318ee0aa",
+                                    "content": "Temperature is 99.6° F (37.6° C)."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ad93ea2c39e4c7aac6c71d39b4e406f",
+                                    "content": "Client reports difficulty sleeping at night."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62e25ca37de0471a9cd10720b906675c",
+                                    "content": "Client has an apical pulse rate of 56 beats/min."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse performs a physical assessment on a client and gathers both subjective and objective data. Which would the nurse document as subjective data?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe purpose of a physical assessment is to collect both subjective data and objective data. Subjective data, collected during the health history, consist of information that the client says about self. Objective data are obtained through the physical examination and vital sign measurements, what the nurse observes, and laboratory study and diagnostic test results.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: General Assessment Techniques\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Health Promotion\nStrategies: Comparable or Alike Options, Subject\n   Test-Taking Strategy:\nFocus on the subject, subjective data. Eliminate options 1, 2, and 4 because they are comparable or alike and all indicate data that the nurse would obtain from the physical examination.\n \n   ",
+                        "id": "2f0b960ed7564f4d88a391d2addb1ae4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b720362baefc41ef8c45aade07791ca8",
+                                "content": "\"I will tell you when I see the colored dots.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "542027f7e216470188adc0710bb0390a",
+                                "content": "\"I will tell you when I see the flash of bright light.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "702172a1de5a4e34afbc8a7f8ba0facf",
+                                "content": "\"I will tell you when the small object is in my visual field.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "14bfcb5f55bf4934b76e45f5425913f7",
+                                "content": "\"I will tell you when the blocks and shapes are in my visual field.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b720362baefc41ef8c45aade07791ca8",
+                                    "content": "\"I will tell you when I see the colored dots.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "542027f7e216470188adc0710bb0390a",
+                                    "content": "\"I will tell you when I see the flash of bright light.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "702172a1de5a4e34afbc8a7f8ba0facf",
+                                    "content": "\"I will tell you when the small object is in my visual field.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "14bfcb5f55bf4934b76e45f5425913f7",
+                                    "content": "\"I will tell you when the blocks and shapes are in my visual field.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A clinic nurse is preparing to evaluate the peripheral vision of a client by the confrontational method. Which statement demonstrates that the client correctly understands the instructions for the test?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe confrontational method assumes that the examiner has normal peripheral vision. The client sits facing the examiner approximately 2 ft (60 cm) away. The eyes of the client and the examiner need to be at the same level. Both the examiner and the client cover the eyes directly opposite to one another and stare at each other's uncovered eye. A small object is brought in from the peripheral visual field, and the superior, temporal, inferior, and nasal fields are evaluated. The client states when the object is seen.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Health Assessment/Physical Exam: Ear, Nose, Throat\nHealth Problem: Adult Health: Eye: Visual Problems/Refractive Errors\nIntegrated Process: Teaching and Learning\nPriority Concepts: Sensory Perception, Health Promotion\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, testing peripheral vision. Note the relationship between the word peripheral in the question and the description in the correct option.\n ",
+                        "id": "35f0d57b752c42bea59150673137d006",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84565cd05a0d4b14a9c2d005a45d7dcc",
+                                "content": "Sclerae"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38fa759155a449f0bdfd882e608d1bcb",
+                                "content": "Oral mucosa"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2ed29a7d31e46b1b6759a5f75d089e0",
+                                "content": "Sole of the foot"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b77de9ca6074f7180c69399701b45f1",
+                                "content": "Palm of the hand"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84565cd05a0d4b14a9c2d005a45d7dcc",
+                                    "content": "Sclerae"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38fa759155a449f0bdfd882e608d1bcb",
+                                    "content": "Oral mucosa"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2ed29a7d31e46b1b6759a5f75d089e0",
+                                    "content": "Sole of the foot"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b77de9ca6074f7180c69399701b45f1",
+                                    "content": "Palm of the hand"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is examining a dark-skinned client for the presence of petechiae. The nurse will best observe these lesions in which body area?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIn a dark-skinned client, petechiae are best observed in the conjunctivae and oral mucosa. Jaundice would be best noted in the sclerae of the eye. Cyanosis would be best noted in the palms of the hands and soles of the feet.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Integumentary\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Comparable or Alike Options, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best. Eliminate options 3 and 4 first because they are comparable or alike and are similar types of body areas. Regarding the remaining choices, focusing on the word petechiae will direct you to the correct option.\n \n   ",
+                        "id": "3d6f9845e2d8450f983db1c38e932cb4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "40cf62e250e143e781fa2b3b3ddcd4ca",
+                                "content": "A defect in the cochlea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae02f8085a97449f868b1d1d1e1ac79d",
+                                "content": "A defect in cranial nerve VIII"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aabd2b982fac45cbb216deae60d179fd",
+                                "content": "A physical obstruction to the transmission of sound waves"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62ccfb36fffd4f99bb93fc8da3beb1e2",
+                                "content": "A defect in the sensory fibers that lead to the cerebral cortex"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "40cf62e250e143e781fa2b3b3ddcd4ca",
+                                    "content": "A defect in the cochlea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae02f8085a97449f868b1d1d1e1ac79d",
+                                    "content": "A defect in cranial nerve VIII"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aabd2b982fac45cbb216deae60d179fd",
+                                    "content": "A physical obstruction to the transmission of sound waves"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62ccfb36fffd4f99bb93fc8da3beb1e2",
+                                    "content": "A defect in the sensory fibers that lead to the cerebral cortex"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client diagnosed with conductive hearing loss asks the nurse to explain the cause of the hearing problem. The nurse plans to explain to the client that this condition is caused by which problem?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nA conductive hearing loss occurs as a result of a physical obstruction to the transmission of sound waves. A sensorineural hearing loss occurs as a result of a pathological process in the inner ear such as a defect in the cochlea, a defect in cranial nerve VIII, or a defect of the sensory fibers that lead to the cerebral cortex.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Ear, Nose, Throat\nHealth Problem: Adult Health: Ear: Hearing Loss\nIntegrated Process: Teaching and Learning\nPriority Concepts: Patient Education, Sensory Perception\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, a conductive hearing loss. Note the relationship between the word conductive in the question and transmission in the correct option.\n \n   ",
+                        "id": "40a599dee59546a08cfb1e59e053249b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "069cdc74bc594c6e92475746d91e4b45",
+                                "content": "Focus only on the physical examination."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "445ee0f85e284a288f981ecebc36ef30",
+                                "content": "Obtain all information from family members."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6f59701cd8c4c7ba416f78778719c80",
+                                "content": "Plan short sessions with the client to obtain data."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "026a43f7e20b4668b7141088509091fa",
+                                "content": "Use the primary health care provider's medical history."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "069cdc74bc594c6e92475746d91e4b45",
+                                    "content": "Focus only on the physical examination."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "445ee0f85e284a288f981ecebc36ef30",
+                                    "content": "Obtain all information from family members."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6f59701cd8c4c7ba416f78778719c80",
+                                    "content": "Plan short sessions with the client to obtain data."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "026a43f7e20b4668b7141088509091fa",
+                                    "content": "Use the primary health care provider's medical history."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with pneumonia is admitted to the hospital with difficulty breathing. Which is the best approach for the nurse to use in obtaining the client's health history?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe best source of information is the client. Option 1 is incorrect; the physical examination is not part of the health history. Option 2 is incorrect because it refers to all information. Option 4 is incorrect because the primary health care provider's medical history provides data that are different from the nurse's assessment. All efforts need to be made to obtain as much information as possible from the client, using short sessions and closed-ended questions.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Health Assessment/Physical Exam: Health History\nHealth Problem: Adult Health: Respiratory: Pneumonia\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Gas Exchange, Clinical Judgment\nStrategies: Closed-ended Word, Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best. Eliminate options 1 and 2 because of the closed-ended words \"only\" and \"all.\" From the remaining choices, select option 3 because it is client focused.\n \n   ",
+                        "id": "42f287a3cb7842f19fab8181d446508f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "b31204ffb4a11db6c6c1e79a016ea9ef",
+            "lessonItemId": "9194c19ef5991fc23047020f31d8afe6",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 306000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:40:40",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Health History,General Assessment Techniques,Ear, Nose, Throat,Integumentar",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

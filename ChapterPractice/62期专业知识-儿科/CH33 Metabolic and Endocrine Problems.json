@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:59:21",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:59:21",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:03:31",
+            "id": "97006cc1c37c30fb20ba22b308971c7a",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4e151fc54bb48958397abf8141614b4",
+                                "content": "Monitor body weight."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29242a3e14e94c36b2c991b0479ab0c2",
+                                "content": "Obtain a temperature."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f671fcbc86a64260aa7dcb35b2029d3e",
+                                "content": "Monitor intake and output."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe82d0b768a54f3aa41bce08cf687274",
+                                "content": "Assess the mucous membranes."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4e151fc54bb48958397abf8141614b4",
+                                    "content": "Monitor body weight."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29242a3e14e94c36b2c991b0479ab0c2",
+                                    "content": "Obtain a temperature."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f671fcbc86a64260aa7dcb35b2029d3e",
+                                    "content": "Monitor intake and output."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe82d0b768a54f3aa41bce08cf687274",
+                                    "content": "Assess the mucous membranes."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nurse is caring for an infant with a respiratory infection and is monitoring the infant for signs of dehydration. What is the nurse's best action to determine fluid loss in the infant?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBody weight is the most reliable method of measuring body fluid loss or gain. One kilogram of weight change represents 1 L of fluid loss or gain. The remaining options are also appropriate measures to assess for dehydration, but the most reliable method is to monitor body weight.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Dehydration\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Evidence\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, best, in the question to assist in eliminating options of temperature and mucous membranes. From the remaining choices, recall that it would be very difficult to obtain an accurate measurement of output on an infant. This would direct you to the correct option.",
+                        "id": "061e55de88a44211afe47d5feff81651",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fad71d1b5c7d45a0a788993c9530f2a3",
+                                "content": "The child has no tears."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "39900cb462ad47f885fdd9f969ec90cb",
+                                "content": "Urine specific gravity is 1.035."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "66fc50fc2ddf4e229ea1b16e9902c4aa",
+                                "content": "Capillary refill is less than 2 seconds."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1f051033c21d4178bbee866d5d461ff5",
+                                "content": "Urine output is less than 1 mL/kg/hr."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fad71d1b5c7d45a0a788993c9530f2a3",
+                                    "content": "The child has no tears."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "39900cb462ad47f885fdd9f969ec90cb",
+                                    "content": "Urine specific gravity is 1.035."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "66fc50fc2ddf4e229ea1b16e9902c4aa",
+                                    "content": "Capillary refill is less than 2 seconds."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1f051033c21d4178bbee866d5d461ff5",
+                                    "content": "Urine output is less than 1 mL/kg/hr."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A child has fluid volume deficit. The nurse performs an assessment and determines that the child is improving and the deficit is resolving if which finding is noted?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIndicators that fluid volume deficit is resolving would be capillary refill less than 2 seconds, specific gravity of 1.003 to 1.030, urine output of at least 1 mL/kg/hr, and adequate tear production. A capillary refill time less than 2 seconds is the only indicator that the child is improving. Urine output of less than 1 mL/kg/hr, a specific gravity of 1.035, and no tears would indicate that the deficit is not resolving.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Adult Health: Gastrointestinal: Dehydration\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Evidence, Fluid and Electrolytes\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, assessment findings indicating that fluid volume deficit is resolving. Recall the parameters that indicate adequate hydration status. The only option that indicates an improving fluid balance is option 3. The other options indicate fluid imbalance.",
+                        "id": "0a5afc785ef441cfb0bd58cff448ceea",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7e2ce814fa604bdebb1ba7041a816a0c",
+                                "content": "At bedtime"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "221ede7d44e74ef9a8ac9a2170e2e3cb",
+                                "content": "Before supper"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aa4067c89fd84636bfd44c3f6c398d11",
+                                "content": "At midmorning"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "301474bcd9804a17bda4bce5b525e1e2",
+                                "content": "After breakfast"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7e2ce814fa604bdebb1ba7041a816a0c",
+                                    "content": "At bedtime"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "221ede7d44e74ef9a8ac9a2170e2e3cb",
+                                    "content": "Before supper"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aa4067c89fd84636bfd44c3f6c398d11",
+                                    "content": "At midmorning"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "301474bcd9804a17bda4bce5b525e1e2",
+                                    "content": "After breakfast"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An adolescent with diabetes receives 30 units of Humulin N insulin at 7:00 a.m. The nurse would monitor for a hypoglycemic episode at what time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHumulin N insulin is an intermediate-acting insulin that peaks in approximately 6 to 12 hours. It would peak before supper if given at 7:00 a.m. Short-acting insulin would peak after breakfast or midmorning. Long-acting insulins would peak at bedtime.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Analyze Cues\nCognitive Ability: Applying\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Diabetes Mellitus\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Glucose Regulation, Clinical Judgment\nStrategies: Data in the Question, Subject                  Test-Taking Strategy:\nFocus on the subject, peak times for Humulin N insulin. Focus on the data in the question—when to monitor for a hypoglycemia episode. Recalling that this type of insulin is intermediate-acting insulin and peaks in approximately 6 to 12 hours will direct you to the correct option.",
+                        "id": "1e0f41bf6a06457dba226d8a97e528a4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43bfbb1506724266ad94edcd4fcbba9f",
+                                "content": "\"I will give 8 oz of diet cola at the first sign of weakness.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52e224bc24d1434181e77ca3d3121f29",
+                                "content": "\"I will administer glucagon immediately if shakiness is felt.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c18e6ccbe28e40bb9c9a460255815b2b",
+                                "content": "\"I will check for ketones when my child is suffering from an illness.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb08bfd5be48461bbd9fbc052bcc3df2",
+                                "content": "\"I will report to the emergency department if the blood glucose level is over 150 mg/dL (8.6 mmol/L).\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43bfbb1506724266ad94edcd4fcbba9f",
+                                    "content": "\"I will give 8 oz of diet cola at the first sign of weakness.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52e224bc24d1434181e77ca3d3121f29",
+                                    "content": "\"I will administer glucagon immediately if shakiness is felt.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c18e6ccbe28e40bb9c9a460255815b2b",
+                                    "content": "\"I will check for ketones when my child is suffering from an illness.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb08bfd5be48461bbd9fbc052bcc3df2",
+                                    "content": "\"I will report to the emergency department if the blood glucose level is over 150 mg/dL (8.6 mmol/L).\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is talking to the parents of a child newly diagnosed with diabetes mellitus. Which statement by the parents indicates an understanding of preventing and managing hyperglycemia?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIt is recommended that urine be tested for ketones every 3 hours during an illness or whenever the blood glucose level is over 240 mg/dL (13.7 mmol/L) when illness is not present. The child or parents need to carry a source of glucose so that it is readily available in the event of a hypoglycemic, not hyperglycemic, reaction. A diet carbonated beverage does not meet the need of providing a glucose source during a hypoglycemic episode. If the blood glucose level is greater than 150 mg/dL (8.6 mmol/L), it is unnecessary to report to the emergency department as a first-line treatment. Glucagon is used for an unconscious client who is experiencing a hypoglycemic, not hyperglycemic, reaction and who is unable to swallow.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Diabetes Mellitus\nIntegrated Process: Teaching and Learning\nPriority Concepts: Glucose Regulation, Patient Education\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, the treatment for hyperglycemia. Recalling the description and pathophysiology of hyperglycemia and \"sick day rules\" will assist in answering this question.",
+                        "id": "1f57bec813a24d1194f5573d9b27dc34",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "730501c7b8bf4010b8d52c4f6811bfe3",
+                                "content": "Sweating and tremors"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3aa51a7462c64ad88fbceb4c6620f994",
+                                "content": "Hunger and hypertension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5cec6195f8e44d4ad19edc271a557fb",
+                                "content": "Cold, clammy skin and irritability"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e3df0e1b7f2a4fcd9ee81166cd76269e",
+                                "content": "Fruity breath odor and decreasing level of consciousness"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "730501c7b8bf4010b8d52c4f6811bfe3",
+                                    "content": "Sweating and tremors"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3aa51a7462c64ad88fbceb4c6620f994",
+                                    "content": "Hunger and hypertension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5cec6195f8e44d4ad19edc271a557fb",
+                                    "content": "Cold, clammy skin and irritability"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e3df0e1b7f2a4fcd9ee81166cd76269e",
+                                    "content": "Fruity breath odor and decreasing level of consciousness"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An adolescent client with type 1 diabetes mellitus is admitted to the emergency department for treatment of diabetic ketoacidosis. Which assessment findings would the nurse expect to note?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nDiabetic ketoacidosis is a complication of diabetes mellitus that develops when a severe insulin deficiency occurs. Hyperglycemia occurs with diabetic ketoacidosis. Signs of hyperglycemia include fruity breath odor and a decreasing level of consciousness. Hunger can be a sign of hypoglycemia or hyperglycemia, but hypertension is not a sign of diabetic ketoacidosis. Hypotension occurs because of a decrease in blood volume related to the dehydrated state that occurs during diabetic ketoacidosis. Cold, clammy skin; irritability; sweating; and tremors all are signs of hypoglycemia.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Adult Health: Endocrine: Diabetes Mellitus\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Glucose Regulation\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, the signs of diabetic ketoacidosis, and recall that in this condition the blood glucose level is elevated. Eliminate options 1, 2, and 3 because these signs do not occur with hyperglycemia. Recall that fruity breath odor and a change in the level of consciousness can occur during diabetic ketoacidosis.",
+                        "id": "30a34d3d0bda4f679dd5baad46c431cc",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bbe406fdab2a4403878f4dbb4d7b111a",
+                                "content": "\"Treatment includes dietary restriction of tyramine.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d84aa433069f4145b980c924af5370ed",
+                                "content": "\"Phenylketonuria is an autosomal dominant disorder.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa857fe01a05483f8914e67ab12c1e2a",
+                                "content": "\"Phenylketonuria primarily affects the gastrointestinal system.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "503d430f2ddd458ca4d457b7b2fafc06",
+                                "content": "\"All 50 states require routine screening of all newborn infants for phenylketonuria.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bbe406fdab2a4403878f4dbb4d7b111a",
+                                    "content": "\"Treatment includes dietary restriction of tyramine.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d84aa433069f4145b980c924af5370ed",
+                                    "content": "\"Phenylketonuria is an autosomal dominant disorder.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa857fe01a05483f8914e67ab12c1e2a",
+                                    "content": "\"Phenylketonuria primarily affects the gastrointestinal system.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "503d430f2ddd458ca4d457b7b2fafc06",
+                                    "content": "\"All 50 states require routine screening of all newborn infants for phenylketonuria.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A pediatric nurse educator provides a teaching session to the nursing staff regarding phenylketonuria. Which statement would the nurse educator include in the session?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAll 50 states require routine screening in newborn infants. Phenylketonuria is an autosomal recessive disorder. Treatment includes dietary restriction of phenylalanine intake. Phenylketonuria is a genetic disorder that results in central nervous system damage from toxic levels of phenylalanine in the blood.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Phenylketonuria\nIntegrated Process: Teaching and Learning\nPriority Concepts: Intracranial Regulation, Safety\nStrategies: Subject               Test-Taking Strategy:\nFocus on the subject, characteristics of phenylketonuria. Recall that phenylketonuria is a recessive disorder and not a dominant disorder. Remember that phenylalanine, not tyramine, is restricted and that phenylketonuria affects the central nervous system and not the gastrointestinal system.",
+                        "id": "3a2b981b85ef472283d2c8300565d7e4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "acf2b6f3aca34a4a9c46819d5d77d60e",
+                                "content": "Weight increase of 0.5 kg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2e71a09b950543abbc3506518cb4d062",
+                                "content": "Temperature of 100.8° F (38.2° C) rectally"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02abd0a22a074f74afbf502809924081",
+                                "content": "Blood pressure unchanged from baseline"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "be7b09d704c24ed3b53eaf84960f3424",
+                                "content": "A decrease in urine output to 0.5 mL/kg/hr"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "acf2b6f3aca34a4a9c46819d5d77d60e",
+                                    "content": "Weight increase of 0.5 kg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2e71a09b950543abbc3506518cb4d062",
+                                    "content": "Temperature of 100.8° F (38.2° C) rectally"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02abd0a22a074f74afbf502809924081",
+                                    "content": "Blood pressure unchanged from baseline"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "be7b09d704c24ed3b53eaf84960f3424",
+                                    "content": "A decrease in urine output to 0.5 mL/kg/hr"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a hospitalized child who is receiving a continuous infusion of intravenous potassium for the treatment of dehydration. Which assessment finding requires the need to notify the primary health care provider?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe priority assessment is to assess the status of urine output. Potassium would never be administered in the presence of oliguria or anuria. If urine output is less than 1 to 2 mL/kg/hr, potassium would not be administered. A slight elevation in temperature would be expected in a child with dehydration. A weight increase of 0.5 kg is relatively insignificant. A blood pressure that is unchanged is a positive indicator unless the baseline was abnormal. However, there is no information in the question to support such data.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Dehydration\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Fluid and Electrolytes, Safety\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, the finding requiring the need to notify the primary health care provider. Knowledge regarding the effects of potassium on various organ systems is required to answer the question. Recalling that the kidneys play a strategic role in the excretion and reabsorption of potassium will easily direct you to the correct option.",
+                        "id": "3b9d7e5606284e0ab15cd3551061bf73",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "12e7357c60c84e798d86e26929e53bc1",
+                                "content": "Withhold oral fluids for 8 hours."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "41e3e7dd5ab141529220e50e46de48dc",
+                                "content": "Sponge the child with cold water."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5e1edea8dd8649cd83c2748a7acaeebb",
+                                "content": "Plan to administer salicylate in 4 hours."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9732b79e7094873842ebf30a31fc35d",
+                                "content": "Remove excess clothing and blankets."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "12e7357c60c84e798d86e26929e53bc1",
+                                    "content": "Withhold oral fluids for 8 hours."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "41e3e7dd5ab141529220e50e46de48dc",
+                                    "content": "Sponge the child with cold water."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5e1edea8dd8649cd83c2748a7acaeebb",
+                                    "content": "Plan to administer salicylate in 4 hours."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9732b79e7094873842ebf30a31fc35d",
+                                    "content": "Remove excess clothing and blankets."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse has just administered ibuprofen to a child with a temperature of 102° F (38.8° C). The nurse would also take which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAfter administering ibuprofen, excess clothing and blankets need to be removed. The child would not be sponge-bathed, especially with cold water, because the cold water can cause shivering, which increases metabolic requirements above those already caused by the fever. Aspirin (a salicylate) is not administered to a child with fever because of the risk of Reye's syndrome. Fluids should be encouraged to prevent dehydration, so oral fluids would not be withheld.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Fever\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Thermoregulation\nStrategies: Subject                Test-Taking Strategy:\nFocus on the subject, interventions for an elevated temperature. Remember that cooling measures such as removing excess clothing and blankets should be done when a child has a fever. Options 1, 2, and 3 are not interventions for a child with a fever.",
+                        "id": "44db35df45ac4b89856b489cbb84de75",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2b5b9112a83a40e18928f8b4686b9917",
+                                "content": "5 hours of daily screen time after school"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44462c0c16a94110967f82868abfe46a",
+                                "content": "The parent states that the closest supermarket is 40 minutes away."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "577790ce57e64943a3db0651dd94523c",
+                                "content": "The child states, “I don’t like exercising. I would rather watch TV.”"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00cb09ea1fa24d91bb8a71fa94b9c0cb",
+                                "content": "The child states, “When I have a big project to work on, eating helps me feel better and less stressed.”"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2b5b9112a83a40e18928f8b4686b9917",
+                                    "content": "5 hours of daily screen time after school"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44462c0c16a94110967f82868abfe46a",
+                                    "content": "The parent states that the closest supermarket is 40 minutes away."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "577790ce57e64943a3db0651dd94523c",
+                                    "content": "The child states, “I don’t like exercising. I would rather watch TV.”"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00cb09ea1fa24d91bb8a71fa94b9c0cb",
+                                    "content": "The child states, “When I have a big project to work on, eating helps me feel better and less stressed.”"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is collecting data on a child who is obese. Which finding would the nurse identify as a psychological factor contributing to the child’s obesity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nChildhood obesity occurs when children are above the healthy weight for their age or height. Risk factors for childhood obesity can be physiological, psychological, or socioeconomic in nature. Option 2 is considered a socioeconomic factor. Options 1 and 3 indicate there may be a lack of exercise and a surplus of time spent doing sedentary activities. Option 4 indicates that the child uses food as a coping mechanism for stress and is a psychological factor that contributes to childhood obesity. Therefore, option 4 is the correct answer.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Obesity\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Nutrition, Health Promotion\nStrategies: Subject              Test-Taking Strategy:\nFocus on the subject, a psychological contributing factor for childhood obesity. Eliminate options 1 and 3 as the options both imply a lack of physical activity, which contributes to the development of obesity. Next, eliminate option 3 as this is a socioeconomic factor rather than a psychological factor.",
+                        "id": "4c20228b13da49ef97cf8a8a75bf6d90",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "04fa085961be428b9f2c558f04198666",
+                                "content": "It is positive."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b5e3e20b2574b1cba71f33ba861d623",
+                                "content": "It is negative."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8bd2e9a41204cc7920fe8f3b437bc3d",
+                                "content": "It is inconclusive."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b57a02af4fe4cf48a109526fae4df85",
+                                "content": "It requires rescreening at age 6 weeks."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "04fa085961be428b9f2c558f04198666",
+                                    "content": "It is positive."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b5e3e20b2574b1cba71f33ba861d623",
+                                    "content": "It is negative."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8bd2e9a41204cc7920fe8f3b437bc3d",
+                                    "content": "It is inconclusive."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b57a02af4fe4cf48a109526fae4df85",
+                                    "content": "It requires rescreening at age 6 weeks."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A parent brings a 3-week-old infant to a clinic for a phenylketonuria rescreening blood test. The test indicates a serum phenylalanine level of 1 mg/dL (60.5 mcmol/L). The nurse reviews this result and makes which interpretation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPhenylketonuria is a genetic (autosomal recessive) disorder that results in central nervous system damage from toxic levels of phenylalanine (an essential amino acid) in the blood. It is characterized by blood phenylalanine levels greater than 20 mg/dL (1210 mcmol/L); (normal level is 0 to 2 mg/dL (0 to 121 mcmol/L). A result of 1 mg/dL is a negative test result.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Pediatrics: Metabolic/Endocrine\nHealth Problem: Pediatric-Specific: Phenylketonuria\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Clinical Judgment, Health Promotion\nStrategies: Comparable or Alike Options                          Test-Taking Strategy:\nEliminate options 3 and 4 first because they are comparable or alike, indicating no definitive finding. Note that the level identified in the question is a low level; this would assist in directing you to the correct option.",
+                        "id": "4d277c9a936a4ce9ab72f000f42c9a2a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "32dcbb99ae8081f141ef3ed88202bc0a",
+            "lessonItemId": "81011af64156896f2317a880d36bf2ce",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 248000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:03:31",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Metabolic and Endocrine Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

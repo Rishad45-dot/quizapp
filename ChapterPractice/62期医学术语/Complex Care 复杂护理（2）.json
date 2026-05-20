@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:06:20",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:06:20",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:06:42",
+            "id": "c2bf294d6366f503c6819a2f9fb851e5",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "343bd85bbce54044b9e733301f69f433",
+                                "content": "Increaed blood pressure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ee05a6e654bf46f095b380e9abab416c",
+                                "content": "Distended jugular veins"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09efcbd465c94274bbf8711cf2f0e8da",
+                                "content": "Moist cough"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2bf0fbad975d474a9a2034fc90bccf82",
+                                "content": "Air embolism"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "343bd85bbce54044b9e733301f69f433",
+                                    "content": "Increaed blood pressure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ee05a6e654bf46f095b380e9abab416c",
+                                    "content": "Distended jugular veins"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09efcbd465c94274bbf8711cf2f0e8da",
+                                    "content": "Moist cough"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2bf0fbad975d474a9a2034fc90bccf82",
+                                    "content": "Air embolism"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词指血压上升？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Increaed blood pressure 直接指血压上升。",
+                        "id": "0ab1556ffd2c47c8a75473eea1bffaf2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3db0d7a48504acc92fd9fa9ce53aa0d",
+                                "content": "Moist cough"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "343ad1ae9ddb4cc99986a15f711f8ae7",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec6219831f26491a984523dffcc68da3",
+                                "content": "Distended jugular veins"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "06f4a1d7909a4f59a138ef52b7393ac7",
+                                "content": "Air embolism"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3db0d7a48504acc92fd9fa9ce53aa0d",
+                                    "content": "Moist cough"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "343ad1ae9ddb4cc99986a15f711f8ae7",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec6219831f26491a984523dffcc68da3",
+                                    "content": "Distended jugular veins"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "06f4a1d7909a4f59a138ef52b7393ac7",
+                                    "content": "Air embolism"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词指咳嗽时伴随大量痰液？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Moist cough 指的是咳嗽时伴随大量痰液。",
+                        "id": "1150a3cc0a64441592cb5cfda3b7d9ce",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad460e29609c421aaa70cef9e8b0ee59",
+                                "content": "Distended jugular veins"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "205b9fc2877e4b9a85c50d98ad3873a6",
+                                "content": "Moist cough"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "27f3df9e8e914ab5a89ca76be70166d1",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "134c79205d444516b94a8a48b2587ed2",
+                                "content": "Air embolism"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad460e29609c421aaa70cef9e8b0ee59",
+                                    "content": "Distended jugular veins"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "205b9fc2877e4b9a85c50d98ad3873a6",
+                                    "content": "Moist cough"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "27f3df9e8e914ab5a89ca76be70166d1",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "134c79205d444516b94a8a48b2587ed2",
+                                    "content": "Air embolism"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词与中心静脉压升高有关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Distended jugular veins 指的是颈静脉扩张，可能与中心静脉压升高有关。",
+                        "id": "1765e5278aa640f1a94b8c4de53cd803",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63d23694defc48a09ae4aaec6ad384a7",
+                                "content": "Dyspnea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed2eca91271b48d4bea3b1e388b33743",
+                                "content": "Distended jugular veins"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "934252d1bca44b30b3e209c9a95e69b4",
+                                "content": "Air embolism"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ac9ec462b8140c79718b11577f0f47f",
+                                "content": "Tachycardia"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63d23694defc48a09ae4aaec6ad384a7",
+                                    "content": "Dyspnea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed2eca91271b48d4bea3b1e388b33743",
+                                    "content": "Distended jugular veins"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "934252d1bca44b30b3e209c9a95e69b4",
+                                    "content": "Air embolism"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ac9ec462b8140c79718b11577f0f47f",
+                                    "content": "Tachycardia"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词是呼吸系统的问题？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Dyspnea 直接指呼吸困难。",
+                        "id": "361589427c774dc297c60c46ddeada5a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35f48f8aa41c418eafb902a28a94f93c",
+                                "content": "Solution"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "375f1b871e304679b7a98f8a156d66ed",
+                                "content": "Saline"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ae593ef29e44cfeb8b1d398216d7006",
+                                "content": "Retention"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "36e8516919b14f8a941e2d4c2502260e",
+                                "content": "Exacerbate"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35f48f8aa41c418eafb902a28a94f93c",
+                                    "content": "Solution"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "375f1b871e304679b7a98f8a156d66ed",
+                                    "content": "Saline"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ae593ef29e44cfeb8b1d398216d7006",
+                                    "content": "Retention"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "36e8516919b14f8a941e2d4c2502260e",
+                                    "content": "Exacerbate"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "静脉注射通常用什么类型的溶液？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Solution 指的是溶液，静脉注射通常使用特定的溶液来稀释药物。",
+                        "id": "37309009b112429a93e27fa97b028b81",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d954ad4b61c34babb1e7c7773fdfddd4",
+                                "content": "Latex allergy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e1b402c981eb49a0991face6b5387f2e",
+                                "content": "Adverse reactions"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8655933d2d1452d97a63ac7c3539509",
+                                "content": "Allergic response"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85bec1280082408e8f828181e0bf5054",
+                                "content": "Complications"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d954ad4b61c34babb1e7c7773fdfddd4",
+                                    "content": "Latex allergy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e1b402c981eb49a0991face6b5387f2e",
+                                    "content": "Adverse reactions"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8655933d2d1452d97a63ac7c3539509",
+                                    "content": "Allergic response"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85bec1280082408e8f828181e0bf5054",
+                                    "content": "Complications"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词指乳胶过敏？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Latex allergy 指的是对乳胶的过敏反应。",
+                        "id": "3bbc90bba0464981a39cc428498faf7a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae04295fac9b42d1ac6d25ce990375ce",
+                                "content": "Latex allergy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "88408e4455c14da98cce22d0114720ad",
+                                "content": "Adverse reactions"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7788386737f04774a7e192f4a6010fd7",
+                                "content": "Allergic response"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bb587229ba5d49f7bd623f284b674d61",
+                                "content": "Complications"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae04295fac9b42d1ac6d25ce990375ce",
+                                    "content": "Latex allergy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "88408e4455c14da98cce22d0114720ad",
+                                    "content": "Adverse reactions"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7788386737f04774a7e192f4a6010fd7",
+                                    "content": "Allergic response"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bb587229ba5d49f7bd623f284b674d61",
+                                    "content": "Complications"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "如果患者有乳胶过敏史，医护人员在护理中需要注意避免什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "医护人员需要了解患者是否有乳胶过敏史，以避免使用含乳胶的产品。",
+                        "id": "3c3e00de56fe4c429cad7f7425763b37",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dbf0388880164094a657c8eb2c3e145a",
+                                "content": "Hypotension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8af9729d64324b6d9e492737e96a4872",
+                                "content": "Cyanosis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c69f2b280a9249eabbf8398da6fa1cb4",
+                                "content": "Electrolyte imbalance"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c67fd82e2a34bd29629d1e36b17bf94",
+                                "content": "Hematoma"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dbf0388880164094a657c8eb2c3e145a",
+                                    "content": "Hypotension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8af9729d64324b6d9e492737e96a4872",
+                                    "content": "Cyanosis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c69f2b280a9249eabbf8398da6fa1cb4",
+                                    "content": "Electrolyte imbalance"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c67fd82e2a34bd29629d1e36b17bf94",
+                                    "content": "Hematoma"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "患者如果出现胸部疼痛、低血压和发绀，可能是由于什么原因？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "这些症状可能是由电解质失衡导致的心脏问题。",
+                        "id": "4a5841ede8034503ba2dc64fb561f976",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "570bc30c0ffe489fb1b414d2c3df36a7",
+                                "content": "Fluid overload"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca79c3eee32e4268aad1305ce72b6c68",
+                                "content": "Failure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b398af4f40174d5987ca2c8d0f4c6e12",
+                                "content": "Solution"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bb473ddb42c04a50bf6f0fa6b0aabf02",
+                                "content": "Saline"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "570bc30c0ffe489fb1b414d2c3df36a7",
+                                    "content": "Fluid overload"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca79c3eee32e4268aad1305ce72b6c68",
+                                    "content": "Failure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b398af4f40174d5987ca2c8d0f4c6e12",
+                                    "content": "Solution"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bb473ddb42c04a50bf6f0fa6b0aabf02",
+                                    "content": "Saline"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词指循环系统超负荷？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Fluid overload 导致身体中的液体量过多，进而引起循环系统超负荷。",
+                        "id": "4ed2c3f1fd274be8b56b18b44608dfae",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "091f1e445eb1485fb7384b4b33b6ccd5",
+                                "content": "Hematoma"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d182050777154ee4b18bdb374182adc4",
+                                "content": "Infection"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b212ac8651a94808ace3fcf502dc4e5c",
+                                "content": "Phlebitis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1517629051454deebfca997f973c1de1",
+                                "content": "Electrolyte imbalance"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "091f1e445eb1485fb7384b4b33b6ccd5",
+                                    "content": "Hematoma"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d182050777154ee4b18bdb374182adc4",
+                                    "content": "Infection"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b212ac8651a94808ace3fcf502dc4e5c",
+                                    "content": "Phlebitis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1517629051454deebfca997f973c1de1",
+                                    "content": "Electrolyte imbalance"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "以下哪个单词指血肿？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Hematoma 指的是血肿，即血液在组织下的积聚。",
+                        "id": "500f5d296cb9458393df13a239627d13",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "b6bfae87a6b96b39c9877e5e03bead42",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 20000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:06:42",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

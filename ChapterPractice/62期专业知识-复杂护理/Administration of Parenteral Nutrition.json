@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:35:09",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:35:09",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:41:36",
+            "id": "1c3f9b5b889ca9d746744cb52fde9110",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a16c229ad0e5459992aa99a4dbf2ef00",
+                                "content": "Vital signs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8b47329208b44cffb0f12c1fd6d7b899",
+                                "content": "Auscultate lungs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6793dcc94ff447eba61a8955f37aa39",
+                                "content": "Kidney function tests"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f069c88b7a84e9a8b3f17b2024e9ede",
+                                "content": "Listen for bowel sounds"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a16c229ad0e5459992aa99a4dbf2ef00",
+                                    "content": "Vital signs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8b47329208b44cffb0f12c1fd6d7b899",
+                                    "content": "Auscultate lungs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6793dcc94ff447eba61a8955f37aa39",
+                                    "content": "Kidney function tests"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f069c88b7a84e9a8b3f17b2024e9ede",
+                                    "content": "Listen for bowel sounds"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client receiving total parenteral nutrition (TPN) via a central line. What assessment would the nurse perform to detect the most common complication of TPN?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe most common complication associated with TPN is infection. Monitoring the temperature would provide data that would indicate infection in the client. Monitoring kidney function tests would not provide information related to infection. Auscultating the lungs assists in identifying whether fluid overload is present, not infection. Listening for bowel sounds does not assist in assessing for infection in this case.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Complex Care: Parenteral Nutrition\nHealth Problem: Adult Health: Immune: Infection\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Nutrition, Infection\nStrategies: ABCs—Airway, Breathing, Circulation, Strategic Words, Subject             Test-Taking Strategy:\nNote the strategic word, most. Focus on the subject, the most common complication of TPN. Use the ABCs—airway, breathing, and circulation—to direct you to the correct option. Recall that infection is the most common complication and that a component of vital signs is measuring temperature.",
+                        "id": "06f09709a4b640a5bdc951af566d1fe3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f9cd0531a27a4f5eacd9ad3a0c1dc94d",
+                                "content": "800"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "99a56988a89545ed889d878a52eb2900",
+                                "content": "1200"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f5913985f9e14828879bd06a17ec0a06",
+                                "content": "1600"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bc6ddd6dad0c48b7bfbc10e22e82d520",
+                                "content": "1800"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f9cd0531a27a4f5eacd9ad3a0c1dc94d",
+                                    "content": "800"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "99a56988a89545ed889d878a52eb2900",
+                                    "content": "1200"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f5913985f9e14828879bd06a17ec0a06",
+                                    "content": "1600"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bc6ddd6dad0c48b7bfbc10e22e82d520",
+                                    "content": "1800"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assigned to a client receiving total parenteral nutrition (TPN) who had a blood glucose measurement done at 0600. The nurse documents on the client's clinical worksheet for the day that the blood glucose level would be checked next at which time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client's blood glucose level needs to be monitored every 4 to 6 hours during TPN therapy. Depending on agency policy, this may be done every 8 hours instead. Monitoring the blood glucose level every 2 hours is unnecessary. Monitoring every 10 or 12 hours is insufficient.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Glucose Regulation, Nutrition\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic word, next. Recalling that the client on TPN would have the blood glucose level monitored every 4 to 6 hours and knowledge of military time will direct you to the correct option.",
+                        "id": "0df5b21d0d064588bfd53b70059e42ae",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "900145bf386d44b396d932156bfdd003",
+                                "content": "Return the solution to the pharmacy."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44f59772a2b6442b839bca983d309da6",
+                                "content": "Shake the solution to dissolve the globules."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cce9c4ceb72d4a09a25363bce095085b",
+                                "content": "Call the primary health care provider (PHCP)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5839ad27783441cc8a497041b81fa99a",
+                                "content": "Place the solution in a bath of warm water until the globules dissolve."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "900145bf386d44b396d932156bfdd003",
+                                    "content": "Return the solution to the pharmacy."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44f59772a2b6442b839bca983d309da6",
+                                    "content": "Shake the solution to dissolve the globules."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cce9c4ceb72d4a09a25363bce095085b",
+                                    "content": "Call the primary health care provider (PHCP)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5839ad27783441cc8a497041b81fa99a",
+                                    "content": "Place the solution in a bath of warm water until the globules dissolve."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Fat emulsion is prescribed for the client receiving total parenteral nutrition. The nurse is preparing to administer the fat emulsion and notes the presence of fat globules in the solution. What would the nurse do?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse would not hang a fat emulsion that has visible fat globules. Another solution needs to be obtained and used instead. Shaking the solution or placing the solution in a warm-water bath is not an appropriate action. Contacting the PHCP also is inappropriate; the PHCP's permission is not needed to obtain another bottle of solution.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject                  Test-Taking Strategy:\nFocus on the subject, the presence of fat globules in the fat emulsion solution. Think about the significance of fat globules in the solution and the potential adverse effect of these globules entering the client's bloodstream.",
+                        "id": "11b540b9d4a3451a81d0c521a73e5cb9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "922f28e2c9ad451bb0bf4b4c49bd1188",
+                                "content": "Decrease the rate of infusion."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "730cccb161d245aa82dc6c5bd2d956c9",
+                                "content": "Administer diphenhydramine."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82fd4bddcdc445dd9338494fc5c3fb11",
+                                "content": "Evaluate for signs of septicemia."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31d4f920dffd4f42be04d571504078d9",
+                                "content": "Notify the primary health care provider (PHCP)."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "922f28e2c9ad451bb0bf4b4c49bd1188",
+                                    "content": "Decrease the rate of infusion."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "730cccb161d245aa82dc6c5bd2d956c9",
+                                    "content": "Administer diphenhydramine."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82fd4bddcdc445dd9338494fc5c3fb11",
+                                    "content": "Evaluate for signs of septicemia."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31d4f920dffd4f42be04d571504078d9",
+                                    "content": "Notify the primary health care provider (PHCP)."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse notes redness, warmth, and a yellowish drainage at the insertion site of a central venous catheter in a client receiving total parenteral nutrition. What is the nurse's initial action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nRedness, warmth, and purulent drainage are signs of an infection, not of an allergic reaction. Infiltration causes the surrounding tissue to become cool and pale. An infection of a central venous catheter site can lead to septicemia. The nurse would assess for signs of septicemia and then notify the PHCP so that all of the assessment data can be reported. If infection is suspected, the infusion needs to be stopped. Diphenhydramine is prescribed for allergic reactions.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nHealth Problem: Adult Health: Immune: Infection\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Infection, Clinical Judgment\nStrategies: Data in the Question, Steps of the Nursing Process, Strategic Words, Subject                  Test-Taking Strategy:\nNote the strategic word, initial. Focus on the subject, a complication associated with total parenteral nutrition. Also, note the data in the question—redness, warmth, and yellow drainage at the catheter insertion site. Also, use the steps of the nursing process. Eliminate administration of diphenhydramine first because it relates to an allergic response. Regarding the remaining choices, recalling that redness, warmth, and drainage indicate infection will direct you to the correct option.",
+                        "id": "172becd54f844d2387c8f9c36fbffa2f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "718b16599f4d4564ae53e35a7c9fd745",
+                                "content": "On the left side, with the head lower than the feet"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0738d0b82d04ae0a18830694389cbb2",
+                                "content": "On the left side, with the head higher than the feet"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4650e80a05574f39a901a781c612b47a",
+                                "content": "On the right side, with the head lower than the feet"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5bb0e7bf39a4aa297fe048b5f2a0e0b",
+                                "content": "On the right side, with the head higher than the feet"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "718b16599f4d4564ae53e35a7c9fd745",
+                                    "content": "On the left side, with the head lower than the feet"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0738d0b82d04ae0a18830694389cbb2",
+                                    "content": "On the left side, with the head higher than the feet"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4650e80a05574f39a901a781c612b47a",
+                                    "content": "On the right side, with the head lower than the feet"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5bb0e7bf39a4aa297fe048b5f2a0e0b",
+                                    "content": "On the right side, with the head higher than the feet"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with total parenteral nutrition (TPN) infusing has disconnected the tubing from the central line catheter. The nurse assesses the client and suspects an air embolism. The nurse would immediately place the client in which position?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAir embolism occurs when air enters the catheter system, such as when the system is opened for intravenous (IV) tubing changes or when the IV tubing disconnects. Air embolism is a critical situation; if it is suspected, the client needs to be placed in a left side-lying position. The head needs to be lower than the feet. This position is used to minimize the effect of the air traveling as a bolus to the lungs by trapping it in the right side of the heart. The positions in the remaining options are inappropriate if an air embolism is suspected.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nHealth Problem: Adult Health: Respiratory: Pulmonary Embolism\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic word, immediately. Recall that the goal in this emergency situation is to trap air in the right side of the heart. Think about the position that will achieve this goal; this will direct you to the correct option.",
+                        "id": "2f53a6fe513f4963a63b8db50e6b68b7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9273c25c2c7c4500abde9fbe29758c59",
+                                "content": "5% dextrose in water"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7c26491fede84d208fea1200cb917174",
+                                "content": "10% dextrose in water"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b78004ceac9d4f84b8c8b35540fb0775",
+                                "content": "5% dextrose in Ringer's lactate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f569d7307014a8dbc2668124770b3d4",
+                                "content": "5% dextrose in 0.9% sodium chloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9273c25c2c7c4500abde9fbe29758c59",
+                                    "content": "5% dextrose in water"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7c26491fede84d208fea1200cb917174",
+                                    "content": "10% dextrose in water"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b78004ceac9d4f84b8c8b35540fb0775",
+                                    "content": "5% dextrose in Ringer's lactate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f569d7307014a8dbc2668124770b3d4",
+                                    "content": "5% dextrose in 0.9% sodium chloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is making initial rounds at the beginning of the shift and notes that the total parenteral nutrition (TPN) bag of an assigned client is empty. Which solution would the nurse hang until another TPN solution is mixed and delivered to the nursing unit?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client is at risk for hypoglycemia; therefore, the solution containing the highest amount of glucose needs to be hung until the new TPN solution becomes available. Because TPN solutions contain high glucose concentrations, the 10% dextrose in water solution is the best of the choices presented. The solution selected would be one that minimizes the risk of hypoglycemia. The remaining options will not be as effective in minimizing the risk of hypoglycemia.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Glucose Regulation, Safety\nStrategies: Comparable or Alike Options, Subject              Test-Taking Strategy:\nFocus on the subject, that the client is at risk for hypoglycemia. With this in mind, you would then select the solution that minimizes this risk to the client. Also, remember that options that are comparable or alike are unlikely to be correct. Each of the incorrect options represents a solution that contains 5% dextrose.",
+                        "id": "3025c41577f840c2a1fe57d4159f7c57",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dee3b7444c0849908fd42a1b32de211a",
+                                "content": "Hang an intravenous infusion of normal saline."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a3e77177ff89421dbd115436ad8a759a",
+                                "content": "Convert the intravenous infusion to a saline lock."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "09cabfc7909a49808f582284b54f89b2",
+                                "content": "Hang an intravenous infusion of 5% dextrose in water."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46da3b23cd1f414eb902af5378dd7c69",
+                                "content": "Hang an intravenous infusion of 10% dextrose in water."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dee3b7444c0849908fd42a1b32de211a",
+                                    "content": "Hang an intravenous infusion of normal saline."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a3e77177ff89421dbd115436ad8a759a",
+                                    "content": "Convert the intravenous infusion to a saline lock."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "09cabfc7909a49808f582284b54f89b2",
+                                    "content": "Hang an intravenous infusion of 5% dextrose in water."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46da3b23cd1f414eb902af5378dd7c69",
+                                    "content": "Hang an intravenous infusion of 10% dextrose in water."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse discovers that an infusion of total parenteral nutrition (TPN) through a central line is empty, and a replacement bag is not yet ready. What would the nurse do next while waiting for the replacement bag?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIf TPN is discontinued abruptly, rebound hypoglycemia may occur because the pancreas has not yet had time to adjust its secretion of insulin in response to the lower amount of glucose. Therefore, a dextrose in water solution of 10% or 20% is infused temporarily until the replacement bag is available.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Nutrition, Safety\nStrategies: Strategic Words      Test-Taking Strategy:\nNote the strategic word, next. Remember that if TPN is discontinued abruptly, rebound hypoglycemia may occur. This will assist in determining that a dextrose solution is needed. Next, thinking about the components of TPN will assist in directing you to option 4.",
+                        "id": "341c8a53b9b64034ab3de4d5152493e5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ef0822eb26e4215aa0150b7cd921b45",
+                                "content": "Lung sounds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f8055fa69974511a307e5c18ce75387",
+                                "content": "Mental status"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db05182fe77b49aaa5d96f3931557974",
+                                "content": "Blood pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cea316db1bb48eba3c3d042ec2927e2",
+                                "content": "Blood glucose level"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ef0822eb26e4215aa0150b7cd921b45",
+                                    "content": "Lung sounds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f8055fa69974511a307e5c18ce75387",
+                                    "content": "Mental status"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db05182fe77b49aaa5d96f3931557974",
+                                    "content": "Blood pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cea316db1bb48eba3c3d042ec2927e2",
+                                    "content": "Blood glucose level"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who has been receiving total parenteral nutrition (TPN) by way of a central venous access device complains of shakiness and is diaphoretic. Based on these findings, the nurse would perform which assessment next?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypoglycemia is one of the potential complications associated with TPN. Shakiness and diaphoresis are signs of hypoglycemia; therefore, based on these findings, the nurse would first check the blood glucose level. Lung sounds may provide information about refeeding syndrome, which is a complication of TPN causing fluid overload. However, the assessment findings do not indicate that this is occurring. Mental status could be affected by hypoglycemia; however, the nurse has enough information to suspect this complication already and therefore would assess the blood glucose before assessing mental status. Blood pressure is not specifically related to the information in the question and the associated complication of TPN.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Complex Care: Parenteral Nutrition\nHealth Problem: Adult Health: Gastrointestinal: Nutrition/Malabsorption Problems/Electrolyte Imbalances\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Gas Exchange, Perfusion\nStrategies: Data in the Question, Strategic Words, Subject                             Test-Taking Strategy:\nFocus on the subject, a complication of TPN. Also, note the strategic word, next. Focus on the data in the question, and think about the assessment findings associated in each complication in the options. This will direct you to the correct option.",
+                        "id": "3703ef7e330e42a1ac550cd23c54c2fe",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19db194de216411e81897ef7240c5917",
+                                "content": "Calculate daily intake and output."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "65cca7bebade4a0d812ae1a9593b7587",
+                                "content": "Monitor the temperature once daily."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b354f7b08101446ca46eb7f4f70f5767",
+                                "content": "Secure all connections in the TPN system."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4842a6ebff364f458e5b2d2fad5ec3e5",
+                                "content": "Monitor blood glucose levels every 12 hours."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19db194de216411e81897ef7240c5917",
+                                    "content": "Calculate daily intake and output."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "65cca7bebade4a0d812ae1a9593b7587",
+                                    "content": "Monitor the temperature once daily."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b354f7b08101446ca46eb7f4f70f5767",
+                                    "content": "Secure all connections in the TPN system."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4842a6ebff364f458e5b2d2fad5ec3e5",
+                                    "content": "Monitor blood glucose levels every 12 hours."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a restless client who is beginning nutritional therapy with total parenteral nutrition (TPN). The nurse would plan to ensure that which action is taken to prevent the client from sustaining injury?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse would plan to secure all connections in the tubing (connections are used per agency protocol). This helps to prevent the restless client from pulling the connections apart accidentally. The nurse would also monitor intake and output, but this does not relate specifically to a risk for injury as presented in the question. Also, monitoring the temperature and blood glucose levels does not relate to a risk for injury as presented in the question. In addition, the client's temperature and blood glucose levels are monitored more frequently than the time frames identified in the options to detect signs of infection and hyperglycemia, respectively.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nHealth Problem: Adult Health: Gastrointestinal: Nutrition/Malabsorption Problems/Electrolyte Imbalances\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Subject               Test-Taking Strategy:\nFocus on the subject, safety, and note the words restless, ensure, prevent, and injury. This will direct you to the correct option.",
+                        "id": "3ba1fc53872844d8a692bcd690d1887b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "435be6d4fb0348be9764e409306d54ea",
+                                "content": "Breathe normally."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e5c1648f61514d368c4ef812ca01066e",
+                                "content": "Turn the head to the right."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7979ee6086a74a80a4839118a3b6c858",
+                                "content": "Exhale slowly and evenly."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0dbc31dfd7f24f0ab00cffa480f7f45d",
+                                "content": "Take a deep breath, hold it, and bear down."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "435be6d4fb0348be9764e409306d54ea",
+                                    "content": "Breathe normally."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e5c1648f61514d368c4ef812ca01066e",
+                                    "content": "Turn the head to the right."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7979ee6086a74a80a4839118a3b6c858",
+                                    "content": "Exhale slowly and evenly."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0dbc31dfd7f24f0ab00cffa480f7f45d",
+                                    "content": "Take a deep breath, hold it, and bear down."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing to change the total parenteral nutrition (TPN) solution bag and tubing. The client's central venous line is located in the right subclavian vein. The nurse asks the client to take which essential action during the tubing change?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client would be asked to perform the Valsalva maneuver during tubing changes. This helps avoid air embolism during tubing changes. The nurse asks the client to take a deep breath, hold it, and bear down. If the intravenous line is on the right, the client turns the head to the left. This position increases intrathoracic pressure. Breathing normally and exhaling slowly and evenly are inappropriate and could enhance the potential for an air embolism during the tubing change.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Complex Care: Parenteral Nutrition\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Strategic Words Test-Taking Strategy:\nNote the strategic word, essential. Recalling that air embolism is a complication that can occur during tubing changes and thinking about the measures that will prevent this complication will direct you to the correct option.",
+                        "id": "4108077bbed8484f9785a18e87fa2c73",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "03770424f6192c069c8f18aaab4a8af0",
+            "lessonItemId": "8bdf43b10d448d0187ff4a27d762ce5b",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 356000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:41:37",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Administration of Parenteral Nutritio",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:28:37",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:28:37",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:42:22",
+            "id": "2a1e04c0a86bcc56bf7c47a9214e5fc9",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "531b31c91efe481bb012f6ee96ac05a9",
+                                "content": "\"I cannot discuss any client situation with you.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae145a6a631347b49470731a11afb2b5",
+                                "content": "\"If you want to know about Carol, you need to ask Carol yourself.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a2dcf10683524711b5fa98cb5a36a4f7",
+                                "content": "\"Only because you're worried about a friend, I'll tell you that Carol is improving.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2aa536ff22c34a8695755c400c9cb6b6",
+                                "content": "\"Being a friend, you know that Carol is having a difficult time and deserves privacy.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "531b31c91efe481bb012f6ee96ac05a9",
+                                    "content": "\"I cannot discuss any client situation with you.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae145a6a631347b49470731a11afb2b5",
+                                    "content": "\"If you want to know about Carol, you need to ask Carol yourself.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a2dcf10683524711b5fa98cb5a36a4f7",
+                                    "content": "\"Only because you're worried about a friend, I'll tell you that Carol is improving.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2aa536ff22c34a8695755c400c9cb6b6",
+                                    "content": "\"Being a friend, you know that Carol is having a difficult time and deserves privacy.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse employed in a mental health clinic is greeted by a neighbor in a local grocery store. The neighbor says to the nurse, \"How is Carol doing? Carol is my best friend and is seen at your clinic every week.\" Which is the most appropriate nursing response?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse is required to maintain confidentiality regarding the client and the client's care. Confidentiality is basic to the therapeutic relationship and is a client's right. The most appropriate response to the neighbor is the statement of that responsibility in a direct, but polite manner. A blunt statement that does not acknowledge why the nurse cannot reveal client information may be taken as disrespectful and uncaring. The remaining options identify statements that do not maintain client confidentiality.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nHealth Problem: Mental Health: Therapeutic Communication\nIntegrated Process: Communication and Documentation\nPriority Concepts: Ethics, Health Care Law\nStrategies: Strategic Words  Test-Taking Strategy:\nNote the strategic words, most appropriate. Focusing on maintaining confidentiality will direct you to the correct option. This focus will also assist you in eliminating options that inappropriately give such information without being unnecessarily blunt or rude.",
+                        "id": "0017c95131e34670a526394785c0ac5f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc96eb39bc08407f91ae9705485bbbbc",
+                                "content": "Call the police."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "112e400bd3b44fdbb2400bcc3755171b",
+                                "content": "Notify security."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6fd00433fd24ca5b1450a7c96178c9d",
+                                "content": "Call the nursing supervisor."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1af10ae9ecdd4cf18c9286c448164fd7",
+                                "content": "Ignore what was discovered to avoid conflict."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc96eb39bc08407f91ae9705485bbbbc",
+                                    "content": "Call the police."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "112e400bd3b44fdbb2400bcc3755171b",
+                                    "content": "Notify security."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6fd00433fd24ca5b1450a7c96178c9d",
+                                    "content": "Call the nursing supervisor."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1af10ae9ecdd4cf18c9286c448164fd7",
+                                    "content": "Ignore what was discovered to avoid conflict."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse discovers a coworker in the linen closet injecting a medication into the antecubital area. Which most appropriate action would the nurse take?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nNurse practice acts require the reporting of impaired nurses. The board of nursing has jurisdiction over the practice of nursing and may develop plans for treatment and supervision. This incident needs to be reported to the nursing supervisor, who will then report to the board of nursing and other authorities as required. Option 4 is an inappropriate action and can affect client safety and safety to others.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Addiction, Safety\nStrategies: Strategic Words        Test-Taking Strategy:\nNote the strategic words, most appropriate. Use the principles of prioritizing when answering this question. Eliminate option 4 first because this is inappropriate and is unsafe. Recall the lines of organizational structure to assist in directing you to the correct option.",
+                        "id": "0201b71a959443d7a96a2f0562485272",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b2560044ace246f6bafe53e555a30ed2",
+                                "content": "That an informed consent does not need to be obtained"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a3a816414d9d45d196125fdd30374bb4",
+                                "content": "That an informed consent needs to be obtained from the family"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a42c16510d2f481c9f57965d299d2315",
+                                "content": "That an informed consent needs to be obtained from the client"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82dfc98740514dfcb6c139d34b19affa",
+                                "content": "That the primary health care provider will provide the informed consent"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b2560044ace246f6bafe53e555a30ed2",
+                                    "content": "That an informed consent does not need to be obtained"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a3a816414d9d45d196125fdd30374bb4",
+                                    "content": "That an informed consent needs to be obtained from the family"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a42c16510d2f481c9f57965d299d2315",
+                                    "content": "That an informed consent needs to be obtained from the client"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82dfc98740514dfcb6c139d34b19affa",
+                                    "content": "That the primary health care provider will provide the informed consent"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is scheduled for electroconvulsive therapy. The nurse notes that an informed consent has not been obtained for the procedure. On review of the record, the nurse notes that the admission was an involuntary hospitalization. Which is important information for the nurse to remember?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nClients who are admitted involuntarily do not lose their right to informed consent. Clients must be considered legally competent until they have been declared incompetent through a legal proceeding. The informed consent needs to be obtained from the client. Therefore, options 1, 2, and 4 are incorrect.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Health Care Quality, Health Care Law\nStrategies: Subject                     Test-Taking Strategy:\nFocus on the subject, the procedure for obtaining informed consent. Knowledge regarding hospital admission processes and client rights is necessary to answer this question. Noting the words involuntary hospitalization and focusing on client rights will direct you to the correct option.",
+                        "id": "02e51430cfbf4981985abbd2b0972c00",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "78273962c1344ab99742ab349be12185",
+                                "content": "Assault"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "07267df5c70049bc9af3019a59aed8e2",
+                                "content": "Battery"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1252ba4e84ff4e25b49003327e0eef86",
+                                "content": "Slander"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a376a09f71a94d29b52bffa4de33d1d0",
+                                "content": "Invasion of privacy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "78273962c1344ab99742ab349be12185",
+                                    "content": "Assault"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "07267df5c70049bc9af3019a59aed8e2",
+                                    "content": "Battery"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1252ba4e84ff4e25b49003327e0eef86",
+                                    "content": "Slander"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a376a09f71a94d29b52bffa4de33d1d0",
+                                    "content": "Invasion of privacy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has refused to eat more than a few spoonfuls of breakfast. The health care provider has prescribed that tube feedings be initiated if the client fails to eat at least half of a meal because the client has been losing weight for 2 months. The nurse enters the room, looks at the tray, and states, \"If you don't eat any more than that, I'm going to have to put a tube down your throat and get a feeding in that way.\" The client begins to cry and tries to eat more. Based on the nurse's actions, the nurse may be accused of which legal tort?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAssault occurs when a person puts another person in fear of harmful or offensive contact and the victim fears and believes that harm will occur as a result of the threat. In this situation, the nurse could be accused of the tort of assault. Battery is the intentional touching of another's body without the person's consent. Slander is verbal communication that is false and harms the reputation of another. Invasion of privacy is committed when the nurse intrudes into the client's personal affairs or violates confidentiality.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Professional Identity, Health Care Law\nStrategies: Subject                    Test-Taking Strategy:\nFocus on the subject, legal torts. Focusing on the words used by the nurse and noting that the nurse threatens the client will direct you to the correct option.",
+                        "id": "04fac7b8420c43f1ae71312fc707728c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f8e9c3babf06444d8058e1ec0bc5d304",
+                                "content": "\"I'm sorry, I cannot tell you.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "42ac19630257448db48d6b6dc819290f",
+                                "content": "\"The condition of the client in room 432 is good.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3676c56794d9431c96d0723594fa7375",
+                                "content": "\"You can get the information from the client's chart.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a46356bb405a47888d452bd464a201d5",
+                                "content": "\"I don't think you should be asking me that question.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f8e9c3babf06444d8058e1ec0bc5d304",
+                                    "content": "\"I'm sorry, I cannot tell you.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "42ac19630257448db48d6b6dc819290f",
+                                    "content": "\"The condition of the client in room 432 is good.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3676c56794d9431c96d0723594fa7375",
+                                    "content": "\"You can get the information from the client's chart.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a46356bb405a47888d452bd464a201d5",
+                                    "content": "\"I don't think you should be asking me that question.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is working at a computer in the nurses' station when the charge nurse from another nursing unit approaches and asks about the condition of the client in room 432, stating, \"The client is my neighbor, and I want to check on them.\" The nurse would make which most appropriate response?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse has a legal obligation to protect the client's right to confidentiality and legally cannot share any information about the client with a neighbor. In addition, it is only on a need-to-know basis that client information would be shared with other health care personnel who are directly involved in the client's care. Option 1 is factual and honest. Options 2 and 3 inappropriately provide client information. Although option 4 is correct, it is an inappropriate statement and is challenging.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Health Care Quality, Health Care Law\nStrategies: Strategic Words Test-Taking Strategy:\nUse the principles associated with clients' rights and the legal issues associated with confidentiality, and note the strategic words, most appropriate. This will direct you to option 1, which is the only statement that protects the client and is an appropriate statement.",
+                        "id": "10b8178dd8184aa88d4bd03ca270bcd6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e92608f935ba4029a176ee05d6c60c84",
+                                "content": "\"Oh, really? I will discuss this situation with your family member.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3846ca6aacae41ebb21434999ad4bd74",
+                                "content": "Let's talk about the ways you can manage your time to prevent this from happening."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "341d431125884b59a75def35b562dc75",
+                                "content": "\"Do you have any friends who can help you out until you resolve these important issues with your family member?\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0771147fb94e4c50a58e86b843bd3a3b",
+                                "content": "As a nurse, I am legally bound to report abuse. I will stay with you while you give the report and help find a safe place for you to stay."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e92608f935ba4029a176ee05d6c60c84",
+                                    "content": "\"Oh, really? I will discuss this situation with your family member.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3846ca6aacae41ebb21434999ad4bd74",
+                                    "content": "Let's talk about the ways you can manage your time to prevent this from happening."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "341d431125884b59a75def35b562dc75",
+                                    "content": "\"Do you have any friends who can help you out until you resolve these important issues with your family member?\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0771147fb94e4c50a58e86b843bd3a3b",
+                                    "content": "As a nurse, I am legally bound to report abuse. I will stay with you while you give the report and help find a safe place for you to stay."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "An older client is brought to the emergency department for treatment of a fractured arm. On physical assessment, the nurse notes old and new ecchymotic areas on the client's chest and legs and asks the client how the bruises were sustained. The client, although reluctant, tells the nurse in confidence that a family member frequently hits the client if supper is not prepared on time when the family member arrives home from work. The nurse plans to make which most appropriate response?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe nurse must report situations related to child or elder abuse, gunshot wounds and other criminal acts, and certain infectious diseases. Confidential issues are not to be discussed with nonmedical personnel or the client's family or friends without the client's permission. Clients need to be assured that information is kept confidential unless it places the nurse under a legal obligation. Options 1, 2, and 3 do not address the legal implications of the situation and do not ensure a safe environment for the client.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nHealth Problem: Mental Health: Abuse/Neglect\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Health Care Law, Interpersonal Violence\nStrategies: Comparable or Alike Options, Data in the Question, Strategic Words               Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the data in the question and note that an older client is receiving physical abuse by a family member. Recall the nursing responsibilities related to client safety and reporting obligations. Options 1, 2, and 3 should be eliminated because they are comparable or alike in that they do not protect the client from injury.",
+                        "id": "133c261a32dc4001942d00aa9c074d9c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d79f9efad481408a8ece93c3afe1bb87",
+                                "content": "Using sterile sheets and linens"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84cae1be421740d6bfa0c1907f6a6a71",
+                                "content": "Performing strict handwashing technique"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba737f5928f842389a2fdeb0a9c55205",
+                                "content": "Wearing gloves and a gown only when giving direct care to the client"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52fba7838c584c9eae048a655dea380f",
+                                "content": "Wearing protective garb, including a mask, gloves, cap, shoe covers, gowns, and plastic apron"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d79f9efad481408a8ece93c3afe1bb87",
+                                    "content": "Using sterile sheets and linens"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84cae1be421740d6bfa0c1907f6a6a71",
+                                    "content": "Performing strict handwashing technique"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba737f5928f842389a2fdeb0a9c55205",
+                                    "content": "Wearing gloves and a gown only when giving direct care to the client"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52fba7838c584c9eae048a655dea380f",
+                                    "content": "Wearing protective garb, including a mask, gloves, cap, shoe covers, gowns, and plastic apron"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse manager is observing a new nursing graduate caring for a burn client in protective isolation. The nurse manager intervenes if the new nursing graduate planned to implement which unsafe component of protective isolation technique?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nIn protective isolation, the nurse needs to protect the client at all times from any potential infectious contact. Thorough handwashing needs to be done before and after each contact with the burn-injured client. Sterile sheets and linens are used because of the client's high risk for infection. Protective garb, including gloves, cap, masks, shoe covers, gowns, and plastic apron, need to be worn when in the client's room and when directly caring for the client.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Leadership/Management: Ethical/Legal\nHealth Problem: Adult Health: Integumentary: Burns\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Closed-ended Word                                  Test-Taking Strategy:\nNote the word unsafe in the question. Options 1 and 2 can be eliminated easily because of the words sterile and strict in these options. Next, note the closed-ended word \"only\" in the correct option. Also, the correct option identifies the least thorough technique to prevent infection.",
+                        "id": "1583d98448154038b83c29639f49ce8e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ba8cf31ec604beea09e0381166206b8",
+                                "content": "\"An example of this is: If I skip down the hall, will the teacher be mad at me?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d0fdf41c9cb64e658e4b6a346591b6e4",
+                                "content": "\"An example of this is: We will spend time talking about the activities for the week.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ebd8959aeae42bebc9768c707d5f4b9",
+                                "content": "\"An example of this is: I don't like it when you yell while I am talking to my friend. Here are some activities to do until I am finished talking.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2672b2cb27324c769c4f2fc62a3f10e4",
+                                "content": "\"An example of this is: If you do all of your classwork today without bothering others in the class, you will get an extra 'seed' for your good behavior garden.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ba8cf31ec604beea09e0381166206b8",
+                                    "content": "\"An example of this is: If I skip down the hall, will the teacher be mad at me?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d0fdf41c9cb64e658e4b6a346591b6e4",
+                                    "content": "\"An example of this is: We will spend time talking about the activities for the week.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ebd8959aeae42bebc9768c707d5f4b9",
+                                    "content": "\"An example of this is: I don't like it when you yell while I am talking to my friend. Here are some activities to do until I am finished talking.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2672b2cb27324c769c4f2fc62a3f10e4",
+                                    "content": "\"An example of this is: If you do all of your classwork today without bothering others in the class, you will get an extra 'seed' for your good behavior garden.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The registered nurse (RN) is educating a new RN on the \"law and order orientation\" found in level 2 of Kohlberg's theory of moral development. Which statement by the new RN indicates that the teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIn the law and order orientation of Kohlberg's theory, the child has more concern with society as a whole, and emphasis is on obeying laws to maintain social order. The child wants to be considered \"good\" by persons whose opinions matter to him or her. The correct choice is the only option that reflects this criterion. All other options are unrelated to the law and order orientation.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: 1-5\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Teaching and Learning\nPriority Concepts: Development, Clinical Judgment\nStrategies: Strategic Words, Subject                         Test-Taking Strategy:\nNote the strategic word, effective. Focus on the subject, law and order orientation. Look for the option that indicates that the child wants to be considered \"good\" by a person in authority. This will direct you to the correct option.",
+                        "id": "1be4e717c7224df1b4a53514e1503e58",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fff6f8995651431689272215635c8a2c",
+                                "content": "\"Any discrepancies in a count will be reported immediately.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2bdadc471dd5472793ff5eb6a6f53efe",
+                                "content": "\"I will record each dispensing of an opioid on the special opioids inventory record.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3a1de3e903da4823ab2be31481a36782",
+                                "content": "\"If a portion of an opioid is used, it is okay to leave it in the client's drawer to use at another time during the shift.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c087e07cacd744f996a4a8ad561b9c95",
+                                "content": "\"Opioids will be counted each time one is removed from the drawer and at the end and beginning of each shift.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fff6f8995651431689272215635c8a2c",
+                                    "content": "\"Any discrepancies in a count will be reported immediately.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2bdadc471dd5472793ff5eb6a6f53efe",
+                                    "content": "\"I will record each dispensing of an opioid on the special opioids inventory record.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3a1de3e903da4823ab2be31481a36782",
+                                    "content": "\"If a portion of an opioid is used, it is okay to leave it in the client's drawer to use at another time during the shift.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c087e07cacd744f996a4a8ad561b9c95",
+                                    "content": "\"Opioids will be counted each time one is removed from the drawer and at the end and beginning of each shift.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The experienced nurse is observing a newly hired graduate nurse count opioids as part of the orientation process. The experienced nurse determines that the newly hired nurse needs further teaching about the procedure for counting opioids when which statement is made?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIf the nurse gives a portion of a premeasured dose of a controlled substance, a second nurse witnesses disposal of the unused portion. Both nurses must sign the form. Leftover portions of an opioid are not saved for use at a later time. The statements in the remaining options are accurate.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: 1-5\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Teaching and Learning\nPriority Concepts: Safety, Health Care Law\nStrategies: Negative Event Query, Strategic Words                   Test-Taking Strategy:\nNote the strategic words, needs further teaching. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Recall the legal guidelines for administration of opioids. Remember that it is inappropriate to save unused opioids for later use.",
+                        "id": "262167aca8754ef8b74f54880cdb680a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b578b13c5e404d5ca37a90f4c9f72e39",
+                                "content": "Obtaining the client's vital signs"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7945450599bd4907818f63d66a6811bb",
+                                "content": "Positioning the client on the left side"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f60646698254cf38295a9466ec5d79c",
+                                "content": "Providing the client with reading materials"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53079e98c1ce4ff688a33d7c43db4d03",
+                                "content": "Assisting the client to drink sips of fluid as prescribed"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b578b13c5e404d5ca37a90f4c9f72e39",
+                                    "content": "Obtaining the client's vital signs"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7945450599bd4907818f63d66a6811bb",
+                                    "content": "Positioning the client on the left side"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f60646698254cf38295a9466ec5d79c",
+                                    "content": "Providing the client with reading materials"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53079e98c1ce4ff688a33d7c43db4d03",
+                                    "content": "Assisting the client to drink sips of fluid as prescribed"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who has just returned from having a right-sided renal biopsy. Which action by the assistive personnel (AP) requires immediate follow-up by the nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nA client who has undergone a renal biopsy would be positioned on the affected side or back (if prescribed); positioning on the affected side maximizes pressure to the area to prevent bleeding. Options 1, 3, and 4 are correct interventions.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: 1-5\nContent Area: Leadership/Management: Ethical/Legal\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Leadership, Safety\nStrategies: Negative Event Query, Strategic Words, Subject                                Test-Taking Strategy:\nNote the strategic words, requires immediate follow-up, which indicate a negative event query and ask you to select an option that is an incorrect statement. Focus on the subject, the incorrect action by the AP. Eliminate options 1, 3, and 4 because these are tasks that are within the scope of practice for an AP.",
+                        "id": "283e8f9ce0a34ae8a6637dbebe9b36f4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "904b50d2e86f6a49af5ac823001e2917",
+            "lessonItemId": "9637d292b401442207ffafafbe889606",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 327000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:42:22",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Ethical and Legal Issue",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

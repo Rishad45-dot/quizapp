@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:59",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:59",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:13:49",
+            "id": "3c4f8e97ceb32d2b2695dca94d5ee19d",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1eae79afada2dc0ee5be1fb423b7e3d5",
+                                "content": "Normal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0fa762b9e58e15e2bdab38db55fc7da9",
+                                "content": "Abnormal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f929a709db8d7d60f8033358c2948f5",
+                                "content": "Insignificant"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "36d53fdfab8e669dc44d685749d1e55b",
+                                "content": "Inconclusive"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1eae79afada2dc0ee5be1fb423b7e3d5",
+                                    "content": "Normal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0fa762b9e58e15e2bdab38db55fc7da9",
+                                    "content": "Abnormal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f929a709db8d7d60f8033358c2948f5",
+                                    "content": "Insignificant"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "36d53fdfab8e669dc44d685749d1e55b",
+                                    "content": "Inconclusive"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>The nurse is performing the oculocephalic response (doll's eyes maneuver) on an unconscious client who sustained a head injury. The nurse turns the client's head and notes movement of the eyes in the same direction as the head. How would the nurse document these findings?</p>",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "<p>Rationale:</p><p>In an unconscious client, eye movements are an indication of brainstem activity and are tested by the oculocephalic response. When the doll's eyes maneuver is intact, the eyes move in the opposite direction when the head is turned. Abnormal responses include movement of the eyes in the same direction as the head and maintenance of a midline position of the eyes when the head is turned. An abnormal response indicates a disruption in the processing of information through the brainstem.</p>",
+                        "id": "0778cc06008a460caf87f4ea5533dfc3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fca835fdef1e49f78041744ff0183a43",
+                                "content": "Frontal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9163a567c4364be28373fc26b06b2881",
+                                "content": "Parietal"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9396f1565d3b4fe8808e7684feed7662",
+                                "content": "Occipital"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "864f9a3f7265454cbf5ed5e053b8c4cf",
+                                "content": "Temporal"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fca835fdef1e49f78041744ff0183a43",
+                                    "content": "Frontal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9163a567c4364be28373fc26b06b2881",
+                                    "content": "Parietal"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9396f1565d3b4fe8808e7684feed7662",
+                                    "content": "Occipital"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "864f9a3f7265454cbf5ed5e053b8c4cf",
+                                    "content": "Temporal"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a traumatic brain injury is able, with eyes closed, to identify a set of keys placed in their hands. On the basis of this assessment finding, the nurse determines that there is appropriate function of which lobe of the brain?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nThe ability to distinguish an object by touch is called stereognosis, which is a function of the right parietal area. The parietal lobe of the brain is responsible for spatial orientation and awareness of sizes and shapes. The left parietal area is responsible for mathematics and right-left orientation. The other lobes of the brain are not responsible for this function.",
+                        "id": "1bdfc894dcd34231adb8250eb67c3428",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "19244750f2b04c4abcd72ecedb567502",
+                                "content": "The left side of the body"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "74f1f51c3fa5402d84a6c6112b0a4937",
+                                "content": "The right side of the body"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "90e2b6f3cac64f878d0e8a58c226ac74",
+                                "content": "Both sides of the body equally"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7502ce2f89ea4f90bc84c3360cea0140",
+                                "content": "Cranial nerves only, such as speech and pupillary response"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "19244750f2b04c4abcd72ecedb567502",
+                                    "content": "The left side of the body"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "74f1f51c3fa5402d84a6c6112b0a4937",
+                                    "content": "The right side of the body"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "90e2b6f3cac64f878d0e8a58c226ac74",
+                                    "content": "Both sides of the body equally"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7502ce2f89ea4f90bc84c3360cea0140",
+                                    "content": "Cranial nerves only, such as speech and pupillary response"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client arrives in the hospital emergency department with a closed head injury to the right side of the head caused by an assault with a baseball bat. The nurse assesses the client neurologically, looking primarily for motor response deficits that involve which area?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMotor responses such as weakness and decreased movement will be seen on the side of the body that is opposite an area of head injury. Contralateral deficits result from compression of the cortex of the brain or the pyramidal tracts. Depending on the severity of the injury, the client may have a variety of neurological deficits.",
+                        "id": "2288f9c0c5ce43ba807e0a18f11a210f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "439bc3ba2c484f30bb18a1d30827cb1f",
+                                "content": "Sternal rub"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0977c31a0a534632bad3399e1dcba339",
+                                "content": "Pressure on nail beds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba1c81118a764cba879f067b880057c2",
+                                "content": "Pressure on the orbital rim"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d5e102a4e9304e61a199a713d5d2290d",
+                                "content": "Squeezing of the sternocleidomastoid muscle"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "439bc3ba2c484f30bb18a1d30827cb1f",
+                                    "content": "Sternal rub"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0977c31a0a534632bad3399e1dcba339",
+                                    "content": "Pressure on nail beds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba1c81118a764cba879f067b880057c2",
+                                    "content": "Pressure on the orbital rim"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d5e102a4e9304e61a199a713d5d2290d",
+                                    "content": "Squeezing of the sternocleidomastoid muscle"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is assessing the motor and sensory function of an unconscious client who sustained a head injury. The nurse would use which technique to test the client's peripheral response to pain?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPressure on nail beds tests a basic motor and sensory peripheral response. Cerebral responses to pain are tested using a sternal rub, placing upward pressure on the orbital rim, or squeezing the clavicle or sternocleidomastoid muscle.\n",
+                        "id": "249e6f89d7cf425ab7d0cca4df22b4e2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf49141c7b7a4eb795073aac526282fb",
+                                "content": "It will cause arteriovenous shunting."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "22e9ff8fae064c59947f42fb9b220de3",
+                                "content": "It will cause vasodilation of blood vessels in the brain."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85daeae9db224d7ba339a6c2a8ce0a0c",
+                                "content": "It will cause blood vessels in the circle of Willis to collapse."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "465e57a9853c4b408ce8e6d665b790da",
+                                "content": "It will cause hyperresponsiveness of blood vessels in the brain."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf49141c7b7a4eb795073aac526282fb",
+                                    "content": "It will cause arteriovenous shunting."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "22e9ff8fae064c59947f42fb9b220de3",
+                                    "content": "It will cause vasodilation of blood vessels in the brain."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85daeae9db224d7ba339a6c2a8ce0a0c",
+                                    "content": "It will cause blood vessels in the circle of Willis to collapse."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "465e57a9853c4b408ce8e6d665b790da",
+                                    "content": "It will cause hyperresponsiveness of blood vessels in the brain."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with chronic obstructive pulmonary disease who sustained a head injury has a high level of carbon dioxide (CO2) in the bloodstream, as measured by arterial blood gases. The nurse anticipates that which underlying pathophysiology can occur as a result of this elevated CO2?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCO2 is one of the metabolic end products that can alter the tone of the blood vessels in the brain. High CO2 levels cause vasodilation, which may cause headache, whereas low CO2 levels cause vasoconstriction, which may cause light-headedness. The statements included in the other options are incorrect effects.",
+                        "id": "354567da0059460ea6f5ca6336256529",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47841823f3f1495686edb761225e0d39",
+                                "content": "Sounds will not be heard clearly unless they are loud."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "40ca397ddc0148aead54794a3b430109",
+                                "content": "Obtain assistance with ambulation if the client is light-headed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6710810ccef2478f8e0bd29e3b84608f",
+                                "content": "Tub bath or shower is permitted, but the scalp is kept dry until the sutures are removed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d2d4dec075094a579660f641869730a7",
+                                "content": "Use a check-off system for administering anticonvulsant medications to avoid missing doses."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47841823f3f1495686edb761225e0d39",
+                                    "content": "Sounds will not be heard clearly unless they are loud."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "40ca397ddc0148aead54794a3b430109",
+                                    "content": "Obtain assistance with ambulation if the client is light-headed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6710810ccef2478f8e0bd29e3b84608f",
+                                    "content": "Tub bath or shower is permitted, but the scalp is kept dry until the sutures are removed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d2d4dec075094a579660f641869730a7",
+                                    "content": "Use a check-off system for administering anticonvulsant medications to avoid missing doses."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing a discharge teaching plan for a postcraniotomy client that was prepared by a nursing student. The nurse would intervene and provide teaching to the student if the student included which home care instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe postcraniotomy client typically is sensitive to loud noises and can find them excessively irritating. Control of environmental noise by others will be helpful for this client. Seizures are a potential complication that may occur for up to 1 year after surgery. For this reason, the client must diligently take anticonvulsant medications. The client and family are encouraged to keep track of the doses administered. The family needs to learn seizure precautions and needs to accompany the client during ambulation if dizziness or seizures tend to occur. To prevent infection the suture line is kept dry until sutures are removed.",
+                        "id": "3b82027b24ae42cc9b56a498416a66d8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "99225c529d86492ea109e1f60b421ff6",
+                                "content": "Head midline"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e4389830bc6648da88e577ba4678fc27",
+                                "content": "Head turned to the side"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2eeae1f065834079903aaf31d972d65a",
+                                "content": "Neck in neutral position"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4159da716b434acc8e323ec2db1441f0",
+                                "content": "Head of bed elevated 30 to 45 degrees"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "99225c529d86492ea109e1f60b421ff6",
+                                    "content": "Head midline"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e4389830bc6648da88e577ba4678fc27",
+                                    "content": "Head turned to the side"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2eeae1f065834079903aaf31d972d65a",
+                                    "content": "Neck in neutral position"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4159da716b434acc8e323ec2db1441f0",
+                                    "content": "Head of bed elevated 30 to 45 degrees"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is positioning a client who has increased intracranial pressure as a result of a head injury. Which position would the nurse plan to avoid?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe head of a client with increased intracranial pressure needs to be kept in a neutral midline position. The nurse would avoid flexing or extending the client's neck or turning the head from side to side. The head of the bed needs to be raised to 30 to 45 degrees. Use of proper positions promotes venous drainage from the cranium to keep intracranial pressure down.",
+                        "id": "3da304f7691946028165033a35b1e38a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aeb707144118425c98dce1f162b5d588",
+                                "content": "Increasing temperature, increasing pulse, increasing respirations, decreasing blood pressure"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "557b783dbf6740018206b17ccb405349",
+                                "content": "Increasing temperature, decreasing pulse, decreasing respirations, increasing blood pressure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3bff03419b742c68fd9ee5a1bfb98c6",
+                                "content": "Decreasing temperature, decreasing pulse, increasing respirations, decreasing blood pressure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "11f779de7a074a88b421e9a9761587bf",
+                                "content": "Decreasing temperature, increasing pulse, decreasing respirations, increasing blood pressure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aeb707144118425c98dce1f162b5d588",
+                                    "content": "Increasing temperature, increasing pulse, increasing respirations, decreasing blood pressure"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "557b783dbf6740018206b17ccb405349",
+                                    "content": "Increasing temperature, decreasing pulse, decreasing respirations, increasing blood pressure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3bff03419b742c68fd9ee5a1bfb98c6",
+                                    "content": "Decreasing temperature, decreasing pulse, increasing respirations, decreasing blood pressure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "11f779de7a074a88b421e9a9761587bf",
+                                    "content": "Decreasing temperature, increasing pulse, decreasing respirations, increasing blood pressure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with increased intracranial pressure as a result of a head injury. The nurse would note which trend in vital signs if the intracranial pressure is rising?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nA change in vital signs may be a late sign of increased intracranial pressure. Trends include increasing temperature, widening pulse pressure, increased systolic blood pressure, and decreasing pulse and respirations. Respiratory irregularities also may occur.",
+                        "id": "3f884152849b4077a92c7561eaed7822",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75b90b6d652a463d92e8df88bbe2e650",
+                                "content": "Pao2 60 to 100 mm Hg, Paco2 25 to 30 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9658b230d88f42baa69317296a8b73c9",
+                                "content": "Pao2 60 to 100 mm Hg, Paco2 30 to 35 mm Hg"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91b133f0e07c4e31b01f684e293002eb",
+                                "content": "Pao2 80 to 100 mm Hg, Paco2 25 to 30 mm Hg"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "53eee24b396e41e7b2e26a0529c633f6",
+                                "content": "Pao2 80 to 100 mm Hg, Paco2 35 to 38 mm Hg"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75b90b6d652a463d92e8df88bbe2e650",
+                                    "content": "Pao2 60 to 100 mm Hg, Paco2 25 to 30 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9658b230d88f42baa69317296a8b73c9",
+                                    "content": "Pao2 60 to 100 mm Hg, Paco2 30 to 35 mm Hg"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91b133f0e07c4e31b01f684e293002eb",
+                                    "content": "Pao2 80 to 100 mm Hg, Paco2 25 to 30 mm Hg"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "53eee24b396e41e7b2e26a0529c633f6",
+                                    "content": "Pao2 80 to 100 mm Hg, Paco2 35 to 38 mm Hg"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a traumatic brain injury is on mechanical ventilation. The nurse promotes normal intracranial pressure (ICP) by ensuring that the client's arterial blood gas (ABG) results are within which ranges?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe goal is to maintain the partial pressure of arterial carbon dioxide (PaCo2) at 35 to 38 mm Hg. Carbon dioxide is a very potent vasodilator that can contribute to increases in ICP. The Pao2 is not allowed to fall below 80 mm Hg, to prevent cerebral vasodilation from hypoxemia, which can also result in an increase in ICP. Therefore, the remaining options are incorrect.",
+                        "id": "42267666308341cf9b4fa70e8fe5e526",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "35aa19beec574641a792f1a38c5265f2",
+                                "content": "Blowing the nose"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "048019e4b7744366b3356f1e7436b3c1",
+                                "content": "Isometric exercises"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51e5b7bf770a4379a43f785531ef05b9",
+                                "content": "Coughing vigorously"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d60bd6f9ee5442c6a647af2cad3e0026",
+                                "content": "Exhaling during repositioning"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "35aa19beec574641a792f1a38c5265f2",
+                                    "content": "Blowing the nose"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "048019e4b7744366b3356f1e7436b3c1",
+                                    "content": "Isometric exercises"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51e5b7bf770a4379a43f785531ef05b9",
+                                    "content": "Coughing vigorously"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d60bd6f9ee5442c6a647af2cad3e0026",
+                                    "content": "Exhaling during repositioning"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client recovering from a head injury is participating in care. The nurse determines that the client understands measures to prevent elevations in intracranial pressure if the nurse observes the client doing which activity?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nActivities that increase intrathoracic and intra-abdominal pressures cause an indirect elevation of the intracranial pressure. Some of these activities include isometric exercises, Valsalva's maneuver, coughing, sneezing, and blowing the nose. Exhaling during activities such as repositioning or pulling up in bed opens the glottis, which prevents intrathoracic pressure from rising.",
+                        "id": "459f792753de4fc9bbe375705f941375",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "f1ddeed650a87f39b4626c6ebf3fdb96",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 148000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:13:50",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Traumatic Head Injur",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

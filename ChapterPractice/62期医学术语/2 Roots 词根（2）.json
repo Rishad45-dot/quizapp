@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:20:35",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:20:35",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:21:34",
+            "id": "0d0af32d312c40dc3a6caa5253b36bb4",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2f55f335b594c4bb2a3798525b35c45",
+                                "content": "arthr(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "06b4fbcb52e141b19346871f65ca2e89",
+                                "content": "my(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d040e1b6bb047ff9a97881e862dc9a5",
+                                "content": "hydro-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "769560c77c624e11b2bf36da4ce8c748",
+                                "content": "neuro-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2f55f335b594c4bb2a3798525b35c45",
+                                    "content": "arthr(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "06b4fbcb52e141b19346871f65ca2e89",
+                                    "content": "my(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d040e1b6bb047ff9a97881e862dc9a5",
+                                    "content": "hydro-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "769560c77c624e11b2bf36da4ce8c748",
+                                    "content": "neuro-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "下列哪个词根与“神经”有关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "neuro-神经",
+                        "id": "0293f4515c3b4f7cb6c6e5668a3d49a8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df3d6ad43e556accf5ce158302eababd",
+                                "content": "ot(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87a14ec1ec66f961477a142107252ba8",
+                                "content": "or(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "975193f4fd96cee0e32772ff1f8bf583",
+                                "content": " somat(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a8d8e6e21556f7e8c70fe85f94bf4508",
+                                "content": "an(o)-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df3d6ad43e556accf5ce158302eababd",
+                                    "content": "ot(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87a14ec1ec66f961477a142107252ba8",
+                                    "content": "or(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "975193f4fd96cee0e32772ff1f8bf583",
+                                    "content": " somat(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a8d8e6e21556f7e8c70fe85f94bf4508",
+                                    "content": "an(o)-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "<p>与“耳”有关词根是哪一个</p>",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "<p>ot(o)-耳</p>",
+                        "id": "0e36bd6d39444ba28e48faf9f2547d01",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fc4eb924e9848ad9c5d8edf58438213",
+                                "content": "Nervous"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db587cd756a146548dbe65cfbda7c2b9",
+                                "content": "Endocrine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed71595134744943aec5b2ac7c80bdb3",
+                                "content": "Muscular"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d88ecdff3df43eea0f6eada4b2b1d75",
+                                "content": "Glandular"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fc4eb924e9848ad9c5d8edf58438213",
+                                    "content": "Nervous"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db587cd756a146548dbe65cfbda7c2b9",
+                                    "content": "Endocrine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed71595134744943aec5b2ac7c80bdb3",
+                                    "content": "Muscular"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d88ecdff3df43eea0f6eada4b2b1d75",
+                                    "content": "Glandular"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Pancreat(o)- is the combining form for what type of tissue?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Pancreat(o)- refers to the pancreas, which is a glandular organ.",
+                        "id": "0f7e4fb3d67944f0a5f9cc6a96d86271",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f8ede38a379d4103a2715117cbbbf5d6",
+                                "content": "encephal(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ba58ae528d7f40ca881f6c3f1749cd8f",
+                                "content": "nephr(o)-"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82f549e18ba24b749047ed650757168f",
+                                "content": "oste(o)-"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "038d9f46476c40e7b8d9b91fa7999555",
+                                "content": "crani(o)-"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f8ede38a379d4103a2715117cbbbf5d6",
+                                    "content": "encephal(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ba58ae528d7f40ca881f6c3f1749cd8f",
+                                    "content": "nephr(o)-"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82f549e18ba24b749047ed650757168f",
+                                    "content": "oste(o)-"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "038d9f46476c40e7b8d9b91fa7999555",
+                                    "content": "crani(o)-"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "下列哪个词根与“颅”有关？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "crani(o)-颅",
+                        "id": "0fc4ca38d2014c8a978d6046e4bb8f19",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48bc04a58a654c819bebcfa88ab8cb28",
+                                "content": "Heart"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e88fe1c46c0b437283126a4b21418324",
+                                "content": "Brain"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fd86d2c833074ee5b410c4c920a7448e",
+                                "content": "Lungs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "92ce4d37005c4eb7b76379a52d1d0396",
+                                "content": "Liver"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48bc04a58a654c819bebcfa88ab8cb28",
+                                    "content": "Heart"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e88fe1c46c0b437283126a4b21418324",
+                                    "content": "Brain"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fd86d2c833074ee5b410c4c920a7448e",
+                                    "content": "Lungs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "92ce4d37005c4eb7b76379a52d1d0396",
+                                    "content": "Liver"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Encephal(o)- is the combining form that refers to which part of the body?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Encephal(o)- relates to the brain.",
+                        "id": "11cbfc0579ef48bc9b78ebc67b4c0531",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "64d00977146c43baa0c873365eb87c8d",
+                                "content": "Cardiovascular"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c4f1b76f1dd04c1faecc700f5c30b522",
+                                "content": "Urinary"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a709f9301144bbbae1a239c35b7c4f4",
+                                "content": "Respiratory"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c55d03e14364a81bd837c5e79385f27",
+                                "content": "Endocrine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "64d00977146c43baa0c873365eb87c8d",
+                                    "content": "Cardiovascular"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c4f1b76f1dd04c1faecc700f5c30b522",
+                                    "content": "Urinary"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a709f9301144bbbae1a239c35b7c4f4",
+                                    "content": "Respiratory"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c55d03e14364a81bd837c5e79385f27",
+                                    "content": "Endocrine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Nephr(o)- is the combining form that refers to which organ system?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Nephr(o)- relates to the kidneys and the urinary system.",
+                        "id": "128565bbd4344510a0cb57b1e62ef9d9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71f5905649704aaa8172c158dd7be58a",
+                                "content": "Heart"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a84910daf41146f789465413a410cd5d",
+                                "content": "Arteries"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3f2c0523adcd4a59af1d320252259b5b",
+                                "content": "Capillaries"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "400d6b91c0d34eb0b60ee6dcf507637c",
+                                "content": "Veins"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71f5905649704aaa8172c158dd7be58a",
+                                    "content": "Heart"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a84910daf41146f789465413a410cd5d",
+                                    "content": "Arteries"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3f2c0523adcd4a59af1d320252259b5b",
+                                    "content": "Capillaries"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "400d6b91c0d34eb0b60ee6dcf507637c",
+                                    "content": "Veins"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Phleb(o)- is the combining form that refers to which part of the circulatory system?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Phleb(o)- relates to veins and venous drainage.",
+                        "id": "149950af34ab4a0fb8acfc97d171a44a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0a006357ab44fe28d85a719273dda84",
+                                "content": "Digestion"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3534b82e29a349bfa4e33d8cb16c0633",
+                                "content": "Respiration"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7bce736dd45431b9bf274e11773364f",
+                                "content": "Circulation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4f7f53f61e3847d191b1743a90ce8398",
+                                "content": "Excretion"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0a006357ab44fe28d85a719273dda84",
+                                    "content": "Digestion"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3534b82e29a349bfa4e33d8cb16c0633",
+                                    "content": "Respiration"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7bce736dd45431b9bf274e11773364f",
+                                    "content": "Circulation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4f7f53f61e3847d191b1743a90ce8398",
+                                    "content": "Excretion"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " Pulmon(o)- is associated with which bodily function?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Pulmon(o)- relates to the lungs and breathing.",
+                        "id": "1dd90260f603439a87b5c22660b623d8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d50bd84455a4b75835c87e1f0513fe7",
+                                "content": "Liver"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "13df6e9d027c4b459beb9230745132ce",
+                                "content": "Heart"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4ddca75b42140b995b9d80d72aa7755",
+                                "content": "Lungs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d6b1cc39acd441568ddd6866f34711da",
+                                "content": "Brain"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d50bd84455a4b75835c87e1f0513fe7",
+                                    "content": "Liver"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "13df6e9d027c4b459beb9230745132ce",
+                                    "content": "Heart"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4ddca75b42140b995b9d80d72aa7755",
+                                    "content": "Lungs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d6b1cc39acd441568ddd6866f34711da",
+                                    "content": "Brain"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": " Cardi(o)- refers to which organ?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Cardi(o)- is a combining form meaning \"heart\"",
+                        "id": "1e47931688d44bc988dbc55e9602b69b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "df3354525b464cbfbf53f9b48b6001a2",
+                                "content": "Arms"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9fe278013ca4a139b06bb6eab663a89",
+                                "content": "Legs"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f5143f54d1f42eb886549bc5ce2fd62",
+                                "content": "Head"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f3cebaa6b6634773899aa0e2a64e3ac5",
+                                "content": "Feet"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "df3354525b464cbfbf53f9b48b6001a2",
+                                    "content": "Arms"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9fe278013ca4a139b06bb6eab663a89",
+                                    "content": "Legs"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f5143f54d1f42eb886549bc5ce2fd62",
+                                    "content": "Head"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f3cebaa6b6634773899aa0e2a64e3ac5",
+                                    "content": "Feet"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Cephal(o)- is the combining form that refers to which part of the body?",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Cephal(o)- relates to the head or cranium.",
+                        "id": "298639c4c39040cfb98c80fa1f8d6b44",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "e1238f63ebcbef1395c9855229a22e6d",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 57000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:21:34",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "词",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

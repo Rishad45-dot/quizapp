@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:45",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:45",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:15:34",
+            "id": "ae42939c8c7913081f108e87b8476265",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "91a16b3e210e4db28f78ceda956b92d5",
+                                "content": "You may experience altered taste."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3c01eb355d9a48bba25a48c8bd345668",
+                                "content": "You may get dizzy, so move around slowly."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5ff7bc16f7e649ceb5700164a8393686",
+                                "content": "Pain in the back of the leg needs to be reported."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6f2e3e34226c4898958a1dd04edd0e75",
+                                "content": "Your urine may become dark, and if it does, you need to call your primary health care provider."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "91a16b3e210e4db28f78ceda956b92d5",
+                                    "content": "You may experience altered taste."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3c01eb355d9a48bba25a48c8bd345668",
+                                    "content": "You may get dizzy, so move around slowly."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5ff7bc16f7e649ceb5700164a8393686",
+                                    "content": "Pain in the back of the leg needs to be reported."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6f2e3e34226c4898958a1dd04edd0e75",
+                                    "content": "Your urine may become dark, and if it does, you need to call your primary health care provider."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a urinary tract infection (UTI) is given a prescription for levofloxacin. The nurse would provide the client with which information about this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nLevofloxacin is a fluoroquinolone antibiotic and is used for a variety of infections, including UTI. Adverse effects include peripheral neuropathy, rhabdomyolysis, tendinitis, tendon rupture, Clostridium difficile infection, muscle weakness in clients with myasthenia gravis, and photosensitivity. Levofloxacin can also prolong the client's QT interval, leading to dysrhythmias. Pain in the back of the leg could be indicative of tendinitis and therefore risk for tendon rupture. The other adverse effects are associated with gemifloxacin, not levofloxacin.",
+                        "id": "05012264bdc84784bd47a5be4a94dc16",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "390b4a99747144acb3b5b9d3e25bfdf8",
+                                "content": "Vitamin K"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0f7c575d56db438c8f07fc401151dc04",
+                                "content": "Mucomyst"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29ca73230259455f9c80857d1e194209",
+                                "content": "Atropine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8ce8ff44a247486fa38842d6a46567c3",
+                                "content": "Protamine sulfate"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "390b4a99747144acb3b5b9d3e25bfdf8",
+                                    "content": "Vitamin K"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0f7c575d56db438c8f07fc401151dc04",
+                                    "content": "Mucomyst"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29ca73230259455f9c80857d1e194209",
+                                    "content": "Atropine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8ce8ff44a247486fa38842d6a46567c3",
+                                    "content": "Protamine sulfate"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is preparing a subcutaneous dose of bethanechol, prescribed for a client with urinary retention. Before giving the dose, the nurse checks to see that which medication is available on the emergency cart for use if needed?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBethanechol is a cholinergic medication. Administration of bethanechol could result in cholinergic overdose. The antidote is atropine (an anticholinergic), which would be readily available for use if overdose occurs. Mucomyst is the antidote for acetaminophen overdose. Protamine sulfate is the antidote for heparin. Vitamin K is the antidote for warfarin.",
+                        "id": "17a4e2d3f9024e449a02188da1bb1cb9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0b8c6fdc5999459285296cd6c41e4554",
+                                "content": "With meals"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f95219f3b0f0430991e101304355997c",
+                                "content": "Two hours after meals"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15ed6dc756584ddf8cdb61e603128052",
+                                "content": "With a snack in the afternoon"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "24d5ea4604394e88b799496038a19b7e",
+                                "content": "At bedtime with crackers and cheese"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0b8c6fdc5999459285296cd6c41e4554",
+                                    "content": "With meals"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f95219f3b0f0430991e101304355997c",
+                                    "content": "Two hours after meals"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15ed6dc756584ddf8cdb61e603128052",
+                                    "content": "With a snack in the afternoon"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "24d5ea4604394e88b799496038a19b7e",
+                                    "content": "At bedtime with crackers and cheese"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Oral bethanechol chloride is prescribed for the client. The nurse would instruct the client to take this medication at which time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAdministration of bethanechol chloride with food can cause nausea and vomiting. To avoid this problem, oral doses need to be administered 1 hour before meals or 2 hours after meals. Therefore, all other options are incorrect.",
+                        "id": "181e01fd7e1a43eb9e82761014016fc3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b8d3d4adee064569b7b5caf9932b6e91",
+                                "content": "Oxybutynin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "80ec221d0b404e8980b0d23894197d6f",
+                                "content": "Hydromorphone"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "251a446723ef431f9c6a6636be859ab7",
+                                "content": "Morphine sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4a1cae92e7d48f19aa5181b6d503684",
+                                "content": "Meperidine hydrochloride"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b8d3d4adee064569b7b5caf9932b6e91",
+                                    "content": "Oxybutynin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "80ec221d0b404e8980b0d23894197d6f",
+                                    "content": "Hydromorphone"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "251a446723ef431f9c6a6636be859ab7",
+                                    "content": "Morphine sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4a1cae92e7d48f19aa5181b6d503684",
+                                    "content": "Meperidine hydrochloride"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who has had a prostatectomy is complaining of pain from bladder spasms. The nurse checks the primary health care provider's prescription sheet and expects to see which medication prescribed to treat the problem?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nBladder spasms after prostatectomy are treated with antispasmodic medications, such as oxybutynin. Opioid analgesics such as morphine sulfate, hydromorphone, and meperidine hydrochloride usually are not effective in treating pain caused by spasms.",
+                        "id": "1a5858f9836b471c9a36e72ecfe6509f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79b7a464fcc0425090ffd0fba2b065db",
+                                "content": "Intravenously"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a07ca78c0d244d58bc6a92bfebcc0756",
+                                "content": "Intradermally"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ed16558f15914023b49a3f49882df8d7",
+                                "content": "Intramuscularly"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f642e28d9b43440c909c30830e88be8c",
+                                "content": "Subcutaneously"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79b7a464fcc0425090ffd0fba2b065db",
+                                    "content": "Intravenously"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a07ca78c0d244d58bc6a92bfebcc0756",
+                                    "content": "Intradermally"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ed16558f15914023b49a3f49882df8d7",
+                                    "content": "Intramuscularly"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f642e28d9b43440c909c30830e88be8c",
+                                    "content": "Subcutaneously"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Parenteral bethanechol chloride is prescribed for a client with urinary retention. The nurse would plan to administer this medication by which route?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nThe injectable form of bethanechol chloride is intended for subcutaneous administration only. Bethanechol must never be injected intramuscularly or intravenously because the resulting high medication level can cause severe toxicity, resulting in bloody diarrhea, bradycardia, profound hypotension, and cardiovascular collapse.",
+                        "id": "1d8003fdc7fd446b99c6bb6e5d0abbcb",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cef1f61ed81745c684ee8cdfce212d72",
+                                "content": "Gastritis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ed158486ec54901bf2c5f05e00e30b0",
+                                "content": "Renal calculi"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "313f080e7ac14033bf2c5efa6a63fdfe",
+                                "content": "Ulcerative colitis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cf2f6988a15642e4838ce0470b857709",
+                                "content": "Overactive bladder"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cef1f61ed81745c684ee8cdfce212d72",
+                                    "content": "Gastritis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ed158486ec54901bf2c5f05e00e30b0",
+                                    "content": "Renal calculi"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "313f080e7ac14033bf2c5efa6a63fdfe",
+                                    "content": "Ulcerative colitis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cf2f6988a15642e4838ce0470b857709",
+                                    "content": "Overactive bladder"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is receiving oxybutynin. The nurse would suspect that this medication is prescribed to relieve which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWhen medication therapy for overactive bladder is indicated, anticholinergic agents are the medications generally prescribed. These medications block muscarinic receptors on the bladder detrusor and thereby inhibit bladder contractions and decrease the urge to void. It is not used to treat gastritis. The medication would not be used to treat renal calculi or ulcerative colitis. In fact, it may make those conditions worse.",
+                        "id": "1f7319bb2a1b47f7861b7a9372aefd19",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5adbdf90f4954a95bba9e48c431234c8",
+                                "content": "Pallor"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02738033f90b46549c580b6c28b6501b",
+                                "content": "Drowsiness"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d84e17343324980a727ca157ea69423",
+                                "content": "Bradycardia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "56691b2412264f8f8fa3f189d367673b",
+                                "content": "Restlessness"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5adbdf90f4954a95bba9e48c431234c8",
+                                    "content": "Pallor"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02738033f90b46549c580b6c28b6501b",
+                                    "content": "Drowsiness"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d84e17343324980a727ca157ea69423",
+                                    "content": "Bradycardia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "56691b2412264f8f8fa3f189d367673b",
+                                    "content": "Restlessness"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Oxybutynin chloride is prescribed for a client with urge incontinence. Which sign would indicate a possible toxic effect related to this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nToxicity (overdosage) of oxybutynin produces central nervous system excitation, such as nervousness, restlessness, hallucinations, and irritability. Other signs of toxicity include hypotension or hypertension, confusion, tachycardia, flushed or red face, and signs of respiratory depression. Drowsiness is a frequent side effect of the medication but does not indicate overdosage.",
+                        "id": "27848101b6d04a6ebbc61acc1ef6f4c2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "664094bbf9974b5dafd895a9db09e239",
+                                "content": "Infusing slowly over 60 minutes"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9d6c2deb26e84b929098cf503e103cd0",
+                                "content": "Infusing in a light-protective bag"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7be618dd8e764e45a323fbd016a467c9",
+                                "content": "Infusing only through a central line"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "60feb14db388476ead7c75637673ae3a",
+                                "content": "Infusing rapidly as a direct IV push medication"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "664094bbf9974b5dafd895a9db09e239",
+                                    "content": "Infusing slowly over 60 minutes"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9d6c2deb26e84b929098cf503e103cd0",
+                                    "content": "Infusing in a light-protective bag"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7be618dd8e764e45a323fbd016a467c9",
+                                    "content": "Infusing only through a central line"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "60feb14db388476ead7c75637673ae3a",
+                                    "content": "Infusing rapidly as a direct IV push medication"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a urinary tract infection is receiving ciprofloxacin by the intravenous (IV) route. The nurse appropriately administers the medication by performing which action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nCiprofloxacin is prescribed for treatment of mild, moderate, severe, and complicated infections of the urinary tract, lower respiratory tract, and skin and skin structure. A single dose is administered slowly over 60 minutes to minimize discomfort and vein irritation. Ciprofloxacin is not light-sensitive, may be infused through a peripheral IV access, and is not given by IV push method.",
+                        "id": "3398e93c7d674e3d9b703cd770a98c95",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1123f7eb51114c9296681fcf7b652bcf",
+                                "content": "50 mg every 6 hours"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ec3a23f48f14e15891968debfb9bf65",
+                                "content": "150 mg 3 times daily"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3d40ddf273ee46ef94ff6a160e636866",
+                                "content": "300 mg administered at bedtime"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "804751f9a0474f2a93fe61908fc76e9d",
+                                "content": "1 g distributed evenly throughout the day"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1123f7eb51114c9296681fcf7b652bcf",
+                                    "content": "50 mg every 6 hours"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ec3a23f48f14e15891968debfb9bf65",
+                                    "content": "150 mg 3 times daily"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3d40ddf273ee46ef94ff6a160e636866",
+                                    "content": "300 mg administered at bedtime"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "804751f9a0474f2a93fe61908fc76e9d",
+                                    "content": "1 g distributed evenly throughout the day"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Nitrofurantoin is prescribed for an adult client to treat acute urinary tract infection (UTI). Based on the normal adult dose, how would the nurse instruct the client to take this medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nFor treatment of acute UTI, the adult dosage is 50 mg every 6 hours. For prophylaxis of recurrent UTI, low doses are used, such as 50 to 100 mg at bedtime for adults.",
+                        "id": "396e2ad303fb4fa4acbe404611ea7292",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fc518ed487964762947bea5e11ff4fb7",
+                                "content": "With breakfast"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48afb5fc163f4478af5e278446156639",
+                                "content": "With a glass of milk"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e3efb1a79754359980f3439a05d021a",
+                                "content": "With the lunchtime meal"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00e65480ff334799a615abf78d4a2727",
+                                "content": "Thirty minutes after a meal"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fc518ed487964762947bea5e11ff4fb7",
+                                    "content": "With breakfast"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48afb5fc163f4478af5e278446156639",
+                                    "content": "With a glass of milk"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e3efb1a79754359980f3439a05d021a",
+                                    "content": "With the lunchtime meal"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00e65480ff334799a615abf78d4a2727",
+                                    "content": "Thirty minutes after a meal"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Tamsulosin hydrochloride has been prescribed for a client with benign prostatic hypertrophy (BPH). How would the nurse instruct the client to take the medication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nTamsulosin hydrochloride is a medication that will relieve mild to moderate manifestations of BPH and improve urinary flow rates. The medication would be administered 30 minutes after meals because food decreases the peak plasma concentration and lengthens the time to achieve peak plasma medication concentrations. Therefore, options 1, 2, and 3 are incorrect.",
+                        "id": "39fb3ba3224f4462993eeb9f1f57ac77",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "27c211b15f34dfa39eb2337af5a6ad22",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 310000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:15:35",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Renal and Urinary Medication",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

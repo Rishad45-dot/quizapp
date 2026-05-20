@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:17",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:17",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:18:10",
+            "id": "259dbc911a3464f3b1f889115e963e93",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afe4555c7cac4974a9f07a329103f366",
+                                "content": "Prothrombin time of 12.5 seconds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "de2fc292f551434db7bd96b92c53519c",
+                                "content": "Activated partial thromboplastin time of 28 seconds"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9dfd39c754af4cebac24ebb3bb2ebb04",
+                                "content": "Activated partial thromboplastin time of 60 seconds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "57f2cce9b7454c159d7a3947e1954650",
+                                "content": "Activated partial thromboplastin time longer than 120 seconds"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afe4555c7cac4974a9f07a329103f366",
+                                    "content": "Prothrombin time of 12.5 seconds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "de2fc292f551434db7bd96b92c53519c",
+                                    "content": "Activated partial thromboplastin time of 28 seconds"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9dfd39c754af4cebac24ebb3bb2ebb04",
+                                    "content": "Activated partial thromboplastin time of 60 seconds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "57f2cce9b7454c159d7a3947e1954650",
+                                    "content": "Activated partial thromboplastin time longer than 120 seconds"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with atrial fibrillation is receiving a continuous heparin infusion at 1000 units/hr. Which result would indicate to the nurse that the client is receiving a therapeutic dose?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nCommon laboratory ranges for activated partial thromboplastin time (aPTT) are 30 to 40 seconds. Because the aPTT should be 1.5 to 2.5 times the normal value, the client's aPTT would be considered therapeutic if it was 60 seconds. Prothrombin time assesses response to warfarin therapy.\n\nTest-Taking Strategy:\nFocus on the subject, the therapeutic effect of heparin. Prothrombin time is eliminated because it assesses response to warfarin therapy. The aPTT of 28 seconds is eliminated because this result indicates that the client is receiving no therapeutic effect from the continuous heparin infusion. Finally, the aPTT greater than 120 seconds can be eliminated because this value is beyond the therapeutic range and the client is at risk for bleeding.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Clotting, Safety\nStrategies: Subject",
+                        "id": "0c23fa97d2bf44c199c760717bbcaa0a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa116d96947e45c4b562083d39e9691b",
+                                "content": "Collaborate with the primary health care provider (PHCP) to discontinue the heparin infusion and administer the warfarin sodium as prescribed."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "447c1412804e49e6a0fae5ddfdcfbd85",
+                                "content": "Collaborate with the PHCP to obtain a prescription to increase the heparin infusion and continue the warfarin sodium as prescribed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e9adfe3748064947a08e85cde5d4b871",
+                                "content": "Collaborate with the PHCP to withhold the warfarin sodium since the client is receiving a heparin infusion and the aPTT is within the therapeutic range."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9baa42c8b034f6fb2348987e4af2c6d",
+                                "content": "Collaborate with the PHCP to continue the heparin infusion at the same rate and to discuss use of dabigatran etexilate in place of warfarin sodium."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa116d96947e45c4b562083d39e9691b",
+                                    "content": "Collaborate with the primary health care provider (PHCP) to discontinue the heparin infusion and administer the warfarin sodium as prescribed."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "447c1412804e49e6a0fae5ddfdcfbd85",
+                                    "content": "Collaborate with the PHCP to obtain a prescription to increase the heparin infusion and continue the warfarin sodium as prescribed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e9adfe3748064947a08e85cde5d4b871",
+                                    "content": "Collaborate with the PHCP to withhold the warfarin sodium since the client is receiving a heparin infusion and the aPTT is within the therapeutic range."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9baa42c8b034f6fb2348987e4af2c6d",
+                                    "content": "Collaborate with the PHCP to continue the heparin infusion at the same rate and to discuss use of dabigatran etexilate in place of warfarin sodium."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with valvular heart disease who has a clot in the right atrium is receiving a heparin sodium infusion at 1000 units/hr and warfarin sodium 7.5 mg at 1600 daily. The morning laboratory results are as follows: activated partial thromboplastin time (aPTT), 32 seconds; international normalized ratio (INR), 1.3. Which action would the nurse take based on the client's laboratory results?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nWhen a client is receiving warfarin for clot prevention due to atrial fibrillation, an INR of 2 to 3 is appropriate for most clients. Until the INR has achieved a therapeutic range, the client should be maintained on a continuous heparin infusion with the aPTT ranging between 60 and 80 seconds. Therefore, the nurse would collaborate with the PHCP to obtain a prescription to increase the heparin infusion and to administer the warfarin as prescribed.\n\nTest-Taking Strategy:\nFocus on the subject, laboratory result analysis related to these medications. First, eliminate the option that indicates to discuss use of dabigatran etexilate, recalling that it is contraindicated for use in atrial fibrillation associated with valvular heart disease. Next, recall that if the warfarin sodium has achieved the therapeutic range for the INR for clot prevention in atrial fibrillation, the heparin infusion is no longer necessary. This will help you eliminate the option that indicates to withhold the warfarin sodium because the INR is not therapeutic. Last, keep in mind that if both the aPTT and the INR are not within therapeutic range, the client is left unprotected from clot formation.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clotting, Collaboration\nStrategies: Subject",
+                        "id": "13d051e5db9043f0ac7fe03c28fa368f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "38a18f4a10e34dce99c4de8f446158a1",
+                                "content": "Tinnitus"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3b56d9ae3004ec0afbba6ff16cbd7ee",
+                                "content": "Ecchymosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f4983eabce4a4acf90fdc2ded65a5a48",
+                                "content": "Increased pulse rate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b4fd86d71a7545619aac2a843c9f8ef9",
+                                "content": "Increased blood pressure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "38a18f4a10e34dce99c4de8f446158a1",
+                                    "content": "Tinnitus"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3b56d9ae3004ec0afbba6ff16cbd7ee",
+                                    "content": "Ecchymosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f4983eabce4a4acf90fdc2ded65a5a48",
+                                    "content": "Increased pulse rate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b4fd86d71a7545619aac2a843c9f8ef9",
+                                    "content": "Increased blood pressure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is receiving heparin sodium by continuous intravenous (IV) infusion. The nurse would notify the primary health care provider if ongoing nursing assessment reveals which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe client who receives a continuous IV infusion of heparin sodium is at risk for bleeding. The nurse assesses for signs/symptoms of bleeding, which include bleeding from the gums, ecchymosis on the skin, cloudy or pink-tinged urine, tarry stools, and body fluids that test positive for occult blood. The other options are not side or adverse effects related to this medication.\n\nTest-Taking Strategy:\nFocus on the subject, side/adverse effects of heparin sodium. Recalling that this medication is an anticoagulant and that bleeding is a concern will direct you to the correct option.\n\nClient Needs: Safe and Effective Care Environment\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Collaboration, Safety\nStrategies: Subject",
+                        "id": "1b4079447b7c483588a444a432c3e9c1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4d11717fff304e2e8c0de937fef54d78",
+                                "content": "Heparin sulfate"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7a0c1b53e4414161ae26a3c110c939c8",
+                                "content": "Protamine sulfate"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3140758ac3684474af422b6e27a203b3",
+                                "content": "Phytonadione (vitamin K)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62391dabaea94d46b8aa75390319b439",
+                                "content": "Oral potassium supplements"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4d11717fff304e2e8c0de937fef54d78",
+                                    "content": "Heparin sulfate"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7a0c1b53e4414161ae26a3c110c939c8",
+                                    "content": "Protamine sulfate"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3140758ac3684474af422b6e27a203b3",
+                                    "content": "Phytonadione (vitamin K)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62391dabaea94d46b8aa75390319b439",
+                                    "content": "Oral potassium supplements"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client who is taking warfarin. The nurse notes the presence of gross hematuria and large areas of bruising on the client's body. The nurse notifies the primary health care provider (PHCP) and ensures that which prescribed medication is available?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nWarfarin is an oral anticoagulant. The effects of warfarin overdose can be reversed with phytonadione (vitamin K). Vitamin K is an antagonist to the action of warfarin that can reverse warfarin-induced inhibition of clotting factor synthesis. For mild bleeding, vitamin K would be administered orally; a dose of 10 to 20 mg will cause prothrombin levels to normalize within 24 hours. If bleeding is severe, parenteral vitamin K is indicated. Protamine sulfate is the antidote for heparin sulfate, an anticoagulant that would cause increased bleeding. The question presents no data suggesting that potassium supplements are indicated.\n\nTest-Taking Strategy:\nFocus on the subject, the antidote for warfarin sodium. Knowledge of the antidote for warfarin is required to answer this question. Remember that the antidote for warfarin is vitamin K.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject",
+                        "id": "1d1ba5a7251d407688000b63b7169e0c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "47f9fc2f3bf24106bdb54d7f2eda117d",
+                                "content": "Cherries"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d9a39d63fa954ede9dd2cd811ad1526f",
+                                "content": "Potatoes"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3129518bad8546f0a286796b277fec1b",
+                                "content": "Broccoli"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "240791d6174d4cddbdcd365599f75101",
+                                "content": "Spaghetti"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "47f9fc2f3bf24106bdb54d7f2eda117d",
+                                    "content": "Cherries"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d9a39d63fa954ede9dd2cd811ad1526f",
+                                    "content": "Potatoes"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3129518bad8546f0a286796b277fec1b",
+                                    "content": "Broccoli"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "240791d6174d4cddbdcd365599f75101",
+                                    "content": "Spaghetti"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A man who has developed atrial fibrillation and has been placed on warfarin (Coumadin). The nurse is doing discharge dietary teaching with the client and determines that the client needs additional education if he stated he would choose which foods while taking this medication?\n",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAnticoagulant medications work by antagonizing the action of vitamin K, which is needed for clotting. When a client is taking an anticoagulant, foods high in vitamin K are often omitted from the diet. Vitamin K is found in large amounts in green leafy vegetables, such as broccoli, cabbage, turnip greens, and lettuce. The other options listed are foods that are lower in vitamin K.\n\nTest-Taking Strategy:\nNote the strategic words, needs additional education. These words indicate a negative event query and the need to select the food item that should be avoided. Knowledge of the relationship between warfarin and vitamin K is needed to answer this question. The correct option is a food that is high in vitamin K.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Teaching and Learning\nPriority Concepts: Nutrition, Perfusion\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "2a4b3e83362746faa707314e6022ab5a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e85b610000ba40c4ad7e47fc5e40ba67",
+                                "content": "Prothrombin time of 12.5 seconds\n"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9194150487ca4662bfb91df9362ee0ed",
+                                "content": "Activated partial thromboplastin time of 60 seconds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d462bc0bb21423ca9c8df77a7c753e1",
+                                "content": "Activated partial thromboplastin time of 28 seconds"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1cfc02b80d2406b8da40426ff91e770",
+                                "content": "Activated partial thromboplastin time longer than 120 seconds"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e85b610000ba40c4ad7e47fc5e40ba67",
+                                    "content": "Prothrombin time of 12.5 seconds\n"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9194150487ca4662bfb91df9362ee0ed",
+                                    "content": "Activated partial thromboplastin time of 60 seconds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d462bc0bb21423ca9c8df77a7c753e1",
+                                    "content": "Activated partial thromboplastin time of 28 seconds"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1cfc02b80d2406b8da40426ff91e770",
+                                    "content": "Activated partial thromboplastin time longer than 120 seconds"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with atrial fibrillation is receiving a continuous heparin infusion at 1000 units/hour. The nurse determines that the client is receiving the therapeutic effect based on which results?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nCommon laboratory ranges for activated partial thromboplastin time (aPTT) are 30 to 40 seconds. Because the aPTT would be 1.5 to 2.5 times the normal value, the client's aPTT would be considered therapeutic if it was 60 seconds. Prothrombin time assesses response to warfarin therapy.\n\nTest-Taking Strategy:\nFocus on the subject, the therapeutic effect of heparin. Prothrombin time is eliminated because it assesses response to warfarin therapy. The aPTT of 28 seconds is eliminated because this result indicates that the client is receiving no therapeutic effect from the continuous heparin infusion. Finally, the aPTT greater than 120 seconds can be eliminated because this value is beyond the therapeutic range, and the client is at risk for bleeding.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Safety\nStrategies: Subject",
+                        "id": "2cfca0955719423792f0b956d11d50a8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8de0d4e4259148d0aaed8a515d0b9fd2",
+                                "content": "Give double the dose."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2492da6ed1ab4faab1e8add5b534836a",
+                                "content": "Administer the next dose."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "25bffa2913f64e6fbe9ef03e30aaadf2",
+                                "content": "Give half of the next dose."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "31ff44a6d4164f2c9b96b9475b113438",
+                                "content": "Call the primary health care provider (PHCP)."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8de0d4e4259148d0aaed8a515d0b9fd2",
+                                    "content": "Give double the dose."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2492da6ed1ab4faab1e8add5b534836a",
+                                    "content": "Administer the next dose."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "25bffa2913f64e6fbe9ef03e30aaadf2",
+                                    "content": "Give half of the next dose."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "31ff44a6d4164f2c9b96b9475b113438",
+                                    "content": "Call the primary health care provider (PHCP)."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client who is scheduled to have warfarin sodium therapy has a prothrombin time (PT) of 28 seconds (28 seconds). What is the most appropriate nursing intervention at this time?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe PT is one test that may be used to monitor warfarin sodium therapy. The international normalized ratio is another laboratory test used to monitor warfarin therapy. The normal PT is 11 to 12.5 seconds (11 to 12.5 seconds). A PT of 28 seconds represents an elevated value. The nurse would withhold the next dose and notify the PHCP. A medication dose would not be changed without a specific prescription (options 1 and 3).\n\nTest-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, therapeutic effect of warfarin. Eliminate options 1 and 3 first because they are comparable or alike. Next, recalling the normal PT level will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Analyzing\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Comparable or Alike Options, Strategic Words, Subject",
+                        "id": "2d4600ed28e6435caafcf2286cd29b82",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "520f9cf350444294ac2cd8c598d4745c",
+                                "content": "Platelet count"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17d2a4a99d3f4a4eb4cda7edbff2c376",
+                                "content": "Prothrombin time (PT)"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1b5452602cd14373a9aa1b51d6aa020d",
+                                "content": "International normalized ratio (INR)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "49399fecb3704022af03d3ac558b15fa",
+                                "content": "Activated partial thromboplastin time (aPTT)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "520f9cf350444294ac2cd8c598d4745c",
+                                    "content": "Platelet count"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17d2a4a99d3f4a4eb4cda7edbff2c376",
+                                    "content": "Prothrombin time (PT)"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1b5452602cd14373a9aa1b51d6aa020d",
+                                    "content": "International normalized ratio (INR)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "49399fecb3704022af03d3ac558b15fa",
+                                    "content": "Activated partial thromboplastin time (aPTT)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a postpartum client with a diagnosis of deep vein thrombosis who is receiving a continuous intravenous infusion of heparin sodium. Review of which laboratory result is the most important by the nurse?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAnticoagulation therapy may be used to prevent the extension of thrombus by delaying the clotting time of the blood. The aPTT time needs to be monitored, and the heparin sodium dose would be adjusted to maintain a therapeutic level of 1.5 to 2.5 times the control value in seconds. The platelet count cannot be used to determine an adequate dosage for the heparin sodium infusion. The PT and the INR are used to monitor coagulation time when warfarin sodium is used.\n\nTest-Taking Strategy:\nNote the strategic words, most important. Focus on the subject, the laboratory test specific to monitoring for an appropriate and effective dose of heparin sodium. Remember that the aPTT is used to monitor the effectiveness of a heparin sodium infusion.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Cardiovascular: Vascular Disorders\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Evidence\nStrategies: Strategic Words, Subject",
+                        "id": "2f48a1f69b1b4788826e24fe9f12a4cf",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bfc9b8ffedc64e8aa76113d9486aee0c",
+                                "content": "\"Are you not happy about going home?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "caf29db45e9840ecb50412d39592dfab",
+                                "content": "\"Do you want to stay in the hospital forever?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5cf80e11e89f43ad91f5a45e9e458fcd",
+                                "content": "\"You'll have to take that up with the primary health care provider.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5cea6032989a47039204ce24ad70f2d4",
+                                "content": "\"Research shows that it is best for clients to administer this medication at home rather than stay in the hospital.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bfc9b8ffedc64e8aa76113d9486aee0c",
+                                    "content": "\"Are you not happy about going home?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "caf29db45e9840ecb50412d39592dfab",
+                                    "content": "\"Do you want to stay in the hospital forever?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5cf80e11e89f43ad91f5a45e9e458fcd",
+                                    "content": "\"You'll have to take that up with the primary health care provider.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5cea6032989a47039204ce24ad70f2d4",
+                                    "content": "\"Research shows that it is best for clients to administer this medication at home rather than stay in the hospital.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client receives education regarding self-administration of enoxaparin on discharge to home. The client complains, \"I feel as if the primary health care provider is discharging me too soon if I still have to take injections at home.\" Which response would the nurse make?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale: \nEnoxaparin is a low-molecular-weight heparin that can be administered without the usual activated partial thromboplastin time testing that is required with the use of heparin. Statements asking the client about whether they are not happy to go home or want to stay in the hospital forever devalue the client's feelings. Telling the client that you will consult with the primary health care provider places the client's feelings on hold.\n\nTest-Taking Strategy:\nUse therapeutic communication techniques to eliminate options 1, 2, and 3. Recall that the nurse would, when possible, offer education that will help the client to cope and adapt to changes. The correct option is the only one that provides information that is useful to the client.\n \n\nClient Needs: Psychosocial Integrity\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nHealth Problem: Adult Health: Hematological: Bleeding/Clotting Disorders\nIntegrated Process: Communication and Documentation\nPriority Concepts: Stress and Coping, Communication\nStrategies: Therapeutic Communication Techniques",
+                        "id": "2f4910a0e6ca4f458c55c3b2c7e2b4c1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8a94cf009a8042db99c3690e77a20e8a",
+                                "content": "\"Bleeding time assesses for therapeutic effect of heparin.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51d3010ccdf84161a160791647dcf10b",
+                                "content": "\"Thrombin time assesses for therapeutic effect of heparin.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bd691fa70a6f4056a6f3dc7f0c4c31e0",
+                                "content": "\"Prothrombin time assesses for therapeutic effect of heparin.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae7a6f9b116d45a3bbf553a5a8d3632b",
+                                "content": "\"Partial thromboplastin time assesses for therapeutic effect of heparin.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8a94cf009a8042db99c3690e77a20e8a",
+                                    "content": "\"Bleeding time assesses for therapeutic effect of heparin.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51d3010ccdf84161a160791647dcf10b",
+                                    "content": "\"Thrombin time assesses for therapeutic effect of heparin.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bd691fa70a6f4056a6f3dc7f0c4c31e0",
+                                    "content": "\"Prothrombin time assesses for therapeutic effect of heparin.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae7a6f9b116d45a3bbf553a5a8d3632b",
+                                    "content": "\"Partial thromboplastin time assesses for therapeutic effect of heparin.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing heparin infusion therapy and pertinent laboratory values to monitor with the nursing student. Which statement by the student indicates that teaching has been effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe partial thromboplastin time will assess the therapeutic effect of heparin. The prothrombin time is one test that will assess for the therapeutic effect of warfarin. Bleeding time and thrombin time are hematological studies that may be prescribed for clients with coagulopathy or other disorders.\n\nTest-Taking Strategy:\nFocus on the subject, monitoring for a therapeutic effect of heparin, and note the strategic word, effective. Focus on the medication, and recall that it is an anticoagulant. Eliminate bleeding time and thrombin time because they are not commonly prescribed during anticoagulant therapy. Choose between the remaining options, knowing the differences between the value measured for heparin and the one measured for warfarin.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Pharmacology: Cardiovascular: Anticoagulants\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Strategic Words, Subject",
+                        "id": "316f5adb69a64436a23069dc25f6c08a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "d8e4a7aad6cc95832f3d64d1802ae559",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 317000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:18:10",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Anticoagulant",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

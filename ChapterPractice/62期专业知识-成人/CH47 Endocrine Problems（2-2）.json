@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:07:27",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:07:27",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:23:34",
+            "id": "6f52d82e6676cd4877d1237ceb348e7e",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c308a3d6a824d2a8ac49e6a58886ef4",
+                                "content": "Dry skin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b7bbf9d4a1947bc95b2c20b61438991",
+                                "content": "Thin, silky hair"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c8138b6acc34df19014a527073b29d5",
+                                "content": "Bulging eyeballs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a6cc26c364f946808892cc98b0031218",
+                                "content": "Fine muscle tremors"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c308a3d6a824d2a8ac49e6a58886ef4",
+                                    "content": "Dry skin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b7bbf9d4a1947bc95b2c20b61438991",
+                                    "content": "Thin, silky hair"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c8138b6acc34df19014a527073b29d5",
+                                    "content": "Bulging eyeballs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a6cc26c364f946808892cc98b0031218",
+                                    "content": "Fine muscle tremors"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client with a diagnosis of myxedema (hypothyroidism). Which assessment finding would the nurse expect to note in this client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nMyxedema is a deficiency of thyroid hormone. The client will present with a puffy, edematous face, especially around the eyes (periorbital edema), along with coarse facial features; dry skin; and dry, coarse hair and eyebrows. The remaining options are noted in the client with hyperthyroidism.\n\nTest-Taking Strategy:\nFocus on the subject, manifestations of hypothyroidism. Recalling the function of thyroid hormone and that a deficiency of thyroid hormone occurs in this condition will direct you to the correct option.",
+                        "id": "0066f1c27461414d9392d1ecb2def963",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34b205bde395487789634f66493fb049",
+                                "content": "Weight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44c7608b545b44da892acb17e56fc1cc",
+                                "content": "Urine ketones"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "abb8a2371f5a42bc9a09280d03a0195b",
+                                "content": "Blood pressure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "06933d6e48e446078b70a0b2b219ad51",
+                                "content": "Skin temperature"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34b205bde395487789634f66493fb049",
+                                    "content": "Weight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44c7608b545b44da892acb17e56fc1cc",
+                                    "content": "Urine ketones"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "abb8a2371f5a42bc9a09280d03a0195b",
+                                    "content": "Blood pressure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "06933d6e48e446078b70a0b2b219ad51",
+                                    "content": "Skin temperature"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to the hospital with a diagnosis of pheochromocytoma. The nurse would check which item to detect the primary manifestation of this disorder?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypertension is the major symptom associated with pheochromocytoma and is assessed by taking the client's blood pressure. Glycosuria, weight loss, and diaphoresis are other clinical manifestations of pheochromocytoma; however, hypertension is the major symptom.\n\nTest-Taking Strategy:\nNote the strategic word, primary. Think about the pathophysiology associated with this disorder to answer the question. You also can use the ABCs—airway, breathing, and circulation—to choose correctly. One method for assessing circulation is to take the blood pressure.",
+                        "id": "01fa7902512643e19211940dc561c8ce",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "29a5d9e3b0684619810c9f963b6aaa96",
+                                "content": "Bradycardia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d26e58f772ec4d68bb159bc70f0519a0",
+                                "content": "Flaccid paralysis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e6d2d5166c5146b4a2c4a9e9934f2ad8",
+                                "content": "Tingling around the mouth"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dd92798e1aa84097aa16b4b11836b3a5",
+                                "content": "Absence of Chvostek's sign"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "29a5d9e3b0684619810c9f963b6aaa96",
+                                    "content": "Bradycardia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d26e58f772ec4d68bb159bc70f0519a0",
+                                    "content": "Flaccid paralysis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e6d2d5166c5146b4a2c4a9e9934f2ad8",
+                                    "content": "Tingling around the mouth"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dd92798e1aa84097aa16b4b11836b3a5",
+                                    "content": "Absence of Chvostek's sign"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is monitoring a client for signs of hypocalcemia after thyroidectomy. Which sign or symptom, if noted in the client, would most likely indicate the presence of hypocalcemia?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAfter thyroidectomy the nurse assesses the client for signs of hypocalcemia and tetany. Early signs include tingling around the mouth and in the fingertips, muscle twitching or spasms, palpitations or arrhythmias, and Chvostek's and Trousseau's signs. Bradycardia, flaccid paralysis, and absence of Chvostek's sign are not signs of hypocalcemia.\n\nTest-Taking Strategy:\nNote the strategic words, most likely. Focus on the subject, manifestations of hypocalcemia. Think about the pathophysiology associated with this imbalance, and recall that tingling around the mouth and in the fingertips is an early manifestation of hypocalcemia. This will direct you to the correct option.",
+                        "id": "0799011a25a04fe38ba38091df6fe14f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6513fa46baa7471892a600e3b3d98bf5",
+                                "content": "Vital signs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b52f5aa9f1544bc9e66354caff4ae75",
+                                "content": "Intake and output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d596204a3ba7424fb509174003f2f7f0",
+                                "content": "Blood urea nitrogen results"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7ed079571b5f4285a8ef391b3fc7e544",
+                                "content": "Urine for glucose and ketones"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6513fa46baa7471892a600e3b3d98bf5",
+                                    "content": "Vital signs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b52f5aa9f1544bc9e66354caff4ae75",
+                                    "content": "Intake and output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d596204a3ba7424fb509174003f2f7f0",
+                                    "content": "Blood urea nitrogen results"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7ed079571b5f4285a8ef391b3fc7e544",
+                                    "content": "Urine for glucose and ketones"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with pheochromocytoma who is scheduled for adrenalectomy. In the preoperative period, what would the nurse monitor as the priority?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nPheochromocytoma is a catecholamine-producing tumor. Hypertension is the hallmark of pheochromocytoma. Severe hypertension can precipitate a stroke or sudden blindness. Although all of the options are accurate nursing interventions for the client with pheochromocytoma, the priority nursing action is to monitor the vital signs, particularly the blood pressure.\n\nTest-Taking Strategy:\nNote the strategic word, priority. Use the ABCs—airway, breathing, and circulation. Monitoring vital signs is the nursing action that would assess airway, breathing, and circulation. Also, options 2, 3, and 4 refer to the assessment of the renal system, whereas the correct option does not.",
+                        "id": "09f3910c2db8486a9f83cd43cd655eec",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b315fd49791480191f692c02c5ebcd2",
+                                "content": "Infertility"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a02ec62b0abd47a89de87819061afe5f",
+                                "content": "Gynecomastia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6115f35954d34af3a1d9fc524cd646dd",
+                                "content": "Sexual dysfunction"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8c4657ebbd164717a904222f8f007b3a",
+                                "content": "Body image changes"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b315fd49791480191f692c02c5ebcd2",
+                                    "content": "Infertility"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a02ec62b0abd47a89de87819061afe5f",
+                                    "content": "Gynecomastia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6115f35954d34af3a1d9fc524cd646dd",
+                                    "content": "Sexual dysfunction"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8c4657ebbd164717a904222f8f007b3a",
+                                    "content": "Body image changes"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is developing a plan of care for a client who is scheduled for a thyroidectomy. The nurse focuses on psychosocial needs, knowing that which is likely to occur in the client?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nBecause of the location of the incision in the neck area, many clients are afraid of thyroid surgery for fear of having a visible large scar postoperatively. Having all or part of the thyroid gland removed will not cause the client to experience gynecomastia. Sexual dysfunction and infertility could occur if the entire thyroid is removed and the client is not placed on thyroid replacement medications.\n\nTest-Taking Strategy:\nFocus on the subject, care of the client following thyroidectomy. Recalling the anatomical location of the surgical incision will assist in directing you to the correct option.\n",
+                        "id": "0b6a2871b3944345a894d862d3a84565",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb2cf8e4af4748849c0b74704b3c178f",
+                                "content": "Warm the client."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f0e9c9e15ce9496d96b03ebea44c0e64",
+                                "content": "Maintain a patent airway."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6cc7a575790d454b9178e4e62dce4939",
+                                "content": "Administer thyroid hormone."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9b268ce19b874588a2cdd558f50cd845",
+                                "content": "Administer fluid replacement."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb2cf8e4af4748849c0b74704b3c178f",
+                                    "content": "Warm the client."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f0e9c9e15ce9496d96b03ebea44c0e64",
+                                    "content": "Maintain a patent airway."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6cc7a575790d454b9178e4e62dce4939",
+                                    "content": "Administer thyroid hormone."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9b268ce19b874588a2cdd558f50cd845",
+                                    "content": "Administer fluid replacement."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is admitted to an emergency department, and a diagnosis of myxedema coma is made. Which action would the nurse prepare to carry out initially?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMyxedema coma is a rare but serious disorder that results from persistently low thyroid production. Coma can be precipitated by acute illness, rapid withdrawal of thyroid medication, anesthesia and surgery, hypothermia, and the use of sedatives and opioid analgesics. In myxedema coma, the initial nursing action is to maintain a patent airway. Oxygen needs to be administered, followed by fluid replacement, keeping the client warm, monitoring vital signs, and administering thyroid hormones by the intravenous route.\n\nTest-Taking Strategy:\nNote the strategic word, initially. All the options are appropriate interventions, but use the ABCs—airway, breathing, and circulation—in selecting the correct option.",
+                        "id": "0df5fcae1ef943d48e9c38e6b263e935",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5324d67e83e04705b0f8b2cb80c428dd",
+                                "content": "It indicates nerve damage."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c809bb5cdb4a4dd48cffd24cb2c8be6b",
+                                "content": "The hoarseness is permanent."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7240d5eccde14fcb8bbda784a634b654",
+                                "content": "It is normal during this time and will subside."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c84575bff5724748ab40236ad2bb4105",
+                                "content": "It will worsen before it subsides, which may take 6 months."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5324d67e83e04705b0f8b2cb80c428dd",
+                                    "content": "It indicates nerve damage."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c809bb5cdb4a4dd48cffd24cb2c8be6b",
+                                    "content": "The hoarseness is permanent."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7240d5eccde14fcb8bbda784a634b654",
+                                    "content": "It is normal during this time and will subside."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c84575bff5724748ab40236ad2bb4105",
+                                    "content": "It will worsen before it subsides, which may take 6 months."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client after thyroidectomy. The client expresses concern about the postoperative voice hoarseness she is experiencing and asks if the hoarseness will subside. The nurse would provide the client with which information?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHoarseness in the postoperative period usually is the result of laryngeal pressure or edema and will resolve within a few days. The client would be reassured that the effects are transitory. The other options are incorrect.\n\nTest-Taking Strategy:\nEliminate options 1 and 2 first because they are comparable or alike. Recalling that hoarseness that worsens is a cause for concern and may indicate increased laryngeal pressure or edema will eliminate option 4. The remaining option is the correct one.",
+                        "id": "115cc52358b44f82b097f3435aa2c7fe",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce7a6f979f1d4108830f16d9ac76d4ba",
+                                "content": "Cortisol"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "db02dcb101fc4ca9bcd1c86fa195973c",
+                                "content": "Androgens"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03c1725aaac9470d96a32314ad2eaa02",
+                                "content": "Aldosterone"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3fdf891f377440e924808393d2a1228",
+                                "content": "Epinephrine"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce7a6f979f1d4108830f16d9ac76d4ba",
+                                    "content": "Cortisol"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "db02dcb101fc4ca9bcd1c86fa195973c",
+                                    "content": "Androgens"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03c1725aaac9470d96a32314ad2eaa02",
+                                    "content": "Aldosterone"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3fdf891f377440e924808393d2a1228",
+                                    "content": "Epinephrine"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is admitting a client diagnosed with pheochromocytoma. The client is complaining of a pounding headache and palpitations and the blood pressure is 170/90 mm Hg. The nurse is aware that which substance is responsible for these clinical manifestations?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "c2472dbaf30269ec1d4a4af474a31869",
+                        "difficulty": "考试范围-Understanding 理解",
+                        "textAnalysis": "Rationale:\nPheochromocytoma is a catecholamine-producing tumor and causes secretion of excessive amounts of epinephrine and norepinephrine, which are produced by the adrenal medulla. Hypertension is the principal manifestation, and the client has episodes of high blood pressure accompanied by pounding headaches. The excessive release of catecholamines also results in excessive conversion of glycogen into glucose in the liver. Consequently, hyperglycemia and glucosuria occur during attacks. In addition, the other substances listed (cortisol, androgens, and aldosterone) are produced by the adrenal cortex.\n\nTest-Taking Strategy:\nFocus on the subject, cause of the clinical manifestations. Also note the data in the question: pounding headache, palpitations, and elevated blood pressure. Use knowledge of pathophysiology to answer correctly.",
+                        "id": "1337c688876c4839be76951e87d716b3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "849b0b6ad5e8461399ef9f41a5272ae7",
+                                "content": "Vital signs"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2abd0075f6e5417e8657470cd9de7423",
+                                "content": "Fluid balance"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2116028a67ef48f5b7f765cda8a9f5e4",
+                                "content": "Anxiety level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eba1e6d0088a4b4eb382c7d11833053f",
+                                "content": "Creatinine levels"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "849b0b6ad5e8461399ef9f41a5272ae7",
+                                    "content": "Vital signs"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2abd0075f6e5417e8657470cd9de7423",
+                                    "content": "Fluid balance"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2116028a67ef48f5b7f765cda8a9f5e4",
+                                    "content": "Anxiety level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eba1e6d0088a4b4eb382c7d11833053f",
+                                    "content": "Creatinine levels"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A preoperative client is scheduled for adrenalectomy to remove a pheochromocytoma. The nurse would most appropriately monitor which item in the preoperative period?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nHypertension is the hallmark symptom of pheochromocytoma. Severe hypertension can precipitate a stroke (brain attack) or sudden blindness. Although all of the items are appropriate nursing assessments for the client with pheochromocytoma, the priority is to monitor the vital signs, especially the blood pressure.\n\nTest-Taking Strategy:\nNote the strategic words, most appropriately. Note that options 2 and 4 refer to assessment of the renal system, so eliminate these options. To select from the remaining options, use Maslow's Hierarchy of Needs theory, recalling that physiological needs are the priority.",
+                        "id": "13f317348b8f46b8ad2f63ddfc13d826",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "dded7e53b8a54dca959d928e32066ef3",
+                                "content": "Glycosuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a178b845eb5b417599d33bf09daa80d2",
+                                "content": "Diaphoresis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bfa4e500193f4cb58cae20b55a1e9ac4",
+                                "content": "Weight loss"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "45fbff6cef314af69976127b6fe9ef43",
+                                "content": "Hypertension"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "dded7e53b8a54dca959d928e32066ef3",
+                                    "content": "Glycosuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a178b845eb5b417599d33bf09daa80d2",
+                                    "content": "Diaphoresis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bfa4e500193f4cb58cae20b55a1e9ac4",
+                                    "content": "Weight loss"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "45fbff6cef314af69976127b6fe9ef43",
+                                    "content": "Hypertension"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is reviewing the record of a client admitted to the hospital with a diagnosis of pheochromocytoma. The nurse reads the assessment findings and expects to note documentation of which major symptom associated with this condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHypertension is the major symptom associated with pheochromocytoma. Glycosuria, weight loss, and diaphoresis also are clinical manifestations of pheochromocytoma; however, they are not major symptoms.\n\nTest-Taking Strategy:\nNote the subject, assessment findings for pheochromocytoma. Focus on the word major when selecting from the available options. Recalling the pathophysiology and the body organ associated with pheochromocytoma will direct you to the correct option.",
+                        "id": "14345869390b4a4cbe36a8f7313d173f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "82047cf01def28009653954ace1e7f92",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 320000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:23:35",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Adrenal Gland Problems,Thyroid Gland Problem",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

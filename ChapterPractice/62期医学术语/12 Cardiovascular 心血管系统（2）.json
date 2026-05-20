@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:19:52",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:19:52",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:26:31",
+            "id": "e991fdf14effa806dfce21ba85d78189",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "05041c9d480845329b810457b1c70e44",
+                                "content": "Manual"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15d74c1094fe449db7af4414cc260c3f",
+                                "content": "Automated"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a9622116c657431f9aabf11bab6bfee6",
+                                "content": "Sophisticated"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "224a5699175c41baa1effa7ee70d7fe8",
+                                "content": "Automatic"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "05041c9d480845329b810457b1c70e44",
+                                    "content": "Manual"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15d74c1094fe449db7af4414cc260c3f",
+                                    "content": "Automated"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a9622116c657431f9aabf11bab6bfee6",
+                                    "content": "Sophisticated"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "224a5699175c41baa1effa7ee70d7fe8",
+                                    "content": "Automatic"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "自动的、无需手动操作的电子设备或机械的特征称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Automatic（自动的）形容那些无需人工操作即可自动执行任务的电子设备或机械。在医疗领域，许多现代设备和软件都具备自动化功能，以提高效率和准确性。",
+                        "id": "284db9bb623143e7ac7b65c300d636c0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0d07d0fc0f6548f299ec641a76e2a043",
+                                "content": "Valvular heart disease"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5028ff75a22430cb06b834305313272",
+                                "content": "Congenital heart defect"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c1f156480973412383d98cf3ea43f58b",
+                                "content": "Heart failure"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7b86085583724dd4b49926d35c3538ec",
+                                "content": "Coronary artery disease"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0d07d0fc0f6548f299ec641a76e2a043",
+                                    "content": "Valvular heart disease"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5028ff75a22430cb06b834305313272",
+                                    "content": "Congenital heart defect"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c1f156480973412383d98cf3ea43f58b",
+                                    "content": "Heart failure"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7b86085583724dd4b49926d35c3538ec",
+                                    "content": "Coronary artery disease"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "心脏泵血能力下降的病理状态称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Heart failure（心力衰竭），也称充血性心力衰竭(congestive heart failure, CHF)，是指心脏泵血能力下降的病理状态。它可以是急性的或慢性的，并导致流体积聚、呼吸困难以及活动耐受性降低。",
+                        "id": "28808f4a9ad0402a9a4719a116bbb324",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aed7b750178e4f1b82ac1293bd0d181a",
+                                "content": "Right ventricle"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ff27a3fba4b24568873b34e3e927478a",
+                                "content": "Left atrium"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2d6a1ad78c646d9b92bcd00759c3320",
+                                "content": "Right atrium"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a62d2fd196b4b8d948e72be4aa57d26",
+                                "content": "Left ventricle"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aed7b750178e4f1b82ac1293bd0d181a",
+                                    "content": "Right ventricle"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ff27a3fba4b24568873b34e3e927478a",
+                                    "content": "Left atrium"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2d6a1ad78c646d9b92bcd00759c3320",
+                                    "content": "Right atrium"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a62d2fd196b4b8d948e72be4aa57d26",
+                                    "content": "Left ventricle"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "心脏四个腔室中，哪个腔室位于心脏的右侧且接收来自全身回流的血液？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Right atrium（右心房）是心脏右侧的一个腔室，接收来自全身回流的血液。",
+                        "id": "2b5e86595e6345ae9703425f127255f1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ed5d3dfa6554c5f895fecf80351ac90",
+                                "content": "Edema"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cfc2f1ab13be476e960b091b873d33ed",
+                                "content": "Hemorrhage"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b5ba16da8e24dde903abab57637e241",
+                                "content": "Contusion"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "850c29e159c8433cb13091e1e955172a",
+                                "content": "Abrasion"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ed5d3dfa6554c5f895fecf80351ac90",
+                                    "content": "Edema"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cfc2f1ab13be476e960b091b873d33ed",
+                                    "content": "Hemorrhage"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b5ba16da8e24dde903abab57637e241",
+                                    "content": "Contusion"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "850c29e159c8433cb13091e1e955172a",
+                                    "content": "Abrasion"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "由于液体积聚而导致的身体组织膨胀症状称为？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Edema（水肿）是由于液体积聚在细胞外组织间隙中导致的身体组织膨胀的症状。",
+                        "id": "34b411ee217f47768126ddaf8014eab0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "15965c7f4bb44437bec82b9747b910a4",
+                                "content": "Insomnia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2fcdcf5f9abe478d8b841dd735643432",
+                                "content": "Anorexia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "39d25bc2b92140c2b7f0661256543663",
+                                "content": "Hypertension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ae5ec109eb414e59850bee2e6fea9fac",
+                                "content": "Hypothyroidism"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "15965c7f4bb44437bec82b9747b910a4",
+                                    "content": "Insomnia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2fcdcf5f9abe478d8b841dd735643432",
+                                    "content": "Anorexia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "39d25bc2b92140c2b7f0661256543663",
+                                    "content": "Hypertension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ae5ec109eb414e59850bee2e6fea9fac",
+                                    "content": "Hypothyroidism"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "食欲丧失的医学术语是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Anorexia（厌食症）是指食欲丧失的情况，可能是由不同的原因造成的。",
+                        "id": "3554d63f7f424acdbd75d8823ee8460b",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ce9e403a0f67473d80f1bcd01b2d16fe",
+                                "content": "Bradycardia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "edbe7d7b27eb44219ed6da12f978a4ef",
+                                "content": "Tachycardia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf0c6e5b82594cfd9e7eac20c3e30ddd",
+                                "content": "Arrhythmia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fca51a8d041745eeb7ce87a48f09fa40",
+                                "content": "Dyspnea"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ce9e403a0f67473d80f1bcd01b2d16fe",
+                                    "content": "Bradycardia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "edbe7d7b27eb44219ed6da12f978a4ef",
+                                    "content": "Tachycardia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf0c6e5b82594cfd9e7eac20c3e30ddd",
+                                    "content": "Arrhythmia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fca51a8d041745eeb7ce87a48f09fa40",
+                                    "content": "Dyspnea"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "成人静息心率超过100次/分钟，这种症状称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Tachycardia（心动过速）是指成人静息心率超过100次/分钟的症状。",
+                        "id": "377bb71e2eac49bfaf5bb21491036b95",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7f09e109806c4108a37378e6ed598bdb",
+                                "content": "Nausea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f6ad51fd157d473cbc153449ec28aad7",
+                                "content": "Vomiting"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52a22a61d5b34a399920fafc420f7f5f",
+                                "content": "Diarrhea"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7377f6ba152d4a3296c941f0a6dd7ff4",
+                                "content": "Headache"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7f09e109806c4108a37378e6ed598bdb",
+                                    "content": "Nausea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f6ad51fd157d473cbc153449ec28aad7",
+                                    "content": "Vomiting"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52a22a61d5b34a399920fafc420f7f5f",
+                                    "content": "Diarrhea"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7377f6ba152d4a3296c941f0a6dd7ff4",
+                                    "content": "Headache"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "恶心的感觉医学上称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Nausea（恶心）是指感到想要呕吐的不适感觉。",
+                        "id": "55b72bdb2f184f2cab23e876d88aec06",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6c3a7d37fcd049c09d2a23004a5e695b",
+                                "content": "Atherosclerosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "481b7e57f93a43d0ba502c508a0e5319",
+                                "content": "Arteriosclerosis"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "111b7590b9054440b5991b1e0eff8cde",
+                                "content": "Raynaud's phenomenon"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "60dae89be02a4e4187e9ab543a8d2ee6",
+                                "content": "Polycythemia vera"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6c3a7d37fcd049c09d2a23004a5e695b",
+                                    "content": "Atherosclerosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "481b7e57f93a43d0ba502c508a0e5319",
+                                    "content": "Arteriosclerosis"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "111b7590b9054440b5991b1e0eff8cde",
+                                    "content": "Raynaud's phenomenon"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "60dae89be02a4e4187e9ab543a8d2ee6",
+                                    "content": "Polycythemia vera"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "动脉壁发生的一种慢性炎症性疾病，导致血管狭窄并可能形成血栓称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Atherosclerosis（动脉粥样硬化）是一种慢性炎症性疾病，导致动脉壁逐渐堆积含有胆固醇的斑块（动脉粥样斑）。这可能使动脉变窄并降低血流，增加血栓形成的风险，从而可能导致心脏病和中风。",
+                        "id": "599cad597dd24b20a8f1fa5342ce35ff",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f63b38c2948b4a4abb2eba10d11a7ce9",
+                                "content": "Gastroenterologist"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "095db2580920483da1e24667fdba293e",
+                                "content": "Neurologist"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a39e6571da5041a5a0f8220a9e30af06",
+                                "content": "Cardiologist"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "02e0ef4ec98144fda19212e199a981c5",
+                                "content": "Dermatologist"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f63b38c2948b4a4abb2eba10d11a7ce9",
+                                    "content": "Gastroenterologist"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "095db2580920483da1e24667fdba293e",
+                                    "content": "Neurologist"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a39e6571da5041a5a0f8220a9e30af06",
+                                    "content": "Cardiologist"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "02e0ef4ec98144fda19212e199a981c5",
+                                    "content": "Dermatologist"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "专门研究和治疗心脏疾病的医生被称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Cardiologist（心脏病学家）是专门研究和治疗心脏及其疾病的医生。",
+                        "id": "5fcbb4d2bc7749bf97cecd02b639b821",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9086ee5eb6734accbc7a196c0aee4dd1",
+                                "content": "Laparoscopy"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1c3e991e59de49c39ad1f3e30f4e3387",
+                                "content": "Arthroscopy"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e01880adf5494d29a87a2b0f31d7c032",
+                                "content": "Intervention"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f30ce257ba2b452d85872f0e764b6a5a",
+                                "content": "Colonoscopy"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9086ee5eb6734accbc7a196c0aee4dd1",
+                                    "content": "Laparoscopy"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1c3e991e59de49c39ad1f3e30f4e3387",
+                                    "content": "Arthroscopy"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e01880adf5494d29a87a2b0f31d7c032",
+                                    "content": "Intervention"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f30ce257ba2b452d85872f0e764b6a5a",
+                                    "content": "Colonoscopy"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "通过介入而非传统开放手术方式进行的医疗操作称为什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "Intervention（介入）一词广泛用于描述通过使用微创技术而非传统开放手术方式来进行的医疗操作。这些包括心血管、神经放射学和肿瘤学等领域的多种程序。与传统开放手术相比，介入手术通常具有更小的切口、更少的疼痛和更快的恢复时间。",
+                        "id": "614ca74b97584a4e9d4c407f54c9da0a",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "3377350e3dd166c0d0f0e7f60cb49e3b",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 313000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:26:31",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

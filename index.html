@@ -221,15 +221,23 @@
         else msgSpan.innerHTML = `💪 继续保持！`;
     }
 
+    // ========== 修复后的 toRelativePath：精确匹配路径段 ==========
     function toRelativePath(absolutePath) {
-        const knownFolders = ["Saunders", "Uworld", "医学术语", "患者需求"];
-        for (const folder of knownFolders) {
-            const idx = absolutePath.indexOf(folder);
-            if (idx !== -1) return absolutePath.substring(idx).replace(/\\/g, '/');
-        }
+        // 已知的根目录名称（按长度降序排列，优先匹配更长的名称，避免子串误匹配）
+        const knownFolders = ["ChapterPractice", "Saunders", "Uworld", "医学术语", "患者需求"];
+        // 统一使用 '/' 分割路径
         const parts = absolutePath.split(/[\\/]/);
+        // 查找第一个精确匹配的已知文件夹（必须是完整路径段）
+        for (let i = 0; i < parts.length; i++) {
+            if (knownFolders.includes(parts[i])) {
+                // 从该文件夹开始重新拼接，保留完整目录结构
+                return parts.slice(i).join('/');
+            }
+        }
+        // 如果没有匹配任何已知文件夹，返回文件名（兜底）
         return parts[parts.length - 1];
     }
+
     function getChapterStats(absolutePath) {
         const relativePath = toRelativePath(absolutePath);
         const keyCompleted = `quiz_completed_${relativePath.replace(/[\\/]/g, '_')}`;

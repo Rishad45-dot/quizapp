@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 18:08:16",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 18:08:16",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 18:08:57",
+            "id": "cfbb2677062b8071427341bab0a94f77",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef8d197f5a48481686a14d0e325fcb46",
+                                "content": "快乐"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72e5361ddc494a1e9cb3824a3a221836",
+                                "content": "悲伤"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0adb45b86d1544b080bca0fccd67d27f",
+                                "content": "身体不适"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2c7b27156955490e9cac31451a100d63",
+                                "content": "兴奋"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef8d197f5a48481686a14d0e325fcb46",
+                                    "content": "快乐"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72e5361ddc494a1e9cb3824a3a221836",
+                                    "content": "悲伤"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0adb45b86d1544b080bca0fccd67d27f",
+                                    "content": "身体不适"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2c7b27156955490e9cac31451a100d63",
+                                    "content": "兴奋"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Pain 在医学上通常指什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "疼痛是一种身体不适的感觉，通常是对伤害或疾病的反应。",
+                        "id": "043e4ca9f6634ca190a466c356d8fd4f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7095346a1f834169994e3b2ee5792bdf",
+                                "content": "呼吸"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a779b70805e3426f818947a517c35e9b",
+                                "content": "消化"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0c0813fd9fd64b09a6b77fc955c51ded",
+                                "content": "循环"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51172e473cd74503b6fbafaa75825f33",
+                                "content": "排泄"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7095346a1f834169994e3b2ee5792bdf",
+                                    "content": "呼吸"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a779b70805e3426f818947a517c35e9b",
+                                    "content": "消化"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0c0813fd9fd64b09a6b77fc955c51ded",
+                                    "content": "循环"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51172e473cd74503b6fbafaa75825f33",
+                                    "content": "排泄"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Digestion 是什么过程？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "消化是身体将食物分解成可吸收的营养素的过程",
+                        "id": "144799322d1c42c49e8aa03314f3b6d2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a5a74d2bb0bd48718b03810813124471",
+                                "content": "结肠镜检查"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5c3ca5d16771456bab086049175b5e22",
+                                "content": "胃镜检查"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0ce321b6319b4c7289389b1ef013a75e",
+                                "content": "食管胃十二指肠镜检查"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "083d5fe9aab4468191a9526f4db34caf",
+                                "content": "小肠镜检查"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a5a74d2bb0bd48718b03810813124471",
+                                    "content": "结肠镜检查"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5c3ca5d16771456bab086049175b5e22",
+                                    "content": "胃镜检查"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0ce321b6319b4c7289389b1ef013a75e",
+                                    "content": "食管胃十二指肠镜检查"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "083d5fe9aab4468191a9526f4db34caf",
+                                    "content": "小肠镜检查"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Esophagogastroduodenoscopy 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "食管胃十二指肠镜检查是一种通过口腔插入内镜，检查食管、胃和十二指肠的医疗程序。",
+                        "id": "1a39d1b1a3984571aab06245666c3450",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "95ce22c0e52f46939f8cb5958276c3fe",
+                                "content": "溃疡"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "993dc73747ac4562b24c42d6e948c564",
+                                "content": "肿瘤"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e71500c734344033af8b9ca5f07f4808",
+                                "content": "炎症"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c2de22b92f84e5aa6c31b4d473dc587",
+                                "content": "痔疮"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "95ce22c0e52f46939f8cb5958276c3fe",
+                                    "content": "溃疡"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "993dc73747ac4562b24c42d6e948c564",
+                                    "content": "肿瘤"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e71500c734344033af8b9ca5f07f4808",
+                                    "content": "炎症"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c2de22b92f84e5aa6c31b4d473dc587",
+                                    "content": "痔疮"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Hemorrhoids 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "痔疮是肛门和直肠周围的血管异常扩张和炎症。",
+                        "id": "283850db33aa4341b16c8b2e981b97b9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3b0b6f3217ad48898cd44917921e45da",
+                                "content": "乳糖不耐症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e8df19ea2549447db93fb59638503197",
+                                "content": "麸质不耐症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "62ec801cf90343eaada7f929f4f46bec",
+                                "content": "果糖不耐症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f8e9eaddd920499d8d13e7e7c8efee21",
+                                "content": "酒精不耐症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3b0b6f3217ad48898cd44917921e45da",
+                                    "content": "乳糖不耐症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e8df19ea2549447db93fb59638503197",
+                                    "content": "麸质不耐症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "62ec801cf90343eaada7f929f4f46bec",
+                                    "content": "果糖不耐症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f8e9eaddd920499d8d13e7e7c8efee21",
+                                    "content": "酒精不耐症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Lactose intolerance 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "乳糖不耐症是一种由于缺乏乳糖酶，导致无法消化乳糖的状况。",
+                        "id": "28d9e023926e41619ac970d8ba69ac50",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cdd310780f8f42d1999f06f7de7832a4",
+                                "content": "储存和消化食物"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c22e541977d248348f885ebed15624e8",
+                                "content": "过滤血液"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d9f8127808e458c89dce305c2781d0f",
+                                "content": "呼吸空气"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "52a7c7fcc0e4496b884475e14bba50b2",
+                                "content": "循环血液"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cdd310780f8f42d1999f06f7de7832a4",
+                                    "content": "储存和消化食物"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c22e541977d248348f885ebed15624e8",
+                                    "content": "过滤血液"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d9f8127808e458c89dce305c2781d0f",
+                                    "content": "呼吸空气"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "52a7c7fcc0e4496b884475e14bba50b2",
+                                    "content": "循环血液"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Stomach 的主要功能是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "胃的主要功能是储存食物并开始消化过程。",
+                        "id": "3829778a39fe43118160b7000e8e5159",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a7361975a184404eb370e0d86348aa99",
+                                "content": "胃和十二指肠"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1ffa3dea467d48589c018e206586f7c7",
+                                "content": "结肠、盲肠和直肠"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f18f74baae274f5386dadd8bcfff3e14",
+                                "content": "小肠的全部"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c9758bfbaec4596aa08d492791ff8a9",
+                                "content": "食道和胃"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a7361975a184404eb370e0d86348aa99",
+                                    "content": "胃和十二指肠"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1ffa3dea467d48589c018e206586f7c7",
+                                    "content": "结肠、盲肠和直肠"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f18f74baae274f5386dadd8bcfff3e14",
+                                    "content": "小肠的全部"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c9758bfbaec4596aa08d492791ff8a9",
+                                    "content": "食道和胃"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Large intestine 包括哪些部分？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "大肠包括结肠、盲肠和直肠。",
+                        "id": "51d6851f52fa470a8ba8fd6e32b45006",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30c3de02a52e4e40bc00635d8d86af9f",
+                                "content": "肠易激综合症"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ca79218bf91241cf8d9ac05d9add9e06",
+                                "content": "溃疡性结肠炎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "964534fa9d394dbfb13cc05c6775aa50",
+                                "content": "克罗恩病"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ebd11fdb8efc40ce9c9fb6aa372d3d6c",
+                                "content": "胰腺炎"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30c3de02a52e4e40bc00635d8d86af9f",
+                                    "content": "肠易激综合症"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ca79218bf91241cf8d9ac05d9add9e06",
+                                    "content": "溃疡性结肠炎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "964534fa9d394dbfb13cc05c6775aa50",
+                                    "content": "克罗恩病"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ebd11fdb8efc40ce9c9fb6aa372d3d6c",
+                                    "content": "胰腺炎"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Irritable bowel syndrome (IBS) 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "肠易激综合症是一种常见的肠道疾病，特征是腹痛、腹胀和改变的排便习惯。",
+                        "id": "51f930971ef04246a6b4326b4d2a158e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b861c98124f1486f98a7d627b559e662",
+                                "content": "克罗恩病"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ec43688121da4c84a987cc21cd22b543",
+                                "content": "溃疡性结肠炎"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9fff2a8a145f420b873a9d7ea3813b8a",
+                                "content": "肠梗阻"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "34da9e636fc041b7be617614b196b10b",
+                                "content": "胰腺炎"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b861c98124f1486f98a7d627b559e662",
+                                    "content": "克罗恩病"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ec43688121da4c84a987cc21cd22b543",
+                                    "content": "溃疡性结肠炎"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9fff2a8a145f420b873a9d7ea3813b8a",
+                                    "content": "肠梗阻"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "34da9e636fc041b7be617614b196b10b",
+                                    "content": "胰腺炎"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Ulcerative colitis 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "溃疡性结肠炎是一种影响结肠和直肠的慢性炎症性肠道疾病。",
+                        "id": "57b867858a4743309d2337943aee0552",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "30939ee4149c42058c47d589592eafad",
+                                "content": "溃疡"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71594b84d6194907856015729b180309",
+                                "content": "疝气"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9a8b18fc731b4bdf81f82af629e7d689",
+                                "content": "肿瘤"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c19e9bfd9dee42a2802fd119bd521eea",
+                                "content": "炎症"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "30939ee4149c42058c47d589592eafad",
+                                    "content": "溃疡"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71594b84d6194907856015729b180309",
+                                    "content": "疝气"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9a8b18fc731b4bdf81f82af629e7d689",
+                                    "content": "肿瘤"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c19e9bfd9dee42a2802fd119bd521eea",
+                                    "content": "炎症"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "Hernia 是什么？",
+                        "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+                        "difficultyIds": "ae446ca0ed980430b09583ff1583a466",
+                        "difficulty": "考试范围-Remembering记忆",
+                        "textAnalysis": "疝气是内脏器官通过其正常位置的弱点突出的情况。",
+                        "id": "5f764f6c5ae947f1a6d05a813bdb71f3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "07ea2230977c865c0f9bbbc41ac33c28",
+            "lessonItemId": "e59d28e9150df9fe48f819ce1433dcc6",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "32e31effdc3f4c7383256aecff23c07a",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 39000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 18:08:58",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "重",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "医学术语",
+        "questionNumber": 10
+    },
+    "message": ""
+}

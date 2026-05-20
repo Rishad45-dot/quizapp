@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 22:24:30",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 22:24:30",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 22:31:42",
+            "id": "c42a0069eb1dca21c9c9cb96accd2295",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8556840ce4a14d3d814d23e9ecf9734a",
+                                "content": "6"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "194b6d9fc2284dd7a0854527cea0c21b",
+                                "content": "8"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cfb828eb24894378a7647dc8c6cda313",
+                                "content": "12"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "84ecf9c750634eb7998720dbb99d8d2b",
+                                "content": "20"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8556840ce4a14d3d814d23e9ecf9734a",
+                                    "content": "6"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "194b6d9fc2284dd7a0854527cea0c21b",
+                                    "content": "8"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cfb828eb24894378a7647dc8c6cda313",
+                                    "content": "12"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "84ecf9c750634eb7998720dbb99d8d2b",
+                                    "content": "20"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is collecting data from a client during the first prenatal visit. The client is eager to know the sex of the fetus and asks the nurse when it will be known. The nurse plans to respond to the client, knowing that the sex of the fetus can be determined as early as which week?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nBy the end of the twelfth week of gestation, the fetal sex can be determined by the appearance of the external genitalia on ultrasound; therefore, the other options are incorrect.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Reproduction, Development\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, identifying the sex of the fetus. Thinking about the process of fetal development will direct you to the correct option.\n \n ",
+                        "id": "0115eb66dce542c9995ed141187138f8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c3aa59a4fe3e4e80a220899ea97bf87b",
+                                "content": "\"Have you ever had surgery?\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4a2388bd158847f2a9c2bbd1a5558fd6",
+                                "content": "\"Do you plan to have any other children?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8bd7cdc8e06f4f9eaa0b497d03e9e140",
+                                "content": "\"Do either of you have diabetes mellitus?\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b55009110f864033901da7708968a413",
+                                "content": "\"Do either of you have problems with high blood pressure?\"\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c3aa59a4fe3e4e80a220899ea97bf87b",
+                                    "content": "\"Have you ever had surgery?\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4a2388bd158847f2a9c2bbd1a5558fd6",
+                                    "content": "\"Do you plan to have any other children?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8bd7cdc8e06f4f9eaa0b497d03e9e140",
+                                    "content": "\"Do either of you have diabetes mellitus?\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b55009110f864033901da7708968a413",
+                                    "content": "\"Do either of you have problems with high blood pressure?\"\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A couple comes to the family planning clinic and asks about sterilization procedures. Which question by the nurse would determine whether this method of family planning would be most appropriate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSterilization is a method of contraception for couples who have completed their families. It would be considered a permanent end to fertility because reversal surgery is not always successful. The nurse would ask the couple about their plans for having children in the future. Options 1, 3, and 4 are unrelated to this procedure.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Reproduction, Health Promotion\nStrategies: Strategic Words, Subject\n   Test-Taking Strategy:\nNote the strategic words, most appropriate. Focus on the subject, sterilization procedure. Note the relationship between the word sterilization and the words plan to have any other children in the correct option.\n \n   ",
+                        "id": "4e759187b3f94c368b45502464e411b5",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "909ba67692e147dea36f868efadec482",
+                                "content": "Between 6 and 8 weeks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3cf45c8e64e447afa0bd4b06a553b42a",
+                                "content": "Between 8 and 10 weeks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d3c3cc77099a46ab8f1353ec81543fd9",
+                                "content": "Between 12 and 14 weeks"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "58e8fae9690c4a56b67f1af55afab96e",
+                                "content": "Between 16 and 20 weeks"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "909ba67692e147dea36f868efadec482",
+                                    "content": "Between 6 and 8 weeks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3cf45c8e64e447afa0bd4b06a553b42a",
+                                    "content": "Between 8 and 10 weeks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d3c3cc77099a46ab8f1353ec81543fd9",
+                                    "content": "Between 12 and 14 weeks"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "58e8fae9690c4a56b67f1af55afab96e",
+                                    "content": "Between 16 and 20 weeks"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A pregnant client asks the nurse in the clinic, \"When will I begin to feel fetal movement?\" Which response would the nurse make?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nFetal movement, called quickening, is not perceived until the second trimester. Between 16 and 20 weeks' gestation, the expectant client first notices subtle fetal movements that gradually increase in intensity. Therefore, the remaining options are incorrect.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Reproduction, Development\nStrategies: Subject\n Test-Taking Strategy:\nFocus on the subject, when quickening occurs. Specific knowledge of quickening and the detection of fetal movement by the client is required to answer this question.\n \n ",
+                        "id": "5663c5bbb9984b6c8e6b43c1b9e080d7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "213af88eafde45e39fad9760363d70ac",
+                                "content": "\"It promotes the fertilized ovum's chances of survival.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a982b853ba0c4f008e2d7d05ad1285fe",
+                                "content": "\"It promotes the fertilized ovum's exposure to estrogen and progesterone.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "bf8c3b175ced416cb3e676ef07ba2362",
+                                "content": "\"It promotes the fertilized ovum's normal implantation in the top portion of the uterus.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afb5998cabb34efebc35ca96db469ac4",
+                                "content": "\"It promotes the fertilized ovum's exposure to luteinizing hormone and follicle-stimulating hormone.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "213af88eafde45e39fad9760363d70ac",
+                                    "content": "\"It promotes the fertilized ovum's chances of survival.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a982b853ba0c4f008e2d7d05ad1285fe",
+                                    "content": "\"It promotes the fertilized ovum's exposure to estrogen and progesterone.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "bf8c3b175ced416cb3e676ef07ba2362",
+                                    "content": "\"It promotes the fertilized ovum's normal implantation in the top portion of the uterus.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afb5998cabb34efebc35ca96db469ac4",
+                                    "content": "\"It promotes the fertilized ovum's exposure to luteinizing hormone and follicle-stimulating hormone.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is conducting a prenatal class on the female reproductive system. When a client in the class asks why the fertilized ovum stays in the fallopian tube for 3 days, what is the nurse's best response?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe tubal isthmus remains contracted until 3 days after conception to allow the fertilized ovum to develop within the tube. This initial growth of the fertilized ovum promotes its normal implantation in the fundal portion of the uterine corpus. Estrogen is a hormone produced by the ovarian follicles, corpus luteum, adrenal cortex, and placenta during pregnancy. Progesterone is a hormone secreted by the corpus luteum of the ovary, adrenal glands, and placenta during pregnancy. Luteinizing hormone and follicle-stimulating hormone are excreted by the anterior pituitary gland. The survival of the fertilized ovum does not depend on it staying in the fallopian tube for 3 days.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Reproduction, Development\nStrategies: Strategic Words\n   Test-Taking Strategy:\nNote the strategic word, best, and use knowledge of the anatomy and physiology of the female reproductive system. Remember that fertilization occurs in the fallopian tube and the fertilized ovum remains in the fallopian tube for about 3 days. This promotes its normal implantation.\n \n   ",
+                        "id": "6dbdcf361e9e4c2b96b5e4118c323997",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "41275653ccc646949efb9860dddb5b89",
+                                "content": "\"It promotes the fertilized ovum's chances of survival.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "7d3f74e8ff5c468bbc4e7cf655f303a8",
+                                "content": "\"It promotes the fertilized ovum's exposure to estrogen and progesterone.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fe96ff6abad04e78b0c7bb0a367fd27b",
+                                "content": "\"It promotes the fertilized ovum's normal implantation in the top portion of the uterus.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ad664ab5378942f79f25e50bc2b92157",
+                                "content": "\"It promotes the fertilized ovum's exposure to luteinizing hormone and follicle-stimulating hormone.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "41275653ccc646949efb9860dddb5b89",
+                                    "content": "\"It promotes the fertilized ovum's chances of survival.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "7d3f74e8ff5c468bbc4e7cf655f303a8",
+                                    "content": "\"It promotes the fertilized ovum's exposure to estrogen and progesterone.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fe96ff6abad04e78b0c7bb0a367fd27b",
+                                    "content": "\"It promotes the fertilized ovum's normal implantation in the top portion of the uterus.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ad664ab5378942f79f25e50bc2b92157",
+                                    "content": "\"It promotes the fertilized ovum's exposure to luteinizing hormone and follicle-stimulating hormone.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is conducting a prenatal class on the reproductive system. When a client in the class asks why the fertilized ovum stays in the fallopian tube for 3 days, what is the nurse's best response?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe tubal isthmus remains contracted until 3 days after conception to allow the fertilized ovum to develop within the tube. This initial growth of the fertilized ovum promotes its normal implantation in the fundal portion of the uterine corpus. Estrogen is a hormone produced by the ovarian follicles, corpus luteum, adrenal cortex, and placenta during pregnancy. Progesterone is a hormone secreted by the corpus luteum of the ovary, adrenal glands, and placenta during pregnancy. Luteinizing hormone and follicle-stimulating hormone are excreted by the anterior pituitary gland. The survival of the fertilized ovum does not depend on it staying in the fallopian tube for 3 days.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Development, Reproduction\nStrategies: Strategic Words\n  Test-Taking Strategy:\nNote the strategic word, best, and use knowledge of the anatomy and physiology of the reproductive system. Remember that fertilization occurs in the fallopian tube and that the fertilized ovum remains in the fallopian tube for about 3 days. This promotes its normal implantation.\n \n  ",
+                        "id": "734d4307fc47469990278c8d5accf3f7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0050d847bac246f9a8b562f3216fb3c3",
+                                "content": "\"Ova and sperm are collected and allowed to incubate.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "120aa99a604847f79854e1d8d88ee1ee",
+                                "content": "\"A fertilized ovum is transferred into the woman's uterus.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5b5865967ba84eacab8ba95a09395929",
+                                "content": "\"The procedure is a method of medically assisted reproduction.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "afc87f297c3b45c9b6cfdf6ab3daf2ac",
+                                "content": "\"The procedure is performed using artificial insemination of sperm instilled through the vagina.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0050d847bac246f9a8b562f3216fb3c3",
+                                    "content": "\"Ova and sperm are collected and allowed to incubate.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "120aa99a604847f79854e1d8d88ee1ee",
+                                    "content": "\"A fertilized ovum is transferred into the woman's uterus.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5b5865967ba84eacab8ba95a09395929",
+                                    "content": "\"The procedure is a method of medically assisted reproduction.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "afc87f297c3b45c9b6cfdf6ab3daf2ac",
+                                    "content": "\"The procedure is performed using artificial insemination of sperm instilled through the vagina.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A couple is seen in the fertility clinic. After several tests it has been determined that the spouse is not sterile and that the other spouse has nonpatent fallopian tubes. The nurse is preparing the couple for an in vitro fertilization. Which statement by the couple indicates a need for further information about the procedure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nIn vitro fertilization is a method of medically assisted reproduction for clients with nonpatent, diseased, or missing fallopian tubes or with infertility of unknown cause. Ova and sperm are obtained from the potential parent or donor, placed in a nutrient medium, and allowed to incubate; then the fertilized ovum is transferred into the client's uterus. The client houses the pregnancy throughout gestation and gives birth. Option 4 describes the procedure for artificial insemination. Options 1, 2, and 3 are correct statements regarding in vitro fertilization.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Antepartum\nHealth Problem: Adult Health: Reproductive: Menstruation Problems/Fertility/Infertility\nIntegrated Process: Teaching and Learning\nPriority Concepts: Reproduction, Patient Education\nStrategies: Negative Event Query, Strategic Words\n  Test-Taking Strategy:\nNote the strategic words, need for further information. This phrasing is a negative event query and tells you that the correct option is an incorrect statement by the couple. Focusing on the words in vitro fertilization will assist you in answering correctly.\n ",
+                        "id": "7e8844874d634449b8e5182e9c4219c3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1a34fa437181466a80dce64d8eb8a684",
+                                "content": "The appearance of the fetal external genitalia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "88a591d83c08440aa11a3dd84dde9808",
+                                "content": "The beginning of differentiation in the fetal groin"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "17966da11bd244ed8c0b405dbcf3a6b2",
+                                "content": "The fetal testes are descended into the scrotal sac"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "79e832862c454282a57cb3d085b82d8a",
+                                "content": "The differences in external genitalia are apparent"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1a34fa437181466a80dce64d8eb8a684",
+                                    "content": "The appearance of the fetal external genitalia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "88a591d83c08440aa11a3dd84dde9808",
+                                    "content": "The beginning of differentiation in the fetal groin"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "17966da11bd244ed8c0b405dbcf3a6b2",
+                                    "content": "The fetal testes are descended into the scrotal sac"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "79e832862c454282a57cb3d085b82d8a",
+                                    "content": "The differences in external genitalia are apparent"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A pregnant client tells the clinic nurse about wanting to know the sex of the baby as soon as it can be determined. The nurse informs the client that the sex of the baby could be determined at 12 weeks' gestation because of which factor?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nSex differentiation begins in the embryo during the seventh week. External genitalia are indistinguishable until after the ninth week. Distinguishing characteristics of external genitalia appear around the ninth week and are fully differentiated by the twelfth week. By the end of the twelfth week, the external genitalia of the fetus have developed to such a degree that the sex of the fetus can be determined visually. Testes descend into the scrotal sac at the end of the thirty-eighth week.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Sexuality, Development\nStrategies: Subject\n  Test-Taking Strategy:\nFocus on the subject, sex of the fetus. Remember that the sex of the fetus can be recognizable visually by the appearance of the external genitalia by gestational week 12.\n \n  ",
+                        "id": "93fdb454916845ff86ff624e2441a571",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab1b06ecdf65456f97b08165e1095d8b",
+                                "content": "\"It connects the pulmonary artery to the aorta.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f2488e45fa054bd6932e92b1f7475dd3",
+                                "content": "\"It is an opening between the right and left atria.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "5d16b5f586d941d38d878c23049fb6db",
+                                "content": "\"It connects the umbilical vein to the inferior vena cava.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2ddde8be7ec743ae9ab390919f2af859",
+                                "content": "\"It connects the umbilical artery to the inferior vena cava.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab1b06ecdf65456f97b08165e1095d8b",
+                                    "content": "\"It connects the pulmonary artery to the aorta.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f2488e45fa054bd6932e92b1f7475dd3",
+                                    "content": "\"It is an opening between the right and left atria.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "5d16b5f586d941d38d878c23049fb6db",
+                                    "content": "\"It connects the umbilical vein to the inferior vena cava.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2ddde8be7ec743ae9ab390919f2af859",
+                                    "content": "\"It connects the umbilical artery to the inferior vena cava.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing instructor teaches a group of students about fetal circulation and then asks a student to describe fetal circulation, specifically the ductus venosus. Which statement by the student indicates an understanding of the ductus venosus?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe ductus venosus connects the umbilical vein to the inferior vena cava. The foramen ovale is a temporary opening between the right and left atria. The ductus arteriosus joins the aorta and the pulmonary artery.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Antepartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Reproduction\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, an understanding of the description of the ductus venosus. Use knowledge of fetal circulation to assist in answering. Also note the relationship of the word venosus in the question and vein in the correct option.\n \n   ",
+                        "id": "9d542eea1f9c47e5b43985a8751532ff",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b8a8b6d800a14f718e4fb5636d34b5ab",
+                                "content": "5 weeks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e52a37242adc41f6b1c3907c7898a4df",
+                                "content": "9 weeks"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "da659a8691074b35954be66c25f31b85",
+                                "content": "13 weeks"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d371824a95704b128c7a4987efb25b3f",
+                                "content": "18 weeks"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b8a8b6d800a14f718e4fb5636d34b5ab",
+                                    "content": "5 weeks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e52a37242adc41f6b1c3907c7898a4df",
+                                    "content": "9 weeks"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "da659a8691074b35954be66c25f31b85",
+                                    "content": "13 weeks"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d371824a95704b128c7a4987efb25b3f",
+                                    "content": "18 weeks"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A nulliparous client asks the nurse when fetal movements will be felt. The nurse responds by telling the client that the first recognition of fetal movement will occur at approximately how many weeks of gestation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nThe first recognition of fetal movements, or feeling life, by the multiparous person may occur as early as 14 to 16 weeks' gestation. The nulliparous person may not notice these sensations until 18 weeks' gestation or later, as the person has no prior experience and the uterus has not been previously stretched during pregnancy adaptation. The first recognition of fetal movement is called quickening.\n\nClient Needs: Health Promotion and Maintenance\nClinical Judgment/Cognitive Skill(s): Take Action\nCognitive Ability: Applying\nContent Area: Maternity: Antepartum\nIntegrated Process: Nursing Process/Implementation\nPriority Concepts: Reproduction, Health Promotion\nStrategies: Subject\n Test-Taking Strategy:\nNote the subject, when the nulliparous person will first feel fetal movement. Focus on the word nulliparous in the question. Knowledge of when the nulliparous person would expect fetal movement will direct you to the correct option.\n \n ",
+                        "id": "9f8826795008419abac27e7705328ad6",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8934f31a28964745a1611379b9d2acac",
+                                "content": "\"It connects the pulmonary artery to the aorta.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "44265bb537cc4c9e97f6c91f25416ba9",
+                                "content": "\"It is an opening between the right and left atria.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9829fbdae72f4a158709639302011ea5",
+                                "content": "\"It connects the umbilical vein to the inferior vena cava.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a938ae505a36424a9c37c85fe05db387",
+                                "content": "\"It connects the umbilical artery to the inferior vena cava.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8934f31a28964745a1611379b9d2acac",
+                                    "content": "\"It connects the pulmonary artery to the aorta.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "44265bb537cc4c9e97f6c91f25416ba9",
+                                    "content": "\"It is an opening between the right and left atria.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9829fbdae72f4a158709639302011ea5",
+                                    "content": "\"It connects the umbilical vein to the inferior vena cava.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a938ae505a36424a9c37c85fe05db387",
+                                    "content": "\"It connects the umbilical artery to the inferior vena cava.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nursing instructor asks the student to describe fetal circulation, specifically the ductus venosus. Which statement by the student indicates an understanding of the ductus venosus?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe ductus venosus connects the umbilical vein to the inferior vena cava. The foramen ovale is a temporary opening between the right and left atria. The ductus arteriosus joins the aorta and the pulmonary artery.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Maternity: Antepartum\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Reproduction\nStrategies: Subject\n   Test-Taking Strategy:\nFocus on the subject, the description of the ductus venosus. Note the relationship between the words venosus in the question and vein in the correct option.\n \n   ",
+                        "id": "aab0c96061294970ba8e94c3affa8e07",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "c2755aa83a36a49e3a7a770bf5fcc376",
+            "lessonItemId": "43b63cc5e02d24288f8deb40c487d270",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 323000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 22:31:43",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Reproductive Syste",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

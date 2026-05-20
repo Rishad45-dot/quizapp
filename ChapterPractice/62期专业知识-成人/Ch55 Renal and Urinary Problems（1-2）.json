@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:28",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:28",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:17:16",
+            "id": "780da7692dc119994f1b6762621c7366",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "aae965232f424997b4e533cd399a06c9",
+                                "content": "Bleeding time"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0278096d8614a30b48ffcbade0a5cfb",
+                                "content": "Thrombin time"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "89ec0e60691943a98c5ba2864d84787e",
+                                "content": "Prothrombin time (PT)"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "50b449253b1a4f47978ac3e72904de9f",
+                                "content": "Partial thromboplastin time (PTT)"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "aae965232f424997b4e533cd399a06c9",
+                                    "content": "Bleeding time"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0278096d8614a30b48ffcbade0a5cfb",
+                                    "content": "Thrombin time"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "89ec0e60691943a98c5ba2864d84787e",
+                                    "content": "Prothrombin time (PT)"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "50b449253b1a4f47978ac3e72904de9f",
+                                    "content": "Partial thromboplastin time (PTT)"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client undergoing hemodialysis is at risk for bleeding from the heparin used during the hemodialysis treatment. The nurse assesses for this occurrence by periodically checking the results of which laboratory test?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nHeparin is the anticoagulant used most often during hemodialysis. The hemodialysis nurse monitors the extent of anticoagulation by checking the PTT, which is the appropriate measure of heparin effect. Thrombin and bleeding times are not used to measure the effect of heparin therapy, although they are useful in the diagnosis of other clotting abnormalities. The PT is a test used to monitor the effect of warfarin therapy.",
+                        "id": "0545478e80624e368c84b098301cefa3",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3f2bf90561143c5913b55e0e9bcf6c8",
+                                "content": "Vital signs and weight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "87a4ab9714ff43dba376cc63661ccd7e",
+                                "content": "Potassium level and weight"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1e716376161047c79993fb18b90d684e",
+                                "content": "Vital signs and blood urea nitrogen level"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "23cbac6f9a904fc7b7483e541a369ed0",
+                                "content": "Blood urea nitrogen and creatinine levels"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3f2bf90561143c5913b55e0e9bcf6c8",
+                                    "content": "Vital signs and weight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "87a4ab9714ff43dba376cc63661ccd7e",
+                                    "content": "Potassium level and weight"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1e716376161047c79993fb18b90d684e",
+                                    "content": "Vital signs and blood urea nitrogen level"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "23cbac6f9a904fc7b7483e541a369ed0",
+                                    "content": "Blood urea nitrogen and creatinine levels"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with chronic kidney disease has completed a hemodialysis treatment. The nurse would use which standard indicators to evaluate the client's status after dialysis?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nFollowing dialysis the client's vital signs are monitored to determine whether the client is remaining hemodynamically stable. Weight is measured and compared with the client's predialysis weight to determine effectiveness of fluid extraction. Laboratory studies are done as per protocol but are not necessarily done after the hemodialysis treatment has ended.",
+                        "id": "106bac143f294d599c0413ce122032f0",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "336ad454a18c4170a0d097b422a43d5d",
+                                "content": "Bradycardia"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f59be8b4abe94aff8fac073f4a78d3c1",
+                                "content": "Hypertension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1eb35a7b8b0a43f69d8ee78fccf4fd1d",
+                                "content": "Decreased cardiac output"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "63fdc7fc8e144a9e99aab74236c88da8",
+                                "content": "Decreased central venous pressure"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "336ad454a18c4170a0d097b422a43d5d",
+                                    "content": "Bradycardia"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f59be8b4abe94aff8fac073f4a78d3c1",
+                                    "content": "Hypertension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1eb35a7b8b0a43f69d8ee78fccf4fd1d",
+                                    "content": "Decreased cardiac output"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "63fdc7fc8e144a9e99aab74236c88da8",
+                                    "content": "Decreased central venous pressure"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with glomerulonephritis has developed acute kidney injury (AKI) as a complication. The nurse would expect to note which abnormal finding documented on the client's medical record?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nAKI caused by glomerulonephritis is classified as an intrinsic or intrarenal cause of renal failure. It is commonly manifested by hypertension, tachycardia, oliguria, lethargy, edema, and other signs of fluid overload. AKI from a prerenal cause is characterized by decreased blood pressure, tachycardia, decreased cardiac output, and decreased central venous pressure. Bradycardia is not part of the clinical picture for any form of kidney failure.",
+                        "id": "117c0979d15e45198b0ca68186533d42",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "2483e60c399749e7b3a4b33298b8315a",
+                                "content": "Glycosuria"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4ed2aa827fa14ccfa7e0ab0f463b3eba",
+                                "content": "Polyphagia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e2b2fec403c14511bd254f68f669e9b8",
+                                "content": "Blood pressure of 98/58 mm Hg"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "098a7fa2a41f48e8b3797940fe5acdc7",
+                                "content": "Crackles auscultated in the lungs"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "2483e60c399749e7b3a4b33298b8315a",
+                                    "content": "Glycosuria"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4ed2aa827fa14ccfa7e0ab0f463b3eba",
+                                    "content": "Polyphagia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e2b2fec403c14511bd254f68f669e9b8",
+                                    "content": "Blood pressure of 98/58 mm Hg"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "098a7fa2a41f48e8b3797940fe5acdc7",
+                                    "content": "Crackles auscultated in the lungs"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "In performing a physical assessment of a client with chronic kidney disease (CKD), which finding would the nurse anticipate?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale:\nCKD is a condition in which the kidneys have progressive problems in clearing nitrogenous waste products and controlling fluid and electrolyte balance within the body. Cardiovascular symptoms of heart failure and hypertension are caused by the fluid volume overload resulting from the kidneys' inability to excrete water. Signs and symptoms of heart failure include jugular venous distention, S3 heart sound, pedal edema, increased weight, shortness of breath, and crackles auscultated in the lungs. The typical signs and symptoms of CKD include proteinuria or hematuria, not glycosuria. The nurse would observe anorexia and nausea in this client, not polyphagia.",
+                        "id": "16cd620bc4854f85aff2a77e2a854835",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cbc6270da4644c9995a5f20e9943cd7c",
+                                "content": "Peritonitis"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75412e1356c14ca6bff40e4f0c34ab92",
+                                "content": "Hyperglycemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "00c74a0769314bf99be89fc931d55765",
+                                "content": "Hyperphosphatemia"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "3ad26d4a8b4f4aa39df31593413c931e",
+                                "content": "Disequilibrium syndrome"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cbc6270da4644c9995a5f20e9943cd7c",
+                                    "content": "Peritonitis"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75412e1356c14ca6bff40e4f0c34ab92",
+                                    "content": "Hyperglycemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "00c74a0769314bf99be89fc931d55765",
+                                    "content": "Hyperphosphatemia"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "3ad26d4a8b4f4aa39df31593413c931e",
+                                    "content": "Disequilibrium syndrome"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is instructing a client with diabetes mellitus about peritoneal dialysis. The nurse tells the client that it is important to maintain the prescribed dwell time for the dialysis because of the risk of which complication?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nAn extended dwell time increases the risk of hyperglycemia in the client with diabetes mellitus as a result of absorption of glucose from the dialysate and electrolyte changes. Diabetic clients may require extra insulin when receiving peritoneal dialysis. Peritonitis is a risk associated with breaks in aseptic technique. Hyperphosphatemia is an electrolyte imbalance that occurs with renal dysfunction. Disequilibrium syndrome is a complication associated with hemodialysis.",
+                        "id": "1736599625a643879ea7560932fb28bd",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e36c84736a194a82af763dfb8fce9409",
+                                "content": "Potassium"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ebec0fd3070c47a4a7a0f76105f42ef4",
+                                "content": "Creatinine"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "85b8cdc10b734d1d9193b89e45e611a8",
+                                "content": "Phosphorus"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b59d252bb954467e87d99a053950ea25",
+                                "content": "Red blood cell (RBC) count"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e36c84736a194a82af763dfb8fce9409",
+                                    "content": "Potassium"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ebec0fd3070c47a4a7a0f76105f42ef4",
+                                    "content": "Creatinine"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "85b8cdc10b734d1d9193b89e45e611a8",
+                                    "content": "Phosphorus"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b59d252bb954467e87d99a053950ea25",
+                                    "content": "Red blood cell (RBC) count"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is analyzing the posthemodialysis laboratory test results for a client with chronic kidney disease. The nurse interprets that the dialysis is having an expected but nontherapeutic effect if which value is decreased?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nHemodialysis typically lowers the amounts of fluid, sodium, potassium, urea nitrogen, creatinine, uric acid, magnesium, and phosphate levels in the blood. Hemodialysis also worsens anemia because RBCs are lost during dialysis from blood sampling and anticoagulation and from residual blood left in the dialyzer. Although all of these results are expected, only the lowered RBC count is nontherapeutic and worsens the anemia already caused by the disease process.",
+                        "id": "1926ed845cac4d73ac22645973d94b97",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b1de32e20e124e82b0bc478e8e10e64b",
+                                "content": "The increase in urine output indicates the return of some renal function."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a14168785aa748659a4f438d70fc0f26",
+                                "content": "The diuretic phase develops about 14 days after the initial insult and lasts about 10 days."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b7c3bf52f63d43db84083daa66b11ce2",
+                                "content": "The blood urea nitrogen and creatinine levels will continue to rise during the first few days of diuresis."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "99e4a92b0ffd4330b63dc98ffb98b638",
+                                "content": "The diuretic phase is characterized by an increase in urine output of about 500 mL in a 24-hour period."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b1de32e20e124e82b0bc478e8e10e64b",
+                                    "content": "The increase in urine output indicates the return of some renal function."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a14168785aa748659a4f438d70fc0f26",
+                                    "content": "The diuretic phase develops about 14 days after the initial insult and lasts about 10 days."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b7c3bf52f63d43db84083daa66b11ce2",
+                                    "content": "The blood urea nitrogen and creatinine levels will continue to rise during the first few days of diuresis."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "99e4a92b0ffd4330b63dc98ffb98b638",
+                                    "content": "The diuretic phase is characterized by an increase in urine output of about 500 mL in a 24-hour period."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse instructor is evaluating a nursing student for knowledge regarding care of a client with acute kidney injury. Which statement by the student demonstrates the need for further teaching about the diuretic phase of acute kidney injury?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nThe diuretic phase of acute kidney injury is characterized by an increase in urine output of more than 1000 mL in a 24-hour period. This increase in urine output indicates the return of some renal function; however, blood urea nitrogen and creatinine levels continue to rise during the first few days of diuresis. The diuretic phase develops about 14 days after the initial insult and lasts about 10 days.",
+                        "id": "2084c1aca4214f44b221cfda05d1d210",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "51c38df8eba04270a0b9fb2c7ee5ecfb",
+                                "content": "Monitor the client."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4c35d162d4a04299ab20c767e253e0cd",
+                                "content": "Elevate the head of the bed."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0c16a1dac089464da6d6b0d76046df13",
+                                "content": "Assess the fistula site and dressing."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "74dd430e4dc94cc587bf23a16a8c0849",
+                                "content": "Notify the primary health care provider (PHCP)."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "51c38df8eba04270a0b9fb2c7ee5ecfb",
+                                    "content": "Monitor the client."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4c35d162d4a04299ab20c767e253e0cd",
+                                    "content": "Elevate the head of the bed."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0c16a1dac089464da6d6b0d76046df13",
+                                    "content": "Assess the fistula site and dressing."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "74dd430e4dc94cc587bf23a16a8c0849",
+                                    "content": "Notify the primary health care provider (PHCP)."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is performing an assessment on a client who has returned from the dialysis unit following hemodialysis. The client is complaining of headache and nausea and is extremely restless. Which is the priority nursing action?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nDisequilibrium syndrome may be caused by rapid removal of solutes from the body during hemodialysis. These changes can cause cerebral edema that leads to increased intracranial pressure. The client is exhibiting early signs and symptoms of disequilibrium syndrome, and appropriate treatments with anticonvulsive medications and barbiturates may be necessary to prevent a life-threatening situation. The PHCP must be notified. Monitoring the client, elevating the head of the bed, and assessing the fistula site are correct actions, but the priority action is to notify the PHCP.",
+                        "id": "26e1bdcf3e5048faa44484ebdcf0dec7",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "74f0d4bea5c24120b04357c2d480b903",
+                                "content": "I need to check the fistula every day by feeling it for a vibration."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "48e00ce9f68e412592b99f382d7c8a82",
+                                "content": "I am glad that the laboratory will be able to draw my blood from the fistula."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "70b6b8e71fe4487f8ca75350cfc42a03",
+                                "content": "I need to wear a shirt with tight arms to provide some compression on the fistula."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "4029e3f798dd4c2e85d020da603f6514",
+                                "content": "I need to check my blood pressure in the arm where I have my fistula every week."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "74f0d4bea5c24120b04357c2d480b903",
+                                    "content": "I need to check the fistula every day by feeling it for a vibration."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "48e00ce9f68e412592b99f382d7c8a82",
+                                    "content": "I am glad that the laboratory will be able to draw my blood from the fistula."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "70b6b8e71fe4487f8ca75350cfc42a03",
+                                    "content": "I need to wear a shirt with tight arms to provide some compression on the fistula."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "4029e3f798dd4c2e85d020da603f6514",
+                                    "content": "I need to check my blood pressure in the arm where I have my fistula every week."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse provides home care instructions to a client undergoing hemodialysis with regard to care of a newly created arteriovenous (AV) fistula. Which client statement indicates that teaching was effective?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale:\nAn AV fistula provides access to the client's bloodstream for the dialysis procedure. The client is instructed to monitor fistula patency daily by palpating for a thrill (vibration feeling). The client is instructed to avoid compressing the fistula with tight clothing or when sleeping and that blood pressure measurements and blood draws would not be performed on the arm with the fistula. The client also is instructed to assess the fistula for signs and symptoms of infection, including pain, redness, swelling, and excessive warmth.",
+                        "id": "2b35d7e47b58462f9d4be23acd62ac90",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f01477293ec44b19be98f0b3a1cefc65",
+                                "content": "Administer hypotonic saline."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef667ccf7d9c4f2a8b6962c86750edaf",
+                                "content": "Administer magnesium sulfate."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eb980576ebb64b0d9dce91134cb7a482",
+                                "content": "Increase the ultrafiltration rate."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "75d7bffda4ef4a039efd8f6714580ac9",
+                                "content": "Decrease the ultrafiltration rate."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f01477293ec44b19be98f0b3a1cefc65",
+                                    "content": "Administer hypotonic saline."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef667ccf7d9c4f2a8b6962c86750edaf",
+                                    "content": "Administer magnesium sulfate."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eb980576ebb64b0d9dce91134cb7a482",
+                                    "content": "Increase the ultrafiltration rate."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "75d7bffda4ef4a039efd8f6714580ac9",
+                                    "content": "Decrease the ultrafiltration rate."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client undergoing hemodialysis begins to experience muscle cramping. What is the best action by the hemodialysis nurse in this situation?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "Rationale:\nMuscle cramps during hemodialysis result from either too rapid removal of water and sodium or neuromuscular hypersensitivity. The nurse corrects this situation by either slowing down the ultrafiltration rate on the hemodialyzer or administering hypertonic or isotonic normal saline. Magnesium sulfate is not prescribed to correct this occurrence.",
+                        "id": "2cf2686253c0421eab44b927a6b1af4c",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "828fbac777214c6eeb23f64a3e3f1477",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 312000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:17:16",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Acute Kidney Injury/Chronic Kidney Diseas",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}

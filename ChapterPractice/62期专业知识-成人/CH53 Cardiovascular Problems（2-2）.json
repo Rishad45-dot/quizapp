@@ -1,0 +1,806 @@
+{
+    "code": 1,
+    "data": {
+        "score": "--",
+        "createdDate": "2026-05-15 19:08:00",
+        "success": true,
+        "typeText": "课后练习",
+        "record": {
+            "createdBy": "1c2399a9e00576675c85a30b57a03a51",
+            "createdDate": "2026-05-15 19:08:00",
+            "lastModifiedBy": "1c2399a9e00576675c85a30b57a03a51",
+            "lastModifiedDate": "2026-05-15 19:20:12",
+            "id": "9de652943bae4dedcd5bcebce323e818",
+            "extJson": {
+                "studentQuestionArray": [
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "9c46fc9607224acd9736ae698ca02d3d",
+                                "content": "\"A cardiac output of 2 L/min is normal.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6fda4028ede2497d968bc539745da424",
+                                "content": "\"A cardiac output of 4 L/min is normal.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a997c166713c424ca100fc66221129d9",
+                                "content": "\"A cardiac output of 6 L/min is normal.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03aa801474744e5c8c721070975cd3e2",
+                                "content": "\"A cardiac output of 7 L/min is normal.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "9c46fc9607224acd9736ae698ca02d3d",
+                                    "content": "\"A cardiac output of 2 L/min is normal.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6fda4028ede2497d968bc539745da424",
+                                    "content": "\"A cardiac output of 4 L/min is normal.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a997c166713c424ca100fc66221129d9",
+                                    "content": "\"A cardiac output of 6 L/min is normal.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03aa801474744e5c8c721070975cd3e2",
+                                    "content": "\"A cardiac output of 7 L/min is normal.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The registered nurse (RN) is orienting a new RN assigned to the care of a client with a dysrhythmia and is told that the client has an alteration in cardiac output. After educating the new RN about cardiac output, which statement made by the new RN indicates the need for further instruction?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nThe cardiac cycle consists of contraction and relaxation of the heart muscle. In adults, the cardiac output ranges from 4 to 8 L/min. Therefore, option 1 identifies a low cardiac output.\n\nTest-Taking Strategy:\nNote the strategic words, need for further instruction. This indicates a negative event query and asks you to select an option that is an incorrect statement. Focus on the subject, the cardiac cycle. Use knowledge of anatomy and physiology. Remember that the heart normally sends out about 4 to 8 L/min of blood to the body.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Negative Event Query, Strategic Words, Subject",
+                        "id": "0750c4c84545420aaba5c006e17e5e2f",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af5c631dee3e4ad48ff557748c67040d",
+                                "content": "The client's digoxin has been withheld for the last 48 hours."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0738083ac73541949f3ac3d126312076",
+                                "content": "The client is wearing a nasal cannula delivering oxygen at 2 L/min."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ef89a4245c1d4842b1ecc29dee1c18b3",
+                                "content": "The defibrillator has the synchronizer turned on and is set at 120 joules (J)."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "82d7bad7f0b44e8c83df74a6bd3db5d1",
+                                "content": "The client has received an intravenous dose of a conscious sedation medication."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af5c631dee3e4ad48ff557748c67040d",
+                                    "content": "The client's digoxin has been withheld for the last 48 hours."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0738083ac73541949f3ac3d126312076",
+                                    "content": "The client is wearing a nasal cannula delivering oxygen at 2 L/min."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ef89a4245c1d4842b1ecc29dee1c18b3",
+                                    "content": "The defibrillator has the synchronizer turned on and is set at 120 joules (J)."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "82d7bad7f0b44e8c83df74a6bd3db5d1",
+                                    "content": "The client has received an intravenous dose of a conscious sedation medication."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client is scheduled for elective cardioversion to treat chronic high-rate atrial fibrillation. Which finding indicates that further preparation is needed for the procedure?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nDuring the procedure, any oxygen is removed temporarily because oxygen supports combustion, and a fire could result from electrical arcing. Digoxin may be withheld for up to 48 hours before cardioversion because it increases ventricular irritability and may cause ventricular dysrhythmias after the countershock. The defibrillator is switched to synchronizer mode to time the delivery of the electrical impulse to coincide with the QRS and avoid the T wave, which could cause ventricular fibrillation. Energy level typically is set at 120 to 200 J for a biphasic machine. The client typically receives a dose of an intravenous sedative or antianxiety agent.\n\nTest-Taking Strategy:\nNote the strategic words, further preparation is needed. These words indicate a negative event query and the need to select the observation that requires further intervention. Think about how this procedure is performed and recall the concept related to oxygen combustion to direct you to the correct option.\n\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Analyzing\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Clinical Judgment, Safety\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "0b65f8b9e83348ecb1e1af7bcdc5255e",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d8956992a23c43279c62acadb5e58f85",
+                                "content": "Before each P wave"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cbe06be99479462a8669a54565dcd164",
+                                "content": "Just after each P wave"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "effee72f86e549fb8b72e61b2e25e95d",
+                                "content": "Just after each T wave"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "e0af86a7ae9f4983bef64a463c642234",
+                                "content": "Before each QRS complex"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d8956992a23c43279c62acadb5e58f85",
+                                    "content": "Before each P wave"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cbe06be99479462a8669a54565dcd164",
+                                    "content": "Just after each P wave"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "effee72f86e549fb8b72e61b2e25e95d",
+                                    "content": "Just after each T wave"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "e0af86a7ae9f4983bef64a463c642234",
+                                    "content": "Before each QRS complex"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with a complete heart block has had a permanent demand ventricular pacemaker inserted. The nurse assesses for proper pacemaker function by examining the electrocardiogram (ECG) strip for the presence of pacemaker spikes at what point?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nIf a ventricular pacemaker is functioning properly, there will be a pacer spike followed by a QRS complex. An atrial pacemaker spike precedes a P wave if an atrial pacemaker is implanted.\n\nTest-Taking Strategy:\nFocus on the subject, proper pacemaker function. Note the word ventricular, and use knowledge of the normal cardiac conduction pathway as represented on the ECG tracing to answer this question. Knowing that the QRS complex signals ventricular depolarization will direct you to the correct option.\n \n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject",
+                        "id": "0ba3f94a14d443f0993a2b36f74eaab2",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "fa4449519852459ab1fc0b1520278b19",
+                                "content": "Spikes precede all P waves and QRS complexes."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "71428f4f58374d9f80521ca59a8127c7",
+                                "content": "There are consistent spikes before each P wave."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "0603166669314b28ac094a3f8da80f5c",
+                                "content": "Spikes occur before QRS complexes when intrinsic ventricular beats do not occur."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "55acec8070224de68747a0fa57bbae77",
+                                "content": "Spikes occur before all QRS complexes regardless of intrinsic ventricular activity."
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "fa4449519852459ab1fc0b1520278b19",
+                                    "content": "Spikes precede all P waves and QRS complexes."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "71428f4f58374d9f80521ca59a8127c7",
+                                    "content": "There are consistent spikes before each P wave."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "0603166669314b28ac094a3f8da80f5c",
+                                    "content": "Spikes occur before QRS complexes when intrinsic ventricular beats do not occur."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "55acec8070224de68747a0fa57bbae77",
+                                    "content": "Spikes occur before all QRS complexes regardless of intrinsic ventricular activity."
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is evaluating a client's cardiac rhythm strip to determine whether there is proper function of the VVI mode pacemaker. Which denotes proper functioning?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nWhen a pacemaker is operating in the VVI mode, pacemaker spikes will be observed before the QRS complex if there is no intrinsic beat; therefore, options 1, 2, and 4 are incorrect.\n\nTest-Taking Strategy:\nFocus on the subject, proper functioning of a VVI mode pacemaker. Knowing that the first letter of VVI stands for the chamber paced (in this case, the ventricle) will help you eliminate options 1 and 2, which indicate atrial pacing. The second letter of the code stands for the chamber sensed, and the third letter indicates the response to sensing. So eliminate option 4 because this choice describes no sensing capability.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Evidence\nStrategies: Subject",
+                        "id": "1aeb0a35c3a34d82bac18ae9d9f787f8",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6bfb7f0c251b414f9be015d3b74e5f98",
+                                "content": "Atrial flutter"
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "cdb0004b28c84714a40fb3fe26ff57de",
+                                "content": "Atrial fibrillation"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b3ad9783aa734c08a9c41a17ba751e57",
+                                "content": "First-degree AV block"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f98cfe3b32d94adfaac7fc7cb35923fb",
+                                "content": "Third-degree atrioventricular (AV) block"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6bfb7f0c251b414f9be015d3b74e5f98",
+                                    "content": "Atrial flutter"
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "cdb0004b28c84714a40fb3fe26ff57de",
+                                    "content": "Atrial fibrillation"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b3ad9783aa734c08a9c41a17ba751e57",
+                                    "content": "First-degree AV block"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f98cfe3b32d94adfaac7fc7cb35923fb",
+                                    "content": "Third-degree atrioventricular (AV) block"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client's electrocardiogram shows that the ventricular rhythm is irregular and there are no discernible P waves. The nurse recognizes that this pattern is associated with which condition?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nWith atrial fibrillation, the ventricular rhythm is irregular and there are usually no discernible P waves. Therefore, an atrial rhythm cannot be determined. In atrial flutter, the QRS complexes may be either regular or irregular, and the P waves occur as flutter waves. A client in third-degree AV block (also known as complete heart block) has regular atrial and ventricular rhythms, but there is no connection between the P waves and the QRS complexes. In other words, the PR interval is variable and the QRS complexes are normal or widened, with no relationship with the P waves. With first-degree AV block, the PR interval is longer than normal, and there is a connection between the occurrence of P waves and that of QRS complexes.\n\nTest-Taking Strategy:\nFocus on the subject, an electrocardiogram pattern. Note the words no discernible P waves. Recalling that a possible characteristic of atrial fibrillation is the absence of a P wave will assist in directing you to option 2.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject",
+                        "id": "20420bec2c364910bd2beb8f01513a33",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c5b3249c0163412d82b1cf2c12acd8a7",
+                                "content": "They occur in pairs."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c2c97d34be9349888671b094ff4c0fa7",
+                                "content": "They appear to be multifocal."
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "8831546c9138471680c4fcd2e08816f8",
+                                "content": "They fall on the second half of the T wave."
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "f34647054d8c4c299467d0dc441626be",
+                                "content": "They decrease to a frequency of less than 6 per minute.\n"
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c5b3249c0163412d82b1cf2c12acd8a7",
+                                    "content": "They occur in pairs."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c2c97d34be9349888671b094ff4c0fa7",
+                                    "content": "They appear to be multifocal."
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "8831546c9138471680c4fcd2e08816f8",
+                                    "content": "They fall on the second half of the T wave."
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "f34647054d8c4c299467d0dc441626be",
+                                    "content": "They decrease to a frequency of less than 6 per minute.\n"
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has received antidysrhythmic therapy for the treatment of premature ventricular contractions (PVCs). The nurse evaluates this therapy as most effective if which finding is noted with regard to the PVCs?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nPVCs are considered dangerous when they are frequent (more than 6 per minute), occur in pairs or couplets, are multifocal (multiform), or fall on the T wave. In each of these instances, the client's cardiac rhythm is likely to degenerate into ventricular tachycardia or ventricular fibrillation, both of which are potentially deadly dysrhythmias.\n\nTest-Taking Strategy:\nNote the subject, treatment for PVCs, and the strategic words, most effective. Noting that the correct option addresses a decrease in frequency will direct you to this option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Evaluation\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Strategic Words, Subject",
+                        "id": "229e80798f0d4cc89274635b2e5233c9",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "c8662b87e0e94f6fb711395b084c24b1",
+                                "content": "Limiting oral and intravenous fluids "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "73917899348e40d7b78ef6aca1376bb2",
+                                "content": "Measuring the client's pulse each shift"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "03a9c0a5bbe3403d9877866d8927bc36",
+                                "content": "Providing the client with short, frequent walks "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "eae989e0e9b54fe7a0ad2877af5203ec",
+                                "content": "Eliminating sources of caffeine from meal trays "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "c8662b87e0e94f6fb711395b084c24b1",
+                                    "content": "Limiting oral and intravenous fluids "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "73917899348e40d7b78ef6aca1376bb2",
+                                    "content": "Measuring the client's pulse each shift"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "03a9c0a5bbe3403d9877866d8927bc36",
+                                    "content": "Providing the client with short, frequent walks "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "eae989e0e9b54fe7a0ad2877af5203ec",
+                                    "content": "Eliminating sources of caffeine from meal trays "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client with an acute respiratory infection is admitted to the hospital with a diagnosis of sinus tachycardia. Which nursing action should be included in the client's plan of care?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "80db17ea97ed8fdcd1b6b9666390fca1",
+                        "difficulty": "考试范围-Applying 应用",
+                        "textAnalysis": "\nRationale: \nSinus tachycardia often is caused by fever, physical and emotional stress, heart failure, hypovolemia, certain medications, nicotine, caffeine, and exercise. Fluid restriction and exercise will not alleviate tachycardia. Option 2 will not decrease the heart rate. Additionally, the pulse should be taken more frequently than each shift.\n\nTest-Taking Strategy: \nFocus on the subject, treatment for tachycardia. Recalling the causes of tachycardia will direct you to the correct option. Also, recall that caffeine is a stimulant and will increase the heart rate.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Generate Solutions\nCognitive Ability: Applying\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Planning\nPriority Concepts: Perfusion, Safety\nStrategies: Subject\n\n",
+                        "id": "30379fbfce7d4a87a7a4995a7d65bbb4",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "72690156a0604434a74a56094d416040",
+                                "content": "Hypotension"
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "ab95c67a8e834029a72d04ed54c01b3c",
+                                "content": "Flat neck veins "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "46a6900dd1064c02b829d40b6cff5880",
+                                "content": "Complaints of nausea "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b6eb4e08b12547688ec0a8a573e42e6c",
+                                "content": "Complaints of headache  "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "72690156a0604434a74a56094d416040",
+                                    "content": "Hypotension"
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "ab95c67a8e834029a72d04ed54c01b3c",
+                                    "content": "Flat neck veins "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "46a6900dd1064c02b829d40b6cff5880",
+                                    "content": "Complaints of nausea "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b6eb4e08b12547688ec0a8a573e42e6c",
+                                    "content": "Complaints of headache  "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse is caring for a client with cardiac disease who has been placed on a cardiac monitor. The nurse notes that the client has developed atrial fibrillation and has a rapid ventricular rate of 150 beats/minute. The nurse would next assess the client for which finding?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "Rationale: \nThe client with uncontrolled atrial fibrillation with a ventricular rate greater than 100 beats/minute is at risk for low cardiac output because of loss of atrial kick. The nurse assesses the client for palpitations, chest pain or discomfort, hypotension, pulse deficit, fatigue, weakness, dizziness, syncope, shortness of breath, and distended neck veins.\n\n\nTest-Taking Strategy:\nNote the strategic word, next. Focus on the dual subjects, atrial fibrillation and a rapid ventricular rate. Eliminate option 2 first because flat neck veins are normal or indicate hypovolemia. Eliminate option 3 next because nausea and vomiting would be associated with vagus nerve activity, which does not correlate with a tachycardic state. Regarding the remaining choices, recall that a falling cardiac output will result in hypotension.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Prioritize Hypotheses\nCognitive Ability: Analyzing\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Analysis\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Strategic Words, Subject",
+                        "id": "40137926f43749a7a898d5876f9e0461",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "a0b71da5aa4f4cc0a2457ac4d77151db",
+                                "content": "Flat neck veins "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "43e25aefc023419fbad21ead3540e1e5",
+                                "content": "Nausea and vomiting "
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "32fab936b20d4e87a3ea7719016a10a4",
+                                "content": "Hypotension and dizziness "
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "6ff4c12f044046f197c4e8deca27487b",
+                                "content": "Clubbed fingertips and headache  "
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "a0b71da5aa4f4cc0a2457ac4d77151db",
+                                    "content": "Flat neck veins "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "43e25aefc023419fbad21ead3540e1e5",
+                                    "content": "Nausea and vomiting "
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "32fab936b20d4e87a3ea7719016a10a4",
+                                    "content": "Hypotension and dizziness "
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "6ff4c12f044046f197c4e8deca27487b",
+                                    "content": "Clubbed fingertips and headache  "
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "A client has developed uncontrolled atrial fibrillation with a ventricular rate of 150 beats/min. What manifestation should the nurse observe for when performing the client's focused assessment?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "11797937e327eb6d913faa80427c566b",
+                        "difficulty": "考试范围-Analyzing 分析",
+                        "textAnalysis": "\nRationale: \nThe client with uncontrolled atrial fibrillation with a ventricular rate greater than 100 beats/min is at risk for low cardiac output due to loss of atrial kick. The nurse assesses the client for palpitations, chest pain or discomfort, hypotension, pulse deficit, fatigue, weakness, dizziness, syncope, shortness of breath, and distended neck veins.\n\nTest-Taking Strategy: \nFocus on the subject, manifestations that occur with atrial fibrillation. Recalling that flat neck veins are normal or indicate hypovolemia will assist in eliminating option 1. Regarding the remaining options, thinking of the effects of a low cardiac output will direct you to the correct option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Recognize Cues\nCognitive Ability: Analyzing\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Nursing Process/Assessment\nPriority Concepts: Perfusion, Clinical Judgment\nStrategies: Subject\n\n",
+                        "id": "42efdcb8d54c4903b6cd351530606792",
+                        "mark": "0",
+                        "collectionState": "0"
+                    },
+                    {
+                        "optionList": [
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "d77c5713a62144e5a011613d39b0aa12",
+                                "content": "\"I'll need to call my cardiologist if I feel tired or dizzy.\""
+                            },
+                            {
+                                "isRight": "1",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "af496e57c2d24e05aa362759a2129b93",
+                                "content": "\"My pulse rate should be less than what my pacemaker is set at.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "b75976a2df304f14852adfd49a508dfb",
+                                "content": "\"I'll have to avoid carrying the grocery bags into the house for the next 6 weeks.\""
+                            },
+                            {
+                                "isRight": "0",
+                                "userAnswer": "",
+                                "isSelected": "0",
+                                "id": "1daaa04e6df845cf9a872885c53b7a78",
+                                "content": "\"It's safe to use my microwave as long it is properly grounded and well shielded.\""
+                            }
+                        ],
+                        "extJson": {
+                            "optionList": [
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "d77c5713a62144e5a011613d39b0aa12",
+                                    "content": "\"I'll need to call my cardiologist if I feel tired or dizzy.\""
+                                },
+                                {
+                                    "isRight": "1",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "af496e57c2d24e05aa362759a2129b93",
+                                    "content": "\"My pulse rate should be less than what my pacemaker is set at.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "b75976a2df304f14852adfd49a508dfb",
+                                    "content": "\"I'll have to avoid carrying the grocery bags into the house for the next 6 weeks.\""
+                                },
+                                {
+                                    "isRight": "0",
+                                    "userAnswer": "",
+                                    "isSelected": "0",
+                                    "id": "1daaa04e6df845cf9a872885c53b7a78",
+                                    "content": "\"It's safe to use my microwave as long it is properly grounded and well shielded.\""
+                                }
+                            ]
+                        },
+                        "isSubmit": "0",
+                        "delFlag": "0",
+                        "type": "0",
+                        "version": 0,
+                        "content": "The nurse determines that a client requires further teaching after permanent pacemaker insertion if which statement is made?",
+                        "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+                        "difficultyIds": "a0f7d178f7b728b8bba7ef20ddeca62d",
+                        "difficulty": "考试范围-Evaluating 评价",
+                        "textAnalysis": "Rationale: \nThe client should call the cardiologist if the pulse rate is less than what the pacemaker is set at because this could be a sign of pacemaker or battery failure. Option 2 indicates the client needs further teaching, whereas the remaining options are correct statements.\n\nTest-Taking Strategy:\nNote the strategic words, requires further teaching. These words indicate a negative event query and ask you to select an option that is an incorrect statement. Use knowledge of proper pacemaker function and precautions to take after pacemaker implantation to assist you in answering this question. Noting the words pulse rate should be less in option 2 will direct you to this option.\n\nClient Needs: Physiological Integrity\nClinical Judgment/Cognitive Skill(s): Evaluate Outcomes\nCognitive Ability: Evaluating\nContent Area: Adult Health: Cardiovascular\nHealth Problem: Adult Health: Cardiovascular: Dysrhythmias\nIntegrated Process: Teaching and Learning\nPriority Concepts: Perfusion, Patient Education\nStrategies: Negative Event Query, Strategic Words",
+                        "id": "4c91b711617e406b9418ebe8a7258fa1",
+                        "mark": "0",
+                        "collectionState": "0"
+                    }
+                ]
+            },
+            "lessonId": "1dce568658187abd3d15971e5a716984",
+            "lessonItemId": "3c0b4c8c37f94b321916d93769080a2b",
+            "isLessonPractice": "1",
+            "tenantId": "1",
+            "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+            "subjectId": "ad5ab04c79144c0ea9b83385308c3b1d",
+            "userId": "1c2399a9e00576675c85a30b57a03a51",
+            "useTime": 315000,
+            "state": "1",
+            "mode": "0",
+            "type": "1",
+            "questionNumber": 10,
+            "correctQuestionNumber": 0,
+            "mistakeQuestionNumber": 0,
+            "notAnswerQuestionNumber": 10,
+            "answerQuestionNumber": 0,
+            "submitDate": "2026-05-15 19:20:13",
+            "correctRate": 0.00,
+            "isLastRecord": "1"
+        },
+        "chapterName": "Cardiac Dysrhythmia",
+        "questionBaseName": "RN/CGN练习题库",
+        "answerQuestionNumber": 0,
+        "questionBaseId": "c43f570476114203439b78e9fdbc5301",
+        "subjectName": "Saunders",
+        "questionNumber": 10
+    },
+    "message": ""
+}
