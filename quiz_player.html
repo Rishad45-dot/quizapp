@@ -3,464 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
-    <meta name="referrer" content="no-referrer">
     <title>医学词汇测验 · 云端同步</title>
+    <!-- Self‑hosted canvas-confetti (place confetti.browser.min.js in the same folder) -->
+    <script src="confetti.browser.min.js"></script>
     <style>
         * { box-sizing: border-box; }
-        body {
-            background-color: #f0f2f5;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 1300px;
-            margin: 0 auto;
-            padding: 0 12px 20px 12px;
-        }
-        .header {
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            background: white;
-            border-radius: 0 0 12px 12px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-            padding: 12px 16px;
-            margin: 0 -12px 16px -12px;
-            transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
-        }
-        .header-inner {
-            max-width: 1300px;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 12px;
-            transition: gap 0.2s;
-        }
-        .title-section {
-            flex: 1;
-            transition: all 0.2s;
-        }
-        .chapter-title {
-            font-size: 1.25rem;
-            font-weight: 600;
-            color: #2c7a4d;
-            transition: font-size 0.2s;
-        }
-        .source-badge {
-            font-size: 0.7rem;
-            background: #e8f0fe;
-            padding: 2px 8px;
-            border-radius: 20px;
-            margin-left: 8px;
-            color: #2c7a4d;
-            font-weight: normal;
-            display: inline-block;
-            transition: opacity 0.2s;
-        }
-        .subtitle {
-            font-size: 0.8rem;
-            color: #5a6874;
-            margin-top: 2px;
-            transition: all 0.2s;
-        }
-        .back-button {
-            background: #ecf5ff;
-            border: none;
-            padding: 6px 16px;
-            border-radius: 30px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            color: #2c7a4d;
-            text-decoration: none;
-            transition: all 0.2s;
-        }
-        .compact-stats {
-            display: none;
-            background: #eaf4e8;
-            padding: 4px 10px;
-            border-radius: 40px;
-            font-size: 0.7rem;
-            font-weight: 600;
-            color: #1e5a3a;
-            white-space: nowrap;
-            align-items: center;
-            gap: 5px;
-            letter-spacing: 0.3px;
-            box-shadow: inset 0 0 0 1px rgba(44,122,77,0.2);
-        }
-        .compact-daily {
-            background: #eaf4e8;
-            padding: 4px 12px;
-            border-radius: 40px;
-            font-size: 0.7rem;
-            font-weight: 500;
-            color: #1e5a3a;
-            white-space: nowrap;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            letter-spacing: 0.2px;
-        }
-        .stats-summary {
-            background: #f8f9fc;
-            border-radius: 20px;
-            padding: 8px 12px;
-            margin-top: 12px;
-            margin-bottom: 12px;
-            font-size: 0.8rem;
-            display: flex;
-            flex-wrap: wrap;
-            align-items: baseline;
-            justify-content: space-between;
-            gap: 10px;
-            border: 1px solid #e9ecef;
-            transition: all 0.2s, margin 0.2s, padding 0.2s;
-        }
-        .stats-numbers {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 12px;
-            font-weight: 500;
-        }
-        .stats-numbers span {
-            background: white;
-            padding: 2px 8px;
-            border-radius: 30px;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-        }
+        body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
+        .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
+        .header { position: sticky; top: 0; z-index: 100; background: white; border-radius: 0 0 12px 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); padding: 12px 16px; margin: 0 -12px 16px -12px; transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1); }
+        .header-inner { max-width: 1300px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+        .title-section { flex: 1; }
+        .chapter-title { font-size: 1.25rem; font-weight: 600; color: #2c7a4d; }
+        .source-badge { font-size: 0.7rem; background: #e8f0fe; padding: 2px 8px; border-radius: 20px; margin-left: 8px; color: #2c7a4d; }
+        .subtitle { font-size: 0.8rem; color: #5a6874; margin-top: 2px; }
+        .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
+        .compact-stats { display: none; background: #eaf4e8; padding: 4px 10px; border-radius: 40px; font-size: 0.7rem; font-weight: 600; color: #1e5a3a; white-space: nowrap; align-items: center; gap: 5px; }
+        .compact-daily { background: #eaf4e8; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; font-weight: 500; color: #1e5a3a; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
+        .stats-summary { background: #f8f9fc; border-radius: 20px; padding: 8px 12px; margin-top: 12px; margin-bottom: 12px; font-size: 0.8rem; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; border: 1px solid #e9ecef; }
+        .stats-numbers { display: flex; flex-wrap: wrap; gap: 12px; font-weight: 500; }
+        .stats-numbers span { background: white; padding: 2px 8px; border-radius: 30px; display: inline-flex; align-items: center; gap: 6px; }
         .stat-correct { color: #2c7a4d; background: #e9f7ef; }
         .stat-incorrect { color: #d9534f; background: #fdf0ef; }
         .stat-answered { color: #2c6e9e; background: #e8f0fe; }
         .stat-unanswered { color: #8c9aa8; background: #f0f2f5; }
         .stat-rate { font-weight: 700; color: #2c7a4d; background: #eaf9e8; }
-        .completion-badge {
-            background: #2c7a4d;
-            color: white;
-            padding: 4px 12px;
-            border-radius: 30px;
-            font-size: 0.75rem;
-            font-weight: 600;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            white-space: nowrap;
-        }
-        .daily-stats {
-            background: #e8f0fe;
-            padding: 4px 12px;
-            border-radius: 30px;
-            font-size: 0.75rem;
-            font-weight: 500;
-            display: inline-flex;
-            flex-direction: column;
-            align-items: flex-end;
-            gap: 2px;
-        }
+        .completion-badge { background: #2c7a4d; color: white; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+        .daily-stats { background: #e8f0fe; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; font-weight: 500; display: inline-flex; flex-direction: column; align-items: flex-end; gap: 2px; }
         .daily-counter { color: #2c7a4d; font-weight: 600; }
-        .daily-message { color: #c45c00; font-size: 0.7rem; font-weight: normal; }
-        .settings-toggle {
-            background: #f0f2f5;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 30px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            margin-top: 6px;
-            transition: all 0.2s;
-        }
-        .settings-panel {
-            background: #f9fafc;
-            border-radius: 16px;
-            padding: 16px;
-            margin-bottom: 16px;
-            display: none;
-            flex-wrap: wrap;
-            gap: 16px;
-            align-items: flex-start;
-            scroll-margin-top: 80px;
-        }
+        .daily-message { color: #c45c00; font-size: 0.7rem; }
+        .settings-toggle { background: #f0f2f5; border: none; padding: 6px 12px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; margin-top: 6px; }
+        .settings-panel { background: #f9fafc; border-radius: 16px; padding: 16px; margin-bottom: 16px; display: none; flex-wrap: wrap; gap: 16px; align-items: flex-start; scroll-margin-top: 80px; }
         .settings-panel.open { display: flex; }
-        .setting-group {
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
-            min-width: 140px;
-        }
-        .setting-group label {
-            font-size: 0.8rem;
-            font-weight: 500;
-            color: #2c3e4e;
-        }
-        select, .setting-group input {
-            padding: 8px 12px;
-            border-radius: 30px;
-            border: 1px solid #ddd;
-            background: white;
-            font-size: 0.85rem;
-        }
-        .btn-small {
-            background: #2c7a4d;
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 30px;
-            cursor: pointer;
-            font-size: 0.8rem;
-        }
-        .btn-small-outline {
-            background: transparent;
-            border: 1px solid #2c7a4d;
-            color: #2c7a4d;
-            padding: 8px 16px;
-            border-radius: 30px;
-            cursor: pointer;
-            font-size: 0.8rem;
-        }
-        .toast {
-            position: fixed;
-            bottom: 30px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: #2c7a4d;
-            color: white;
-            padding: 10px 24px;
-            border-radius: 30px;
-            font-size: 0.85rem;
-            z-index: 200;
-            opacity: 0;
-            transition: opacity 0.2s;
-            pointer-events: none;
-            white-space: nowrap;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-        }
+        .setting-group { display: flex; flex-direction: column; gap: 6px; min-width: 140px; }
+        .setting-group label { font-size: 0.8rem; font-weight: 500; color: #2c3e4e; }
+        select, .setting-group input { padding: 8px 12px; border-radius: 30px; border: 1px solid #ddd; background: white; font-size: 0.85rem; }
+        .btn-small { background: #2c7a4d; color: white; border: none; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
+        .btn-small-outline { background: transparent; border: 1px solid #2c7a4d; color: #2c7a4d; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
+        .toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); background: #2c7a4d; color: white; padding: 10px 24px; border-radius: 30px; font-size: 0.85rem; z-index: 200; opacity: 0; transition: opacity 0.2s; pointer-events: none; white-space: nowrap; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
         .toast.show { opacity: 1; }
         .question-grid { display: flex; flex-direction: column; gap: 20px; }
-        .card {
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-            overflow: hidden;
-            transition: background 0.5s ease;
-        }
-        /* Auto‑scroll flash class – matches index.html style (light green background) */
-        .flash-question {
-            background-color: #e9f7ef !important;
-            transition: background 0.5s ease;
-        }
-        .question-header {
-            padding: 16px 20px 12px 20px;
-            border-bottom: 1px solid #e9eef3;
-            display: flex;
-            align-items: baseline;
-            flex-wrap: wrap;
-            gap: 8px 12px;
-        }
-        .tag {
-            background: #ecf5ff;
-            color: #409eff;
-            padding: 4px 12px;
-            border-radius: 30px;
-            font-size: 0.75rem;
-            font-weight: 500;
-        }
-        .difficulty-badge {
-            background: #f0f2f5;
-            color: #8c9aa8;
-            padding: 4px 12px;
-            border-radius: 30px;
-            font-size: 0.7rem;
-            font-weight: 500;
-        }
-        .question-number {
-            background: #e8f0fe;
-            color: #2c7a4d;
-            padding: 2px 8px;
-            border-radius: 20px;
-            font-size: 0.7rem;
-            font-weight: 600;
-        }
-        .question-title {
-            font-size: 1rem;
-            font-weight: 500;
-            line-height: 1.4;
-            margin: 0;
-            flex: 1;
-            min-width: 200px;
-        }
-        .question-title img, .options img, .feedback img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 10px 0;
-        }
-        .save-btn {
-            background: none;
-            border: none;
-            font-size: 1.3rem;
-            cursor: pointer;
-            padding: 4px 8px;
-            border-radius: 30px;
-            transition: 0.2s;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-        .save-btn.saved { color: #f5b042; text-shadow: 0 0 2px rgba(0,0,0,0.1); }
+        .card { background: white; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow: hidden; transition: background 0.5s ease; }
+        .flash-question { background-color: #e9f7ef !important; transition: background 0.5s ease; }
+        .question-header { padding: 16px 20px 12px 20px; border-bottom: 1px solid #e9eef3; display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px 12px; }
+        .tag { background: #ecf5ff; color: #409eff; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; font-weight: 500; }
+        .difficulty-badge { background: #f0f2f5; color: #8c9aa8; padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; }
+        .question-number { background: #e8f0fe; color: #2c7a4d; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; font-weight: 600; }
+        .question-title { font-size: 1rem; font-weight: 500; line-height: 1.4; margin: 0; flex: 1; min-width: 200px; }
+        .question-title img, .options img, .feedback img { max-width: 100%; height: auto; display: block; margin: 10px 0; }
+        .save-btn { background: none; border: none; font-size: 1.3rem; cursor: pointer; padding: 4px 8px; border-radius: 30px; transition: 0.2s; display: inline-flex; align-items: center; gap: 4px; }
+        .save-btn.saved { color: #f5b042; }
         .save-btn:not(.saved) { color: #aaa; }
         .save-btn:hover { background: #f0f2f5; }
         .options { padding: 16px 20px; display: flex; flex-direction: column; gap: 12px; }
-        .option {
-            display: flex;
-            align-items: flex-start;
-            gap: 12px;
-            cursor: pointer;
-            font-size: 0.95rem;
-            padding: 8px 12px;
-            border-radius: 10px;
-        }
+        .option { display: flex; align-items: flex-start; gap: 12px; cursor: pointer; font-size: 0.95rem; padding: 8px 12px; border-radius: 10px; }
         .option:hover { background-color: #f5f7fa; }
         .option input { margin-top: 2px; flex-shrink: 0; transform: scale(1.1); }
         .option label { flex: 1; cursor: pointer; color: #2c3e4e; }
         .option .prefix { font-weight: 600; color: #409eff; width: 28px; flex-shrink: 0; }
-        .feedback {
-            background: #f9fafc;
-            border-top: 1px solid #e9eef3;
-            padding: 16px 20px;
-            font-size: 0.9rem;
-        }
+        .feedback { background: #f9fafc; border-top: 1px solid #e9eef3; padding: 16px 20px; font-size: 0.9rem; }
         .correct-answer { color: #2c7a4d; font-weight: 500; }
         .your-answer-incorrect { color: #d9534f; }
         .your-answer-correct { color: #2c7a4d; font-weight: 500; }
-        .analysis {
-            margin-top: 12px;
-            color: #5a6874;
-            background: #fff6e0;
-            padding: 12px 16px;
-            border-radius: 12px;
-            white-space: pre-wrap;
-            font-size: 0.85rem;
-        }
-        .btn-check {
-            background-color: #2c7a4d;
-            color: white;
-            border: none;
-            padding: 8px 20px;
-            border-radius: 30px;
-            font-size: 0.85rem;
-            cursor: pointer;
-            margin-top: 8px;
-        }
-        .status {
-            display: inline-block;
-            margin-left: 16px;
-            font-size: 0.75rem;
-            padding: 2px 10px;
-            border-radius: 30px;
-            background: #f0f2f5;
-        }
+        .analysis { margin-top: 12px; color: #5a6874; background: #fff6e0; padding: 12px 16px; border-radius: 12px; white-space: pre-wrap; font-size: 0.85rem; }
+        .btn-check { background-color: #2c7a4d; color: white; border: none; padding: 8px 20px; border-radius: 30px; font-size: 0.85rem; cursor: pointer; margin-top: 8px; }
+        .status { display: inline-block; margin-left: 16px; font-size: 0.75rem; padding: 2px 10px; border-radius: 30px; background: #f0f2f5; }
         .status.answered { background: #e3f7ec; color: #2c7a4d; }
-        .type3-input {
-            width: 100%;
-            padding: 10px 12px;
-            font-size: 1rem;
-            border: 1px solid #ccc;
-            border-radius: 12px;
-            margin-top: 4px;
-            background: white;
-        }
-        .error-box {
-            background: #f8d7da;
-            color: #721c24;
-            padding: 20px;
-            border-radius: 12px;
-            margin: 20px 0;
-            white-space: pre-wrap;
-            font-family: monospace;
-            font-size: 0.85rem;
-        }
-        footer {
-            text-align: center;
-            margin-top: 32px;
-            font-size: 0.75rem;
-            color: #8c9aa8;
-            padding-bottom: 20px;
-        }
-        @media (max-width: 768px) {
-            .header.compact {
-                padding: 4px 12px;
-                margin-bottom: 8px;
-                box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-            }
-            .header.compact .stats-summary,
-            .header.compact .settings-toggle {
-                display: none !important;
-            }
-            .header.compact .compact-stats {
-                display: inline-flex;
-                margin-left: 4px;
-            }
-            .header.compact .chapter-title {
-                font-size: 0.9rem;
-            }
-            .header.compact .subtitle {
-                display: none;
-            }
-            .header.compact .source-badge {
-                display: none;
-            }
-            .header.compact .back-button {
-                padding: 4px 10px;
-                font-size: 0.7rem;
-                background: #eef2fa;
-            }
-            .header.compact .header-inner {
-                gap: 6px;
-            }
-            .header.compact .title-section {
-                display: flex;
-                align-items: center;
-                gap: 6px;
-                flex-wrap: wrap;
-            }
-            .header.compact .user-selector {
-                display: none !important;
-            }
-            .header.compact #compactDailyStats {
-                display: inline-flex !important;
-            }
-            .header {
-                transition: all 0.22s cubic-bezier(0.2, 0.9, 0.4, 1.1);
-            }
-        }
-        @media (max-width: 700px) {
-            .container { padding: 0 8px 16px 8px; }
-            .header { padding: 10px 12px; margin: 0 -8px 16px -8px; }
-            .title-section { flex-direction: column; align-items: flex-start; }
-            .stats-numbers { gap: 8px; }
-            .stats-numbers span { font-size: 0.7rem; padding: 2px 6px; }
-            .question-header { gap: 8px; }
-            .tag, .difficulty-badge, .question-number { font-size: 0.7rem; padding: 2px 8px; }
-            .question-title { font-size: 0.95rem; min-width: 100%; margin-top: 4px; }
-            .status { margin-left: 0; margin-top: 6px; }
-            .option { padding: 8px 10px; }
-            .btn-check { width: 100%; text-align: center; }
-            .settings-panel { flex-direction: column; align-items: stretch; }
-            .setting-group { width: 100%; }
-            .toast { white-space: normal; text-align: center; width: 90%; }
-            .daily-stats, .sync-status { align-items: flex-start; margin-top: 8px; }
-            .back-button { font-size: 0.7rem; padding: 4px 12px; }
-            .type3-input { font-size: 1rem; padding: 10px; }
+        .type3-input { width: 100%; padding: 10px 12px; font-size: 1rem; border: 1px solid #ccc; border-radius: 12px; margin-top: 4px; background: white; }
+        .error-box { background: #f8d7da; color: #721c24; padding: 20px; border-radius: 12px; margin: 20px 0; white-space: pre-wrap; font-family: monospace; font-size: 0.85rem; }
+        footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #8c9aa8; padding-bottom: 20px; }
+        .quiz-toolbar { position: fixed; bottom: 20px; right: 20px; display: flex; gap: 12px; align-items: center; background: rgba(0,0,0,0.65); backdrop-filter: blur(8px); padding: 8px 18px; border-radius: 40px; z-index: 150; box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
+        .timer-display { color: white; font-family: monospace; font-size: 1rem; font-weight: 600; letter-spacing: 1px; background: #2c3e4e; padding: 4px 12px; border-radius: 30px; }
+        .toolbar-btn { background: #D32F2F; border: none; color: white; padding: 6px 14px; border-radius: 30px; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: 0.2s; }
+        .toolbar-btn.show-all { background: #2c7a4d; }
+        .toolbar-btn:hover { transform: scale(1.02); filter: brightness(1.05); }
+        .envelope-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 1000; justify-content: center; align-items: center; }
+        .envelope-card { background: #D32F2F; width: 300px; max-width: 85vw; border-radius: 24px; text-align: center; padding: 30px 20px 40px; box-shadow: 0 20px 30px rgba(0,0,0,0.3); position: relative; animation: envelopeAppear 0.4s ease-out; }
+        @keyframes envelopeAppear { 0% { transform: scale(0.7) rotate(-5deg); opacity: 0; } 100% { transform: scale(1) rotate(0); opacity: 1; } }
+        .big-percent { font-size: 5rem; font-weight: 800; color: white; margin: 20px 0 10px; line-height: 1; animation: fadeInNumber 0.6s ease-in-out 0.2s both; }
+        .percent-sign { font-size: 2rem; color: #FFD700; margin-left: 8px; font-weight: 600; display: inline-block; }
+        @keyframes fadeInNumber { 0% { opacity: 0; transform: translateY(20px); } 100% { opacity: 1; transform: translateY(0); } }
+        .envelope-message { color: #FFD700; font-size: 1rem; margin: 8px 16px 16px 16px; font-weight: 500; line-height: 1.4; min-height: 60px; white-space: pre-line; }
+        .modal-button-group { display: flex; justify-content: center; gap: 12px; margin-top: 30px; flex-wrap: wrap; }
+        .modal-btn { background: white; border: none; padding: 6px 14px; border-radius: 40px; font-size: 0.8rem; font-weight: 500; cursor: pointer; transition: 0.2s; color: #D32F2F; }
+        .modal-btn.review-incorrect { background: #ffeb3b; color: #b71c1c; }
+        .modal-btn.practice-again { background: #e0f2fe; color: #0c4a6e; }
+        .modal-btn.back-to-list { background: #f3e8ff; color: #6b21a5; }
+        .modal-btn:hover { transform: scale(1.02); filter: brightness(0.95); }
+        .close-envelope { position: absolute; top: 12px; right: 16px; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; opacity: 0.7; }
+        .close-envelope:hover { opacity: 1; }
+        @media (max-width: 600px) {
+            .quiz-toolbar { bottom: 10px; right: 10px; padding: 4px 12px; gap: 8px; }
+            .timer-display { font-size: 0.8rem; padding: 2px 8px; }
+            .toolbar-btn { padding: 4px 10px; font-size: 0.75rem; }
+            .big-percent { font-size: 3.5rem; }
+            .modal-btn { padding: 4px 10px; font-size: 0.7rem; }
+            .envelope-message { font-size: 0.85rem; margin: 6px 12px 12px; }
         }
     </style>
 </head>
@@ -486,7 +123,6 @@
             </div>
             <div id="compactDailyStats" class="compact-daily" style="display: none;"></div>
         </div>
-
         <div class="stats-summary">
             <div class="stats-numbers">
                 <span>📋 总题数: <strong id="totalCount">0</strong></span>
@@ -541,7 +177,26 @@
     <div id="quizContainer" class="question-grid"><div style="text-align: center; padding: 60px; background: white; border-radius: 20px;">⏳ 正在加载，请稍候...</div></div>
     <footer>✨ <strong>单选/填空/多选</strong>题目：只有<strong>第一次选择的答案</strong>计入正确率统计。<br>⭐ 点击题目旁的星星可收藏题目。📅 每日练习计数自动重置。<br>📱 滚动时头部自动收缩，阅读更舒适</footer>
 </div>
-<div id="toastMessage" class="toast"></div>
+
+<div class="quiz-toolbar">
+    <div class="timer-display" id="timerDisplay">00:00</div>
+    <button class="toolbar-btn" id="resultBtn">📊 答题报告</button>
+    <button class="toolbar-btn show-all" id="showAllBtn">📋 显示全部</button>
+</div>
+
+<div id="envelopeModal" class="envelope-modal">
+    <div class="envelope-card">
+        <button class="close-envelope" id="closeEnvelopeBtn">✕</button>
+        <div class="envelope-message" id="envelopeMessage">恭喜完成本章练习</div>
+        <div class="big-percent" id="percentNumber">0</div>
+        <div class="percent-sign">%</div>
+        <div class="modal-button-group">
+            <button class="modal-btn review-incorrect" id="reviewIncorrectBtn">复习错题</button>
+            <button class="modal-btn practice-again" id="practiceAgainBtn">再练一次</button>
+            <button class="modal-btn back-to-list" id="modalBackToListBtn">返回章节列表</button>
+        </div>
+    </div>
+</div>
 
 <script>
     // ==================== 每日练习计数器 ====================
@@ -559,11 +214,7 @@
     }
     
     function loadDailyHistory() {
-        const stored = localStorage.getItem(DAILY_STORAGE_KEY);
-        if (stored) {
-            try { return JSON.parse(stored); } catch(e) {}
-        }
-        return {};
+        return JSON.parse(localStorage.getItem(DAILY_STORAGE_KEY) || '{}');
     }
     
     function getTodayStats(history) {
@@ -583,23 +234,15 @@
         const yesterdayCount = getYesterdayCount(history);
         document.getElementById('dailyCounter').innerHTML = `📅 今日练习: ${todayCount}`;
         const msgSpan = document.getElementById('dailyMessage');
-        if (yesterdayCount > 0) {
-            msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
-        } else if (todayCount === 0) {
-            msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
-        } else {
-            msgSpan.innerHTML = `💪 继续保持！`;
-        }
+        if (yesterdayCount > 0) msgSpan.innerHTML = `📊 昨日练习: ${yesterdayCount} 题，今天加油超越！`;
+        else if (todayCount === 0) msgSpan.innerHTML = `🌟 开始今天的练习吧！`;
+        else msgSpan.innerHTML = `💪 继续保持！`;
         const compactDiv = document.getElementById('compactDailyStats');
         if (compactDiv) {
             let compactText = '';
-            if (yesterdayCount > 0) {
-                compactText = `📅 今日: ${todayCount}  | 昨日: ${yesterdayCount}  | 加油超越!`;
-            } else if (todayCount === 0) {
-                compactText = `📅 今日: 0  | 开始练习吧!`;
-            } else {
-                compactText = `📅 今日: ${todayCount}  | 继续保持!`;
-            }
+            if (yesterdayCount > 0) compactText = `📅 今日: ${todayCount}  | 昨日: ${yesterdayCount}  | 加油超越!`;
+            else if (todayCount === 0) compactText = `📅 今日: 0  | 开始练习吧!`;
+            else compactText = `📅 今日: ${todayCount}  | 继续保持!`;
             compactDiv.innerHTML = compactText;
         }
     }
@@ -645,7 +288,6 @@
         if (!userInput || userInput.trim() === "") return false;
         const trimmedUser = userInput.trim();
         const trimmedCorrect = correctAnswerPlain.trim();
-        
         const userNum = parseFloat(trimmedUser);
         const correctNum = parseFloat(trimmedCorrect);
         if (!isNaN(userNum) && !isNaN(correctNum)) {
@@ -655,7 +297,14 @@
     }
     
     function showToast(message, duration = 2000) {
-        const toast = document.getElementById('toastMessage');
+        let toast = document.getElementById('toastMessage');
+        if (!toast) {
+            const div = document.createElement('div');
+            div.id = 'toastMessage';
+            div.className = 'toast';
+            document.body.appendChild(div);
+            toast = div;
+        }
         toast.textContent = message;
         toast.classList.add('show');
         setTimeout(() => toast.classList.remove('show'), duration);
@@ -687,7 +336,7 @@
         return d.split('-').pop() || d;
     }
     
-    // ========== 修复后的 toRelativePath（与 index.html 保持一致） ==========
+    // ========== 修复后的 toRelativePath ==========
     function toRelativePath(absolutePath) {
         const knownFolders = ["ChapterPractice", "Saunders", "Uworld", "医学术语", "患者需求"];
         const parts = absolutePath.split(/[\\/]/);
@@ -706,7 +355,7 @@
     let currentUserAnswers = [];
     let currentAnswerStatus = [];
     let currentFilePath = "";
-    let initialAutoScrollDone = false;   // 确保 auto‑scroll 只在初次加载时执行一次
+    let initialAutoScrollDone = false;
     
     function getSavedKey() { return `saved_questions_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function loadSavedQuestionIds() {
@@ -944,12 +593,9 @@
         if (compactSpan) compactSpan.innerHTML = `📊 ${Math.round(stats.rate)}%  ✅ ${stats.correct}/${stats.total}`;
     }
     
-    // ========== 自动滚动到第一个未作答且未核对过答案的题目 ==========
+    // 自动滚动到第一个未作答且未核对过答案的题目
     function scrollToFirstUnanswered() {
         if (!currentQuestions.length) return;
-        // 找到第一个条件满足的题目：
-        //   currentAnswerStatus[i] === false  (未核对答案)
-        //   且当前没有记录任何用户输入
         let targetIndex = -1;
         for (let i = 0; i < currentQuestions.length; i++) {
             const hasAnswer = (() => {
@@ -964,28 +610,93 @@
                 break;
             }
         }
-        
         if (targetIndex === -1) {
-            // 所有题目都已经有了答案或已经核对过 → 显示祝贺 toast
             showToast('🎉 恭喜！本章所有题目均已完成！', 3000);
-            // ========== 占位代码：未来在此处添加“成绩卡”弹窗或卡片 ==========
-            // 计划功能：当全部题目完成后，显示一个包含正确率、完成时间等的成绩卡。
-            // 具体实现待后续迭代。此处仅预留注释。
-            // =============================================================
             return;
         }
-        
         const targetCard = document.querySelector(`.card[data-qidx="${targetIndex}"]`);
         if (!targetCard) return;
-        
-        // 平滑滚动到卡片中央
         targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        
-        // 添加高亮 flash 类，2.5 秒后移除
         targetCard.classList.add('flash-question');
-        setTimeout(() => {
-            targetCard.classList.remove('flash-question');
-        }, 2500);
+        setTimeout(() => targetCard.classList.remove('flash-question'), 2500);
+    }
+    
+    // 显示全部题目（重置筛选）
+    function showAllQuestions() {
+        if (!fullQuestions.length) return;
+        currentQuestions = [...fullQuestions];
+        syncCurrentFromFull();
+        renderQuiz();
+        showToast('📋 已显示全部题目', 1500);
+    }
+    
+    // 复习错题：任何已答且错误的题目（不论是否核对过）
+    function filterToIncorrect() {
+        if (!fullQuestions.length) return;
+        const incorrectIndices = [];
+        for (let i = 0; i < fullQuestions.length; i++) {
+            const q = fullQuestions[i];
+            const ans = fullUserAnswers[i];
+            let hasAnswer = false;
+            if (q.type === '1') {
+                hasAnswer = Array.isArray(ans) && ans.length > 0;
+            } else if (q.type === '3') {
+                hasAnswer = typeof ans === 'string' && ans.trim() !== '';
+            } else {
+                hasAnswer = ans !== null && ans !== undefined;
+            }
+            if (hasAnswer && !isQuestionCorrect(q, ans, true)) {
+                incorrectIndices.push(i);
+            }
+        }
+        if (incorrectIndices.length === 0) {
+            showToast('🎉 没有错题！继续加油', 2000);
+            return;
+        }
+        currentQuestions = incorrectIndices.map(idx => fullQuestions[idx]);
+        syncCurrentFromFull();
+        renderQuiz();
+        document.getElementById('envelopeModal').style.display = 'none';
+        showToast(`🔍 已筛选 ${incorrectIndices.length} 道错题`, 2000);
+    }
+    
+    // 再练一次：重置进度
+    function practiceAgain() {
+        if (!fullQuestions.length) return;
+        resetProgress();
+        document.getElementById('envelopeModal').style.display = 'none';
+        showToast('🔄 已重置，开始新的练习', 1500);
+    }
+    
+    // ========== 动态消息：精确分数区间 ==========
+    function getEncouragementMessage(percent) {
+        if (percent < 30) {
+            return "💪 别气馁！\n千里之行，始于足下。\n再练一次，定能进步！";
+        } else if (percent >= 30 && percent < 50) {
+            return "📈 已答对三分之一，继续努力！\n下次会更好！";
+        } else if (percent >= 50 && percent < 60) {
+            return "🌟 已答对近半，进步明显！\n再坚持一下！";
+        } else if (percent >= 60 && percent < 75) {
+            return "🎉 太棒了！\n轻舟已过万重山。\n本章内容下次会更轻松！\n为你骄傲！";
+        } else if (percent >= 75 && percent < 100) {
+            return "🎊 非常优秀！学霸就是你！\n再接再厉，满分在望！";
+        } else {
+            return "🏆 完美！学神降临！\n本章已完全掌握，太厉害了！";
+        }
+    }
+    
+    // ========== 触发庆祝特效（仅当 score > 65%） ==========
+    function triggerCelebration(percent) {
+        if (percent > 65) {
+            // Use global 'confetti' (library exposes 'confetti' function)
+            confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 }, startVelocity: 15, colors: ['#FFD700', '#FF4500', '#1E90FF', '#FF69B4'] });
+            confetti({ particleCount: 80, spread: 70, origin: { y: 0.6, x: 0.2 }, startVelocity: 15 });
+            confetti({ particleCount: 80, spread: 70, origin: { y: 0.6, x: 0.8 }, startVelocity: 15 });
+            setTimeout(() => {
+                confetti({ particleCount: 200, spread: 100, origin: { y: 0.7 }, startVelocity: 25, colors: ['#FFD700', '#FFA500', '#FF6347', '#ADFF2F'] });
+                confetti({ particleCount: 50, spread: 120, origin: { y: 0.5, x: 0.5 }, startVelocity: 35, decay: 0.9, ticks: 200 });
+            }, 150);
+        }
     }
     
     function renderQuiz() {
@@ -1180,7 +891,6 @@
         updateCompletionUI();
         saveAllProgress();
         
-        // 仅在初次加载时自动滚动到第一个未作答题目
         if (!initialAutoScrollDone) {
             scrollToFirstUnanswered();
             initialAutoScrollDone = true;
@@ -1213,7 +923,6 @@
         document.getElementById('settingsPanel').classList.remove('open');
         if (onlySaved && filtered.length) showToast(`📚 当前显示 ${filtered.length} 道收藏题目`, 1500);
         else if (!onlySaved) showToast('✅ 筛选已应用');
-        // 注意：应用筛选后不自动滚动，保持用户手动控制的位置
     }
     
     function resetProgress() {
@@ -1234,6 +943,35 @@
         showToast('🔄 答题进度已重置，但收藏列表保留');
     }
     
+    // ========== 计时器 ==========
+    let timerSeconds = 0;
+    let timerInterval = null;
+    function startTimer() {
+        if (timerInterval) clearInterval(timerInterval);
+        timerInterval = setInterval(() => {
+            timerSeconds++;
+            const mins = Math.floor(timerSeconds / 60);
+            const secs = timerSeconds % 60;
+            const timerElem = document.getElementById('timerDisplay');
+            if (timerElem) timerElem.innerText = `${mins.toString().padStart(2,'0')}:${secs.toString().padStart(2,'0')}`;
+        }, 1000);
+    }
+    
+    // 答题报告（显示红包卡片 + 庆祝特效）
+    function showResultCard() {
+        const stats = computeFullStatistics();
+        const percent = stats.total === 0 ? 0 : (stats.correct / stats.total) * 100;
+        const percentFixed = percent.toFixed(1);
+        document.getElementById('percentNumber').innerText = percentFixed;
+        const message = getEncouragementMessage(percent);
+        document.getElementById('envelopeMessage').innerText = message;
+        document.getElementById('envelopeModal').style.display = 'flex';
+        
+        // 触发庆祝特效（仅当分数 > 65%）
+        triggerCelebration(percent);
+    }
+    
+    // 页面加载主逻辑
     const urlParams = new URLSearchParams(window.location.search);
     const fileParam = urlParams.get('file');
     if (!fileParam) {
@@ -1259,6 +997,7 @@
                 document.getElementById('subtitle').innerText = sub ? `📁 ${sub}` : '';
                 updateDailyDisplay();
                 initScrollCompact();
+                startTimer();
             })
             .catch(err => {
                 document.getElementById('quizContainer').innerHTML = `<div class="error-box">❌ 加载失败: ${err.message}</div>`;
@@ -1274,6 +1013,16 @@
     document.getElementById('applySettingsBtn').addEventListener('click', applyFilters);
     document.getElementById('resetProgressBtn').addEventListener('click', resetProgress);
     document.getElementById('clearSavedBtn').addEventListener('click', clearAllSaved);
+    
+    // 新功能按钮
+    document.getElementById('resultBtn').addEventListener('click', showResultCard);
+    document.getElementById('showAllBtn').addEventListener('click', showAllQuestions);
+    document.getElementById('reviewIncorrectBtn').addEventListener('click', filterToIncorrect);
+    document.getElementById('practiceAgainBtn').addEventListener('click', practiceAgain);
+    document.getElementById('modalBackToListBtn').addEventListener('click', () => { window.location.href = 'index.html'; });
+    document.getElementById('closeEnvelopeBtn').addEventListener('click', () => {
+        document.getElementById('envelopeModal').style.display = 'none';
+    });
     
     function initScrollCompact() {
         const headerEl = document.getElementById('stickyHeader');
@@ -1296,16 +1045,13 @@
     }
 </script>
 
-<!-- COS SYNC INTEGRATION -->
 <script src="sync.js"></script>
 <script>
     // ---------- Lockable User Selector ----------
     (function() {
         const userSelect = document.getElementById('userSelect');
         if (!userSelect) return;
-
         const storedId = localStorage.getItem('quiz_user_id');
-
         if (storedId) {
             userSelect.value = storedId;
             for (const opt of userSelect.options) {
@@ -1315,11 +1061,9 @@
             userSelect.style.opacity = '0.7';
             userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
         }
-
         userSelect.addEventListener('change', () => {
             const val = userSelect.value;
             if (!val) return;
-
             localStorage.setItem('quiz_user_id', val);
             for (const opt of userSelect.options) {
                 if (opt.value !== val && opt.value !== '') opt.disabled = true;
@@ -1327,7 +1071,6 @@
             userSelect.disabled = true;
             userSelect.style.opacity = '0.7';
             userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
-
             if (typeof syncNow === 'function') syncNow();
         });
     })();
