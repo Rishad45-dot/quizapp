@@ -10,18 +10,86 @@
         * { box-sizing: border-box; }
         body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
         .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
-        .header { position: sticky; top: 0; z-index: 100; background: white; border-radius: 0 0 12px 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); padding: 12px 16px; margin: 0 -12px 16px -12px; transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1); }
-        .header-inner { max-width: 1300px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: white;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            padding: 12px 16px;
+            margin: 0 -12px 16px -12px;
+            transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+        }
+        /* Compact header style – works on all devices (ensures shrink on mobile) */
+        .header.compact {
+            padding: 4px 12px;
+        }
+        .header-inner {
+            max-width: 1300px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+            transition: gap 0.2s;
+        }
         .title-section { flex: 1; }
-        .chapter-title { font-size: 1.25rem; font-weight: 600; color: #2c7a4d; }
-        .source-badge { font-size: 0.7rem; background: #e8f0fe; padding: 2px 8px; border-radius: 20px; margin-left: 8px; color: #2c7a4d; }
+        .chapter-title { font-size: 1.25rem; font-weight: 600; color: #2c7a4d; transition: font-size 0.2s; }
+        .source-badge { font-size: 0.7rem; background: #e8f0fe; padding: 2px 8px; border-radius: 20px; margin-left: 8px; color: #2c7a4d; display: inline-block; }
         .subtitle { font-size: 0.8rem; color: #5a6874; margin-top: 2px; }
         .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
         .compact-stats { display: none; background: #eaf4e8; padding: 4px 10px; border-radius: 40px; font-size: 0.7rem; font-weight: 600; color: #1e5a3a; white-space: nowrap; align-items: center; gap: 5px; }
         .compact-daily { background: #eaf4e8; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; font-weight: 500; color: #1e5a3a; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
-        .stats-summary { background: #f8f9fc; border-radius: 20px; padding: 8px 12px; margin-top: 12px; margin-bottom: 12px; font-size: 0.8rem; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; border: 1px solid #e9ecef; }
-        .stats-numbers { display: flex; flex-wrap: wrap; gap: 12px; font-weight: 500; }
-        .stats-numbers span { background: white; padding: 2px 8px; border-radius: 30px; display: inline-flex; align-items: center; gap: 6px; }
+        /* New compact stats bar (full stats) */
+        .compact-stats-full {
+            display: none;
+            background: #f8f9fc;
+            border-radius: 20px;
+            padding: 4px 12px;
+            font-size: 0.7rem;
+            font-weight: 500;
+            white-space: nowrap;
+            overflow-x: auto;
+            gap: 12px;
+            align-items: center;
+        }
+        .compact-stats-full span {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            white-space: nowrap;
+        }
+        .stats-summary {
+            background: #f8f9fc;
+            border-radius: 20px;
+            padding: 8px 12px;
+            margin-top: 12px;
+            margin-bottom: 12px;
+            font-size: 0.8rem;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: 10px;
+            border: 1px solid #e9ecef;
+            transition: all 0.2s;
+        }
+        .stats-numbers {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            font-weight: 500;
+        }
+        .stats-numbers span {
+            background: white;
+            padding: 2px 8px;
+            border-radius: 30px;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
         .stat-correct { color: #2c7a4d; background: #e9f7ef; }
         .stat-incorrect { color: #d9534f; background: #fdf0ef; }
         .stat-answered { color: #2c6e9e; background: #e8f0fe; }
@@ -91,13 +159,49 @@
         .modal-btn:hover { transform: scale(1.02); filter: brightness(0.95); }
         .close-envelope { position: absolute; top: 12px; right: 16px; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; opacity: 0.7; }
         .close-envelope:hover { opacity: 1; }
-        @media (max-width: 600px) {
+        
+        /* Mobile compact header: hide normal stats-summary, show compact-stats-full */
+        @media (max-width: 768px) {
+            .header.compact .stats-summary {
+                display: none !important;
+            }
+            .header.compact .compact-stats-full {
+                display: flex !important;
+                margin-top: 6px;
+                margin-bottom: 4px;
+            }
             .quiz-toolbar { bottom: 10px; right: 10px; padding: 4px 12px; gap: 8px; }
             .timer-display { font-size: 0.8rem; padding: 2px 8px; }
             .toolbar-btn { padding: 4px 10px; font-size: 0.75rem; }
             .big-percent { font-size: 3.5rem; }
             .modal-btn { padding: 4px 10px; font-size: 0.7rem; }
             .envelope-message { font-size: 0.85rem; margin: 6px 12px 12px; }
+            .header.compact .chapter-title {
+                font-size: 0.9rem;
+            }
+            .header.compact .subtitle {
+                display: none;
+            }
+            .header.compact .source-badge {
+                display: none;
+            }
+            .header.compact .back-button {
+                padding: 4px 10px;
+                font-size: 0.7rem;
+            }
+            .header.compact .user-selector {
+                display: none !important;
+            }
+            .header.compact #compactDailyStats {
+                display: none !important;
+            }
+        }
+        @media (max-width: 600px) {
+            .compact-stats-full {
+                font-size: 0.65rem;
+                gap: 8px;
+                padding: 4px 8px;
+            }
         }
     </style>
 </head>
@@ -139,6 +243,14 @@
                     <span class="daily-message" id="dailyMessage"></span>
                 </div>
             </div>
+        </div>
+        <!-- New compact stats bar (full stats) -->
+        <div class="compact-stats-full" id="compactStatsFull">
+            <span>📋 总题数: <strong id="compactTotal">0</strong></span>
+            <span>✏️ 已答: <strong id="compactAnswered">0</strong></span>
+            <span>✅ 正确: <strong id="compactCorrect">0</strong></span>
+            <span>❌ 错误: <strong id="compactIncorrect">0</strong></span>
+            <span>⏳ 未答: <strong id="compactUnanswered">0</strong></span>
         </div>
         <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
     </div>
@@ -591,6 +703,12 @@
         document.getElementById('correctRate').innerHTML = `${Math.round(stats.rate)}%`;
         const compactSpan = document.getElementById('compactStats');
         if (compactSpan) compactSpan.innerHTML = `📊 ${Math.round(stats.rate)}%  ✅ ${stats.correct}/${stats.total}`;
+        // Update compact stats bar
+        document.getElementById('compactTotal').innerText = stats.total;
+        document.getElementById('compactAnswered').innerText = stats.answered;
+        document.getElementById('compactCorrect').innerText = stats.correct;
+        document.getElementById('compactIncorrect').innerText = stats.incorrect;
+        document.getElementById('compactUnanswered').innerText = stats.unanswered;
     }
     
     // 自动滚动到第一个未作答且未核对过答案的题目
@@ -688,7 +806,6 @@
     // ========== 触发庆祝特效（仅当 score > 65%） ==========
     function triggerCelebration(percent) {
         if (percent > 65) {
-            // Use global 'confetti' (library exposes 'confetti' function)
             confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 }, startVelocity: 15, colors: ['#FFD700', '#FF4500', '#1E90FF', '#FF69B4'] });
             confetti({ particleCount: 80, spread: 70, origin: { y: 0.6, x: 0.2 }, startVelocity: 15 });
             confetti({ particleCount: 80, spread: 70, origin: { y: 0.6, x: 0.8 }, startVelocity: 15 });
@@ -966,8 +1083,6 @@
         const message = getEncouragementMessage(percent);
         document.getElementById('envelopeMessage').innerText = message;
         document.getElementById('envelopeModal').style.display = 'flex';
-        
-        // 触发庆祝特效（仅当分数 > 65%）
         triggerCelebration(percent);
     }
     
@@ -1014,7 +1129,6 @@
     document.getElementById('resetProgressBtn').addEventListener('click', resetProgress);
     document.getElementById('clearSavedBtn').addEventListener('click', clearAllSaved);
     
-    // 新功能按钮
     document.getElementById('resultBtn').addEventListener('click', showResultCard);
     document.getElementById('showAllBtn').addEventListener('click', showAllQuestions);
     document.getElementById('reviewIncorrectBtn').addEventListener('click', filterToIncorrect);
@@ -1024,24 +1138,30 @@
         document.getElementById('envelopeModal').style.display = 'none';
     });
     
+    // 修复后的滚动紧凑头部（增强移动端兼容性）
     function initScrollCompact() {
         const headerEl = document.getElementById('stickyHeader');
         if (!headerEl) return;
         let ticking = false;
         const SCROLL_THRESHOLD = 18;
-        function scrollHandler() {
+        function checkScroll() {
+            const scrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
+            if (scrollY > SCROLL_THRESHOLD) {
+                headerEl.classList.add('compact');
+            } else {
+                headerEl.classList.remove('compact');
+            }
+            ticking = false;
+        }
+        function onScroll() {
             if (!ticking) {
-                requestAnimationFrame(() => {
-                    const scrollY = window.scrollY || window.pageYOffset;
-                    if (scrollY > SCROLL_THRESHOLD) headerEl.classList.add('compact');
-                    else headerEl.classList.remove('compact');
-                    ticking = false;
-                });
+                requestAnimationFrame(checkScroll);
                 ticking = true;
             }
         }
-        window.addEventListener('scroll', scrollHandler, { passive: true });
-        scrollHandler();
+        window.addEventListener('scroll', onScroll, { passive: true });
+        window.addEventListener('touchmove', onScroll, { passive: true });
+        checkScroll();
     }
 </script>
 
