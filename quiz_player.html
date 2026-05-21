@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
     <title>医学词汇测验 · 云端同步</title>
-    <!-- Self‑hosted canvas-confetti (place confetti.browser.min.js in the same folder) -->
+    <!-- Self‑hosted canvas-confetti -->
     <script src="confetti.browser.min.js"></script>
     <style>
         * { box-sizing: border-box; }
@@ -21,7 +21,7 @@
             margin: 0 -12px 16px -12px;
             transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
         }
-        /* Compact header style – works on all devices (ensures shrink on mobile) */
+        /* Ensure compact header also reduces padding on all devices */
         .header.compact {
             padding: 4px 12px;
         }
@@ -40,27 +40,23 @@
         .source-badge { font-size: 0.7rem; background: #e8f0fe; padding: 2px 8px; border-radius: 20px; margin-left: 8px; color: #2c7a4d; display: inline-block; }
         .subtitle { font-size: 0.8rem; color: #5a6874; margin-top: 2px; }
         .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
-        .compact-stats { display: none; background: #eaf4e8; padding: 4px 10px; border-radius: 40px; font-size: 0.7rem; font-weight: 600; color: #1e5a3a; white-space: nowrap; align-items: center; gap: 5px; }
-        .compact-daily { background: #eaf4e8; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; font-weight: 500; color: #1e5a3a; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
-        /* New compact stats bar (full stats) */
-        .compact-stats-full {
-            display: none;
-            background: #f8f9fc;
-            border-radius: 20px;
-            padding: 4px 12px;
+        .compact-stats {
+            display: none; /* Hidden by default on mobile, shown when compact */
+            background: #eaf4e8;
+            padding: 4px 10px;
+            border-radius: 40px;
             font-size: 0.7rem;
-            font-weight: 500;
+            font-weight: 600;
+            color: #1e5a3a;
             white-space: nowrap;
+            align-items: center;
+            gap: 5px;
+            letter-spacing: 0.3px;
+            box-shadow: inset 0 0 0 1px rgba(44,122,77,0.2);
             overflow-x: auto;
-            gap: 12px;
-            align-items: center;
+            max-width: 100%;
         }
-        .compact-stats-full span {
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            white-space: nowrap;
-        }
+        .compact-daily { background: #eaf4e8; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; font-weight: 500; color: #1e5a3a; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
         .stats-summary {
             background: #f8f9fc;
             border-radius: 20px;
@@ -160,15 +156,15 @@
         .close-envelope { position: absolute; top: 12px; right: 16px; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; opacity: 0.7; }
         .close-envelope:hover { opacity: 1; }
         
-        /* Mobile compact header: hide normal stats-summary, show compact-stats-full */
+        /* Mobile compact header: hide stats-summary and daily-stats, show compact-stats */
         @media (max-width: 768px) {
-            .header.compact .stats-summary {
+            .header.compact .stats-summary,
+            .header.compact .daily-stats {
                 display: none !important;
             }
-            .header.compact .compact-stats-full {
-                display: flex !important;
-                margin-top: 6px;
-                margin-bottom: 4px;
+            .header.compact .compact-stats {
+                display: inline-flex !important;
+                margin: 4px 0 2px 0;
             }
             .quiz-toolbar { bottom: 10px; right: 10px; padding: 4px 12px; gap: 8px; }
             .timer-display { font-size: 0.8rem; padding: 2px 8px; }
@@ -176,32 +172,12 @@
             .big-percent { font-size: 3.5rem; }
             .modal-btn { padding: 4px 10px; font-size: 0.7rem; }
             .envelope-message { font-size: 0.85rem; margin: 6px 12px 12px; }
-            .header.compact .chapter-title {
-                font-size: 0.9rem;
-            }
-            .header.compact .subtitle {
-                display: none;
-            }
-            .header.compact .source-badge {
-                display: none;
-            }
-            .header.compact .back-button {
-                padding: 4px 10px;
-                font-size: 0.7rem;
-            }
-            .header.compact .user-selector {
-                display: none !important;
-            }
-            .header.compact #compactDailyStats {
-                display: none !important;
-            }
-        }
-        @media (max-width: 600px) {
-            .compact-stats-full {
-                font-size: 0.65rem;
-                gap: 8px;
-                padding: 4px 8px;
-            }
+            .header.compact .chapter-title { font-size: 0.9rem; }
+            .header.compact .subtitle { display: none; }
+            .header.compact .source-badge { display: none; }
+            .header.compact .back-button { padding: 4px 10px; font-size: 0.7rem; }
+            .header.compact .user-selector { display: none !important; }
+            .header.compact #compactDailyStats { display: none !important; }
         }
     </style>
 </head>
@@ -243,14 +219,6 @@
                     <span class="daily-message" id="dailyMessage"></span>
                 </div>
             </div>
-        </div>
-        <!-- New compact stats bar (full stats) -->
-        <div class="compact-stats-full" id="compactStatsFull">
-            <span>📋 总题数: <strong id="compactTotal">0</strong></span>
-            <span>✏️ 已答: <strong id="compactAnswered">0</strong></span>
-            <span>✅ 正确: <strong id="compactCorrect">0</strong></span>
-            <span>❌ 错误: <strong id="compactIncorrect">0</strong></span>
-            <span>⏳ 未答: <strong id="compactUnanswered">0</strong></span>
         </div>
         <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
     </div>
@@ -701,14 +669,11 @@
         document.getElementById('incorrectCount').innerText = stats.incorrect;
         document.getElementById('unansweredCount').innerText = stats.unanswered;
         document.getElementById('correctRate').innerHTML = `${Math.round(stats.rate)}%`;
-        const compactSpan = document.getElementById('compactStats');
-        if (compactSpan) compactSpan.innerHTML = `📊 ${Math.round(stats.rate)}%  ✅ ${stats.correct}/${stats.total}`;
-        // Update compact stats bar
-        document.getElementById('compactTotal').innerText = stats.total;
-        document.getElementById('compactAnswered').innerText = stats.answered;
-        document.getElementById('compactCorrect').innerText = stats.correct;
-        document.getElementById('compactIncorrect').innerText = stats.incorrect;
-        document.getElementById('compactUnanswered').innerText = stats.unanswered;
+        // Update the compact stats element (used on mobile when scrolling)
+        const compactStatsDiv = document.getElementById('compactStats');
+        if (compactStatsDiv) {
+            compactStatsDiv.innerHTML = `📋 ${stats.total}  ✏️ ${stats.answered}  ✅ ${stats.correct}  ❌ ${stats.incorrect}  ⏳ ${stats.unanswered}`;
+        }
     }
     
     // 自动滚动到第一个未作答且未核对过答案的题目
