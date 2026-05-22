@@ -7,6 +7,7 @@
     <!-- Self‑hosted canvas-confetti -->
     <script src="confetti.browser.min.js"></script>
     <style>
+        /* ========== 所有原有样式，仅修改 envelope-card 背景色 ========== */
         * { box-sizing: border-box; }
         body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
         .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
@@ -21,7 +22,6 @@
             margin: 0 -12px 16px -12px;
             transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
         }
-        /* Ensure compact header also reduces padding on all devices */
         .header.compact {
             padding: 4px 12px;
         }
@@ -41,7 +41,7 @@
         .subtitle { font-size: 0.8rem; color: #5a6874; margin-top: 2px; }
         .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
         .compact-stats {
-            display: none; /* Hidden by default on mobile, shown when compact */
+            display: none;
             background: #eaf4e8;
             padding: 4px 10px;
             border-radius: 40px;
@@ -137,18 +137,19 @@
         footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #8c9aa8; padding-bottom: 20px; }
         .quiz-toolbar { position: fixed; bottom: 20px; right: 20px; display: flex; gap: 12px; align-items: center; background: rgba(0,0,0,0.65); backdrop-filter: blur(8px); padding: 8px 18px; border-radius: 40px; z-index: 150; box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
         .timer-display { color: white; font-family: monospace; font-size: 1rem; font-weight: 600; letter-spacing: 1px; background: #2c3e4e; padding: 4px 12px; border-radius: 30px; }
-        .toolbar-btn { background: #D32F2F; border: none; color: white; padding: 6px 14px; border-radius: 30px; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: 0.2s; }
+        .toolbar-btn { background: #2c7a4d; border: none; color: white; padding: 6px 14px; border-radius: 30px; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: 0.2s; }
         .toolbar-btn.show-all { background: #2c7a4d; }
         .toolbar-btn:hover { transform: scale(1.02); filter: brightness(1.05); }
         .envelope-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 1000; justify-content: center; align-items: center; }
-        .envelope-card { background: #D32F2F; width: 300px; max-width: 85vw; border-radius: 24px; text-align: center; padding: 30px 20px 40px; box-shadow: 0 20px 30px rgba(0,0,0,0.3); position: relative; animation: envelopeAppear 0.4s ease-out; }
+        /* 修改背景色为 #2c7a4d (Saunders green) */
+        .envelope-card { background: #2c7a4d; width: 300px; max-width: 85vw; border-radius: 24px; text-align: center; padding: 30px 20px 40px; box-shadow: 0 20px 30px rgba(0,0,0,0.3); position: relative; animation: envelopeAppear 0.4s ease-out; }
         @keyframes envelopeAppear { 0% { transform: scale(0.7) rotate(-5deg); opacity: 0; } 100% { transform: scale(1) rotate(0); opacity: 1; } }
         .big-percent { font-size: 5rem; font-weight: 800; color: white; margin: 20px 0 10px; line-height: 1; animation: fadeInNumber 0.6s ease-in-out 0.2s both; }
         .percent-sign { font-size: 2rem; color: #FFD700; margin-left: 8px; font-weight: 600; display: inline-block; }
         @keyframes fadeInNumber { 0% { opacity: 0; transform: translateY(20px); } 100% { opacity: 1; transform: translateY(0); } }
         .envelope-message { color: #FFD700; font-size: 1rem; margin: 8px 16px 16px 16px; font-weight: 500; line-height: 1.4; min-height: 60px; white-space: pre-line; }
         .modal-button-group { display: flex; justify-content: center; gap: 12px; margin-top: 30px; flex-wrap: wrap; }
-        .modal-btn { background: white; border: none; padding: 6px 14px; border-radius: 40px; font-size: 0.8rem; font-weight: 500; cursor: pointer; transition: 0.2s; color: #D32F2F; }
+        .modal-btn { background: white; border: none; padding: 6px 14px; border-radius: 40px; font-size: 0.8rem; font-weight: 500; cursor: pointer; transition: 0.2s; color: #2c7a4d; }
         .modal-btn.review-incorrect { background: #ffeb3b; color: #b71c1c; }
         .modal-btn.practice-again { background: #e0f2fe; color: #0c4a6e; }
         .modal-btn.back-to-list { background: #f3e8ff; color: #6b21a5; }
@@ -669,14 +670,12 @@
         document.getElementById('incorrectCount').innerText = stats.incorrect;
         document.getElementById('unansweredCount').innerText = stats.unanswered;
         document.getElementById('correctRate').innerHTML = `${Math.round(stats.rate)}%`;
-        // Update the compact stats element (used on mobile when scrolling)
         const compactStatsDiv = document.getElementById('compactStats');
         if (compactStatsDiv) {
             compactStatsDiv.innerHTML = `📋 ${stats.total}  ✏️ ${stats.answered}  ✅ ${stats.correct}  ❌ ${stats.incorrect}  ⏳ ${stats.unanswered}`;
         }
     }
     
-    // 自动滚动到第一个未作答且未核对过答案的题目
     function scrollToFirstUnanswered() {
         if (!currentQuestions.length) return;
         let targetIndex = -1;
@@ -704,7 +703,6 @@
         setTimeout(() => targetCard.classList.remove('flash-question'), 2500);
     }
     
-    // 显示全部题目（重置筛选）
     function showAllQuestions() {
         if (!fullQuestions.length) return;
         currentQuestions = [...fullQuestions];
@@ -713,7 +711,6 @@
         showToast('📋 已显示全部题目', 1500);
     }
     
-    // 复习错题：任何已答且错误的题目（不论是否核对过）
     function filterToIncorrect() {
         if (!fullQuestions.length) return;
         const incorrectIndices = [];
@@ -743,7 +740,6 @@
         showToast(`🔍 已筛选 ${incorrectIndices.length} 道错题`, 2000);
     }
     
-    // 再练一次：重置进度
     function practiceAgain() {
         if (!fullQuestions.length) return;
         resetProgress();
@@ -751,7 +747,6 @@
         showToast('🔄 已重置，开始新的练习', 1500);
     }
     
-    // ========== 动态消息：精确分数区间 ==========
     function getEncouragementMessage(percent) {
         if (percent < 30) {
             return "💪 别气馁！\n千里之行，始于足下。\n再练一次，定能进步！";
@@ -768,7 +763,6 @@
         }
     }
     
-    // ========== 触发庆祝特效（仅当 score > 65%） ==========
     function triggerCelebration(percent) {
         if (percent > 65) {
             confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 }, startVelocity: 15, colors: ['#FFD700', '#FF4500', '#1E90FF', '#FF69B4'] });
@@ -1025,7 +1019,6 @@
         showToast('🔄 答题进度已重置，但收藏列表保留');
     }
     
-    // ========== 计时器 ==========
     let timerSeconds = 0;
     let timerInterval = null;
     function startTimer() {
@@ -1039,7 +1032,6 @@
         }, 1000);
     }
     
-    // 答题报告（显示红包卡片 + 庆祝特效）
     function showResultCard() {
         const stats = computeFullStatistics();
         const percent = stats.total === 0 ? 0 : (stats.correct / stats.total) * 100;
@@ -1051,7 +1043,6 @@
         triggerCelebration(percent);
     }
     
-    // 页面加载主逻辑
     const urlParams = new URLSearchParams(window.location.search);
     const fileParam = urlParams.get('file');
     if (!fileParam) {
@@ -1103,30 +1094,45 @@
         document.getElementById('envelopeModal').style.display = 'none';
     });
     
-    // 修复后的滚动紧凑头部（增强移动端兼容性）
     function initScrollCompact() {
         const headerEl = document.getElementById('stickyHeader');
         if (!headerEl) return;
         let ticking = false;
+        let timeoutId = null;
         const SCROLL_THRESHOLD = 18;
-        function checkScroll() {
+        
+        function applyCompactState() {
             const scrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
-            if (scrollY > SCROLL_THRESHOLD) {
-                headerEl.classList.add('compact');
-            } else {
-                headerEl.classList.remove('compact');
+            const shouldBeCompact = scrollY > SCROLL_THRESHOLD;
+            const isCompact = headerEl.classList.contains('compact');
+            if (shouldBeCompact !== isCompact) {
+                if (shouldBeCompact) {
+                    headerEl.classList.add('compact');
+                } else {
+                    headerEl.classList.remove('compact');
+                }
             }
             ticking = false;
         }
+        
         function onScroll() {
             if (!ticking) {
-                requestAnimationFrame(checkScroll);
+                requestAnimationFrame(applyCompactState);
                 ticking = true;
             }
+            if (timeoutId) clearTimeout(timeoutId);
+            timeoutId = setTimeout(() => {
+                applyCompactState();
+            }, 100);
         }
+        
+        function onResize() {
+            applyCompactState();
+        }
+        
         window.addEventListener('scroll', onScroll, { passive: true });
-        window.addEventListener('touchmove', onScroll, { passive: true });
-        checkScroll();
+        window.addEventListener('resize', onResize);
+        applyCompactState();
     }
 </script>
 
@@ -1160,7 +1166,6 @@
         });
     })();
 
-    // Debounced upload after quiz answers change
     const origSyncFullFromCurrent = syncFullFromCurrent;
     syncFullFromCurrent = function() {
         origSyncFullFromCurrent();
@@ -1170,7 +1175,6 @@
         }, 2000);
     };
 
-    // Sync after filters applied (quiz initially loaded)
     const origApplyFilters = applyFilters;
     applyFilters = function() {
         origApplyFilters();
