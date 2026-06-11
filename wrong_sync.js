@@ -1,5 +1,4 @@
-// wrong_sync.js – cross‑device wrong question sync with compression & tombstone merge
-// Now uses same folder structure as sync.js: wq_sync/user<id>/state.json
+// wrong_sync.js – cross‑device wrong question sync (mirrors sync.js pattern)
 const WQ_BUCKET_API = 'https://quiz-app-bucket-1428146716.cos.ap-hongkong.myqcloud.com';
 const WQ_FOLDER = 'wq_sync';
 const WQ_LOCAL_KEY = 'wrong_questions';
@@ -37,7 +36,7 @@ function decompressData(compressed) {
     }
 }
 
-// ---------- localStorage read/write with compression detection ----------
+// ---------- localStorage read/write with compression ----------
 function getWrongLocal() {
     const raw = localStorage.getItem(WQ_LOCAL_KEY);
     if (!raw) return [];
@@ -79,7 +78,7 @@ function setWrongLocal(arr) {
     }
 }
 
-// ---------- Data migration: add timestamp + deleted flag ----------
+// ---------- Data migration: add timestamp + deleted ----------
 function migrateWrongList(arr) {
     if (!Array.isArray(arr)) return [];
     return arr.map(item => {
@@ -95,7 +94,7 @@ function migrateWrongList(arr) {
     });
 }
 
-// ---------- Merge: keep entry with newest timestamp, honor deleted flag ----------
+// ---------- Merge (same as before) ----------
 function mergeWrongLists(localArr, cloudArr) {
     const map = new Map();
     function addEntry(entry) {
@@ -114,42 +113,31 @@ function mergeWrongLists(localArr, cloudArr) {
     return result;
 }
 
-// ---------- Cloud sync with optimistic locking ----------
-async function uploadWrongWithLock(url, data, currentETag) {
+// ---------- Upload with lock (exactly as sync.js) ----------
+async function uploadWithLock(url, data, currentETag) {
     const headers = { 'Content-Type': 'application/json' };
     if (currentETag) headers['If-Match'] = currentETag;
-    let resp;
-    try {
-        resp = await fetch(url, { method: 'PUT', body: JSON.stringify(data), headers });
-    } catch (e) {
-        console.warn('[wrong_sync] upload network error', e);
-        return null;
-    }
+    const resp = await fetch(url, { method: 'PUT', body: JSON.stringify(data), headers });
     if (resp.status === 412) {
-        try {
-            const refetch = await fetch(url, { cache: 'no-store' });
-            if (!refetch.ok) return null;
+        const refetch = await fetch(url, { cache: 'no-store' });
+        if (refetch.ok) {
             const remote = await refetch.json();
             const newETag = refetch.headers.get('ETag');
             const local = getWrongLocal();
             const merged = mergeWrongLists(local, remote);
             setWrongLocal(merged);
-            return await uploadWrongWithLock(url, merged, newETag);
-        } catch (e) {
-            console.warn('[wrong_sync] conflict resolution failed', e);
-            return null;
+            return await uploadWithLock(url, merged, newETag);
         }
     }
     return resp;
 }
 
-// ---------- Main sync function (UPDATED path to match sync.js pattern) ----------
+// ---------- Main sync function (identical pattern to sync.js) ----------
 async function syncWrongQuestions() {
     const userId = localStorage.getItem('quiz_user_id');
     if (!userId || (userId !== '1' && userId !== '2')) return;
 
     const localArr = getWrongLocal();
-    // *** CHANGE: now uses subfolder + state.json like sync.js ***
     const cloudKey = `${WQ_FOLDER}/user${userId}/state.json`;
     const cloudUrl = `${WQ_BUCKET_API}/${cloudKey}`;
 
@@ -159,25 +147,20 @@ async function syncWrongQuestions() {
         if (resp.ok) {
             cloudArr = await resp.json();
             etag = resp.headers.get('ETag');
-            if (Array.isArray(cloudArr)) {
-                cloudArr = migrateWrongList(cloudArr);
-            } else {
-                cloudArr = [];
-            }
+            if (Array.isArray(cloudArr)) cloudArr = migrateWrongList(cloudArr);
         }
     } catch (e) {
-        console.warn('[wrong_sync] fetch failed – keeping local', e);
+        // network error – skip sync
         return;
     }
 
-    try {
-        const merged = mergeWrongLists(localArr, cloudArr || []);
+    if (cloudArr !== null) {
+        const merged = mergeWrongLists(localArr, cloudArr);
         setWrongLocal(merged);
-        if (etag !== null || cloudArr !== null) {
-            await uploadWrongWithLock(cloudUrl, merged, etag);
-        }
-    } catch (e) {
-        console.warn('[wrong_sync] merge/upload failed', e);
+        await uploadWithLock(cloudUrl, merged, etag);
+    } else {
+        // No cloud file yet – upload local with null ETag (creates file)
+        await uploadWithLock(cloudUrl, localArr, null);
     }
 }
 
