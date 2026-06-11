@@ -130,6 +130,17 @@
         .your-answer-correct { color: #2c7a4d; font-weight: 500; }
         .analysis { margin-top: 12px; color: #5a6874; background: #fff6e0; padding: 12px 16px; border-radius: 12px; white-space: pre-wrap; font-size: 0.85rem; }
         .btn-check { background-color: #2c7a4d; color: white; border: none; padding: 8px 20px; border-radius: 30px; font-size: 0.85rem; cursor: pointer; margin-top: 8px; }
+        .btn-wrong-add {
+            background: #ff9800;
+            color: white;
+            border: none;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            margin-top: 8px;
+        }
+        .btn-wrong-add:hover { background: #e68900; }
         .status { display: inline-block; margin-left: 16px; font-size: 0.75rem; padding: 2px 10px; border-radius: 30px; background: #f0f2f5; }
         .status.answered { background: #e3f7ec; color: #2c7a4d; }
         .type3-input { width: 100%; padding: 10px 12px; font-size: 1rem; border: 1px solid #ccc; border-radius: 12px; margin-top: 4px; background: white; }
@@ -141,7 +152,6 @@
         .toolbar-btn.show-all { background: #2c7a4d; }
         .toolbar-btn:hover { transform: scale(1.02); filter: brightness(1.05); }
         .envelope-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 1000; justify-content: center; align-items: center; }
-        /* 修改背景色为 #2c7a4d (Saunders green) */
         .envelope-card { background: #2c7a4d; width: 300px; max-width: 85vw; border-radius: 24px; text-align: center; padding: 30px 20px 40px; box-shadow: 0 20px 30px rgba(0,0,0,0.3); position: relative; animation: envelopeAppear 0.4s ease-out; }
         @keyframes envelopeAppear { 0% { transform: scale(0.7) rotate(-5deg); opacity: 0; } 100% { transform: scale(1) rotate(0); opacity: 1; } }
         .big-percent { font-size: 5rem; font-weight: 800; color: white; margin: 20px 0 10px; line-height: 1; animation: fadeInNumber 0.6s ease-in-out 0.2s both; }
@@ -156,6 +166,58 @@
         .modal-btn:hover { transform: scale(1.02); filter: brightness(0.95); }
         .close-envelope { position: absolute; top: 12px; right: 16px; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; opacity: 0.7; }
         .close-envelope:hover { opacity: 1; }
+        
+        /* Floating Wrong-Question Button (FAB) */
+        .fab-wrong {
+            position: fixed;
+            bottom: max(20px, env(safe-area-inset-bottom));
+            right: max(20px, env(safe-area-inset-right));
+            width: clamp(56px, 12vw, 72px);
+            height: clamp(56px, 12vw, 72px);
+            border-radius: 50%;
+            background: #2c7a4d;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+            transition: all 0.2s ease;
+            z-index: 1000;
+            border: none;
+            font-size: clamp(24px, 5vw, 32px);
+        }
+        .fab-wrong:active {
+            transform: scale(0.96);
+        }
+        .fab-badge {
+            position: absolute;
+            top: -4px;
+            right: -4px;
+            background: #e53935;
+            color: white;
+            border-radius: 30px;
+            padding: 2px 6px;
+            font-size: 12px;
+            font-weight: bold;
+            min-width: 24px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        @media (orientation: landscape) and (max-height: 500px) {
+            .fab-wrong {
+                width: 48px;
+                height: 48px;
+                font-size: 24px;
+                bottom: 12px;
+                right: 12px;
+            }
+            .fab-badge {
+                font-size: 10px;
+                padding: 1px 5px;
+                min-width: 20px;
+            }
+        }
         
         /* Mobile compact header: hide stats-summary and daily-stats, show compact-stats */
         @media (max-width: 768px) {
@@ -277,6 +339,12 @@
             <button class="modal-btn back-to-list" id="modalBackToListBtn">返回章节列表</button>
         </div>
     </div>
+</div>
+
+<!-- Floating Wrong-Question Button -->
+<div id="wrongFab" class="fab-wrong">
+    📝
+    <span id="wrongBadge" class="fab-badge">0</span>
 </div>
 
 <script>
@@ -775,6 +843,30 @@
         }
     }
     
+    // NEW: Add wrong question function (enhanced to update badge)
+    function addWrongQuestion(filePath, questionIndex) {
+        if (typeof getWrongLocal === 'undefined') {
+            showToast('错题功能未加载', 1500);
+            return;
+        }
+        const arr = getWrongLocal();
+        const exists = arr.some(item => item.filePath === filePath && item.questionIndex === questionIndex);
+        if (exists) {
+            showToast('已在错题本中', 1000);
+            return;
+        }
+        arr.push({ filePath, questionIndex, timestamp: Date.now(), deleted: false });
+        setWrongLocal(arr);
+        if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
+        showToast('已加入错题本', 1000);
+        // Update the floating badge
+        if (typeof updateWrongCount === 'function') updateWrongCount();
+        else {
+            const badge = document.getElementById('wrongBadge');
+            if (badge) badge.textContent = getWrongLocal().length;
+        }
+    }
+    
     function renderQuiz() {
         const container = document.getElementById('quizContainer');
         if (!currentQuestions.length) {
@@ -861,6 +953,8 @@
                                 <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
                                 <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
                                 <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
+                                <!-- NEW: button to save to wrong question list -->
+                                <button class="btn-wrong-add" data-qidx="${idx}">➕ 加入错题本</button>
                             </div>`;
                 }
             }
@@ -873,6 +967,16 @@
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 if (qid) toggleSavedQuestion(qid);
+            });
+        });
+        
+        // attach listeners for wrong-add buttons
+        document.querySelectorAll('.btn-wrong-add').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const qidx = parseInt(btn.getAttribute('data-qidx'));
+                const q = currentQuestions[qidx];
+                const idxInFull = fullQuestions.indexOf(q);
+                addWrongQuestion(currentFilePath, idxInFull);
             });
         });
         
@@ -1136,7 +1240,10 @@
     }
 </script>
 
+<script src="pako.min.js"></script>
 <script src="sync.js"></script>
+<!-- NEW: wrong question sync -->
+<script src="wrong_sync.js"></script>
 <script>
     // ---------- Lockable User Selector ----------
     (function() {
@@ -1163,6 +1270,7 @@
             userSelect.style.opacity = '0.7';
             userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
             if (typeof syncNow === 'function') syncNow();
+            if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
         });
     })();
 
@@ -1180,8 +1288,43 @@
         origApplyFilters();
         if (localStorage.getItem('quiz_user_id')) {
             setTimeout(() => syncNow(), 1000);
+            if (typeof syncWrongQuestions === 'function') setTimeout(() => syncWrongQuestions(), 1000);
         }
     };
+    
+    // Wrong Question FAB Badge Update
+    function updateWrongCount() {
+        const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
+        const badge = document.getElementById('wrongBadge');
+        if (badge) badge.textContent = count;
+    }
+    updateWrongCount();
+    document.addEventListener('visibilitychange', function() {
+        if (!document.hidden) updateWrongCount();
+    });
+    window.addEventListener('storage', function(e) {
+        if (e.key === 'wrong_questions') updateWrongCount();
+    });
+    const fab = document.getElementById('wrongFab');
+    if (fab) {
+        fab.addEventListener('click', function() {
+            window.location.href = 'wrong_practice.html';
+        });
+    }
+    
+    // Sync wrong questions on page activation
+    function onPageActivated() {
+        if (localStorage.getItem('quiz_user_id')) {
+            if (typeof syncNow === 'function') syncNow();
+            if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
+        }
+    }
+    document.addEventListener('visibilitychange', () => {
+        if (!document.hidden) onPageActivated();
+    });
+    window.addEventListener('pageshow', function(event) {
+        if (event.persisted) onPageActivated();
+    });
 </script>
 </body>
 </html>

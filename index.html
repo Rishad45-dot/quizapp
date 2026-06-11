@@ -142,6 +142,58 @@
             margin-left: 8px;
         }
         
+        /* Floating Wrong-Question Button (FAB) */
+        .fab-wrong {
+            position: fixed;
+            bottom: max(20px, env(safe-area-inset-bottom));
+            right: max(20px, env(safe-area-inset-right));
+            width: clamp(56px, 12vw, 72px);
+            height: clamp(56px, 12vw, 72px);
+            border-radius: 50%;
+            background: #2c7a4d;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+            transition: all 0.2s ease;
+            z-index: 1000;
+            border: none;
+            font-size: clamp(24px, 5vw, 32px);
+        }
+        .fab-wrong:active {
+            transform: scale(0.96);
+        }
+        .fab-badge {
+            position: absolute;
+            top: -4px;
+            right: -4px;
+            background: #e53935;
+            color: white;
+            border-radius: 30px;
+            padding: 2px 6px;
+            font-size: 12px;
+            font-weight: bold;
+            min-width: 24px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        @media (orientation: landscape) and (max-height: 500px) {
+            .fab-wrong {
+                width: 48px;
+                height: 48px;
+                font-size: 24px;
+                bottom: 12px;
+                right: 12px;
+            }
+            .fab-badge {
+                font-size: 10px;
+                padding: 1px 5px;
+                min-width: 20px;
+            }
+        }
+        
         @media (max-width: 700px) {
             .chapter-header {
                 flex-direction: column;
@@ -182,9 +234,16 @@
                 <option value="2">App Dev</option>
             </select>
         </div>
+        <!-- The old wrong-link anchor has been removed and replaced by floating FAB -->
         <span class="sync-indicator" id="syncIndicator" style="display:none;">☁️ 同步中...</span>
     </div>
     <div id="chapterTree">加载中...</div>
+</div>
+
+<!-- Floating Wrong-Question Button -->
+<div id="wrongFab" class="fab-wrong">
+    📝
+    <span id="wrongBadge" class="fab-badge">0</span>
 </div>
 
 <script>
@@ -223,18 +282,13 @@
 
     // ========== 修复后的 toRelativePath：精确匹配路径段 ==========
     function toRelativePath(absolutePath) {
-        // 已知的根目录名称（按长度降序排列，优先匹配更长的名称，避免子串误匹配）
         const knownFolders = ["ChapterPractice", "Saunders", "Uworld", "医学术语", "患者需求"];
-        // 统一使用 '/' 分割路径
         const parts = absolutePath.split(/[\\/]/);
-        // 查找第一个精确匹配的已知文件夹（必须是完整路径段）
         for (let i = 0; i < parts.length; i++) {
             if (knownFolders.includes(parts[i])) {
-                // 从该文件夹开始重新拼接，保留完整目录结构
                 return parts.slice(i).join('/');
             }
         }
-        // 如果没有匹配任何已知文件夹，返回文件名（兜底）
         return parts[parts.length - 1];
     }
 
@@ -375,7 +429,6 @@
             }
         }
         if (!targetNode) return;
-        // Open ancestors
         let current = targetNode.parentElement;
         while (current) {
             if (current.classList && current.classList.contains('children')) {
@@ -388,7 +441,6 @@
             }
             current = current.parentElement;
         }
-        // Flash and scroll
         targetNode.classList.add('flash-target');
         setTimeout(() => targetNode.classList.remove('flash-target'), 2000);
         requestAnimationFrame(() => {
@@ -413,7 +465,9 @@
         });
 </script>
 
+<script src="pako.min.js"></script>
 <script src="sync.js"></script>
+<script src="wrong_sync.js"></script>
 <script>
     // ---------- Lockable User Selector ----------
     (function() {
@@ -443,6 +497,7 @@
                 setSyncStatus('☁️ 同步中...');
                 syncNow().finally(() => setSyncStatus(''));
             }
+            if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
         });
     })();
 
@@ -453,6 +508,7 @@
         if (localStorage.getItem('quiz_user_id')) {
             setSyncStatus('☁️ 同步中...');
             syncNow().finally(() => setSyncStatus(''));
+            if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
         }
     };
 
@@ -463,6 +519,7 @@
         if (localStorage.getItem('quiz_user_id')) {
             setSyncStatus('☁️ 同步中...');
             syncNow().finally(() => setSyncStatus(''));
+            if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
         }
     }
     document.addEventListener('visibilitychange', () => {
@@ -471,6 +528,30 @@
     window.addEventListener('pageshow', function(event) {
         if (event.persisted) onPageActivated();
     });
+    
+    // ---------- Wrong Question FAB Badge Update ----------
+    function updateWrongCount() {
+        const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
+        const badge = document.getElementById('wrongBadge');
+        if (badge) badge.textContent = count;
+    }
+    // Initial load
+    updateWrongCount();
+    // Update when returning to page (e.g., from wrong_practice.html)
+    document.addEventListener('visibilitychange', function() {
+        if (!document.hidden) updateWrongCount();
+    });
+    // Update when another tab changes wrong_questions
+    window.addEventListener('storage', function(e) {
+        if (e.key === 'wrong_questions') updateWrongCount();
+    });
+    // Click handler for FAB
+    const fab = document.getElementById('wrongFab');
+    if (fab) {
+        fab.addEventListener('click', function() {
+            window.location.href = 'wrong_practice.html';
+        });
+    }
 </script>
 </body>
 </html>

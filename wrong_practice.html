@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>错题练习 – Wrong Question Practice</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
+        .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
+        .header { position: sticky; top: 0; z-index: 100; background: white; border-radius: 0 0 12px 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); padding: 12px 16px; margin: 0 -12px 16px -12px; }
+        .header-inner { max-width: 1300px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+        .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
+        .stats-summary { background: #f8f9fc; border-radius: 20px; padding: 8px 12px; margin-top: 12px; margin-bottom: 12px; font-size: 0.8rem; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; border: 1px solid #e9ecef; }
+        .stats-numbers { display: flex; flex-wrap: wrap; gap: 12px; font-weight: 500; }
+        .stats-numbers span { background: white; padding: 2px 8px; border-radius: 30px; display: inline-flex; align-items: center; gap: 6px; }
+        .stat-correct { color: #2c7a4d; background: #e9f7ef; }
+        .stat-incorrect { color: #d9534f; background: #fdf0ef; }
+        .stat-answered { color: #2c6e9e; background: #e8f0fe; }
+        .stat-unanswered { color: #8c9aa8; background: #f0f2f5; }
+        .stat-rate { font-weight: 700; color: #2c7a4d; background: #eaf9e8; }
+        .settings-row { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; margin-bottom: 12px; }
+        select, .settings-row input { padding: 8px 12px; border-radius: 30px; border: 1px solid #ddd; background: white; font-size: 0.85rem; }
+        .btn-small { background: #2c7a4d; color: white; border: none; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
+        .btn-small-outline { background: transparent; border: 1px solid #2c7a4d; color: #2c7a4d; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
+        .question-grid { display: flex; flex-direction: column; gap: 20px; }
+        .card { background: white; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow: hidden; }
+        .question-header { padding: 16px 20px 12px 20px; border-bottom: 1px solid #e9eef3; display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px 12px; }
+        .tag { background: #ecf5ff; color: #409eff; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; font-weight: 500; }
+        .difficulty-badge { background: #f0f2f5; color: #8c9aa8; padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; }
+        .question-number { background: #e8f0fe; color: #2c7a4d; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; font-weight: 600; }
+        .question-title { font-size: 1rem; font-weight: 500; line-height: 1.4; margin: 0; flex: 1; min-width: 200px; }
+        .options { padding: 16px 20px; display: flex; flex-direction: column; gap: 12px; }
+        .option { display: flex; align-items: flex-start; gap: 12px; cursor: pointer; font-size: 0.95rem; padding: 8px 12px; border-radius: 10px; }
+        .option:hover { background-color: #f5f7fa; }
+        .option input { margin-top: 2px; flex-shrink: 0; transform: scale(1.1); }
+        .option label { flex: 1; cursor: pointer; color: #2c3e4e; }
+        .option .prefix { font-weight: 600; color: #409eff; width: 28px; flex-shrink: 0; }
+        .feedback { background: #f9fafc; border-top: 1px solid #e9eef3; padding: 16px 20px; font-size: 0.9rem; }
+        .correct-answer { color: #2c7a4d; font-weight: 500; }
+        .your-answer-incorrect { color: #d9534f; }
+        .your-answer-correct { color: #2c7a4d; font-weight: 500; }
+        .analysis { margin-top: 12px; color: #5a6874; background: #fff6e0; padding: 12px 16px; border-radius: 12px; white-space: pre-wrap; font-size: 0.85rem; }
+        .btn-check { background-color: #2c7a4d; color: white; border: none; padding: 8px 20px; border-radius: 30px; font-size: 0.85rem; cursor: pointer; margin-top: 8px; }
+        .btn-remove { background: #d9534f; color: white; border: none; padding: 6px 16px; border-radius: 20px; font-size: 0.8rem; cursor: pointer; margin-top: 8px; }
+        .btn-remove:hover { background: #c9302c; }
+        .loading-spinner { text-align: center; padding: 60px; font-size: 1.2rem; color: #888; }
+        footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #8c9aa8; padding-bottom: 20px; }
+        .toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); background: #2c7a4d; color: white; padding: 10px 24px; border-radius: 30px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.2s; white-space: nowrap; }
+        .toast.show { opacity: 1; }
+        
+        /* Floating Wrong-Question Button (FAB) - same as index/quiz */
+        .fab-wrong {
+            position: fixed;
+            bottom: max(20px, env(safe-area-inset-bottom));
+            right: max(20px, env(safe-area-inset-right));
+            width: clamp(56px, 12vw, 72px);
+            height: clamp(56px, 12vw, 72px);
+            border-radius: 50%;
+            background: #2c7a4d;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+            transition: all 0.2s ease;
+            z-index: 1000;
+            border: none;
+            font-size: clamp(24px, 5vw, 32px);
+        }
+        .fab-wrong:active {
+            transform: scale(0.96);
+        }
+        .fab-badge {
+            position: absolute;
+            top: -4px;
+            right: -4px;
+            background: #e53935;
+            color: white;
+            border-radius: 30px;
+            padding: 2px 6px;
+            font-size: 12px;
+            font-weight: bold;
+            min-width: 24px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        @media (orientation: landscape) and (max-height: 500px) {
+            .fab-wrong {
+                width: 48px;
+                height: 48px;
+                font-size: 24px;
+                bottom: 12px;
+                right: 12px;
+            }
+            .fab-badge {
+                font-size: 10px;
+                padding: 1px 5px;
+                min-width: 20px;
+            }
+        }
+        
+        @media (max-width: 700px) {
+            .stats-numbers { gap: 8px; }
+            .stats-numbers span { font-size: 0.75rem; }
+            .settings-row { flex-direction: column; align-items: stretch; }
+            .btn-small, .btn-small-outline { width: 100%; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="header-inner">
+            <h2 style="margin:0; font-size:1.25rem; color:#2c7a4d;">📝 错题练习</h2>
+            <a href="index.html" class="back-button">← 返回章节列表</a>
+            <div class="user-selector" style="display:flex; align-items:center; gap:6px;">
+                <label for="userSelect" style="font-size:0.8rem; color:#5a6874; white-space:nowrap;">👤 用户:</label>
+                <select id="userSelect" style="border-radius:20px; padding:4px 12px; border:1px solid #ddd;">
+                    <option value="">-- 选择 --</option>
+                    <option value="1">快乐女孩</option>
+                    <option value="2">App Dev</option>
+                </select>
+            </div>
+        </div>
+        <div class="stats-summary" id="statsSummary">
+            <div class="stats-numbers">
+                <span>📋 总题数: <strong id="totalCount">0</strong></span>
+                <span class="stat-answered">✏️ 已答: <strong id="answeredCount">0</strong></span>
+                <span class="stat-correct">✅ 正确: <strong id="correctCount">0</strong></span>
+                <span class="stat-incorrect">❌ 错误: <strong id="incorrectCount">0</strong></span>
+                <span class="stat-unanswered">⏳ 未答: <strong id="unansweredCount">0</strong></span>
+            </div>
+            <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
+        </div>
+        <div class="settings-row">
+            <label for="chapterFilter" style="font-size:0.8rem;">📂 筛选章节:</label>
+            <select id="chapterFilter"><option value="all">全部</option></select>
+            <label style="display:flex; align-items:center; gap:6px;">
+                <input type="checkbox" id="randomizeCheck"> 随机顺序
+            </label>
+            <button class="btn-small" id="applyBtn">应用</button>
+            <button class="btn-small-outline" id="clearAllWrongBtn">🗑️ 清空全部错题</button>
+        </div>
+    </div>
+    <div id="quizContainer">
+        <div class="loading-spinner">⏳ 正在加载错题数据...</div>
+    </div>
+    <footer>🗑️ 每道题下方可手动移除错题。正确率仅统计已核对答案的题目。</footer>
+</div>
+
+<!-- Floating Wrong-Question Button (also here, but leads to same page - could be removed, but kept for consistency) -->
+<div id="wrongFab" class="fab-wrong">
+    📝
+    <span id="wrongBadge" class="fab-badge">0</span>
+</div>
+
+<div id="toastMessage" class="toast"></div>
+
+<script src="pako.min.js"></script>
+<script src="wrong_sync.js"></script>
+<script>
+    // ==================== Global state ====================
+    let allQuestions = [];          // { ...question, _sourceFile, _questionIndex }
+    let currentQuestions = [];
+    let userAnswers = [];
+    let answerStatus = [];
+
+    const toast = document.getElementById('toastMessage');
+    function showToast(msg) {
+        toast.textContent = msg;
+        toast.classList.add('show');
+        toast.style.opacity = '1';
+        setTimeout(() => {
+            toast.classList.remove('show');
+            toast.style.opacity = '0';
+        }, 2000);
+    }
+
+    function unescapeHtml(html) {
+        if (!html) return '';
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        return div.textContent || div.innerText || '';
+    }
+
+    function getDifficultyLabel(d) {
+        if (!d) return "通用";
+        if (d.includes("Analyzing")) return "分析";
+        if (d.includes("Applying")) return "应用";
+        if (d.includes("Understanding")) return "理解";
+        if (d.includes("Evaluating")) return "评价";
+        if (d.includes("中级")) return "中级";
+        return d.split('-').pop() || d;
+    }
+
+    // ==================== Data loading ====================
+    async function loadAllData() {
+        // Sync before loading to ensure latest wrong list
+        if (typeof syncWrongQuestions === 'function') {
+            try { await syncWrongQuestions(); } catch(e) { console.warn(e); }
+        }
+        const refs = getWrongLocal(); // returns active entries with timestamp/deleted=false
+
+        const fileMap = new Map();
+        for (const ref of refs) {
+            if (!fileMap.has(ref.filePath)) fileMap.set(ref.filePath, []);
+            fileMap.get(ref.filePath).push(ref.questionIndex);
+        }
+
+        const fetchPromises = [];
+        for (const [fp, indices] of fileMap.entries()) {
+            fetchPromises.push(
+                fetch(fp).then(res => res.json()).then(data => ({ filePath: fp, data }))
+                .catch(err => ({ filePath: fp, error: true }))
+            );
+        }
+        const results = await Promise.all(fetchPromises);
+
+        const parseQuestions = (jsonObj) => {
+            try {
+                let arr = null;
+                if (jsonObj.data?.record?.extJson?.studentQuestionArray) arr = jsonObj.data.record.extJson.studentQuestionArray;
+                else if (jsonObj.record?.extJson?.studentQuestionArray) arr = jsonObj.record.extJson.studentQuestionArray;
+                else if (jsonObj.extJson?.studentQuestionArray) arr = jsonObj.extJson.studentQuestionArray;
+                else if (jsonObj.studentQuestionArray) arr = jsonObj.studentQuestionArray;
+                return arr;
+            } catch(e) { return null; }
+        };
+
+        allQuestions = [];
+        for (const res of results) {
+            if (res.error) continue;
+            const questions = parseQuestions(res.data);
+            if (!questions) continue;
+            const indices = fileMap.get(res.filePath);
+            for (const idx of indices) {
+                if (idx >= 0 && idx < questions.length) {
+                    const q = questions[idx];
+                    q._sourceFile = res.filePath;
+                    q._questionIndex = idx;
+                    allQuestions.push(q);
+                }
+            }
+        }
+
+        // Populate filter dropdown
+        const chapterSet = new Set();
+        allQuestions.forEach(q => {
+            const name = q._sourceFile.split('/').pop().replace('.json','');
+            chapterSet.add(name);
+        });
+        const select = document.getElementById('chapterFilter');
+        select.innerHTML = '<option value="all">全部</option>';
+        for (const name of Array.from(chapterSet).sort()) {
+            const opt = document.createElement('option');
+            opt.value = name;
+            opt.textContent = name;
+            select.appendChild(opt);
+        }
+
+        // Apply filter and render
+        applyFilterAndRender();
+    }
+
+    // ==================== Filter & Render ====================
+    function applyFilterAndRender() {
+        const filterVal = document.getElementById('chapterFilter').value;
+        let filtered = allQuestions;
+        if (filterVal !== 'all') {
+            filtered = allQuestions.filter(q => q._sourceFile.split('/').pop().replace('.json','') === filterVal);
+        }
+        if (document.getElementById('randomizeCheck').checked) {
+            for (let i = filtered.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
+            }
+        }
+        currentQuestions = filtered;
+        userAnswers = new Array(filtered.length).fill(null);
+        answerStatus = new Array(filtered.length).fill(false);
+        renderQuiz();
+        updateWrongCount(); // update FAB badge
+    }
+
+    function isQuestionCorrect(q, userAns) {
+        const options = q.optionList || [];
+        const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
+        if (q.type === '3') return false; // fill-in not auto-graded in wrong practice (user must self-check)
+        if (q.type === '1') {
+            const selected = userAns || [];
+            if (!Array.isArray(selected)) return false;
+            if (selected.length !== correctIds.length) return false;
+            const sortedSelected = [...selected].sort();
+            const sortedCorrect = [...correctIds].sort();
+            return JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
+        } else {
+            return userAns != null && correctIds.length === 1 && correctIds[0] === userAns;
+        }
+    }
+
+    function computeStats() {
+        let total = currentQuestions.length, answered = 0, correct = 0, incorrect = 0;
+        for (let i = 0; i < total; i++) {
+            const q = currentQuestions[i];
+            if (q.type === '3') continue; // fill-in not counted in stats (optional)
+            const hasAnswer = (q.type === '1') ? (userAnswers[i] && userAnswers[i].length > 0) : (userAnswers[i] != null);
+            if (hasAnswer) answered++;
+            if (answerStatus[i] && hasAnswer) {
+                if (isQuestionCorrect(q, userAnswers[i])) correct++;
+                else incorrect++;
+            }
+        }
+        return { total, answered, correct, incorrect, unanswered: total - answered, rate: total === 0 ? 0 : (correct/total)*100 };
+    }
+
+    function updateStatsDisplay() {
+        const stats = computeStats();
+        document.getElementById('totalCount').textContent = stats.total;
+        document.getElementById('answeredCount').textContent = stats.answered;
+        document.getElementById('correctCount').textContent = stats.correct;
+        document.getElementById('incorrectCount').textContent = stats.incorrect;
+        document.getElementById('unansweredCount').textContent = stats.unanswered;
+        document.getElementById('correctRate').textContent = Math.round(stats.rate) + '%';
+    }
+
+    function renderQuiz() {
+        const container = document.getElementById('quizContainer');
+        if (!currentQuestions.length) {
+            container.innerHTML = '<div style="text-align:center; padding:60px; background:white; border-radius:20px;">🎉 没有错题了！继续加油！</div>';
+            updateStatsDisplay();
+            return;
+        }
+        let html = '';
+        currentQuestions.forEach((q, idx) => {
+            const qType = q.type;
+            const options = q.optionList || [];
+            const isMulti = (qType === '1');
+            const userSel = userAnswers[idx] || (isMulti ? [] : null);
+            const checked = answerStatus[idx] || false;
+            const difficultyLabel = getDifficultyLabel(q.difficulty);
+            const qNum = idx + 1;
+
+            html += `<div class="card" data-qidx="${idx}">
+                <div class="question-header">
+                    <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '填空题' : '单选题')}</span>
+                    <span class="difficulty-badge">📊 ${difficultyLabel}</span>
+                    <span class="question-number">${qNum}</span>
+                    <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
+                </div>
+                <div class="options" id="options-${idx}">`;
+
+            if (qType === '3') {
+                // Fill-in: just show correct answer and explanation
+                const correctAnswerObj = options[0];
+                const correctText = correctAnswerObj ? unescapeHtml(correctAnswerObj.content) : '无答案';
+                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;">
+                            <strong>📌 填空题</strong><br/>
+                            <span class="correct-answer">✅ 正确答案： ${correctText}</span>
+                         </div>`;
+                if (checked) {
+                    const userAnswer = userAnswers[idx] || '';
+                    html += `<div class="feedback">
+                                <div class="${userAnswer ? 'your-answer-incorrect' : ''}">📝 你的答案： ${unescapeHtml(userAnswer) || '未填'}</div>
+                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                            </div>`;
+                } else {
+                    html += `<div class="answer-input" style="margin:12px 0;">
+                                <label style="font-weight:500;">✍️ 你的答案：</label>
+                                <input type="text" class="type3-input" data-idx="${idx}" value="${escapeHtml(userAnswers[idx] || '')}" placeholder="输入答案" style="width:100%; padding:8px; margin-top:4px; border-radius:8px; border:1px solid #ccc;">
+                            </div>
+                            <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>`;
+                }
+            } else {
+                // Multiple or single choice
+                options.forEach((opt, optIdx) => {
+                    const letter = String.fromCharCode(65+optIdx);
+                    const isChecked = isMulti ? (userSel || []).includes(opt.id) : (userSel === opt.id);
+                    html += `<div class="option">
+                        <span class="prefix">${letter}.</span>
+                        <input type="${isMulti ? 'checkbox' : 'radio'}" name="q${idx}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
+                        <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label>
+                    </div>`;
+                });
+                if (!checked) {
+                    html += `<button class="btn-check" data-idx="${idx}">✓ 核对答案</button>`;
+                }
+                if (checked) {
+                    const isCorrect = isQuestionCorrect(q, userSel);
+                    const correctText = options.filter(o=>o.isRight==="1").map(o=>{
+                        let letter = String.fromCharCode(65+options.findIndex(x=>x.id===o.id));
+                        return `${letter}. ${unescapeHtml(o.content)}`;
+                    }).join(' ;  ');
+                    let userText = '';
+                    if (isMulti) {
+                        userText = (userSel||[]).map(id=>{
+                            let idxOpt = options.findIndex(o=>o.id===id);
+                            return `${String.fromCharCode(65+idxOpt)}. ${unescapeHtml(options[idxOpt].content)}`;
+                        }).join(' ; ') || '未选';
+                    } else {
+                        let selOpt = options.find(o=>o.id===userSel);
+                        userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===userSel))}. ${unescapeHtml(selOpt.content)}` : '未选';
+                    }
+                    html += `<div class="feedback">
+                        <div class="correct-answer">✅ 正确答案： ${correctText}</div>
+                        <div class="${isCorrect ? 'your-answer-correct' : 'your-answer-incorrect'}">📝 你的答案： ${userText}</div>
+                        <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                    </div>`;
+                }
+            }
+            html += `<button class="btn-remove" data-qidx="${idx}">🗑️ 从错题本移除</button>`;
+            html += `</div></div>`;
+        });
+        container.innerHTML = html;
+
+        // Attach event listeners
+        document.querySelectorAll('.btn-check').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const idx = parseInt(btn.getAttribute('data-idx'));
+                if (!answerStatus[idx]) {
+                    answerStatus[idx] = true;
+                    renderQuiz();
+                }
+            });
+        });
+
+        // Fill-in inputs
+        document.querySelectorAll('.type3-input').forEach(input => {
+            const idx = parseInt(input.getAttribute('data-idx'));
+            input.addEventListener('input', (e) => {
+                userAnswers[idx] = e.target.value;
+            });
+        });
+
+        // Option inputs
+        currentQuestions.forEach((q, idx) => {
+            const div = document.getElementById(`options-${idx}`);
+            if (!div) return;
+            const inputs = div.querySelectorAll('input');
+            const isMulti = (q.type === '1');
+            inputs.forEach(inp => {
+                inp.addEventListener('change', () => {
+                    if (isMulti) {
+                        let cur = userAnswers[idx] || [];
+                        if (inp.checked) { if (!cur.includes(inp.value)) cur.push(inp.value); }
+                        else { cur = cur.filter(v => v !== inp.value); }
+                        userAnswers[idx] = cur;
+                        if (answerStatus[idx]) answerStatus[idx] = false;
+                    } else {
+                        userAnswers[idx] = inp.value;
+                    }
+                });
+            });
+        });
+
+        // Remove buttons – using tombstone (mark deleted)
+        document.querySelectorAll('.btn-remove').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const qidx = parseInt(btn.getAttribute('data-qidx'));
+                const q = currentQuestions[qidx];
+                if (!q) return;
+                let arr = getWrongLocal();
+                const now = Date.now();
+                const existingIndex = arr.findIndex(item => item.filePath === q._sourceFile && item.questionIndex === q._questionIndex);
+                if (existingIndex !== -1) {
+                    arr[existingIndex].deleted = true;
+                    arr[existingIndex].timestamp = now;
+                } else {
+                    return; // not found
+                }
+                setWrongLocal(arr);
+                if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
+                // Remove from allQuestions and currentQuestions, then re-filter
+                allQuestions = allQuestions.filter(item => !(item._sourceFile === q._sourceFile && item._questionIndex === q._questionIndex));
+                applyFilterAndRender();
+                showToast('已从错题本移除');
+                updateWrongCount();
+            });
+        });
+
+        updateStatsDisplay();
+    }
+
+    // Clear all wrong questions
+    function clearAllWrong() {
+        if (confirm('⚠️ 确定要清空所有错题吗？此操作不可撤销。')) {
+            setWrongLocal([]);
+            if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
+            allQuestions = [];
+            applyFilterAndRender();
+            showToast('已清空所有错题');
+            updateWrongCount();
+        }
+    }
+
+    // Update FAB badge
+    function updateWrongCount() {
+        const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
+        const badge = document.getElementById('wrongBadge');
+        if (badge) badge.textContent = count;
+    }
+
+    // ---------- User Lock and Sync ----------
+    (function() {
+        const userSelect = document.getElementById('userSelect');
+        if (!userSelect) return;
+        const storedId = localStorage.getItem('quiz_user_id');
+        if (storedId) {
+            userSelect.value = storedId;
+            for (const opt of userSelect.options) {
+                if (opt.value !== storedId && opt.value !== '') opt.disabled = true;
+            }
+            userSelect.disabled = true;
+            userSelect.style.opacity = '0.7';
+            userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
+        }
+        userSelect.addEventListener('change', () => {
+            const val = userSelect.value;
+            if (!val) return;
+            localStorage.setItem('quiz_user_id', val);
+            for (const opt of userSelect.options) {
+                if (opt.value !== val && opt.value !== '') opt.disabled = true;
+            }
+            userSelect.disabled = true;
+            userSelect.style.opacity = '0.7';
+            userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
+            // Reload data after user change
+            loadAllData();
+        });
+    })();
+
+    // Event listeners
+    document.getElementById('applyBtn').addEventListener('click', applyFilterAndRender);
+    document.getElementById('clearAllWrongBtn').addEventListener('click', clearAllWrong);
+    const fab = document.getElementById('wrongFab');
+    if (fab) fab.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; }); // reload same page
+
+    // Initial load
+    loadAllData();
+</script>
+</body>
+</html>
