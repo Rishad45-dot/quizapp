@@ -1,4 +1,5 @@
 // wrong_sync.js – cross‑device wrong question sync with compression & tombstone merge
+// Now uses same folder structure as sync.js: wq_sync/user<id>/state.json
 const WQ_BUCKET_API = 'https://quiz-app-bucket-1428146716.cos.ap-hongkong.myqcloud.com';
 const WQ_FOLDER = 'wq_sync';
 const WQ_LOCAL_KEY = 'wrong_questions';
@@ -11,7 +12,7 @@ function isPakoAvailable() {
 function compressData(data) {
     if (!isPakoAvailable()) {
         console.warn('[wrong_sync] pako not loaded – storing uncompressed');
-        return null; // signal uncompressed
+        return null;
     }
     try {
         const jsonStr = JSON.stringify(data);
@@ -43,22 +44,17 @@ function getWrongLocal() {
 
     try {
         let arr;
-        // Detect if compressed: stored as JSON array of numbers (Uint8Array)
         if (raw.startsWith('[') && !raw.startsWith('[{')) {
-            // compressed: array of numbers
             const compressedArray = JSON.parse(raw);
             const compressed = new Uint8Array(compressedArray);
             arr = decompressData(compressed);
         } else {
-            // uncompressed JSON
             arr = JSON.parse(raw);
         }
         if (!Array.isArray(arr)) arr = [];
-        // migrate old entries (no timestamp/deleted)
         return migrateWrongList(arr);
     } catch (e) {
         console.error('[wrong_sync] failed to read wrong_questions', e);
-        // If corrupted, reset
         return [];
     }
 }
@@ -71,12 +67,10 @@ function setWrongLocal(arr) {
             const compressedArray = Array.from(compressed);
             localStorage.setItem(WQ_LOCAL_KEY, JSON.stringify(compressedArray));
         } else {
-            // fallback to uncompressed
             localStorage.setItem(WQ_LOCAL_KEY, JSON.stringify(arr));
         }
     } catch (e) {
         console.error('[wrong_sync] failed to save wrong_questions', e);
-        // Last resort: save uncompressed even if compression was attempted
         try {
             localStorage.setItem(WQ_LOCAL_KEY, JSON.stringify(arr));
         } catch (e2) {
@@ -89,11 +83,9 @@ function setWrongLocal(arr) {
 function migrateWrongList(arr) {
     if (!Array.isArray(arr)) return [];
     return arr.map(item => {
-        // already migrated
         if (item && typeof item === 'object' && 'timestamp' in item && 'deleted' in item) {
             return item;
         }
-        // old format: { filePath, questionIndex }
         return {
             filePath: item.filePath,
             questionIndex: item.questionIndex,
@@ -105,8 +97,7 @@ function migrateWrongList(arr) {
 
 // ---------- Merge: keep entry with newest timestamp, honor deleted flag ----------
 function mergeWrongLists(localArr, cloudArr) {
-    const map = new Map(); // key -> entry with highest timestamp
-
+    const map = new Map();
     function addEntry(entry) {
         const key = `${entry.filePath}::${entry.questionIndex}`;
         const existing = map.get(key);
@@ -114,15 +105,11 @@ function mergeWrongLists(localArr, cloudArr) {
             map.set(key, { ...entry });
         }
     }
-
     localArr.forEach(addEntry);
     cloudArr.forEach(addEntry);
-
     const result = [];
     for (const entry of map.values()) {
-        if (!entry.deleted) {
-            result.push(entry);
-        }
+        if (!entry.deleted) result.push(entry);
     }
     return result;
 }
@@ -131,7 +118,6 @@ function mergeWrongLists(localArr, cloudArr) {
 async function uploadWrongWithLock(url, data, currentETag) {
     const headers = { 'Content-Type': 'application/json' };
     if (currentETag) headers['If-Match'] = currentETag;
-
     let resp;
     try {
         resp = await fetch(url, { method: 'PUT', body: JSON.stringify(data), headers });
@@ -139,9 +125,7 @@ async function uploadWrongWithLock(url, data, currentETag) {
         console.warn('[wrong_sync] upload network error', e);
         return null;
     }
-
     if (resp.status === 412) {
-        // conflict – fetch remote, merge, retry
         try {
             const refetch = await fetch(url, { cache: 'no-store' });
             if (!refetch.ok) return null;
@@ -159,13 +143,14 @@ async function uploadWrongWithLock(url, data, currentETag) {
     return resp;
 }
 
-// ---------- Main sync function ----------
+// ---------- Main sync function (UPDATED path to match sync.js pattern) ----------
 async function syncWrongQuestions() {
     const userId = localStorage.getItem('quiz_user_id');
     if (!userId || (userId !== '1' && userId !== '2')) return;
 
     const localArr = getWrongLocal();
-    const cloudKey = `${WQ_FOLDER}/user${userId}.json`;
+    // *** CHANGE: now uses subfolder + state.json like sync.js ***
+    const cloudKey = `${WQ_FOLDER}/user${userId}/state.json`;
     const cloudUrl = `${WQ_BUCKET_API}/${cloudKey}`;
 
     let cloudArr = null, etag = null;
@@ -182,7 +167,7 @@ async function syncWrongQuestions() {
         }
     } catch (e) {
         console.warn('[wrong_sync] fetch failed – keeping local', e);
-        return; // offline, no sync
+        return;
     }
 
     try {
@@ -196,7 +181,7 @@ async function syncWrongQuestions() {
     }
 }
 
-// ---------- Expose for HTML pages (optional) ----------
+// ---------- Expose for HTML pages ----------
 if (typeof window !== 'undefined') {
     window.getWrongLocal = getWrongLocal;
     window.setWrongLocal = setWrongLocal;
