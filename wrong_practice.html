@@ -220,7 +220,6 @@
         }
     }
 
-    // Determine if a question is considered "answered" for stats
     function isQuestionAnswered(q, ans, checkedFlag) {
         if (q.type === '0') {
             return ans !== null && ans !== undefined;
@@ -309,11 +308,9 @@
                 }
             }
 
-            // Feedback section – exactly as in quiz_player.html
             const shouldShowFeedback = (isSingle && userSel !== null && userSel !== undefined) || (checked === true);
             if (shouldShowFeedback && (isSingle ? (userSel !== null) : true)) {
                 const isCorrect = isAnswerCorrect(q, userSel);
-                // Build correct answer text exactly like quiz_player
                 let correctText = '';
                 if (isFill) {
                     const correctObj = options[0];
@@ -325,7 +322,6 @@
                         return `${letter}. ${unescapeHtml(o.content)}`;
                     }).join(' ;  ');
                 }
-                // Build user answer text
                 let userText = '';
                 if (isFill) {
                     userText = unescapeHtml(userSel || '未填');
@@ -356,7 +352,6 @@
         });
         container.innerHTML = html;
 
-        // Attach event listeners
         currentQuestions.forEach((q, idx) => {
             if (q.type === '3') return;
             const div = document.getElementById(`options-${idx}`);
@@ -545,7 +540,6 @@
         if (badge) badge.textContent = count;
     }
 
-    // User lock and sync
     (function() {
         const userSelect = document.getElementById('userSelect');
         if (!userSelect) return;
@@ -577,6 +571,16 @@
     document.getElementById('clearAllWrongBtn').addEventListener('click', clearAllWrong);
     const fab = document.getElementById('wrongFab');
     if (fab) fab.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; });
+
+    updateWrongCount();
+    document.addEventListener('visibilitychange', function() {
+        if (!document.hidden) updateWrongCount();
+    });
+    window.addEventListener('storage', function(e) {
+        if (e.key === 'wrong_questions') updateWrongCount();
+    });
+    // Also update when page gains focus (user switches back)
+    window.addEventListener('focus', updateWrongCount);
 
     loadAllData();
 </script>

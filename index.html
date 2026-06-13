@@ -545,6 +545,8 @@
     window.addEventListener('storage', function(e) {
         if (e.key === 'wrong_questions') updateWrongCount();
     });
+    // Update when page gains focus (user switches tab)
+    window.addEventListener('focus', updateWrongCount);
     // Click handler for FAB
     const fab = document.getElementById('wrongFab');
     if (fab) {
