@@ -8,10 +8,71 @@
         * { box-sizing: border-box; }
         body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
         .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
-        .header { position: sticky; top: 0; z-index: 100; background: white; border-radius: 0 0 12px 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); padding: 12px 16px; margin: 0 -12px 16px -12px; }
-        .header-inner { max-width: 1300px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+        
+        /* Sticky header styles (identical to quiz_player.html) */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: white;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            padding: 12px 16px;
+            margin: 0 -12px 16px -12px;
+            transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+        }
+        .header.compact {
+            padding: 4px 12px;
+        }
+        .header-inner {
+            max-width: 1300px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+            transition: gap 0.2s;
+        }
+        .compact-stats {
+            display: none;
+            background: #eaf4e8;
+            padding: 4px 10px;
+            border-radius: 40px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: #1e5a3a;
+            white-space: nowrap;
+            align-items: center;
+            gap: 5px;
+            letter-spacing: 0.3px;
+            box-shadow: inset 0 0 0 1px rgba(44,122,77,0.2);
+            overflow-x: auto;
+            max-width: 100%;
+        }
+        /* When header is compact, hide stats-summary and show compact-stats */
+        @media (max-width: 768px) {
+            .header.compact .stats-summary {
+                display: none !important;
+            }
+            .header.compact .compact-stats {
+                display: inline-flex !important;
+                margin: 4px 0 2px 0;
+            }
+            .header.compact .back-button {
+                padding: 4px 10px;
+                font-size: 0.7rem;
+            }
+            .header.compact .user-selector {
+                display: none !important;
+            }
+            .header.compact h2 {
+                font-size: 1rem;
+            }
+        }
+        
         .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
-        .stats-summary { background: #f8f9fc; border-radius: 20px; padding: 8px 12px; margin-top: 12px; margin-bottom: 12px; font-size: 0.8rem; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; border: 1px solid #e9ecef; }
+        .stats-summary { background: #f8f9fc; border-radius: 20px; padding: 8px 12px; margin-top: 12px; margin-bottom: 12px; font-size: 0.8rem; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; border: 1px solid #e9ecef; transition: all 0.2s; }
         .stats-numbers { display: flex; flex-wrap: wrap; gap: 12px; font-weight: 500; }
         .stats-numbers span { background: white; padding: 2px 8px; border-radius: 30px; display: inline-flex; align-items: center; gap: 6px; }
         .stat-correct { color: #2c7a4d; background: #e9f7ef; }
@@ -98,9 +159,11 @@
 </head>
 <body>
 <div class="container">
-    <div class="header">
+    <!-- Header with sticky and compact support -->
+    <div class="header" id="stickyHeader">
         <div class="header-inner">
             <h2 style="margin:0; font-size:1.25rem; color:#2c7a4d;">📝 错题练习</h2>
+            <div class="compact-stats" id="compactStats">📊 0%</div>
             <a href="index.html" class="back-button">← 返回章节列表</a>
             <div class="user-selector" style="display:flex; align-items:center; gap:6px;">
                 <label for="userSelect" style="font-size:0.8rem; color:#5a6874; white-space:nowrap;">👤 用户:</label>
@@ -131,6 +194,7 @@
             <button class="btn-small-outline" id="clearAllWrongBtn">🗑️ 清空全部错题</button>
         </div>
     </div>
+
     <div id="quizContainer">
         <div class="loading-spinner">⏳ 正在加载错题数据...</div>
     </div>
@@ -191,14 +255,12 @@
         return d.split('-').pop() || d;
     }
 
-    // FIXED: compare user answer with correct answer (for all types)
+    // Fixed correctness check for all types
     function isAnswerCorrect(q, userAns) {
         const options = q.optionList || [];
-        // Get correct IDs (for choice questions) or the correct text (for fill-in)
         const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
         
         if (q.type === '3') {
-            // fill-in: correct answer is the content of the first correct option
             const correctOpt = options.find(opt => opt.isRight === "1");
             if (!correctOpt) return false;
             const correctPlain = unescapeHtml(correctOpt.content);
@@ -212,7 +274,6 @@
         }
         
         if (q.type === '1') {
-            // multiple choice: compare arrays of selected IDs
             const selected = userAns || [];
             if (!Array.isArray(selected)) return false;
             if (selected.length !== correctIds.length) return false;
@@ -220,7 +281,6 @@
             const sortedCorrect = [...correctIds].sort();
             return JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
         } else {
-            // single choice (type 0) : compare single ID
             return userAns != null && correctIds.length === 1 && correctIds[0] === userAns;
         }
     }
@@ -260,6 +320,11 @@
         document.getElementById('incorrectCount').textContent = stats.incorrect;
         document.getElementById('unansweredCount').textContent = stats.unanswered;
         document.getElementById('correctRate').textContent = Math.round(stats.rate) + '%';
+        // Update compact stats
+        const compactStatsDiv = document.getElementById('compactStats');
+        if (compactStatsDiv) {
+            compactStatsDiv.innerHTML = `📊 ${Math.round(stats.rate)}% | ${stats.correct}/${stats.total}`;
+        }
     }
 
     function renderQuiz() {
@@ -427,15 +492,12 @@
                 const q = currentQuestions[qidx];
                 if (!q) return;
                 let arr = getWrongLocal();
-                // Remove the question completely (instead of marking deleted)
                 const newArr = arr.filter(item => !(item.filePath === q._sourceFile && item.questionIndex === q._questionIndex));
                 setWrongLocal(newArr);
                 if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
-                // Remove from allQuestions and currentQuestions, then re-filter
                 allQuestions = allQuestions.filter(item => !(item._sourceFile === q._sourceFile && item._questionIndex === q._questionIndex));
                 applyFilterAndRender();
                 showToast('已从错题本移除');
-                // Force badge update after re-render
                 setTimeout(() => updateWrongCount(), 50);
             });
         });
@@ -543,6 +605,7 @@
         if (badge) badge.textContent = count;
     }
 
+    // User lock and sync
     (function() {
         const userSelect = document.getElementById('userSelect');
         if (!userSelect) return;
@@ -570,6 +633,48 @@
         });
     })();
 
+    // Sticky header compact mode (identical to quiz_player.html)
+    function initScrollCompact() {
+        const headerEl = document.getElementById('stickyHeader');
+        if (!headerEl) return;
+        let ticking = false;
+        let timeoutId = null;
+        const SCROLL_THRESHOLD = 18;
+        
+        function applyCompactState() {
+            const scrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
+            const shouldBeCompact = scrollY > SCROLL_THRESHOLD;
+            const isCompact = headerEl.classList.contains('compact');
+            if (shouldBeCompact !== isCompact) {
+                if (shouldBeCompact) {
+                    headerEl.classList.add('compact');
+                } else {
+                    headerEl.classList.remove('compact');
+                }
+            }
+            ticking = false;
+        }
+        
+        function onScroll() {
+            if (!ticking) {
+                requestAnimationFrame(applyCompactState);
+                ticking = true;
+            }
+            if (timeoutId) clearTimeout(timeoutId);
+            timeoutId = setTimeout(() => {
+                applyCompactState();
+            }, 100);
+        }
+        
+        function onResize() {
+            applyCompactState();
+        }
+        
+        window.addEventListener('scroll', onScroll, { passive: true });
+        window.addEventListener('resize', onResize);
+        applyCompactState();
+    }
+
     document.getElementById('applyBtn').addEventListener('click', applyFilterAndRender);
     document.getElementById('clearAllWrongBtn').addEventListener('click', clearAllWrong);
     const fab = document.getElementById('wrongFab');
@@ -583,7 +688,10 @@
         if (e.key === 'wrong_questions') updateWrongCount();
     });
     window.addEventListener('focus', updateWrongCount);
-
+    
+    // Initialize compact header
+    initScrollCompact();
+    
     loadAllData();
 </script>
 </body>
