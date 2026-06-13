@@ -50,7 +50,68 @@
             overflow-x: auto;
             max-width: 100%;
         }
-        /* When header is compact, hide stats-summary and show compact-stats */
+        .settings-toggle {
+            background: #f0f2f5;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 30px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 6px;
+        }
+        .settings-panel {
+            background: #f9fafc;
+            border-radius: 16px;
+            padding: 16px;
+            margin-bottom: 16px;
+            display: none;
+            flex-wrap: wrap;
+            gap: 16px;
+            align-items: flex-start;
+            scroll-margin-top: 80px;
+        }
+        .settings-panel.open {
+            display: flex;
+        }
+        .setting-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            min-width: 140px;
+        }
+        .setting-group label {
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: #2c3e4e;
+        }
+        select, .setting-group input {
+            padding: 8px 12px;
+            border-radius: 30px;
+            border: 1px solid #ddd;
+            background: white;
+            font-size: 0.85rem;
+        }
+        .btn-small {
+            background: #2c7a4d;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 0.8rem;
+        }
+        .btn-small-outline {
+            background: transparent;
+            border: 1px solid #2c7a4d;
+            color: #2c7a4d;
+            padding: 8px 16px;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 0.8rem;
+        }
         @media (max-width: 768px) {
             .header.compact .stats-summary {
                 display: none !important;
@@ -69,6 +130,11 @@
             .header.compact h2 {
                 font-size: 1rem;
             }
+            .settings-toggle {
+                margin-top: 0;
+                padding: 4px 8px;
+                font-size: 0.7rem;
+            }
         }
         
         .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
@@ -80,10 +146,6 @@
         .stat-answered { color: #2c6e9e; background: #e8f0fe; }
         .stat-unanswered { color: #8c9aa8; background: #f0f2f5; }
         .stat-rate { font-weight: 700; color: #2c7a4d; background: #eaf9e8; }
-        .settings-row { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; margin-bottom: 12px; }
-        select, .settings-row input { padding: 8px 12px; border-radius: 30px; border: 1px solid #ddd; background: white; font-size: 0.85rem; }
-        .btn-small { background: #2c7a4d; color: white; border: none; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
-        .btn-small-outline { background: transparent; border: 1px solid #2c7a4d; color: #2c7a4d; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
         .question-grid { display: flex; flex-direction: column; gap: 20px; }
         .card { background: white; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow: hidden; }
         .question-header { padding: 16px 20px 12px 20px; border-bottom: 1px solid #e9eef3; display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px 12px; }
@@ -152,8 +214,8 @@
         @media (max-width: 700px) {
             .stats-numbers { gap: 8px; }
             .stats-numbers span { font-size: 0.75rem; }
-            .settings-row { flex-direction: column; align-items: stretch; }
-            .btn-small, .btn-small-outline { width: 100%; text-align: center; }
+            .settings-panel { flex-direction: column; align-items: stretch; }
+            .setting-group { min-width: auto; }
         }
     </style>
 </head>
@@ -173,6 +235,7 @@
                     <option value="2">App Dev</option>
                 </select>
             </div>
+            <button class="settings-toggle" id="settingsToggle">⚙️ 筛选 & 设置</button>
         </div>
         <div class="stats-summary" id="statsSummary">
             <div class="stats-numbers">
@@ -184,14 +247,23 @@
             </div>
             <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
         </div>
-        <div class="settings-row">
-            <label for="chapterFilter" style="font-size:0.8rem;">📂 筛选章节:</label>
-            <select id="chapterFilter"><option value="all">全部</option></select>
-            <label style="display:flex; align-items:center; gap:6px;">
-                <input type="checkbox" id="randomizeCheck"> 随机顺序
-            </label>
-            <button class="btn-small" id="applyBtn">应用</button>
-            <button class="btn-small-outline" id="clearAllWrongBtn">🗑️ 清空全部错题</button>
+        
+        <!-- Collapsible settings panel (same as quiz_player) -->
+        <div class="settings-panel" id="settingsPanel">
+            <div class="setting-group">
+                <label>📂 筛选章节</label>
+                <select id="chapterFilter"><option value="all">全部</option></select>
+            </div>
+            <div class="setting-group">
+                <label>🎲 随机顺序</label>
+                <label style="display: flex; align-items: center; gap: 8px;">
+                    <input type="checkbox" id="randomizeCheck"> 随机打乱题目顺序
+                </label>
+            </div>
+            <div class="setting-group">
+                <button class="btn-small" id="applyBtn">应用筛选</button>
+                <button class="btn-small-outline" id="clearAllWrongBtn">🗑️ 清空全部错题</button>
+            </div>
         </div>
     </div>
 
@@ -255,7 +327,6 @@
         return d.split('-').pop() || d;
     }
 
-    // Fixed correctness check for all types
     function isAnswerCorrect(q, userAns) {
         const options = q.optionList || [];
         const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
@@ -286,13 +357,9 @@
     }
 
     function isQuestionAnswered(q, ans, checkedFlag) {
-        if (q.type === '0') {
-            return ans !== null && ans !== undefined;
-        } else if (q.type === '1') {
-            return checkedFlag === true;
-        } else if (q.type === '3') {
-            return checkedFlag === true;
-        }
+        if (q.type === '0') return ans !== null && ans !== undefined;
+        if (q.type === '1') return checkedFlag === true;
+        if (q.type === '3') return checkedFlag === true;
         return false;
     }
 
@@ -320,7 +387,6 @@
         document.getElementById('incorrectCount').textContent = stats.incorrect;
         document.getElementById('unansweredCount').textContent = stats.unanswered;
         document.getElementById('correctRate').textContent = Math.round(stats.rate) + '%';
-        // Update compact stats
         const compactStatsDiv = document.getElementById('compactStats');
         if (compactStatsDiv) {
             compactStatsDiv.innerHTML = `📊 ${Math.round(stats.rate)}% | ${stats.correct}/${stats.total}`;
@@ -422,6 +488,7 @@
         });
         container.innerHTML = html;
 
+        // Attach event listeners (unchanged)
         currentQuestions.forEach((q, idx) => {
             if (q.type === '3') return;
             const div = document.getElementById(`options-${idx}`);
@@ -435,9 +502,7 @@
                         if (inp.checked) { if (!cur.includes(inp.value)) cur.push(inp.value); }
                         else { cur = cur.filter(v => v !== inp.value); }
                         userAnswers[idx] = cur;
-                        if (answerChecked[idx] === true) {
-                            answerChecked[idx] = false;
-                        }
+                        if (answerChecked[idx] === true) answerChecked[idx] = false;
                         renderQuiz();
                     } else {
                         userAnswers[idx] = inp.value;
@@ -633,47 +698,45 @@
         });
     })();
 
-    // Sticky header compact mode (identical to quiz_player.html)
+    // Sticky header compact mode
     function initScrollCompact() {
         const headerEl = document.getElementById('stickyHeader');
         if (!headerEl) return;
-        let ticking = false;
-        let timeoutId = null;
+        let ticking = false, timeoutId = null;
         const SCROLL_THRESHOLD = 18;
-        
         function applyCompactState() {
             const scrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
             const shouldBeCompact = scrollY > SCROLL_THRESHOLD;
             const isCompact = headerEl.classList.contains('compact');
             if (shouldBeCompact !== isCompact) {
-                if (shouldBeCompact) {
-                    headerEl.classList.add('compact');
-                } else {
-                    headerEl.classList.remove('compact');
-                }
+                if (shouldBeCompact) headerEl.classList.add('compact');
+                else headerEl.classList.remove('compact');
             }
             ticking = false;
         }
-        
         function onScroll() {
             if (!ticking) {
                 requestAnimationFrame(applyCompactState);
                 ticking = true;
             }
             if (timeoutId) clearTimeout(timeoutId);
-            timeoutId = setTimeout(() => {
-                applyCompactState();
-            }, 100);
+            timeoutId = setTimeout(applyCompactState, 100);
         }
-        
-        function onResize() {
-            applyCompactState();
-        }
-        
+        function onResize() { applyCompactState(); }
         window.addEventListener('scroll', onScroll, { passive: true });
         window.addEventListener('resize', onResize);
         applyCompactState();
     }
+
+    // Settings panel toggle
+    document.getElementById('settingsToggle').addEventListener('click', () => {
+        const panel = document.getElementById('settingsPanel');
+        if (panel.classList.contains('open')) panel.classList.remove('open');
+        else {
+            panel.classList.add('open');
+            setTimeout(() => panel.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
+        }
+    });
 
     document.getElementById('applyBtn').addEventListener('click', applyFilterAndRender);
     document.getElementById('clearAllWrongBtn').addEventListener('click', clearAllWrong);
@@ -681,17 +744,11 @@
     if (fab) fab.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; });
 
     updateWrongCount();
-    document.addEventListener('visibilitychange', function() {
-        if (!document.hidden) updateWrongCount();
-    });
-    window.addEventListener('storage', function(e) {
-        if (e.key === 'wrong_questions') updateWrongCount();
-    });
+    document.addEventListener('visibilitychange', () => { if (!document.hidden) updateWrongCount(); });
+    window.addEventListener('storage', (e) => { if (e.key === 'wrong_questions') updateWrongCount(); });
     window.addEventListener('focus', updateWrongCount);
-    
-    // Initialize compact header
+
     initScrollCompact();
-    
     loadAllData();
 </script>
 </body>
