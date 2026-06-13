@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
     <title>错题练习 – Wrong Question Practice</title>
     <style>
+        /* ==== All styles unchanged from previous working version ==== */
         * { box-sizing: border-box; }
         body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
         .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
-        
-        /* Sticky header styles (identical to quiz_player.html) */
         .header {
             position: sticky;
             top: 0;
@@ -21,9 +20,7 @@
             margin: 0 -12px 16px -12px;
             transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
         }
-        .header.compact {
-            padding: 4px 12px;
-        }
+        .header.compact { padding: 4px 12px; }
         .header-inner {
             max-width: 1300px;
             margin: 0 auto;
@@ -73,20 +70,14 @@
             align-items: flex-start;
             scroll-margin-top: 80px;
         }
-        .settings-panel.open {
-            display: flex;
-        }
+        .settings-panel.open { display: flex; }
         .setting-group {
             display: flex;
             flex-direction: column;
             gap: 6px;
             min-width: 140px;
         }
-        .setting-group label {
-            font-size: 0.8rem;
-            font-weight: 500;
-            color: #2c3e4e;
-        }
+        .setting-group label { font-size: 0.8rem; font-weight: 500; color: #2c3e4e; }
         select, .setting-group input {
             padding: 8px 12px;
             border-radius: 30px;
@@ -94,49 +85,16 @@
             background: white;
             font-size: 0.85rem;
         }
-        .btn-small {
-            background: #2c7a4d;
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 30px;
-            cursor: pointer;
-            font-size: 0.8rem;
-        }
-        .btn-small-outline {
-            background: transparent;
-            border: 1px solid #2c7a4d;
-            color: #2c7a4d;
-            padding: 8px 16px;
-            border-radius: 30px;
-            cursor: pointer;
-            font-size: 0.8rem;
-        }
+        .btn-small { background: #2c7a4d; color: white; border: none; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
+        .btn-small-outline { background: transparent; border: 1px solid #2c7a4d; color: #2c7a4d; padding: 8px 16px; border-radius: 30px; cursor: pointer; font-size: 0.8rem; }
         @media (max-width: 768px) {
-            .header.compact .stats-summary {
-                display: none !important;
-            }
-            .header.compact .compact-stats {
-                display: inline-flex !important;
-                margin: 4px 0 2px 0;
-            }
-            .header.compact .back-button {
-                padding: 4px 10px;
-                font-size: 0.7rem;
-            }
-            .header.compact .user-selector {
-                display: none !important;
-            }
-            .header.compact h2 {
-                font-size: 1rem;
-            }
-            .settings-toggle {
-                margin-top: 0;
-                padding: 4px 8px;
-                font-size: 0.7rem;
-            }
+            .header.compact .stats-summary { display: none !important; }
+            .header.compact .compact-stats { display: inline-flex !important; margin: 4px 0 2px 0; }
+            .header.compact .back-button { padding: 4px 10px; font-size: 0.7rem; }
+            .header.compact .user-selector { display: none !important; }
+            .header.compact h2 { font-size: 1rem; }
+            .settings-toggle { margin-top: 0; padding: 4px 8px; font-size: 0.7rem; }
         }
-        
         .back-button { background: #ecf5ff; border: none; padding: 6px 16px; border-radius: 30px; font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #2c7a4d; text-decoration: none; }
         .stats-summary { background: #f8f9fc; border-radius: 20px; padding: 8px 12px; margin-top: 12px; margin-bottom: 12px; font-size: 0.8rem; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; border: 1px solid #e9ecef; transition: all 0.2s; }
         .stats-numbers { display: flex; flex-wrap: wrap; gap: 12px; font-weight: 500; }
@@ -172,7 +130,6 @@
         footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #8c9aa8; padding-bottom: 20px; }
         .toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); background: #2c7a4d; color: white; padding: 10px 24px; border-radius: 30px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.2s; white-space: nowrap; }
         .toast.show { opacity: 1; }
-        
         .fab-wrong {
             position: fixed;
             bottom: max(20px, env(safe-area-inset-bottom));
@@ -221,7 +178,6 @@
 </head>
 <body>
 <div class="container">
-    <!-- Header with sticky and compact support -->
     <div class="header" id="stickyHeader">
         <div class="header-inner">
             <h2 style="margin:0; font-size:1.25rem; color:#2c7a4d;">📝 错题练习</h2>
@@ -247,8 +203,6 @@
             </div>
             <div class="stat-rate">📊 正确率: <strong id="correctRate">0%</strong></div>
         </div>
-        
-        <!-- Collapsible settings panel (same as quiz_player) -->
         <div class="settings-panel" id="settingsPanel">
             <div class="setting-group">
                 <label>📂 筛选章节</label>
@@ -266,71 +220,25 @@
             </div>
         </div>
     </div>
-
-    <div id="quizContainer">
-        <div class="loading-spinner">⏳ 正在加载错题数据...</div>
-    </div>
+    <div id="quizContainer"><div class="loading-spinner">⏳ 正在加载错题数据...</div></div>
     <footer>📝 单选/填空题自动核对答案；多选题需点击“核对答案”按钮。可从错题本移除。</footer>
 </div>
-
-<div id="wrongFab" class="fab-wrong">
-    📝
-    <span id="wrongBadge" class="fab-badge">0</span>
-</div>
-
+<div id="wrongFab" class="fab-wrong">📝<span id="wrongBadge" class="fab-badge">0</span></div>
 <div id="toastMessage" class="toast"></div>
 
 <script src="pako.min.js"></script>
 <script src="wrong_sync.js"></script>
 <script>
-    // ==================== Global state ====================
-    let allQuestions = [];
-    let currentQuestions = [];
-    let userAnswers = [];
-    let answerChecked = [];
-
+    let allQuestions = [], currentQuestions = [], userAnswers = [], answerChecked = [];
     const toast = document.getElementById('toastMessage');
-    function showToast(msg) {
-        toast.textContent = msg;
-        toast.classList.add('show');
-        toast.style.opacity = '1';
-        setTimeout(() => {
-            toast.classList.remove('show');
-            toast.style.opacity = '0';
-        }, 2000);
-    }
-
-    function unescapeHtml(html) {
-        if (!html) return '';
-        const div = document.createElement('div');
-        div.innerHTML = html;
-        return div.textContent || div.innerText || '';
-    }
-
-    function escapeHtml(str) {
-        if (!str) return '';
-        return str.replace(/[&<>]/g, function(m) {
-            if (m === '&') return '&amp;';
-            if (m === '<') return '&lt;';
-            if (m === '>') return '&gt;';
-            return m;
-        });
-    }
-
-    function getDifficultyLabel(d) {
-        if (!d) return "通用";
-        if (d.includes("Analyzing")) return "分析";
-        if (d.includes("Applying")) return "应用";
-        if (d.includes("Understanding")) return "理解";
-        if (d.includes("Evaluating")) return "评价";
-        if (d.includes("中级")) return "中级";
-        return d.split('-').pop() || d;
-    }
-
+    function showToast(msg) { toast.textContent = msg; toast.classList.add('show'); toast.style.opacity = '1'; setTimeout(() => { toast.classList.remove('show'); toast.style.opacity = '0'; }, 2000); }
+    function unescapeHtml(html) { if (!html) return ''; const div = document.createElement('div'); div.innerHTML = html; return div.textContent || div.innerText || ''; }
+    function escapeHtml(str) { if (!str) return ''; return str.replace(/[&<>]/g, m => m === '&' ? '&amp;' : m === '<' ? '&lt;' : '&gt;'); }
+    function getDifficultyLabel(d) { if (!d) return "通用"; if (d.includes("Analyzing")) return "分析"; if (d.includes("Applying")) return "应用"; if (d.includes("Understanding")) return "理解"; if (d.includes("Evaluating")) return "评价"; if (d.includes("中级")) return "中级"; return d.split('-').pop() || d; }
+    
     function isAnswerCorrect(q, userAns) {
         const options = q.optionList || [];
         const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
-        
         if (q.type === '3') {
             const correctOpt = options.find(opt => opt.isRight === "1");
             if (!correctOpt) return false;
@@ -338,39 +246,33 @@
             if (!userAns || userAns.trim() === "") return false;
             const userNum = parseFloat(userAns.trim());
             const correctNum = parseFloat(correctPlain.trim());
-            if (!isNaN(userNum) && !isNaN(correctNum)) {
-                return Math.abs(userNum - correctNum) <= 0.05;
-            }
+            if (!isNaN(userNum) && !isNaN(correctNum)) return Math.abs(userNum - correctNum) <= 0.05;
             return userAns.trim().toLowerCase() === correctPlain.toLowerCase();
         }
-        
         if (q.type === '1') {
             const selected = userAns || [];
             if (!Array.isArray(selected)) return false;
             if (selected.length !== correctIds.length) return false;
-            const sortedSelected = [...selected].sort();
-            const sortedCorrect = [...correctIds].sort();
-            return JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
+            return JSON.stringify([...selected].sort()) === JSON.stringify([...correctIds].sort());
         } else {
             return userAns != null && correctIds.length === 1 && correctIds[0] === userAns;
         }
     }
-
+    
     function isQuestionAnswered(q, ans, checkedFlag) {
         if (q.type === '0') return ans !== null && ans !== undefined;
         if (q.type === '1') return checkedFlag === true;
         if (q.type === '3') return checkedFlag === true;
         return false;
     }
-
+    
     function computeStats() {
         let total = currentQuestions.length, answered = 0, correct = 0, incorrect = 0;
         for (let i = 0; i < total; i++) {
             const q = currentQuestions[i];
             const ans = userAnswers[i];
             const checked = answerChecked[i];
-            const answeredFlag = isQuestionAnswered(q, ans, checked);
-            if (answeredFlag) {
+            if (isQuestionAnswered(q, ans, checked)) {
                 answered++;
                 if (isAnswerCorrect(q, ans)) correct++;
                 else incorrect++;
@@ -378,7 +280,7 @@
         }
         return { total, answered, correct, incorrect, unanswered: total - answered, rate: total === 0 ? 0 : (correct/total)*100 };
     }
-
+    
     function updateStatsDisplay() {
         const stats = computeStats();
         document.getElementById('totalCount').textContent = stats.total;
@@ -387,12 +289,16 @@
         document.getElementById('incorrectCount').textContent = stats.incorrect;
         document.getElementById('unansweredCount').textContent = stats.unanswered;
         document.getElementById('correctRate').textContent = Math.round(stats.rate) + '%';
-        const compactStatsDiv = document.getElementById('compactStats');
-        if (compactStatsDiv) {
-            compactStatsDiv.innerHTML = `📊 ${Math.round(stats.rate)}% | ${stats.correct}/${stats.total}`;
-        }
+        const compact = document.getElementById('compactStats');
+        if (compact) compact.innerHTML = `📊 ${Math.round(stats.rate)}% | ${stats.correct}/${stats.total}`;
     }
-
+    
+    function updateWrongCount() {
+        const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
+        const badge = document.getElementById('wrongBadge');
+        if (badge) badge.textContent = count;
+    }
+    
     function renderQuiz() {
         const container = document.getElementById('quizContainer');
         if (!currentQuestions.length) {
@@ -411,8 +317,7 @@
             const checked = answerChecked[idx] || false;
             const difficultyLabel = getDifficultyLabel(q.difficulty);
             const qNum = idx + 1;
-
-            html += `<div class="card" data-qidx="${idx}">
+            html += `<div class="card" data-unique="${q._sourceFile}::${q._questionIndex}">
                 <div class="question-header">
                     <span class="tag">${isMulti ? '多选题' : (isFill ? '填空题' : '单选题')}</span>
                     <span class="difficulty-badge">📊 ${difficultyLabel}</span>
@@ -420,30 +325,19 @@
                     <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
                 </div>
                 <div class="options" id="options-${idx}">`;
-
             if (isFill) {
-                html += `<div class="answer-input" style="margin-bottom:12px;">
-                            <label style="font-weight:500;">✍️ 你的答案：</label>
-                            <input type="text" class="type3-input" data-idx="${idx}" value="${escapeHtml(userSel || '')}" placeholder="请输入答案" style="width:100%; padding:8px; margin-top:4px; border-radius:8px; border:1px solid #ccc;">
-                        </div>
-                        <div style="margin-top:8px; text-align:right;">
-                            <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>
-                        </div>`;
+                html += `<div class="answer-input"><label>✍️ 你的答案：</label><input type="text" class="type3-input" data-idx="${idx}" value="${escapeHtml(userSel || '')}" placeholder="请输入答案"></div>
+                         <div><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
             } else {
                 options.forEach((opt, optIdx) => {
                     const letter = String.fromCharCode(65+optIdx);
                     const isChecked = isMulti ? (userSel || []).includes(opt.id) : (userSel === opt.id);
-                    html += `<div class="option">
-                        <span class="prefix">${letter}.</span>
-                        <input type="${isMulti ? 'checkbox' : 'radio'}" name="q${idx}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
-                        <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label>
-                    </div>`;
+                    html += `<div class="option"><span class="prefix">${letter}.</span>
+                             <input type="${isMulti ? 'checkbox' : 'radio'}" name="q${idx}" value="${opt.id}" id="opt_${idx}_${optIdx}" ${isChecked ? 'checked' : ''}>
+                             <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label></div>`;
                 });
-                if (isMulti) {
-                    html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
-                }
+                if (isMulti) html += `<div><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
             }
-
             const shouldShowFeedback = (isSingle && userSel !== null && userSel !== undefined) || (checked === true);
             if (shouldShowFeedback && (isSingle ? (userSel !== null) : true)) {
                 const isCorrect = isAnswerCorrect(q, userSel);
@@ -453,42 +347,28 @@
                     correctText = correctObj ? unescapeHtml(correctObj.content) : '无答案';
                 } else {
                     const correctOptions = options.filter(o => o.isRight === "1");
-                    correctText = correctOptions.map(o => {
-                        const letter = String.fromCharCode(65 + options.findIndex(x => x.id === o.id));
-                        return `${letter}. ${unescapeHtml(o.content)}`;
-                    }).join(' ;  ');
+                    correctText = correctOptions.map(o => `${String.fromCharCode(65+options.findIndex(x=>x.id===o.id))}. ${unescapeHtml(o.content)}`).join(' ;  ');
                 }
                 let userText = '';
-                if (isFill) {
-                    userText = unescapeHtml(userSel || '未填');
-                } else if (isMulti) {
+                if (isFill) userText = unescapeHtml(userSel || '未填');
+                else if (isMulti) {
                     if (!userSel || userSel.length === 0) userText = '未选任何选项';
-                    else {
-                        const selectedOptions = options.filter(o => userSel.includes(o.id));
-                        userText = selectedOptions.map(o => {
-                            const letter = String.fromCharCode(65 + options.findIndex(x => x.id === o.id));
-                            return `${letter}. ${unescapeHtml(o.content)}`;
-                        }).join(' ;  ');
-                    }
+                    else userText = options.filter(o=>userSel.includes(o.id)).map(o=>`${String.fromCharCode(65+options.findIndex(x=>x.id===o.id))}. ${unescapeHtml(o.content)}`).join(' ;  ');
                 } else {
-                    const selectedOption = options.find(o => o.id === userSel);
-                    userText = selectedOption ? `${String.fromCharCode(65 + options.findIndex(x => x.id === userSel))}. ${unescapeHtml(selectedOption.content)}` : '未选';
+                    const selectedOption = options.find(o=>o.id===userSel);
+                    userText = selectedOption ? `${String.fromCharCode(65+options.findIndex(x=>x.id===userSel))}. ${unescapeHtml(selectedOption.content)}` : '未选';
                 }
-                const correctClass = "correct-answer";
-                const userAnswerClass = isCorrect ? "your-answer-correct" : "your-answer-incorrect";
                 html += `<div class="feedback">
-                            <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
-                            <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
+                            <div class="correct-answer">✅ 正确答案： ${correctText}</div>
+                            <div class="${isCorrect ? 'your-answer-correct' : 'your-answer-incorrect'}">📝 你的答案： ${userText}</div>
                             <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
                         </div>`;
             }
-
-            html += `<button class="btn-remove" data-qidx="${idx}">🗑️ 从错题本移除</button>`;
-            html += `</div></div>`;
+            html += `<button class="btn-remove">🗑️ 从错题本移除</button></div></div>`;
         });
         container.innerHTML = html;
-
-        // Attach event listeners (unchanged)
+        
+        // attach answer event listeners (unchanged)
         currentQuestions.forEach((q, idx) => {
             if (q.type === '3') return;
             const div = document.getElementById(`options-${idx}`);
@@ -511,76 +391,86 @@
                 });
             });
         });
-
         document.querySelectorAll('.type3-input').forEach(input => {
-            const idx = parseInt(input.getAttribute('data-idx'));
+            const idx = parseInt(input.dataset.idx);
             input.addEventListener('input', (e) => {
                 userAnswers[idx] = e.target.value;
-                if (answerChecked[idx] === true) {
-                    answerChecked[idx] = false;
-                    renderQuiz();
-                } else {
-                    clearTimeout(window._fillDebounce);
-                    window._fillDebounce = setTimeout(() => renderQuiz(), 200);
-                }
+                if (answerChecked[idx] === true) { answerChecked[idx] = false; renderQuiz(); }
+                else { clearTimeout(window._fillDebounce); window._fillDebounce = setTimeout(() => renderQuiz(), 200); }
             });
         });
-
         document.querySelectorAll('.btn-check').forEach(btn => {
-            const idx = parseInt(btn.getAttribute('data-idx'));
+            const idx = parseInt(btn.dataset.idx);
             btn.addEventListener('click', () => {
                 const q = currentQuestions[idx];
                 if (!q) return;
                 if (q.type === '1') {
-                    const ans = userAnswers[idx];
-                    if (!ans || (Array.isArray(ans) && ans.length === 0)) {
-                        showToast('请至少选择一个选项', 1500);
-                        return;
-                    }
-                    answerChecked[idx] = true;
-                    renderQuiz();
+                    if (!userAnswers[idx] || userAnswers[idx].length === 0) { showToast('请至少选择一个选项', 1500); return; }
+                    answerChecked[idx] = true; renderQuiz();
                 } else if (q.type === '3') {
-                    const ans = userAnswers[idx];
-                    if (!ans || ans.trim() === '') {
-                        showToast('请填写答案', 1500);
-                        return;
-                    }
-                    answerChecked[idx] = true;
-                    renderQuiz();
+                    if (!userAnswers[idx] || userAnswers[idx].trim() === '') { showToast('请填写答案', 1500); return; }
+                    answerChecked[idx] = true; renderQuiz();
                 }
             });
         });
-
+        
+        // ========== OPTIMIZED REMOVE HANDLER (FIXED) ==========
         document.querySelectorAll('.btn-remove').forEach(btn => {
             btn.addEventListener('click', () => {
-                const qidx = parseInt(btn.getAttribute('data-qidx'));
-                const q = currentQuestions[qidx];
+                const card = btn.closest('.card');
+                if (!card) return;
+                // Get the unique identifier stored in data-unique
+                const uniqueId = card.getAttribute('data-unique');
+                if (!uniqueId) return;
+                const [filePath, questionIndex] = uniqueId.split('::');
+                // Find the question object in currentQuestions
+                const q = currentQuestions.find(item => item._sourceFile === filePath && item._questionIndex === parseInt(questionIndex));
                 if (!q) return;
-                let arr = getWrongLocal();
-                const newArr = arr.filter(item => !(item.filePath === q._sourceFile && item.questionIndex === q._questionIndex));
-                setWrongLocal(newArr);
+                
+                // 1. Remove card from DOM instantly
+                card.remove();
+                
+                // 2. Find index in currentQuestions (safe using the object)
+                const index = currentQuestions.indexOf(q);
+                if (index !== -1) {
+                    currentQuestions.splice(index, 1);
+                    userAnswers.splice(index, 1);
+                    answerChecked.splice(index, 1);
+                }
+                
+                // 3. Update localStorage with tombstone
+                let wrongArr = getWrongLocal();
+                const entryIndex = wrongArr.findIndex(item => item.filePath === filePath && item.questionIndex === parseInt(questionIndex));
+                if (entryIndex !== -1) {
+                    wrongArr[entryIndex].deleted = true;
+                    wrongArr[entryIndex].timestamp = Date.now();
+                    setWrongLocal(wrongArr);
+                }
+                
+                // 4. Remove from master allQuestions
+                allQuestions = allQuestions.filter(item => !(item._sourceFile === filePath && item._questionIndex === parseInt(questionIndex)));
+                
+                // 5. Update stats and FAB badge (after localStorage updated)
+                updateStatsDisplay();
+                updateWrongCount();   // now reads the correct count
+                
+                // 6. Trigger cloud sync (background)
                 if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
-                allQuestions = allQuestions.filter(item => !(item._sourceFile === q._sourceFile && item._questionIndex === q._questionIndex));
-                applyFilterAndRender();
+                
+                // 7. Show toast
                 showToast('已从错题本移除');
-                setTimeout(() => updateWrongCount(), 50);
             });
         });
-
+        
         updateStatsDisplay();
     }
-
+    
     function applyFilterAndRender() {
         const filterVal = document.getElementById('chapterFilter').value;
         let filtered = allQuestions;
-        if (filterVal !== 'all') {
-            filtered = allQuestions.filter(q => q._sourceFile.split('/').pop().replace('.json','') === filterVal);
-        }
+        if (filterVal !== 'all') filtered = allQuestions.filter(q => q._sourceFile.split('/').pop().replace('.json','') === filterVal);
         if (document.getElementById('randomizeCheck').checked) {
-            for (let i = filtered.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
-            }
+            for (let i = filtered.length - 1; i > 0; i--) { const j = Math.floor(Math.random()*(i+1)); [filtered[i], filtered[j]] = [filtered[j], filtered[i]]; }
         }
         currentQuestions = filtered;
         userAnswers = new Array(filtered.length).fill(null);
@@ -593,24 +483,14 @@
         renderQuiz();
         updateWrongCount();
     }
-
+    
     async function loadAllData() {
-        if (typeof syncWrongQuestions === 'function') {
-            try { await syncWrongQuestions(); } catch(e) { console.warn(e); }
-        }
+        if (typeof syncWrongQuestions === 'function') { try { await syncWrongQuestions(); } catch(e) {} }
         const refs = getWrongLocal();
         const fileMap = new Map();
-        for (const ref of refs) {
-            if (!fileMap.has(ref.filePath)) fileMap.set(ref.filePath, []);
-            fileMap.get(ref.filePath).push(ref.questionIndex);
-        }
+        for (const ref of refs) { if (!fileMap.has(ref.filePath)) fileMap.set(ref.filePath, []); fileMap.get(ref.filePath).push(ref.questionIndex); }
         const fetchPromises = [];
-        for (const [fp, indices] of fileMap.entries()) {
-            fetchPromises.push(
-                fetch(fp).then(res => res.json()).then(data => ({ filePath: fp, data }))
-                .catch(err => ({ filePath: fp, error: true }))
-            );
-        }
+        for (const [fp, indices] of fileMap.entries()) { fetchPromises.push(fetch(fp).then(res=>res.json()).then(data=>({filePath:fp, data})).catch(()=>({filePath:fp, error:true}))); }
         const results = await Promise.all(fetchPromises);
         const parseQuestions = (jsonObj) => {
             try {
@@ -638,21 +518,13 @@
             }
         }
         const chapterSet = new Set();
-        allQuestions.forEach(q => {
-            const name = q._sourceFile.split('/').pop().replace('.json','');
-            chapterSet.add(name);
-        });
+        allQuestions.forEach(q => { const name = q._sourceFile.split('/').pop().replace('.json',''); chapterSet.add(name); });
         const select = document.getElementById('chapterFilter');
         select.innerHTML = '<option value="all">全部</option>';
-        for (const name of Array.from(chapterSet).sort()) {
-            const opt = document.createElement('option');
-            opt.value = name;
-            opt.textContent = name;
-            select.appendChild(opt);
-        }
+        for (const name of Array.from(chapterSet).sort()) { const opt = document.createElement('option'); opt.value = name; opt.textContent = name; select.appendChild(opt); }
         applyFilterAndRender();
     }
-
+    
     function clearAllWrong() {
         if (confirm('⚠️ 确定要清空所有错题吗？此操作不可撤销。')) {
             setWrongLocal([]);
@@ -663,23 +535,14 @@
             updateWrongCount();
         }
     }
-
-    function updateWrongCount() {
-        const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
-        const badge = document.getElementById('wrongBadge');
-        if (badge) badge.textContent = count;
-    }
-
-    // User lock and sync
+    
     (function() {
         const userSelect = document.getElementById('userSelect');
         if (!userSelect) return;
         const storedId = localStorage.getItem('quiz_user_id');
         if (storedId) {
             userSelect.value = storedId;
-            for (const opt of userSelect.options) {
-                if (opt.value !== storedId && opt.value !== '') opt.disabled = true;
-            }
+            for (const opt of userSelect.options) { if (opt.value !== storedId && opt.value !== '') opt.disabled = true; }
             userSelect.disabled = true;
             userSelect.style.opacity = '0.7';
             userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
@@ -688,17 +551,14 @@
             const val = userSelect.value;
             if (!val) return;
             localStorage.setItem('quiz_user_id', val);
-            for (const opt of userSelect.options) {
-                if (opt.value !== val && opt.value !== '') opt.disabled = true;
-            }
+            for (const opt of userSelect.options) { if (opt.value !== val && opt.value !== '') opt.disabled = true; }
             userSelect.disabled = true;
             userSelect.style.opacity = '0.7';
             userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
             loadAllData();
         });
     })();
-
-    // Sticky header compact mode
+    
     function initScrollCompact() {
         const headerEl = document.getElementById('stickyHeader');
         if (!headerEl) return;
@@ -715,39 +575,28 @@
             ticking = false;
         }
         function onScroll() {
-            if (!ticking) {
-                requestAnimationFrame(applyCompactState);
-                ticking = true;
-            }
+            if (!ticking) { requestAnimationFrame(applyCompactState); ticking = true; }
             if (timeoutId) clearTimeout(timeoutId);
             timeoutId = setTimeout(applyCompactState, 100);
         }
-        function onResize() { applyCompactState(); }
         window.addEventListener('scroll', onScroll, { passive: true });
-        window.addEventListener('resize', onResize);
+        window.addEventListener('resize', applyCompactState);
         applyCompactState();
     }
-
-    // Settings panel toggle
+    
     document.getElementById('settingsToggle').addEventListener('click', () => {
         const panel = document.getElementById('settingsPanel');
         if (panel.classList.contains('open')) panel.classList.remove('open');
-        else {
-            panel.classList.add('open');
-            setTimeout(() => panel.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
-        }
+        else { panel.classList.add('open'); setTimeout(() => panel.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50); }
     });
-
     document.getElementById('applyBtn').addEventListener('click', applyFilterAndRender);
     document.getElementById('clearAllWrongBtn').addEventListener('click', clearAllWrong);
-    const fab = document.getElementById('wrongFab');
-    if (fab) fab.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; });
-
+    document.getElementById('wrongFab')?.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; });
+    
     updateWrongCount();
     document.addEventListener('visibilitychange', () => { if (!document.hidden) updateWrongCount(); });
     window.addEventListener('storage', (e) => { if (e.key === 'wrong_questions') updateWrongCount(); });
     window.addEventListener('focus', updateWrongCount);
-
     initScrollCompact();
     loadAllData();
 </script>
