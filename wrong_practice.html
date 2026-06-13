@@ -42,14 +42,15 @@
         .your-answer-correct { color: #2c7a4d; font-weight: 500; }
         .analysis { margin-top: 12px; color: #5a6874; background: #fff6e0; padding: 12px 16px; border-radius: 12px; white-space: pre-wrap; font-size: 0.85rem; }
         .btn-check { background-color: #2c7a4d; color: white; border: none; padding: 8px 20px; border-radius: 30px; font-size: 0.85rem; cursor: pointer; margin-top: 8px; }
-        .btn-remove { background: #d9534f; color: white; border: none; padding: 6px 16px; border-radius: 20px; font-size: 0.8rem; cursor: pointer; margin-top: 8px; }
+        .btn-remove { background: #d9534f; color: white; border: none; padding: 6px 16px; border-radius: 20px; font-size: 0.8rem; cursor: pointer; margin-top: 8px; margin-bottom: 8px; }
         .btn-remove:hover { background: #c9302c; }
+        .type3-input { width: 100%; padding: 10px 12px; font-size: 1rem; border: 1px solid #ccc; border-radius: 12px; margin-top: 4px; background: white; }
         .loading-spinner { text-align: center; padding: 60px; font-size: 1.2rem; color: #888; }
         footer { text-align: center; margin-top: 32px; font-size: 0.75rem; color: #8c9aa8; padding-bottom: 20px; }
         .toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); background: #2c7a4d; color: white; padding: 10px 24px; border-radius: 30px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.2s; white-space: nowrap; }
         .toast.show { opacity: 1; }
         
-        /* Floating Wrong-Question Button (FAB) - same as index/quiz */
+        /* Floating Wrong-Question Button */
         .fab-wrong {
             position: fixed;
             bottom: max(20px, env(safe-area-inset-bottom));
@@ -69,9 +70,7 @@
             border: none;
             font-size: clamp(24px, 5vw, 32px);
         }
-        .fab-wrong:active {
-            transform: scale(0.96);
-        }
+        .fab-wrong:active { transform: scale(0.96); }
         .fab-badge {
             position: absolute;
             top: -4px;
@@ -87,20 +86,9 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
         }
         @media (orientation: landscape) and (max-height: 500px) {
-            .fab-wrong {
-                width: 48px;
-                height: 48px;
-                font-size: 24px;
-                bottom: 12px;
-                right: 12px;
-            }
-            .fab-badge {
-                font-size: 10px;
-                padding: 1px 5px;
-                min-width: 20px;
-            }
+            .fab-wrong { width: 48px; height: 48px; font-size: 24px; bottom: 12px; right: 12px; }
+            .fab-badge { font-size: 10px; padding: 1px 5px; min-width: 20px; }
         }
-        
         @media (max-width: 700px) {
             .stats-numbers { gap: 8px; }
             .stats-numbers span { font-size: 0.75rem; }
@@ -147,10 +135,10 @@
     <div id="quizContainer">
         <div class="loading-spinner">⏳ 正在加载错题数据...</div>
     </div>
-    <footer>🗑️ 每道题下方可手动移除错题。正确率仅统计已核对答案的题目。</footer>
+    <footer>📝 单选/填空题自动核对答案；多选题需点击“核对答案”按钮。可从错题本移除。</footer>
 </div>
 
-<!-- Floating Wrong-Question Button (also here, but leads to same page - could be removed, but kept for consistency) -->
+<!-- Floating Wrong-Question Button -->
 <div id="wrongFab" class="fab-wrong">
     📝
     <span id="wrongBadge" class="fab-badge">0</span>
@@ -162,10 +150,10 @@
 <script src="wrong_sync.js"></script>
 <script>
     // ==================== Global state ====================
-    let allQuestions = [];          // { ...question, _sourceFile, _questionIndex }
+    let allQuestions = [];
     let currentQuestions = [];
     let userAnswers = [];
-    let answerStatus = [];
+    let answerChecked = [];
 
     const toast = document.getElementById('toastMessage');
     function showToast(msg) {
@@ -185,6 +173,16 @@
         return div.textContent || div.innerText || '';
     }
 
+    function escapeHtml(str) {
+        if (!str) return '';
+        return str.replace(/[&<>]/g, function(m) {
+            if (m === '&') return '&amp;';
+            if (m === '<') return '&lt;';
+            if (m === '>') return '&gt;';
+            return m;
+        });
+    }
+
     function getDifficultyLabel(d) {
         if (!d) return "通用";
         if (d.includes("Analyzing")) return "分析";
@@ -195,99 +193,21 @@
         return d.split('-').pop() || d;
     }
 
-    // ==================== Data loading ====================
-    async function loadAllData() {
-        // Sync before loading to ensure latest wrong list
-        if (typeof syncWrongQuestions === 'function') {
-            try { await syncWrongQuestions(); } catch(e) { console.warn(e); }
-        }
-        const refs = getWrongLocal(); // returns active entries with timestamp/deleted=false
-
-        const fileMap = new Map();
-        for (const ref of refs) {
-            if (!fileMap.has(ref.filePath)) fileMap.set(ref.filePath, []);
-            fileMap.get(ref.filePath).push(ref.questionIndex);
-        }
-
-        const fetchPromises = [];
-        for (const [fp, indices] of fileMap.entries()) {
-            fetchPromises.push(
-                fetch(fp).then(res => res.json()).then(data => ({ filePath: fp, data }))
-                .catch(err => ({ filePath: fp, error: true }))
-            );
-        }
-        const results = await Promise.all(fetchPromises);
-
-        const parseQuestions = (jsonObj) => {
-            try {
-                let arr = null;
-                if (jsonObj.data?.record?.extJson?.studentQuestionArray) arr = jsonObj.data.record.extJson.studentQuestionArray;
-                else if (jsonObj.record?.extJson?.studentQuestionArray) arr = jsonObj.record.extJson.studentQuestionArray;
-                else if (jsonObj.extJson?.studentQuestionArray) arr = jsonObj.extJson.studentQuestionArray;
-                else if (jsonObj.studentQuestionArray) arr = jsonObj.studentQuestionArray;
-                return arr;
-            } catch(e) { return null; }
-        };
-
-        allQuestions = [];
-        for (const res of results) {
-            if (res.error) continue;
-            const questions = parseQuestions(res.data);
-            if (!questions) continue;
-            const indices = fileMap.get(res.filePath);
-            for (const idx of indices) {
-                if (idx >= 0 && idx < questions.length) {
-                    const q = questions[idx];
-                    q._sourceFile = res.filePath;
-                    q._questionIndex = idx;
-                    allQuestions.push(q);
-                }
-            }
-        }
-
-        // Populate filter dropdown
-        const chapterSet = new Set();
-        allQuestions.forEach(q => {
-            const name = q._sourceFile.split('/').pop().replace('.json','');
-            chapterSet.add(name);
-        });
-        const select = document.getElementById('chapterFilter');
-        select.innerHTML = '<option value="all">全部</option>';
-        for (const name of Array.from(chapterSet).sort()) {
-            const opt = document.createElement('option');
-            opt.value = name;
-            opt.textContent = name;
-            select.appendChild(opt);
-        }
-
-        // Apply filter and render
-        applyFilterAndRender();
-    }
-
-    // ==================== Filter & Render ====================
-    function applyFilterAndRender() {
-        const filterVal = document.getElementById('chapterFilter').value;
-        let filtered = allQuestions;
-        if (filterVal !== 'all') {
-            filtered = allQuestions.filter(q => q._sourceFile.split('/').pop().replace('.json','') === filterVal);
-        }
-        if (document.getElementById('randomizeCheck').checked) {
-            for (let i = filtered.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
-            }
-        }
-        currentQuestions = filtered;
-        userAnswers = new Array(filtered.length).fill(null);
-        answerStatus = new Array(filtered.length).fill(false);
-        renderQuiz();
-        updateWrongCount(); // update FAB badge
-    }
-
-    function isQuestionCorrect(q, userAns) {
+    function isAnswerCorrect(q, userAns) {
         const options = q.optionList || [];
         const correctIds = options.filter(opt => opt.isRight === "1").map(opt => opt.id);
-        if (q.type === '3') return false; // fill-in not auto-graded in wrong practice (user must self-check)
+        if (q.type === '3') {
+            const correctHtml = correctIds.length ? correctIds[0] : null;
+            if (!correctHtml) return false;
+            const correctPlain = unescapeHtml(correctHtml);
+            if (!userAns || userAns.trim() === "") return false;
+            const userNum = parseFloat(userAns.trim());
+            const correctNum = parseFloat(correctPlain.trim());
+            if (!isNaN(userNum) && !isNaN(correctNum)) {
+                return Math.abs(userNum - correctNum) <= 0.05;
+            }
+            return userAns.trim().toLowerCase() === correctPlain.toLowerCase();
+        }
         if (q.type === '1') {
             const selected = userAns || [];
             if (!Array.isArray(selected)) return false;
@@ -300,15 +220,28 @@
         }
     }
 
+    // Determine if a question is considered "answered" for stats
+    function isQuestionAnswered(q, ans, checkedFlag) {
+        if (q.type === '0') {
+            return ans !== null && ans !== undefined;
+        } else if (q.type === '1') {
+            return checkedFlag === true;
+        } else if (q.type === '3') {
+            return checkedFlag === true;
+        }
+        return false;
+    }
+
     function computeStats() {
         let total = currentQuestions.length, answered = 0, correct = 0, incorrect = 0;
         for (let i = 0; i < total; i++) {
             const q = currentQuestions[i];
-            if (q.type === '3') continue; // fill-in not counted in stats (optional)
-            const hasAnswer = (q.type === '1') ? (userAnswers[i] && userAnswers[i].length > 0) : (userAnswers[i] != null);
-            if (hasAnswer) answered++;
-            if (answerStatus[i] && hasAnswer) {
-                if (isQuestionCorrect(q, userAnswers[i])) correct++;
+            const ans = userAnswers[i];
+            const checked = answerChecked[i];
+            const answeredFlag = isQuestionAnswered(q, ans, checked);
+            if (answeredFlag) {
+                answered++;
+                if (isAnswerCorrect(q, ans)) correct++;
                 else incorrect++;
             }
         }
@@ -337,43 +270,31 @@
             const qType = q.type;
             const options = q.optionList || [];
             const isMulti = (qType === '1');
+            const isFill = (qType === '3');
+            const isSingle = (!isMulti && !isFill);
             const userSel = userAnswers[idx] || (isMulti ? [] : null);
-            const checked = answerStatus[idx] || false;
+            const checked = answerChecked[idx] || false;
             const difficultyLabel = getDifficultyLabel(q.difficulty);
             const qNum = idx + 1;
 
             html += `<div class="card" data-qidx="${idx}">
                 <div class="question-header">
-                    <span class="tag">${isMulti ? '多选题' : (qType === '3' ? '填空题' : '单选题')}</span>
+                    <span class="tag">${isMulti ? '多选题' : (isFill ? '填空题' : '单选题')}</span>
                     <span class="difficulty-badge">📊 ${difficultyLabel}</span>
                     <span class="question-number">${qNum}</span>
                     <div class="question-title">${unescapeHtml(q.content) || '无题目'}</div>
                 </div>
                 <div class="options" id="options-${idx}">`;
 
-            if (qType === '3') {
-                // Fill-in: just show correct answer and explanation
-                const correctAnswerObj = options[0];
-                const correctText = correctAnswerObj ? unescapeHtml(correctAnswerObj.content) : '无答案';
-                html += `<div style="background:#fef5e7; padding:12px; border-radius:12px;">
-                            <strong>📌 填空题</strong><br/>
-                            <span class="correct-answer">✅ 正确答案： ${correctText}</span>
-                         </div>`;
-                if (checked) {
-                    const userAnswer = userAnswers[idx] || '';
-                    html += `<div class="feedback">
-                                <div class="${userAnswer ? 'your-answer-incorrect' : ''}">📝 你的答案： ${unescapeHtml(userAnswer) || '未填'}</div>
-                                <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
-                            </div>`;
-                } else {
-                    html += `<div class="answer-input" style="margin:12px 0;">
-                                <label style="font-weight:500;">✍️ 你的答案：</label>
-                                <input type="text" class="type3-input" data-idx="${idx}" value="${escapeHtml(userAnswers[idx] || '')}" placeholder="输入答案" style="width:100%; padding:8px; margin-top:4px; border-radius:8px; border:1px solid #ccc;">
-                            </div>
-                            <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>`;
-                }
+            if (isFill) {
+                html += `<div class="answer-input" style="margin-bottom:12px;">
+                            <label style="font-weight:500;">✍️ 你的答案：</label>
+                            <input type="text" class="type3-input" data-idx="${idx}" value="${escapeHtml(userSel || '')}" placeholder="请输入答案" style="width:100%; padding:8px; margin-top:4px; border-radius:8px; border:1px solid #ccc;">
+                        </div>
+                        <div style="margin-top:8px; text-align:right;">
+                            <button class="btn-check" data-idx="${idx}">✓ 核对答案</button>
+                        </div>`;
             } else {
-                // Multiple or single choice
                 options.forEach((opt, optIdx) => {
                     const letter = String.fromCharCode(65+optIdx);
                     const isChecked = isMulti ? (userSel || []).includes(opt.id) : (userSel === opt.id);
@@ -383,58 +304,61 @@
                         <label for="opt_${idx}_${optIdx}">${unescapeHtml(opt.content)}</label>
                     </div>`;
                 });
-                if (!checked) {
-                    html += `<button class="btn-check" data-idx="${idx}">✓ 核对答案</button>`;
-                }
-                if (checked) {
-                    const isCorrect = isQuestionCorrect(q, userSel);
-                    const correctText = options.filter(o=>o.isRight==="1").map(o=>{
-                        let letter = String.fromCharCode(65+options.findIndex(x=>x.id===o.id));
-                        return `${letter}. ${unescapeHtml(o.content)}`;
-                    }).join(' ;  ');
-                    let userText = '';
-                    if (isMulti) {
-                        userText = (userSel||[]).map(id=>{
-                            let idxOpt = options.findIndex(o=>o.id===id);
-                            return `${String.fromCharCode(65+idxOpt)}. ${unescapeHtml(options[idxOpt].content)}`;
-                        }).join(' ; ') || '未选';
-                    } else {
-                        let selOpt = options.find(o=>o.id===userSel);
-                        userText = selOpt ? `${String.fromCharCode(65+options.findIndex(x=>x.id===userSel))}. ${unescapeHtml(selOpt.content)}` : '未选';
-                    }
-                    html += `<div class="feedback">
-                        <div class="correct-answer">✅ 正确答案： ${correctText}</div>
-                        <div class="${isCorrect ? 'your-answer-correct' : 'your-answer-incorrect'}">📝 你的答案： ${userText}</div>
-                        <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
-                    </div>`;
+                if (isMulti) {
+                    html += `<div style="margin-top:12px; text-align:right;"><button class="btn-check" data-idx="${idx}">✓ 核对答案</button></div>`;
                 }
             }
+
+            // Feedback section – exactly as in quiz_player.html
+            const shouldShowFeedback = (isSingle && userSel !== null && userSel !== undefined) || (checked === true);
+            if (shouldShowFeedback && (isSingle ? (userSel !== null) : true)) {
+                const isCorrect = isAnswerCorrect(q, userSel);
+                // Build correct answer text exactly like quiz_player
+                let correctText = '';
+                if (isFill) {
+                    const correctObj = options[0];
+                    correctText = correctObj ? unescapeHtml(correctObj.content) : '无答案';
+                } else {
+                    const correctOptions = options.filter(o => o.isRight === "1");
+                    correctText = correctOptions.map(o => {
+                        const letter = String.fromCharCode(65 + options.findIndex(x => x.id === o.id));
+                        return `${letter}. ${unescapeHtml(o.content)}`;
+                    }).join(' ;  ');
+                }
+                // Build user answer text
+                let userText = '';
+                if (isFill) {
+                    userText = unescapeHtml(userSel || '未填');
+                } else if (isMulti) {
+                    if (!userSel || userSel.length === 0) userText = '未选任何选项';
+                    else {
+                        const selectedOptions = options.filter(o => userSel.includes(o.id));
+                        userText = selectedOptions.map(o => {
+                            const letter = String.fromCharCode(65 + options.findIndex(x => x.id === o.id));
+                            return `${letter}. ${unescapeHtml(o.content)}`;
+                        }).join(' ;  ');
+                    }
+                } else {
+                    const selectedOption = options.find(o => o.id === userSel);
+                    userText = selectedOption ? `${String.fromCharCode(65 + options.findIndex(x => x.id === userSel))}. ${unescapeHtml(selectedOption.content)}` : '未选';
+                }
+                const correctClass = "correct-answer";
+                const userAnswerClass = isCorrect ? "your-answer-correct" : "your-answer-incorrect";
+                html += `<div class="feedback">
+                            <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
+                            <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
+                            <div class="analysis">📖 解析： ${unescapeHtml(q.textAnalysis || '无解析')}</div>
+                        </div>`;
+            }
+
             html += `<button class="btn-remove" data-qidx="${idx}">🗑️ 从错题本移除</button>`;
             html += `</div></div>`;
         });
         container.innerHTML = html;
 
         // Attach event listeners
-        document.querySelectorAll('.btn-check').forEach(btn => {
-            btn.addEventListener('click', () => {
-                const idx = parseInt(btn.getAttribute('data-idx'));
-                if (!answerStatus[idx]) {
-                    answerStatus[idx] = true;
-                    renderQuiz();
-                }
-            });
-        });
-
-        // Fill-in inputs
-        document.querySelectorAll('.type3-input').forEach(input => {
-            const idx = parseInt(input.getAttribute('data-idx'));
-            input.addEventListener('input', (e) => {
-                userAnswers[idx] = e.target.value;
-            });
-        });
-
-        // Option inputs
         currentQuestions.forEach((q, idx) => {
+            if (q.type === '3') return;
             const div = document.getElementById(`options-${idx}`);
             if (!div) return;
             const inputs = div.querySelectorAll('input');
@@ -446,15 +370,57 @@
                         if (inp.checked) { if (!cur.includes(inp.value)) cur.push(inp.value); }
                         else { cur = cur.filter(v => v !== inp.value); }
                         userAnswers[idx] = cur;
-                        if (answerStatus[idx]) answerStatus[idx] = false;
+                        if (answerChecked[idx] === true) {
+                            answerChecked[idx] = false;
+                        }
+                        renderQuiz();
                     } else {
                         userAnswers[idx] = inp.value;
+                        renderQuiz();
                     }
                 });
             });
         });
 
-        // Remove buttons – using tombstone (mark deleted)
+        document.querySelectorAll('.type3-input').forEach(input => {
+            const idx = parseInt(input.getAttribute('data-idx'));
+            input.addEventListener('input', (e) => {
+                userAnswers[idx] = e.target.value;
+                if (answerChecked[idx] === true) {
+                    answerChecked[idx] = false;
+                    renderQuiz();
+                } else {
+                    clearTimeout(window._fillDebounce);
+                    window._fillDebounce = setTimeout(() => renderQuiz(), 200);
+                }
+            });
+        });
+
+        document.querySelectorAll('.btn-check').forEach(btn => {
+            const idx = parseInt(btn.getAttribute('data-idx'));
+            btn.addEventListener('click', () => {
+                const q = currentQuestions[idx];
+                if (!q) return;
+                if (q.type === '1') {
+                    const ans = userAnswers[idx];
+                    if (!ans || (Array.isArray(ans) && ans.length === 0)) {
+                        showToast('请至少选择一个选项', 1500);
+                        return;
+                    }
+                    answerChecked[idx] = true;
+                    renderQuiz();
+                } else if (q.type === '3') {
+                    const ans = userAnswers[idx];
+                    if (!ans || ans.trim() === '') {
+                        showToast('请填写答案', 1500);
+                        return;
+                    }
+                    answerChecked[idx] = true;
+                    renderQuiz();
+                }
+            });
+        });
+
         document.querySelectorAll('.btn-remove').forEach(btn => {
             btn.addEventListener('click', () => {
                 const qidx = parseInt(btn.getAttribute('data-qidx'));
@@ -466,23 +432,102 @@
                 if (existingIndex !== -1) {
                     arr[existingIndex].deleted = true;
                     arr[existingIndex].timestamp = now;
-                } else {
-                    return; // not found
+                    setWrongLocal(arr);
+                    if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
+                    allQuestions = allQuestions.filter(item => !(item._sourceFile === q._sourceFile && item._questionIndex === q._questionIndex));
+                    applyFilterAndRender();
+                    showToast('已从错题本移除');
+                    updateWrongCount();
                 }
-                setWrongLocal(arr);
-                if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
-                // Remove from allQuestions and currentQuestions, then re-filter
-                allQuestions = allQuestions.filter(item => !(item._sourceFile === q._sourceFile && item._questionIndex === q._questionIndex));
-                applyFilterAndRender();
-                showToast('已从错题本移除');
-                updateWrongCount();
             });
         });
 
         updateStatsDisplay();
     }
 
-    // Clear all wrong questions
+    function applyFilterAndRender() {
+        const filterVal = document.getElementById('chapterFilter').value;
+        let filtered = allQuestions;
+        if (filterVal !== 'all') {
+            filtered = allQuestions.filter(q => q._sourceFile.split('/').pop().replace('.json','') === filterVal);
+        }
+        if (document.getElementById('randomizeCheck').checked) {
+            for (let i = filtered.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
+            }
+        }
+        currentQuestions = filtered;
+        userAnswers = new Array(filtered.length).fill(null);
+        answerChecked = new Array(filtered.length).fill(false);
+        for (let i = 0; i < filtered.length; i++) {
+            const q = filtered[i];
+            if (q.type === '1') userAnswers[i] = [];
+            if (q.type === '3') userAnswers[i] = '';
+        }
+        renderQuiz();
+        updateWrongCount();
+    }
+
+    async function loadAllData() {
+        if (typeof syncWrongQuestions === 'function') {
+            try { await syncWrongQuestions(); } catch(e) { console.warn(e); }
+        }
+        const refs = getWrongLocal();
+        const fileMap = new Map();
+        for (const ref of refs) {
+            if (!fileMap.has(ref.filePath)) fileMap.set(ref.filePath, []);
+            fileMap.get(ref.filePath).push(ref.questionIndex);
+        }
+        const fetchPromises = [];
+        for (const [fp, indices] of fileMap.entries()) {
+            fetchPromises.push(
+                fetch(fp).then(res => res.json()).then(data => ({ filePath: fp, data }))
+                .catch(err => ({ filePath: fp, error: true }))
+            );
+        }
+        const results = await Promise.all(fetchPromises);
+        const parseQuestions = (jsonObj) => {
+            try {
+                let arr = null;
+                if (jsonObj.data?.record?.extJson?.studentQuestionArray) arr = jsonObj.data.record.extJson.studentQuestionArray;
+                else if (jsonObj.record?.extJson?.studentQuestionArray) arr = jsonObj.record.extJson.studentQuestionArray;
+                else if (jsonObj.extJson?.studentQuestionArray) arr = jsonObj.extJson.studentQuestionArray;
+                else if (jsonObj.studentQuestionArray) arr = jsonObj.studentQuestionArray;
+                return arr;
+            } catch(e) { return null; }
+        };
+        allQuestions = [];
+        for (const res of results) {
+            if (res.error) continue;
+            const questions = parseQuestions(res.data);
+            if (!questions) continue;
+            const indices = fileMap.get(res.filePath);
+            for (const idx of indices) {
+                if (idx >= 0 && idx < questions.length) {
+                    const q = questions[idx];
+                    q._sourceFile = res.filePath;
+                    q._questionIndex = idx;
+                    allQuestions.push(q);
+                }
+            }
+        }
+        const chapterSet = new Set();
+        allQuestions.forEach(q => {
+            const name = q._sourceFile.split('/').pop().replace('.json','');
+            chapterSet.add(name);
+        });
+        const select = document.getElementById('chapterFilter');
+        select.innerHTML = '<option value="all">全部</option>';
+        for (const name of Array.from(chapterSet).sort()) {
+            const opt = document.createElement('option');
+            opt.value = name;
+            opt.textContent = name;
+            select.appendChild(opt);
+        }
+        applyFilterAndRender();
+    }
+
     function clearAllWrong() {
         if (confirm('⚠️ 确定要清空所有错题吗？此操作不可撤销。')) {
             setWrongLocal([]);
@@ -494,14 +539,13 @@
         }
     }
 
-    // Update FAB badge
     function updateWrongCount() {
         const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
         const badge = document.getElementById('wrongBadge');
         if (badge) badge.textContent = count;
     }
 
-    // ---------- User Lock and Sync ----------
+    // User lock and sync
     (function() {
         const userSelect = document.getElementById('userSelect');
         if (!userSelect) return;
@@ -525,18 +569,15 @@
             userSelect.disabled = true;
             userSelect.style.opacity = '0.7';
             userSelect.title = '用户已锁定 – 每台设备只能选择一个用户。';
-            // Reload data after user change
             loadAllData();
         });
     })();
 
-    // Event listeners
     document.getElementById('applyBtn').addEventListener('click', applyFilterAndRender);
     document.getElementById('clearAllWrongBtn').addEventListener('click', clearAllWrong);
     const fab = document.getElementById('wrongFab');
-    if (fab) fab.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; }); // reload same page
+    if (fab) fab.addEventListener('click', () => { window.location.href = 'wrong_practice.html'; });
 
-    // Initial load
     loadAllData();
 </script>
 </body>

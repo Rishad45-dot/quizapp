@@ -167,7 +167,7 @@
         .close-envelope { position: absolute; top: 12px; right: 16px; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; opacity: 0.7; }
         .close-envelope:hover { opacity: 1; }
         
-        /* Floating Wrong-Question Button (FAB) */
+        /* Floating Wrong-Question Button */
         .fab-wrong {
             position: fixed;
             bottom: max(20px, env(safe-area-inset-bottom));
@@ -923,7 +923,9 @@
                                 <div class="${correctClass}">✅ 正确答案： ${escapeHtml(correctPlain)}</div>
                                 <div class="${userAnswerClass}">📝 你的答案： ${escapeHtml(userAnswer) || '未填'}</div>
                                 <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
-                             </div>`;
+                                <!-- 加入错题本按钮 – 已添加 for fill-in questions -->
+                                <button class="btn-wrong-add" data-qidx="${idx}">➕ 加入错题本</button>
+                            </div>`;
                 }
             } else {
                 options.forEach((opt, optIdx) => {
@@ -953,7 +955,6 @@
                                 <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
                                 <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
                                 <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
-                                <!-- NEW: button to save to wrong question list -->
                                 <button class="btn-wrong-add" data-qidx="${idx}">➕ 加入错题本</button>
                             </div>`;
                 }
