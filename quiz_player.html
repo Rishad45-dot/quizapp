@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
     <title>医学词汇测验 · 云端同步</title>
-    <!-- Self‑hosted canvas-confetti -->
     <script src="confetti.browser.min.js"></script>
     <style>
-        /* ========== 所有原有样式，仅修改 envelope-card 背景色 ========== */
+        /* ========== All existing styles remain exactly the same ========== */
         * { box-sizing: border-box; }
         body { background-color: #f0f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; margin: 0; padding: 0; }
         .container { max-width: 1300px; margin: 0 auto; padding: 0 12px 20px 12px; }
@@ -22,9 +21,7 @@
             margin: 0 -12px 16px -12px;
             transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1.1);
         }
-        .header.compact {
-            padding: 4px 12px;
-        }
+        .header.compact { padding: 4px 12px; }
         .header-inner {
             max-width: 1300px;
             margin: 0 auto;
@@ -130,17 +127,7 @@
         .your-answer-correct { color: #2c7a4d; font-weight: 500; }
         .analysis { margin-top: 12px; color: #5a6874; background: #fff6e0; padding: 12px 16px; border-radius: 12px; white-space: pre-wrap; font-size: 0.85rem; }
         .btn-check { background-color: #2c7a4d; color: white; border: none; padding: 8px 20px; border-radius: 30px; font-size: 0.85rem; cursor: pointer; margin-top: 8px; }
-        .btn-wrong-add {
-            background: #ff9800;
-            color: white;
-            border: none;
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            margin-top: 8px;
-        }
-        .btn-wrong-add:hover { background: #e68900; }
+        /* btn-wrong-add style removed – no longer used */
         .status { display: inline-block; margin-left: 16px; font-size: 0.75rem; padding: 2px 10px; border-radius: 30px; background: #f0f2f5; }
         .status.answered { background: #e3f7ec; color: #2c7a4d; }
         .type3-input { width: 100%; padding: 10px 12px; font-size: 1rem; border: 1px solid #ccc; border-radius: 12px; margin-top: 4px; background: white; }
@@ -166,8 +153,7 @@
         .modal-btn:hover { transform: scale(1.02); filter: brightness(0.95); }
         .close-envelope { position: absolute; top: 12px; right: 16px; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; opacity: 0.7; }
         .close-envelope:hover { opacity: 1; }
-        
-        /* Floating Wrong-Question Button (FAB) */
+
         .fab-wrong {
             position: fixed;
             bottom: max(20px, env(safe-area-inset-bottom));
@@ -187,9 +173,7 @@
             border: none;
             font-size: clamp(24px, 5vw, 32px);
         }
-        .fab-wrong:active {
-            transform: scale(0.96);
-        }
+        .fab-wrong:active { transform: scale(0.96); }
         .fab-badge {
             position: absolute;
             top: -4px;
@@ -205,21 +189,9 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
         }
         @media (orientation: landscape) and (max-height: 500px) {
-            .fab-wrong {
-                width: 48px;
-                height: 48px;
-                font-size: 24px;
-                bottom: 12px;
-                right: 12px;
-            }
-            .fab-badge {
-                font-size: 10px;
-                padding: 1px 5px;
-                min-width: 20px;
-            }
+            .fab-wrong { width: 48px; height: 48px; font-size: 24px; bottom: 12px; right: 12px; }
+            .fab-badge { font-size: 10px; padding: 1px 5px; min-width: 20px; }
         }
-        
-        /* Mobile compact header: hide stats-summary and daily-stats, show compact-stats */
         @media (max-width: 768px) {
             .header.compact .stats-summary,
             .header.compact .daily-stats {
@@ -341,42 +313,34 @@
     </div>
 </div>
 
-<!-- Floating Wrong-Question Button -->
 <div id="wrongFab" class="fab-wrong">
     📝
     <span id="wrongBadge" class="fab-badge">0</span>
 </div>
 
 <script>
-    // ==================== 每日练习计数器 ====================
     const DAILY_STORAGE_KEY = 'quiz_daily_history';
-    
     function getTodayDate() {
         const now = new Date();
         return `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
     }
-    
     function getYesterdayDate() {
         const yesterday = new Date();
         yesterday.setDate(yesterday.getDate() - 1);
         return `${yesterday.getFullYear()}-${String(yesterday.getMonth()+1).padStart(2,'0')}-${String(yesterday.getDate()).padStart(2,'0')}`;
     }
-    
     function loadDailyHistory() {
         return JSON.parse(localStorage.getItem(DAILY_STORAGE_KEY) || '{}');
     }
-    
     function getTodayStats(history) {
         const today = getTodayDate();
         if (!history[today]) history[today] = { count: 0, practicedIds: [] };
         return history[today];
     }
-    
     function getYesterdayCount(history) {
         const yesterday = getYesterdayDate();
         return history[yesterday] ? history[yesterday].count : 0;
     }
-    
     function updateDailyDisplay() {
         const history = loadDailyHistory();
         const todayCount = getTodayStats(history).count;
@@ -395,7 +359,6 @@
             compactDiv.innerHTML = compactText;
         }
     }
-    
     function recordPractice(questionId) {
         if (!questionId) return;
         const history = loadDailyHistory();
@@ -407,15 +370,13 @@
         }
         updateDailyDisplay();
     }
-    
-    // ==================== HTML 处理工具 ====================
+
     function renderHtml(html) {
         if (!html) return '';
         const div = document.createElement('div');
         div.innerHTML = html;
         return div.innerHTML;
     }
-    
     function escapeHtml(str) {
         if (!str) return '';
         return str.replace(/[&<>]/g, function(m) {
@@ -425,14 +386,12 @@
             return m;
         });
     }
-    
     function extractPlainText(html) {
         if (!html) return '';
         const div = document.createElement('div');
         div.innerHTML = html;
         return div.textContent || div.innerText || '';
     }
-    
     function compareAnswer(userInput, correctAnswerPlain) {
         if (!userInput || userInput.trim() === "") return false;
         const trimmedUser = userInput.trim();
@@ -444,7 +403,6 @@
         }
         return trimmedUser.toLowerCase() === trimmedCorrect.toLowerCase();
     }
-    
     function showToast(message, duration = 2000) {
         let toast = document.getElementById('toastMessage');
         if (!toast) {
@@ -458,7 +416,6 @@
         toast.classList.add('show');
         setTimeout(() => toast.classList.remove('show'), duration);
     }
-    
     function parseJsonContent(jsonObj) {
         try {
             let arr = null;
@@ -469,12 +426,10 @@
             return arr;
         } catch(e) { return null; }
     }
-    
     function getSourceFromPath(p) {
         for (const src of ["Saunders","Uworld","医学术语","患者需求"]) if (p.includes(src)) return src;
         return "";
     }
-    
     function getDifficultyLabel(d) {
         if (!d) return "通用";
         if (d.includes("Analyzing")) return "分析 (Analyzing)";
@@ -484,8 +439,6 @@
         if (d.includes("中级")) return "中级";
         return d.split('-').pop() || d;
     }
-    
-    // ========== 修复后的 toRelativePath ==========
     function toRelativePath(absolutePath) {
         const knownFolders = ["ChapterPractice", "Saunders", "Uworld", "医学术语", "患者需求"];
         const parts = absolutePath.split(/[\\/]/);
@@ -496,7 +449,7 @@
         }
         return parts[parts.length - 1];
     }
-    
+
     let fullQuestions = [];
     let currentQuestions = [];
     let fullUserAnswers = [];
@@ -505,7 +458,7 @@
     let currentAnswerStatus = [];
     let currentFilePath = "";
     let initialAutoScrollDone = false;
-    
+
     function getSavedKey() { return `saved_questions_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function loadSavedQuestionIds() {
         const saved = localStorage.getItem(getSavedKey());
@@ -537,12 +490,12 @@
         if (onlySaved) applyFilters();
         else renderQuiz();
     }
-    
+
     function getStorageKey() { return `quiz_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getFullProgressKey() { return `full_progress_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getCompletionKey() { return `quiz_completed_${currentFilePath.replace(/[\\/]/g, '_')}`; }
     function getStatsKey() { return `quiz_stats_${currentFilePath.replace(/[\\/]/g, '_')}`; }
-    
+
     function isQuestionCorrect(q, userAns, isChecked) {
         if (!isChecked) return false;
         const type = q.type;
@@ -567,7 +520,7 @@
             return correctIds.length === 1 && correctIds[0] === selectedId;
         }
     }
-    
+
     function saveChapterStats() {
         let total = 0, correct = 0;
         for (let i = 0; i < fullQuestions.length; i++) {
@@ -584,7 +537,7 @@
         const chapterStats = { correct, total, accuracy };
         localStorage.setItem(getStatsKey(), JSON.stringify(chapterStats));
     }
-    
+
     function saveAllProgress() {
         if (!currentFilePath || !fullQuestions.length) return;
         const fullData = { fullUserAnswers, fullAnswerStatus };
@@ -592,7 +545,6 @@
         const indices = currentQuestions.map(q => fullQuestions.indexOf(q));
         const viewData = { userAnswers: currentUserAnswers, answerStatus: currentAnswerStatus, currentQuestionsIndices: indices };
         localStorage.setItem(getStorageKey(), JSON.stringify(viewData));
-        
         let allCompleted = true;
         for (let i = 0; i < fullQuestions.length; i++) {
             const q = fullQuestions[i];
@@ -615,7 +567,7 @@
         }
         updateCompletionUI();
     }
-    
+
     function loadFullProgress() {
         const savedFull = localStorage.getItem(getFullProgressKey());
         if (savedFull) {
@@ -640,7 +592,7 @@
         }
         return false;
     }
-    
+
     function syncCurrentFromFull() {
         currentUserAnswers = new Array(currentQuestions.length).fill(null);
         currentAnswerStatus = new Array(currentQuestions.length).fill(false);
@@ -665,7 +617,7 @@
             }
         }
     }
-    
+
     function syncFullFromCurrent() {
         for (let i = 0; i < currentQuestions.length; i++) {
             const idxInFull = fullQuestions.indexOf(currentQuestions[i]);
@@ -682,7 +634,7 @@
         }
         saveAllProgress();
     }
-    
+
     function updateCompletionUI() {
         const completed = localStorage.getItem(getCompletionKey()) === 'true';
         const badge = document.getElementById('completionBadge');
@@ -702,7 +654,7 @@
             badge.style.display = 'none';
         }
     }
-    
+
     function computeFullStatistics() {
         let total = 0, answered = 0, correct = 0, incorrect = 0;
         for (let i = 0; i < fullQuestions.length; i++) {
@@ -729,7 +681,7 @@
         const rate = total === 0 ? 0 : (correct/total)*100;
         return { total, answered, correct, incorrect, unanswered, rate };
     }
-    
+
     function updateStatsDisplay() {
         const stats = computeFullStatistics();
         document.getElementById('totalCount').innerText = stats.total;
@@ -743,7 +695,7 @@
             compactStatsDiv.innerHTML = `📋 ${stats.total}  ✏️ ${stats.answered}  ✅ ${stats.correct}  ❌ ${stats.incorrect}  ⏳ ${stats.unanswered}`;
         }
     }
-    
+
     function scrollToFirstUnanswered() {
         if (!currentQuestions.length) return;
         let targetIndex = -1;
@@ -770,7 +722,7 @@
         targetCard.classList.add('flash-question');
         setTimeout(() => targetCard.classList.remove('flash-question'), 2500);
     }
-    
+
     function showAllQuestions() {
         if (!fullQuestions.length) return;
         currentQuestions = [...fullQuestions];
@@ -778,7 +730,7 @@
         renderQuiz();
         showToast('📋 已显示全部题目', 1500);
     }
-    
+
     function filterToIncorrect() {
         if (!fullQuestions.length) return;
         const incorrectIndices = [];
@@ -807,14 +759,14 @@
         document.getElementById('envelopeModal').style.display = 'none';
         showToast(`🔍 已筛选 ${incorrectIndices.length} 道错题`, 2000);
     }
-    
+
     function practiceAgain() {
         if (!fullQuestions.length) return;
         resetProgress();
         document.getElementById('envelopeModal').style.display = 'none';
         showToast('🔄 已重置，开始新的练习', 1500);
     }
-    
+
     function getEncouragementMessage(percent) {
         if (percent < 30) {
             return "💪 别气馁！\n千里之行，始于足下。\n再练一次，定能进步！";
@@ -830,7 +782,7 @@
             return "🏆 完美！学神降临！\n本章已完全掌握，太厉害了！";
         }
     }
-    
+
     function triggerCelebration(percent) {
         if (percent > 65) {
             confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 }, startVelocity: 15, colors: ['#FFD700', '#FF4500', '#1E90FF', '#FF69B4'] });
@@ -842,8 +794,7 @@
             }, 150);
         }
     }
-    
-    // NEW: Add wrong question function (enhanced to update badge)
+
     function addWrongQuestion(filePath, questionIndex) {
         if (typeof getWrongLocal === 'undefined') {
             showToast('错题功能未加载', 1500);
@@ -852,21 +803,21 @@
         const arr = getWrongLocal();
         const exists = arr.some(item => item.filePath === filePath && item.questionIndex === questionIndex);
         if (exists) {
-            showToast('已在错题本中', 1000);
+            // Already in wrong list, do nothing
             return;
         }
         arr.push({ filePath, questionIndex, timestamp: Date.now(), deleted: false });
         setWrongLocal(arr);
         if (typeof syncWrongQuestions === 'function') syncWrongQuestions();
-        showToast('已加入错题本', 1000);
-        // Update the floating badge
+        // Show a subtle toast to inform user that question was added
+        showToast('❌ 已加入错题本', 1200);
         if (typeof updateWrongCount === 'function') updateWrongCount();
         else {
             const badge = document.getElementById('wrongBadge');
             if (badge) badge.textContent = getWrongLocal().length;
         }
     }
-    
+
     function renderQuiz() {
         const container = document.getElementById('quizContainer');
         if (!currentQuestions.length) {
@@ -923,8 +874,6 @@
                                 <div class="${correctClass}">✅ 正确答案： ${escapeHtml(correctPlain)}</div>
                                 <div class="${userAnswerClass}">📝 你的答案： ${escapeHtml(userAnswer) || '未填'}</div>
                                 <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
-                                <!-- 加入错题本按钮 – 已添加 for fill-in questions -->
-                                <button class="btn-wrong-add" data-qidx="${idx}">➕ 加入错题本</button>
                             </div>`;
                 }
             } else {
@@ -955,7 +904,6 @@
                                 <div class="${correctClass}">✅ 正确答案： ${correctText}</div>
                                 <div class="${userAnswerClass}">📝 你的答案： ${userText}</div>
                                 <div class="analysis">📖 解析： ${renderHtml(q.textAnalysis || '无解析')}</div>
-                                <button class="btn-wrong-add" data-qidx="${idx}">➕ 加入错题本</button>
                             </div>`;
                 }
             }
@@ -971,15 +919,7 @@
             });
         });
         
-        // attach listeners for wrong-add buttons
-        document.querySelectorAll('.btn-wrong-add').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                const qidx = parseInt(btn.getAttribute('data-qidx'));
-                const q = currentQuestions[qidx];
-                const idxInFull = fullQuestions.indexOf(q);
-                addWrongQuestion(currentFilePath, idxInFull);
-            });
-        });
+        // No btn-wrong-add listeners needed anymore – removed completely
         
         document.querySelectorAll('.type3-input').forEach(input => {
             const idx = parseInt(input.dataset.idx);
@@ -1008,6 +948,11 @@
                         const correctHtml = correctAnswerObj ? correctAnswerObj.content : '';
                         const correctPlain = extractPlainText(correctHtml);
                         const isCorrect = compareAnswer(userAnswer, correctPlain);
+                        // Auto-add to wrong list if incorrect and first time
+                        if (!isCorrect) {
+                            const idxInFull = fullQuestions.indexOf(q);
+                            addWrongQuestion(currentFilePath, idxInFull);
+                        }
                         currentAnswerStatus[idx] = true;
                         if (isCorrect) recordPractice(q.id);
                         syncFullFromCurrent();
@@ -1016,6 +961,13 @@
                     return;
                 }
                 if (!currentAnswerStatus[idx]) {
+                    // Determine correctness before marking as checked
+                    const isCorrect = isQuestionCorrect(q, currentUserAnswers[idx], true);
+                    // Auto-add to wrong list if incorrect and first time
+                    if (!isCorrect) {
+                        const idxInFull = fullQuestions.indexOf(q);
+                        addWrongQuestion(currentFilePath, idxInFull);
+                    }
                     currentAnswerStatus[idx] = true;
                     recordPractice(currentQuestions[idx].id);
                     syncFullFromCurrent();
@@ -1059,6 +1011,11 @@
                             renderQuiz();
                         } else {
                             currentUserAnswers[idx] = inp.value;
+                            // For single choice, this is the first check – auto-add if incorrect
+                            const isCorrect = isQuestionCorrect(q, currentUserAnswers[idx], true);
+                            if (!isCorrect) {
+                                addWrongQuestion(currentFilePath, idxInFull);
+                            }
                             currentAnswerStatus[idx] = true;
                             recordPractice(q.id);
                             syncFullFromCurrent();
@@ -1243,10 +1200,8 @@
 
 <script src="pako.min.js"></script>
 <script src="sync.js"></script>
-<!-- NEW: wrong question sync -->
 <script src="wrong_sync.js"></script>
 <script>
-    // ---------- Lockable User Selector ----------
     (function() {
         const userSelect = document.getElementById('userSelect');
         if (!userSelect) return;
@@ -1293,7 +1248,6 @@
         }
     };
     
-    // Wrong Question FAB Badge Update
     function updateWrongCount() {
         const count = (typeof getWrongLocal === 'function') ? getWrongLocal().length : 0;
         const badge = document.getElementById('wrongBadge');
@@ -1314,7 +1268,6 @@
         });
     }
     
-    // Sync wrong questions on page activation
     function onPageActivated() {
         if (localStorage.getItem('quiz_user_id')) {
             if (typeof syncNow === 'function') syncNow();
