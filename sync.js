@@ -1,5 +1,5 @@
 // sync.js – cross‑device progress sync via Tencent COS (two users)
-const BUCKET_API = 'https://quiz-app-bucket-1428146716.cos.ap-hongkong.myqcloud.com';
+const BUCKET_API = 'Tencent Cloud Bucket to use here';
 const SYNC_FOLDER = 'sync';
 
 // localStorage key prefixes
